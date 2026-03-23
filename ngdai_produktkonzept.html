@@ -1,0 +1,1489 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ngdai &mdash; Produktkonzept</title>
+<style>
+  @page { size: A4; margin: 2cm; }
+  @media print {
+    body { font-size: 9.5pt; }
+    .page-break { page-break-before: always; }
+    .no-print { display: none; }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', Calibri, Arial, sans-serif;
+    color: #222;
+    line-height: 1.7;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 30px;
+    background: #fff;
+  }
+
+  /* TITLE PAGE */
+  .title-page {
+    text-align: center;
+    padding: 100px 0 60px;
+    border-bottom: 3px solid #004c8c;
+    margin-bottom: 40px;
+  }
+  .title-page h1 { font-size: 52px; color: #003366; margin-bottom: 10px; letter-spacing: 3px; }
+  .title-page .subtitle { font-size: 24px; color: #555; margin-bottom: 5px; }
+  .title-page .desc { font-size: 16px; color: #777; margin-bottom: 30px; line-height: 1.8; }
+  .title-page .meta { font-size: 13px; color: #999; line-height: 2.2; }
+
+  /* HEADINGS */
+  h2 {
+    font-size: 24px; color: #003366; margin: 55px 0 18px;
+    padding-bottom: 8px; border-bottom: 2px solid #004c8c;
+  }
+  h3 { font-size: 18px; color: #004c8c; margin: 35px 0 12px; }
+  h4 { font-size: 15px; color: #333; margin: 22px 0 10px; }
+
+  /* TEXT */
+  p { margin: 10px 0; font-size: 14px; }
+  .intro { font-size: 15px; line-height: 1.8; margin-bottom: 16px; }
+  .highlight {
+    background: #f0f5fa; border-left: 4px solid #004c8c;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+  .highlight strong { color: #003366; }
+  .warning {
+    background: #fef3f3; border-left: 4px solid #c62828;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+  .warning strong { color: #c62828; }
+  .note {
+    background: #fff8e1; border-left: 4px solid #f9a825;
+    padding: 12px 16px; margin: 14px 0; font-size: 13px; line-height: 1.7;
+  }
+  .success {
+    background: #e8f5e9; border-left: 4px solid #2e7d32;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+
+  /* TABLES */
+  table { width: 100%; border-collapse: collapse; margin: 14px 0 22px; font-size: 13px; }
+  th {
+    background: #004c8c; color: #fff; padding: 10px 12px;
+    text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px;
+  }
+  td { padding: 9px 12px; border-bottom: 1px solid #ddd; vertical-align: top; line-height: 1.6; }
+  tr:nth-child(even) { background: #f5f8fc; }
+  tr:hover { background: #e8f0f8; }
+
+  /* LISTS */
+  ul, ol { margin: 10px 0 10px 26px; font-size: 14px; line-height: 1.8; }
+  li { margin: 5px 0; }
+
+  /* FLOW */
+  .flow-step {
+    display: flex; align-items: flex-start; margin: 8px 0;
+    font-size: 14px; line-height: 1.6;
+  }
+  .flow-num {
+    background: #004c8c; color: #fff; border-radius: 50%;
+    min-width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 700; margin-right: 14px; margin-top: 2px; flex-shrink: 0;
+  }
+  .flow-arrow { text-align: center; color: #004c8c; font-size: 18px; margin: 2px 0 2px 8px; }
+
+  /* TOC */
+  .toc {
+    background: #f8f9fb; border: 1px solid #e0e4ea; border-radius: 8px;
+    padding: 24px 32px; margin: 35px 0;
+  }
+  .toc h3 { margin-top: 0; font-size: 18px; }
+  .toc ol { font-size: 14px; line-height: 2; }
+  .toc a { color: #004c8c; text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+
+  /* RISK COLORS */
+  .risk-high { color: #c62828; font-weight: 600; }
+  .risk-medium { color: #ef6c00; font-weight: 600; }
+  .risk-low { color: #2e7d32; font-weight: 600; }
+
+  /* BADGE */
+  .badge {
+    display: inline-block; padding: 2px 8px; border-radius: 4px;
+    font-size: 11px; font-weight: 600; text-transform: uppercase;
+  }
+  .badge-green { background: #e8f5e9; color: #2e7d32; }
+  .badge-yellow { background: #fff8e1; color: #ef6c00; }
+  .badge-red { background: #fef3f3; color: #c62828; }
+  .badge-blue { background: #e3f2fd; color: #1565c0; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- TITLE PAGE -->
+<!-- ============================================================ -->
+<div class="title-page">
+  <h1>ngdai</h1>
+  <div class="subtitle">Produktkonzept</div>
+  <div class="desc">
+    Wissensbasierte Analyseplattform<br>
+    f&uuml;r die deutsche Netzentgeltregulierung<br>
+    <strong>Strom &amp; Gas</strong>
+  </div>
+  <hr style="width:200px;margin:30px auto;border:none;border-top:2px solid #004c8c;">
+  <div class="meta">
+    Status: Greenfield / Konzeptphase<br>
+    Stand: M&auml;rz 2026<br>
+    Version: 1.0
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TOC -->
+<!-- ============================================================ -->
+<div class="toc">
+  <h3>Inhaltsverzeichnis</h3>
+  <ol>
+    <li><a href="#vision">Produktvision</a></li>
+    <li><a href="#domaene">Dom&auml;nenmodell &amp; regulatorischer Kontext</a></li>
+    <li><a href="#architektur">Architektur &mdash; 3-Schichten-Modell</a></li>
+    <li><a href="#anti-halluzination">Anti-Halluzinations-Strategie</a></li>
+    <li><a href="#taxonomien">Taxonomien</a></li>
+    <li><a href="#features">Features &mdash; Detailspezifikation (F1&ndash;F11)</a></li>
+    <li><a href="#backoffice">Backoffice- vs. Runtime-Verarbeitung</a></li>
+    <li><a href="#marktakteure">Marktakteure &mdash; Default Legal Entities (872 Strom / 758 Gas)</a></li>
+    <li><a href="#festlegungen">Festlegungen &amp; Datendefinitionen der BNetzA</a></li>
+    <li><a href="#fluss">Informationsfluss (End-to-End)</a></li>
+    <li><a href="#phasen">Umsetzungsphasen</a></li>
+    <li><a href="#tech">Technologie-Empfehlungen</a></li>
+    <li><a href="#fragen">Offene Designfragen</a></li>
+    <li><a href="#risiken">Risiken &amp; Mitigationen</a></li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<!-- 1. VISION -->
+<!-- ============================================================ -->
+<h2 id="vision">1. Produktvision</h2>
+
+<p class="intro">
+  In der deutschen Netzentgeltregulierung fallen bei Netzbetreibern, Regulierungsbeh&ouml;rden und Beratungsunternehmen
+  enorme Mengen an Dokumenten an: Beschl&uuml;sse der Bundesnetzagentur, Gesch&auml;ftsberichte, Gerichtsurteile,
+  Preisbl&auml;tter und gesetzlich vorgeschriebene Ver&ouml;ffentlichungen. Diese Dokumente enthalten wertvolle
+  Datenpunkte &mdash; doch sie liegen unstrukturiert in PDFs, Excel-Dateien und auf Webseiten verstreut. Zusammenh&auml;nge
+  zwischen Dokumenten, Trends &uuml;ber Regulierungsperioden hinweg und Inkonsistenzen zwischen verschiedenen Quellen
+  bleiben bei manueller Analyse oft verborgen.
+</p>
+
+<p class="intro">
+  <strong>ngdai</strong> l&ouml;st dieses Problem. Die Plattform extrahiert automatisch strukturierte Fakten aus
+  regulatorischen Dokumenten, vernetzt diese in einem Knowledge Graph und erm&ouml;glicht datei- und
+  verzeichnis&uuml;bergreifende Abfragen, Trendanalysen und Hypothesenbildung &mdash; immer mit transparenter
+  Angabe, wie verl&auml;sslich eine Aussage ist.
+</p>
+
+<div class="highlight">
+  <strong>Kern-Wertversprechen:</strong> Vom unstrukturierten Dokumentenstapel zur belastbaren, quantifizierbaren
+  Regulierungsanalyse &mdash; mit nachvollziehbarer Herkunft jedes einzelnen Datenpunkts.
+</div>
+
+<p>Die Plattform deckt beide Sparten ab: <strong>Strom</strong> und <strong>Gas</strong>. Sie ist darauf ausgelegt,
+von wenigen Dutzend Dokumenten auf Tausende zu skalieren, und unterst&uuml;tzt alle g&auml;ngigen Quellformate
+(PDF, Excel, HTML, Textdateien).</p>
+
+<div class="note">
+  <strong>Hinweis:</strong> Die aktuellen Textdateien in den Projektverzeichnissen dienen ausschlie&szlig;lich als
+  Orientierung und Referenzmaterial. Die finale Datenbasis wird aus verschiedenen Formaten bestehen und
+  kontinuierlich wachsen.
+</div>
+
+<!-- ============================================================ -->
+<!-- 2. DOM&Auml;NENMODELL -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="domaene">2. Dom&auml;nenmodell &amp; regulatorischer Kontext</h2>
+
+<p class="intro">
+  Um die Funktionsweise von ngdai zu verstehen, ist ein grundlegendes Verst&auml;ndnis der deutschen
+  Netzentgeltregulierung erforderlich. Dieser Abschnitt beschreibt die wichtigsten Konzepte, Institutionen
+  und Datenstrukturen, auf denen die Plattform aufbaut.
+</p>
+
+<h3>2.1 Die Bundesnetzagentur und ihre Beschlusskammern</h3>
+
+<p>
+  Die <strong>Bundesnetzagentur (BNetzA)</strong> ist die zentrale Regulierungsbeh&ouml;rde f&uuml;r Netze in
+  Deutschland. Sie reguliert die Bereiche Elektrizit&auml;t, Gas, Telekommunikation, Post und Eisenbahn.
+  F&uuml;r die Netzentgeltregulierung sind vor allem die folgenden <strong>Beschlusskammern</strong> relevant:
+</p>
+
+<table>
+  <tr><th>Kammer</th><th>Zust&auml;ndigkeit</th><th>Relevanz f&uuml;r ngdai</th></tr>
+  <tr>
+    <td><strong>Gro&szlig;e Beschlusskammer Energie (GBK)</strong></td>
+    <td>Bundesweit geltende Festlegungen f&uuml;r Netzzugang und Entgeltermittlung</td>
+    <td><span class="badge badge-blue">Hoch</span> &mdash; Grundsatzentscheidungen die alle Netzbetreiber betreffen</td>
+  </tr>
+  <tr>
+    <td><strong>BK 4</strong></td>
+    <td>Eigenkapitalzinss&auml;tze, Investitionsma&szlig;nahmen, Produktivit&auml;tsfaktor (Xgen), Sonderformen der Netznutzung</td>
+    <td><span class="badge badge-blue">Hoch</span> &mdash; Legt periodenfix-Parameter fest (EK-Zins, Xgen)</td>
+  </tr>
+  <tr>
+    <td><strong>BK 6</strong></td>
+    <td>Regulierung des Zugangs zu Elektrizit&auml;tsversorgungsnetzen</td>
+    <td><span class="badge badge-yellow">Mittel</span> &mdash; Netzzugangsregeln</td>
+  </tr>
+  <tr>
+    <td><strong>BK 7</strong></td>
+    <td>Regulierung Gasnetze und Wasserstoffnetze (Zugang)</td>
+    <td><span class="badge badge-yellow">Mittel</span> &mdash; Gas-Netzzugang</td>
+  </tr>
+  <tr>
+    <td><strong>BK 8</strong></td>
+    <td><strong>Regulierung der Netzentgelte Strom</strong> &mdash; Festlegung der Erl&ouml;sobergrenzen f&uuml;r Stromnetzbetreiber</td>
+    <td><span class="badge badge-red">Kern</span> &mdash; Prim&auml;re Datenquelle f&uuml;r Strom-EOG-Beschl&uuml;sse</td>
+  </tr>
+  <tr>
+    <td><strong>BK 9</strong></td>
+    <td><strong>Regulierung der Entgelte f&uuml;r Gasnetze, Wasserstoffnetze und LNG-Anlagen</strong></td>
+    <td><span class="badge badge-red">Kern</span> &mdash; Prim&auml;re Datenquelle f&uuml;r Gas-EOG-Beschl&uuml;sse</td>
+  </tr>
+  <tr>
+    <td><strong>BK 10</strong></td>
+    <td>Eisenbahnregulierung</td>
+    <td><span class="badge badge-green">Gering</span> &mdash; Nicht im Scope</td>
+  </tr>
+</table>
+
+<div class="highlight">
+  <strong>Wichtig:</strong> BK 8 ist f&uuml;r <strong>Strom</strong> zust&auml;ndig, BK 9 f&uuml;r <strong>Gas</strong>.
+  Die BNetzA betreibt eine &ouml;ffentliche <strong>Beschlussdatenbank</strong>, &uuml;ber die Beschl&uuml;sse aller
+  Kammern recherchierbar sind. Diese Datenbank ist eine potenzielle Quelle f&uuml;r den automatischen Datenimport
+  (Crawler in Phase 4).
+</div>
+
+<h3>2.2 Regulierungsperioden</h3>
+
+<p>
+  Die Anreizregulierung in Deutschland funktioniert in <strong>Regulierungsperioden</strong> von jeweils f&uuml;nf Jahren.
+  Zu Beginn jeder Periode werden zentrale Parameter festgelegt (Effizienzwert, Eigenkapitalzinss&auml;tze,
+  Produktivit&auml;tsfaktor), die dann f&uuml;r die gesamte Periode gelten. Innerhalb der Periode werden die
+  Erl&ouml;sobergrenzen j&auml;hrlich nach einer festen Formel angepasst.
+</p>
+
+<p><strong>Wichtig:</strong> Strom und Gas haben <em>unterschiedliche</em> Perioden-Zeitr&auml;ume:</p>
+
+<table>
+  <tr><th>Sparte</th><th>3. Regulierungsperiode</th><th>4. Regulierungsperiode</th><th>Beschlusskammer</th></tr>
+  <tr><td><strong>Strom</strong></td><td>2019 &ndash; 2023</td><td>2024 &ndash; 2028</td><td>BK 8</td></tr>
+  <tr><td><strong>Gas</strong></td><td>2018 &ndash; 2022</td><td>2023 &ndash; 2027</td><td>BK 9</td></tr>
+</table>
+
+<p>
+  Diese Unterscheidung ist f&uuml;r ngdai essenziell: Ein Datenpunkt, der sich beim &Uuml;bergang von der
+  3. zur 4. Regulierungsperiode &auml;ndert, ist kein Widerspruch, sondern ein erwartbarer Perioden&uuml;bergang.
+  Das System muss diesen Kontext kennen, um Fehlalarme bei der Inkonsistenz-Detektion zu vermeiden.
+</p>
+
+<h3>2.3 Dokumenttypen</h3>
+
+<p>ngdai verarbeitet die folgenden Dokumenttypen aus dem Bereich der Netzentgeltregulierung:</p>
+
+<table>
+  <tr><th>Dokumenttyp</th><th>Beschreibung</th><th>Typische Quelle</th><th>Verl&auml;sslichkeit</th></tr>
+  <tr>
+    <td><strong>EOG-Beschl&uuml;sse</strong></td>
+    <td>Festlegung der kalenderjahresbezogenen Erl&ouml;sobergrenzen f&uuml;r einzelne Netzbetreiber. Enthalten Effizienzwerte, Kostenanteile, j&auml;hrliche EOG-Werte und Begr&uuml;ndungen.</td>
+    <td>BNetzA (BK 8 / BK 9)</td>
+    <td><span class="badge badge-blue">Sehr hoch</span> &mdash; amtliche Beschl&uuml;sse</td>
+  </tr>
+  <tr>
+    <td><strong>KKauf-Beschl&uuml;sse</strong></td>
+    <td>Beschl&uuml;sse zum Kapitalkostenaufschlag gem&auml;&szlig; &sect;10a ARegV. Enthalten j&auml;hrliche Aufschl&auml;ge auf die EOG.</td>
+    <td>BNetzA</td>
+    <td><span class="badge badge-blue">Sehr hoch</span></td>
+  </tr>
+  <tr>
+    <td><strong>RegKonto-Beschl&uuml;sse</strong></td>
+    <td>Regulierungskonto-Beschl&uuml;sse. Erfassen die Differenz zwischen erlaubten und tats&auml;chlich erzielten Erl&ouml;sen.</td>
+    <td>BNetzA</td>
+    <td><span class="badge badge-blue">Sehr hoch</span></td>
+  </tr>
+  <tr>
+    <td><strong>Gesch&auml;ftsberichte</strong></td>
+    <td>Jahresberichte der Stadtwerke und Netzbetreiber. Enthalten Umsatzzahlen, Investitionen, Mitarbeiterzahlen, strategische Aussagen.</td>
+    <td>Unternehmen selbst</td>
+    <td><span class="badge badge-yellow">Mittel</span> &mdash; Eigenaussagen, gepr&uuml;ft durch Wirtschaftspr&uuml;fer</td>
+  </tr>
+  <tr>
+    <td><strong>Gerichtsurteile</strong></td>
+    <td>Entscheidungen der Oberlandesgerichte und des BGH zu Regulierungsfragen (Beschwerden gegen BNetzA-Beschl&uuml;sse).</td>
+    <td>OLG D&uuml;sseldorf, BGH</td>
+    <td><span class="badge badge-blue">Sehr hoch</span> &mdash; rechtskr&auml;ftige Urteile</td>
+  </tr>
+  <tr>
+    <td><strong>Preisbl&auml;tter</strong></td>
+    <td>Ver&ouml;ffentlichte Netzentgelte der Netzbetreiber gem&auml;&szlig; &sect;20 Abs. 1 EnWG.</td>
+    <td>Netzbetreiber</td>
+    <td><span class="badge badge-yellow">Mittel</span> &mdash; ver&ouml;ffentlicht aber nicht extern gepr&uuml;ft</td>
+  </tr>
+  <tr>
+    <td><strong>&sect;23b-Daten</strong></td>
+    <td>Kostenstruktur-Ver&ouml;ffentlichungen gem&auml;&szlig; &sect;23b ARegV. Aufschl&uuml;sselung der Kosten nach definierten Kategorien.</td>
+    <td>Netzbetreiber (Pflichtver&ouml;ffentlichung)</td>
+    <td><span class="badge badge-yellow">Mittel-Hoch</span></td>
+  </tr>
+  <tr>
+    <td><strong>&sect;23c-Daten</strong></td>
+    <td>Struktur- und Absatzdaten-Ver&ouml;ffentlichungen gem&auml;&szlig; &sect;23c ARegV. Netzstruktur, Entnahmestellen, Absatzmengen.</td>
+    <td>Netzbetreiber (Pflichtver&ouml;ffentlichung)</td>
+    <td><span class="badge badge-yellow">Mittel-Hoch</span></td>
+  </tr>
+</table>
+
+<h3>2.4 Kern-Entities</h3>
+
+<h4>Legal Entity (Netzbetreiber / Unternehmen)</h4>
+<p>
+  Eine Legal Entity repr&auml;sentiert einen Netzbetreiber oder ein Energieversorgungsunternehmen. Sie ist
+  die zentrale organisatorische Einheit, der Dokumente zugeordnet werden. Viele Netzbetreiber sind
+  Tochtergesellschaften gr&ouml;&szlig;erer Stadtwerke-Konzerne, daher bildet ngdai auch Konzernstrukturen ab.
+</p>
+
+<table>
+  <tr><th>Attribut</th><th>Beschreibung</th><th>Beispiel</th></tr>
+  <tr><td>BNR</td><td>Betreibernummer (vergeben durch BNetzA)</td><td>10000148</td></tr>
+  <tr><td>NNR</td><td>Netznummer</td><td>1</td></tr>
+  <tr><td>MaStR-Nr.</td><td>Marktstammdatenregister-Nummer</td><td>SNB123456789</td></tr>
+  <tr><td>Name</td><td>Firmenname</td><td>Stadtwerke Elmshorn</td></tr>
+  <tr><td>Sparten</td><td>Strom, Gas oder beides</td><td>Strom + Gas</td></tr>
+  <tr><td>Netzebenen</td><td>Betriebene Spannungsebenen</td><td>Ebene 5&ndash;7</td></tr>
+  <tr><td>Versorgungsgebiet</td><td>Einwohner, Entnahmestellen</td><td>52.000 EW, 28.000 Entnahmestellen</td></tr>
+  <tr><td>Regulierungsbeh&ouml;rde</td><td>BNetzA oder Landesregulierungsbeh&ouml;rde</td><td>BNetzA (f&uuml;r SH)</td></tr>
+  <tr><td>Verfahrensart</td><td>Regelverfahren oder vereinfachtes Verfahren</td><td>Regelverfahren</td></tr>
+  <tr><td>Konzernzugeh&ouml;rigkeit</td><td>Muttergesellschaft / &uuml;bergeordneter Konzern</td><td>Stadtwerke Elmshorn GmbH</td></tr>
+</table>
+
+<h4>Subject Matter (Fachthema)</h4>
+<p>
+  Ein Subject Matter ist ein fachliches Thema, das quer &uuml;ber alle Legal Entities analysiert werden kann.
+  W&auml;hrend eine Legal Entity die Frage &bdquo;Wer?&ldquo; beantwortet, beantwortet ein Subject Matter die Frage &bdquo;Was?&ldquo;.
+  Beide Dimensionen k&ouml;nnen frei kombiniert werden.
+</p>
+
+<table>
+  <tr><th>Attribut</th><th>Beschreibung</th><th>Beispiel</th></tr>
+  <tr><td>Name</td><td>Bezeichnung des Fachthemas</td><td>Pachtk&uuml;rzungen</td></tr>
+  <tr><td>Beschreibung</td><td>Ausf&uuml;hrliche Definition</td><td>K&uuml;rzungen der BNetzA bei angesetzten Pachtkosten im Rahmen der Kostenpr&uuml;fung</td></tr>
+  <tr><td>Rechtsgrundlagen</td><td>Einschl&auml;gige Paragraphen</td><td>&sect;6 Abs. 1 ARegV, &sect;4 Abs. 6 StromNEV</td></tr>
+  <tr><td>Keywords / Synonyme</td><td>Alternative Bezeichnungen f&uuml;r die Suche</td><td>Pacht, Pachtvertr&auml;ge, Netzpacht, Pachtminderung</td></tr>
+</table>
+
+<h3>2.5 Regulatorische Datenpunkte (Ontologie-Kern)</h3>
+
+<p>
+  Die Ontologie unterscheidet zwischen zwei Arten von Datenpunkten, die sich in ihrem zeitlichen Verhalten
+  grundlegend unterscheiden. Diese Unterscheidung ist f&uuml;r die Inkonsistenz-Erkennung essenziell:
+</p>
+
+<h4>Periodenfix &mdash; einmal pro Regulierungsperiode festgelegt, gelten f&uuml;r alle 5 Jahre</h4>
+<table>
+  <tr><th>Datenpunkt</th><th>Beschreibung</th><th>Einheit</th><th>Festgelegt durch</th></tr>
+  <tr><td>Effizienzwert</td><td>Ergebnis des Effizienzvergleichs (Benchmarking)</td><td>%</td><td>BK 8 / BK 9</td></tr>
+  <tr><td>Basisjahr</td><td>Kostenbasis-Jahr f&uuml;r die Periode</td><td>Jahr</td><td>ARegV</td></tr>
+  <tr><td>EK-Zinssatz Altanlagen</td><td>Eigenkapitalverzinsung f&uuml;r vor 2006 aktivierte Anlagen</td><td>%</td><td>BK 4</td></tr>
+  <tr><td>EK-Zinssatz Neuanlagen</td><td>Eigenkapitalverzinsung f&uuml;r nach 2006 aktivierte Anlagen</td><td>%</td><td>BK 4</td></tr>
+  <tr><td>Xgen</td><td>Genereller sektoraler Produktivit&auml;tsfaktor</td><td>%/Jahr</td><td>BK 4</td></tr>
+  <tr><td>Ausgangsniveau</td><td>Gesamtkosten im Basisjahr nach Kostenpr&uuml;fung</td><td>EUR</td><td>BK 8 / BK 9</td></tr>
+  <tr><td>Verfahrensart</td><td>Regelverfahren oder vereinfachtes Verfahren</td><td>&ndash;</td><td>ARegV</td></tr>
+</table>
+
+<h4>J&auml;hrlich variabel &mdash; &auml;ndert sich jedes Kalenderjahr innerhalb der Regulierungsperiode</h4>
+<table>
+  <tr><th>Datenpunkt</th><th>Beschreibung</th><th>Einheit</th><th>Anpassungsmechanismus</th></tr>
+  <tr><td>Erl&ouml;sobergrenze (EOG)</td><td>Maximal zul&auml;ssige Netzentgelte pro Jahr</td><td>EUR/Jahr</td><td>Formel aus ARegV &sect;4</td></tr>
+  <tr><td>dnb-Kosten</td><td>Dauerhaft nicht beeinflussbare Kostenanteile (&sect;11 Abs. 2 ARegV) &mdash; werden j&auml;hrlich neu berechnet</td><td>EUR</td><td>J&auml;hrliche Neuberechnung durch BK 8 / BK 9</td></tr>
+  <tr><td>Beeinflussbarer Kostenanteil</td><td>Kosten, die der Netzbetreiber beeinflussen kann</td><td>EUR</td><td>Effizienzfaktor + Xgen</td></tr>
+  <tr><td>Vnb-Anteil</td><td>Vor&uuml;bergehend nicht beeinflussbare Kosten</td><td>EUR</td><td>J&auml;hrliche Neuberechnung</td></tr>
+  <tr><td>Erweiterungsfaktor</td><td>Anpassung f&uuml;r Netzausbau</td><td>dimensionslos</td><td>Antrag des Netzbetreibers</td></tr>
+  <tr><td>Regulierungskonto-Saldo</td><td>Differenz erlaubte vs. tats&auml;chliche Erl&ouml;se</td><td>EUR</td><td>J&auml;hrliche Abrechnung</td></tr>
+  <tr><td>VPI-Anpassung</td><td>Inflationsbereinigung</td><td>%</td><td>Verbraucherpreisindex</td></tr>
+  <tr><td>Kapitalkostenaufschlag</td><td>Aufschlag nach &sect;10a ARegV (ab 4. RP)</td><td>EUR</td><td>J&auml;hrlicher Bescheid</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 3. ARCHITEKTUR -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="architektur">3. Architektur &mdash; 3-Schichten-Modell</h2>
+
+<p class="intro">
+  ngdai ist in drei aufeinander aufbauende Schichten gegliedert. Jede Schicht hat eine klar definierte
+  Aufgabe und kommuniziert &uuml;ber definierte Schnittstellen mit den anderen Schichten.
+</p>
+
+<table>
+  <tr><th>Schicht</th><th>Aufgabe</th><th>Technischer Ansatz</th></tr>
+  <tr>
+    <td><strong>1. Extraction Layer</strong></td>
+    <td>Wandelt unstrukturierte Dokumente in strukturierte Fakten um</td>
+    <td>LLM-basierte Extraktion auf Document-Level (kein Chunking)</td>
+  </tr>
+  <tr>
+    <td><strong>2. Knowledge Graph</strong></td>
+    <td>Vernetzt alle extrahierten Fakten in einem abfragbaren Graphen</td>
+    <td>Ontologie + Graph-Datenbank + Vektor-Index als Erg&auml;nzung</td>
+  </tr>
+  <tr>
+    <td><strong>3. Query Layer</strong></td>
+    <td>Erm&ouml;glicht hybride Abfragen und leitet Erkenntnisse ab</td>
+    <td>Strukturierte Graph-Abfragen + Semantic Search + LLM-Reasoning</td>
+  </tr>
+</table>
+
+<h3>3.1 Extraction Layer &mdash; Dokumente werden zu Fakten</h3>
+
+<p>
+  Der Extraction Layer ist das Herzst&uuml;ck der Datenverarbeitung. Er nimmt ein Dokument entgegen und extrahiert
+  daraus strukturierte Datenpunkte. Dabei laufen zwei Verfahren <strong>parallel</strong>:
+</p>
+
+<table>
+  <tr><th>Verfahren</th><th>Wie es funktioniert</th><th>Was es liefert</th><th>Wof&uuml;r es gut ist</th></tr>
+  <tr>
+    <td><strong>Geschlossene Extraktion</strong></td>
+    <td>Das System wei&szlig; anhand der Verzeichnis-Definition (&sect;F10), welche Datenpunkte in einem Dokument zu erwarten sind. Ein LLM extrahiert gezielt diese bekannten Felder.</td>
+    <td>Typisierte, validierte Fakten (z.B. Effizienzwert = 91,81%)</td>
+    <td>Alle bekannten, in der Ontologie definierten Datenpunkte</td>
+  </tr>
+  <tr>
+    <td><strong>Offene Extraktion</strong></td>
+    <td>Ein LLM analysiert das Dokument frei und identifiziert relevante Informationen, die nicht im Schema vorgesehen sind.</td>
+    <td>Key-Value-Paare mit Kontext und Kategorie-Vorschlag</td>
+    <td>Unbekannte oder neue Datenpunkte entdecken</td>
+  </tr>
+</table>
+
+<div class="highlight">
+  <strong>Kein Chunking.</strong> Dokumente werden als Ganzes verarbeitet (Document-Level Extraction).
+  Der Volltext bleibt immer als Ground Truth erhalten &mdash; die Extraktion erzeugt eine
+  <em>zus&auml;tzliche</em> strukturierte Schicht, sie ersetzt nichts. Jeder extrahierte Fakt enth&auml;lt
+  eine <strong>Source-Ref</strong> (Quelldokument, Seite, Absatz, exakter Textausschnitt), sodass jede
+  Information bis zum Originaltext zur&uuml;ckverfolgbar ist.
+</div>
+
+<p>
+  <strong>Feedback-Loop:</strong> Wenn die offene Extraktion bestimmte Informationen wiederholt in vielen Dokumenten
+  findet, schl&auml;gt das System vor, diese als neuen Datenpunkt in die Ontologie aufzunehmen. Nach Best&auml;tigung
+  durch einen Fachexperten wird der Datenpunkt in das Extraktionsschema aufgenommen und r&uuml;ckwirkend auf alle
+  bereits verarbeiteten Dokumente angewendet.
+</p>
+
+<h3>3.2 Knowledge Graph &mdash; Fakten werden vernetzt</h3>
+
+<p>
+  Der Knowledge Graph bildet das Wissensger&uuml;st von ngdai. Er besteht aus drei Komponenten:
+</p>
+
+<table>
+  <tr><th>Komponente</th><th>Rolle</th><th>Analogie</th></tr>
+  <tr>
+    <td><strong>Ontologie</strong></td>
+    <td>Das Schema &mdash; definiert welche Typen von Knoten und Beziehungen existieren</td>
+    <td>Wie ein Datenbankschema: &bdquo;Es gibt Netzbetreiber, Beschl&uuml;sse, K&uuml;rzungen&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Knowledge Graph</strong></td>
+    <td>Die konkreten Daten &mdash; Instanzen der Ontologie-Typen und ihre Verbindungen</td>
+    <td>Wie die Daten in der Datenbank: &bdquo;SW Elmshorn hat K&uuml;rzung Pacht 234.000&nbsp;&euro;&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Vektor-Index</strong></td>
+    <td>Erg&auml;nzender Suchindex f&uuml;r semantische (&auml;hnlichkeitsbasierte) Abfragen</td>
+    <td>Wie ein Volltextindex, aber f&uuml;r Bedeutung statt W&ouml;rter</td>
+  </tr>
+</table>
+
+<h4>Beziehungen im Graphen</h4>
+<table>
+  <tr><th>Beziehung</th><th>Von</th><th>Nach</th><th>Bedeutung</th></tr>
+  <tr><td>HAS_DOCUMENT</td><td>LegalEntity</td><td>Document</td><td>Zuordnung Dokument zu Unternehmen</td></tr>
+  <tr><td>CONTAINS_FACT</td><td>Document</td><td>Fact</td><td>Dokument enth&auml;lt diesen Datenpunkt</td></tr>
+  <tr><td>ABOUT_ENTITY</td><td>Fact</td><td>LegalEntity</td><td>Datenpunkt betrifft dieses Unternehmen</td></tr>
+  <tr><td>ABOUT_SUBJECT</td><td>Fact</td><td>SubjectMatter</td><td>Datenpunkt geh&ouml;rt zu diesem Fachthema</td></tr>
+  <tr><td>IN_PERIOD</td><td>Fact</td><td>RegulatoryPeriod</td><td>Datenpunkt geh&ouml;rt zu dieser Regulierungsperiode</td></tr>
+  <tr><td>IN_YEAR</td><td>Fact</td><td>CalendarYear</td><td>Datenpunkt bezieht sich auf dieses Jahr</td></tr>
+  <tr><td>SOURCED_FROM</td><td>Fact</td><td>SourceRef</td><td>R&uuml;ckverfolgung zum Originaltext</td></tr>
+  <tr><td>CONTRADICTS</td><td>Fact</td><td>Fact</td><td>Widerspruch zwischen zwei Datenpunkten (Inkonsistenz)</td></tr>
+  <tr><td>SUPERSEDES</td><td>Fact</td><td>Fact</td><td>Neuere Quelle &uuml;berschreibt &auml;ltere</td></tr>
+  <tr><td>DEVELOPS_FROM</td><td>Fact</td><td>Fact</td><td>Zeitliche Entwicklung (z.B. EOG 2024 &rarr; EOG 2025)</td></tr>
+</table>
+
+<h3>3.3 Query Layer &mdash; drei Stufen der Abfrage</h3>
+
+<p>
+  Benutzerabfragen werden in drei Stufen verarbeitet. Die erste Stufe liefert exakte, z&auml;hlbare Ergebnisse;
+  die weiteren Stufen werden nur aktiviert, wenn die vorherige Stufe nicht ausreicht:
+</p>
+
+<table>
+  <tr><th>Stufe</th><th>Methode</th><th>Wann aktiv</th><th>St&auml;rke</th><th>Einschr&auml;nkung</th></tr>
+  <tr>
+    <td><strong>1 (prim&auml;r)</strong></td>
+    <td>Strukturierte Graph-Abfrage (Cypher/SQL)</td>
+    <td>Immer zuerst</td>
+    <td>Exakt, z&auml;hlbar, aggregierbar, nachvollziehbar</td>
+    <td>Nur Daten, die in der Ontologie modelliert sind</td>
+  </tr>
+  <tr>
+    <td><strong>2 (Fallback)</strong></td>
+    <td>Semantische Suche (&uuml;ber Vektor-Index)</td>
+    <td>Wenn Graph-Abfrage keine oder unvollst&auml;ndige Ergebnisse liefert</td>
+    <td>Findet &auml;hnliche Inhalte auch ohne exakte Schl&uuml;sselw&ouml;rter</td>
+    <td>Ergebnisse sind &bdquo;fuzzy&ldquo; &mdash; mit niedrigerem Confidence-Score markiert</td>
+  </tr>
+  <tr>
+    <td><strong>3 (Synthese)</strong></td>
+    <td>LLM-Reasoning</td>
+    <td>F&uuml;r Hypothesen, Prognosen und komplexe Zusammenfassungen</td>
+    <td>Kann Muster erkennen und Schlussfolgerungen formulieren</td>
+    <td>Halluzinationsgefahr &mdash; abgesichert durch Anti-Halluzinations-Ma&szlig;nahmen (Kapitel 4)</td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 4. ANTI-HALLUZINATION -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="anti-halluzination">4. Anti-Halluzinations-Strategie</h2>
+
+<p class="intro">
+  An jeder Stelle, an der ngdai ein Large Language Model (LLM) einsetzt, besteht die Gefahr von
+  <strong>Halluzinationen</strong> &mdash; das Modell erzeugt plausibel klingende, aber faktisch falsche Informationen.
+  In einem regulatorischen Kontext, in dem Zahlen und Rechtsgrundlagen exakt sein m&uuml;ssen, ist dies besonders
+  gef&auml;hrlich. Deshalb implementiert ngdai auf jeder Ebene spezifische Gegenma&szlig;nahmen.
+</p>
+
+<div class="warning">
+  <strong>Grundprinzip:</strong> Kein LLM-Output wird jemals ungepr&uuml;ft als Fakt in den Knowledge Graph
+  &uuml;bernommen. Jede LLM-Ausgabe durchl&auml;uft mindestens eine Validierungsstufe, bevor sie als verl&auml;sslich
+  gilt.
+</div>
+
+<h3>4.1 Einsatzorte von LLMs und zugeh&ouml;rige Ma&szlig;nahmen</h3>
+
+<table>
+  <tr><th>LLM-Einsatzort</th><th>Halluzinationsrisiko</th><th>Anti-Halluzinations-Ma&szlig;nahmen</th></tr>
+  <tr>
+    <td><strong>F4: Geschlossene Extraktion</strong><br>(Zahlen, Fakten aus Beschl&uuml;ssen)</td>
+    <td><span class="risk-high">Hoch</span> &mdash; erfundene Zahlen oder falsche Zuordnungen</td>
+    <td>
+      <ul>
+        <li><strong>Doppel-Extraktion:</strong> Zwei unabh&auml;ngige LLM-Aufrufe pro Dokument. Nur &uuml;bereinstimmende Ergebnisse werden akzeptiert.</li>
+        <li><strong>Regex-Validierung:</strong> Extrahierte Zahlen werden gegen erwartete Formate und Wertebereiche gepr&uuml;ft (z.B. Effizienzwert muss zwischen 0% und 150% liegen).</li>
+        <li><strong>Source-Grounding:</strong> Das LLM muss den exakten Textausschnitt liefern, aus dem es einen Wert extrahiert hat. Dieser wird automatisch gegen das Originaldokument abgeglichen.</li>
+        <li><strong>Pflichtfeld-Pr&uuml;fung:</strong> Fehlen erwartete Datenpunkte, wird das Dokument zur manuellen Review markiert statt fehlende Werte zu erfinden.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>F4: Offene Extraktion</strong><br>(unbekannte Datenpunkte entdecken)</td>
+    <td><span class="risk-medium">Mittel</span> &mdash; irrelevante oder erfundene Key-Value-Paare</td>
+    <td>
+      <ul>
+        <li><strong>Niedrigere Grundkonfidenz:</strong> Offene Extraktionsergebnisse starten mit einem Confidence-Score von maximal 0.7 (vs. 0.9 bei geschlossener Extraktion).</li>
+        <li><strong>Querverweis-Pflicht:</strong> Ein offener Fund wird erst als Kandidat angezeigt, wenn er in mindestens 3 Dokumenten auftritt.</li>
+        <li><strong>Manueller Review:</strong> Offene Funde werden nie automatisch in die Ontologie &uuml;bernommen, sondern immer von einem Fachexperten gepr&uuml;ft.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>F6: Query Understanding</strong><br>(User-Frage interpretieren)</td>
+    <td><span class="risk-medium">Mittel</span> &mdash; falsche Interpretation der Frage</td>
+    <td>
+      <ul>
+        <li><strong>Intent-Transparenz:</strong> Das System zeigt dem User, wie es die Frage verstanden hat (&bdquo;Ich suche nach: K&uuml;rzungen, Typ: Pacht, Scope: alle Entities&ldquo;) &mdash; der User kann korrigieren.</li>
+        <li><strong>Structured First:</strong> Vor dem LLM wird gepr&uuml;ft, ob die Frage direkt auf ein bekanntes Ontologie-Pattern matcht. Nur bei Nicht-Match wird das LLM f&uuml;r die Interpretation eingesetzt.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>F6 Stufe 3: LLM-Reasoning</strong><br>(Synthese, Hypothesen)</td>
+    <td><span class="risk-high">Hoch</span> &mdash; plausible aber falsche Schlussfolgerungen</td>
+    <td>
+      <ul>
+        <li><strong>Grounded Generation:</strong> Das LLM erh&auml;lt ausschlie&szlig;lich verifizierte Fakten aus dem Knowledge Graph als Kontext &mdash; niemals rohen Dokumenttext allein.</li>
+        <li><strong>Quellennachweis-Pflicht:</strong> Jede Aussage des LLM muss mit mindestens einer konkreten Quelle belegt sein. Aussagen ohne Quelle werden als &bdquo;unbelegt&ldquo; markiert.</li>
+        <li><strong>Fakten-Check-Loop:</strong> Nach der LLM-Antwort pr&uuml;ft ein automatisierter Schritt, ob die genannten Zahlen und Fakten tats&auml;chlich im Knowledge Graph existieren.</li>
+        <li><strong>Konfidenz-Label:</strong> Jede LLM-Synthese wird explizit als &bdquo;KI-generierte Analyse&ldquo; gekennzeichnet, mit Confidence-Score und Hinweis auf die zugrunde liegenden Daten.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>F8: Hypothesen-Generierung</strong></td>
+    <td><span class="risk-high">Hoch</span> &mdash; falsche Kausalit&auml;ten oder &Uuml;bergeneralisierungen</td>
+    <td>
+      <ul>
+        <li><strong>Reziproke Pr&uuml;fung:</strong> Jede Hypothese H wird zusammen mit der Gegenhypothese NOT_H gepr&uuml;ft. Nur wenn die Daten klar f&uuml;r H sprechen, wird sie angezeigt.</li>
+        <li><strong>G&uuml;tekriterien:</strong> Reliabilit&auml;t, Validit&auml;t und Objektivit&auml;t werden quantifiziert (siehe F8). Hypothesen unter Schwellwert werden nicht als Empfehlung angezeigt.</li>
+        <li><strong>Stichproben-Hinweis:</strong> Das System kommuniziert immer die Datenbasis (&bdquo;Basierend auf 19 von 180 Netzbetreibern&ldquo;) und warnt vor voreiligen Schlussfolgerungen bei geringer Abdeckung.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>F3: Dokument-Klassifikation</strong><br>(automatische Erkennung des Dokumenttyps)</td>
+    <td><span class="risk-low">Gering</span> &mdash; falscher Typ zugeordnet</td>
+    <td>
+      <ul>
+        <li><strong>Verzeichnis-Definition dominiert:</strong> Der Dokumenttyp wird prim&auml;r aus der _definition.json abgeleitet, nicht vom LLM. Das LLM dient nur als Best&auml;tigung.</li>
+        <li><strong>Aktenzeichen-Parsing:</strong> BNetzA-Beschl&uuml;sse werden anhand ihres Aktenzeichens (BK8-xx = Strom, BK9-xx = Gas) eindeutig klassifiziert &mdash; ohne LLM.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h3>4.2 &Uuml;bergreifende Schutzma&szlig;nahmen</h3>
+
+<table>
+  <tr><th>Ma&szlig;nahme</th><th>Beschreibung</th></tr>
+  <tr>
+    <td><strong>Temperatur = 0</strong></td>
+    <td>Alle LLM-Aufrufe f&uuml;r Faktenextraktion verwenden temperature=0, um deterministische Ergebnisse zu erzielen.</td>
+  </tr>
+  <tr>
+    <td><strong>Structured Output</strong></td>
+    <td>LLMs liefern immer JSON in einem vordefinierten Schema zur&uuml;ck. Freiformtext-Antworten werden f&uuml;r Extraktion nicht akzeptiert.</td>
+  </tr>
+  <tr>
+    <td><strong>Confidence Scoring</strong></td>
+    <td>Jeder LLM-Output erh&auml;lt einen Confidence-Score. Werte unter dem Schwellwert werden zur manuellen Review markiert.</td>
+  </tr>
+  <tr>
+    <td><strong>Audit Trail</strong></td>
+    <td>Jede LLM-Interaktion wird protokolliert: Input (Prompt + Dokument), Output, Modellversion, Timestamp. Erm&ouml;glicht Nachvollziehbarkeit und Debugging.</td>
+  </tr>
+  <tr>
+    <td><strong>Human-in-the-Loop</strong></td>
+    <td>Bei kritischen Entscheidungen (neue Ontologie-Eintr&auml;ge, Inkonsistenz-Aufl&ouml;sung, niedrige Confidence) wird immer ein Fachexperte einbezogen.</td>
+  </tr>
+  <tr>
+    <td><strong>Kein Training auf eigenen Daten</strong></td>
+    <td>Die LLMs werden nicht mit den regulatorischen Dokumenten nachtrainiert, um Data Leakage und Halluzinationen aus dem Trainingsset zu vermeiden.</td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 5. TAXONOMIEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="taxonomien">5. Taxonomien</h2>
+
+<h3>5.1 Zeittaxonomie</h3>
+<p>
+  Die Zeitachse in der Netzentgeltregulierung ist zweischichtig: Auf der operativen Ebene gibt es
+  <strong>Kalenderjahre</strong> (f&uuml;r j&auml;hrlich variable Datenpunkte wie die EOG), auf der strategischen
+  Ebene gibt es <strong>Regulierungsperioden</strong> (f&uuml;r periodenfix festgelegte Parameter wie den Effizienzwert).
+</p>
+
+<table>
+  <tr><th>Ebene</th><th>Beschreibung</th><th>Bedeutung f&uuml;r ngdai</th></tr>
+  <tr><td><strong>Kalenderjahr</strong></td><td>2022, 2023, 2024, &hellip;</td><td>Operative Ebene: EOG, Regulierungskonto, VPI-Anpassung werden pro Jahr erfasst</td></tr>
+  <tr><td><strong>Regulierungsperiode</strong></td><td>3.RP, 4.RP (je Sparte verschieden)</td><td>Strategische Ebene: Effizienzwert, Xgen, EK-Zinss&auml;tze gelten f&uuml;r die gesamte Periode</td></tr>
+  <tr><td><strong>Periodenwechsel</strong></td><td>z.B. 2023 &rarr; 2024 (Strom: 3.RP &rarr; 4.RP)</td><td>Erwartbare &Auml;nderungen &mdash; kein Widerspruch. Neue Effizienzwerte, neue Kostenanteile.</td></tr>
+</table>
+
+<h3>5.2 Definitions-Taxonomie</h3>
+<p>
+  Jeder Datenpunkt in der Ontologie hat ein definiertes <strong>zeitliches Verhalten</strong>. Diese Eigenschaft
+  steuert, wie die Inkonsistenz-Detektion (F9) mit &Auml;nderungen umgeht:
+</p>
+
+<table>
+  <tr><th>Verhalten</th><th>Was es bedeutet</th><th>Wenn sich der Wert &auml;ndert innerhalb einer RP</th><th>Beispiele</th></tr>
+  <tr>
+    <td><strong>PERIOD_FIXED</strong></td>
+    <td>Wird einmalig zu Beginn der Regulierungsperiode festgelegt und darf sich innerhalb der 5 Jahre nicht &auml;ndern.</td>
+    <td style="color:#c62828;font-weight:600;">= INKONSISTENZ &mdash; hier stimmt etwas nicht</td>
+    <td>Effizienzwert, Xgen, EK-Zinssatz, Basisjahr</td>
+  </tr>
+  <tr>
+    <td><strong>ANNUALLY_VARIABLE</strong></td>
+    <td>&Auml;ndert sich planm&auml;&szlig;ig jedes Jahr nach einer definierten Formel oder durch neue Bescheide.</td>
+    <td style="color:#2e7d32;font-weight:600;">= M&ouml;gliche ENTWICKLUNG &mdash; normal, wird als Trend getrackt</td>
+    <td>EOG, Regulierungskonto, Erweiterungsfaktor, KKAb</td>
+  </tr>
+</table>
+
+<div class="note">
+  <strong>Achtung:</strong> Auch bei ANNUALLY_VARIABLE-Datenpunkten kann eine Inkonsistenz vorliegen, wenn
+  dasselbe Merkmal im selben Jahr in verschiedenen Dokumenten unterschiedliche Werte hat. Die Taxonomie allein
+  reicht nicht &mdash; der Zeitbezug muss immer mitgepr&uuml;ft werden.
+</div>
+
+<!-- ============================================================ -->
+<!-- 6. FEATURES -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="features">6. Features &mdash; Detailspezifikation</h2>
+
+<p class="intro">
+  ngdai umfasst 11 Features (F1&ndash;F11), die aufeinander aufbauen und zusammen die komplette Verarbeitungskette
+  von der Dokumentenerfassung bis zur Hypothesenbildung abdecken.
+</p>
+
+<!-- F1 -->
+<h3>F1: Legal Entity Management</h3>
+<p>
+  Das Legal Entity Management ist die zentrale Verwaltung aller Netzbetreiber und Unternehmen.
+  Jedes Dokument im System wird mindestens einer Legal Entity zugeordnet. Nutzer legen Entities
+  manuell an; zus&auml;tzlich erkennt das System automatisch Unternehmensnamen in importierten Dokumenten
+  und schl&auml;gt eine Zuordnung vor.
+</p>
+<table>
+  <tr><th>Funktion</th><th>Beschreibung</th></tr>
+  <tr><td>Anlegen &amp; Bearbeiten</td><td>Nutzer erstellt eine Legal Entity mit Stammdaten (BNR, Name, Sparte, Versorgungsgebiet etc.)</td></tr>
+  <tr><td>Auto-Erkennung</td><td>Bei Dokumentimport erkennt das System den Netzbetreiber anhand von Aktenzeichen, BNR oder Namens-Matching und schl&auml;gt eine Zuordnung vor. Der Nutzer best&auml;tigt oder korrigiert.</td></tr>
+  <tr><td>Duplikat-Erkennung</td><td>Das System pr&uuml;ft bei jeder neuen Entity, ob bereits ein Eintrag mit derselben BNR, NNR, MaStR-Nr. oder einem &auml;hnlichen Namen existiert.</td></tr>
+  <tr><td>Entity-Merging</td><td>Werden Duplikate erkannt, k&ouml;nnen sie zusammengef&uuml;hrt werden. Alle Dokumente und Fakten werden auf die zusammengef&uuml;hrte Entity &uuml;bertragen.</td></tr>
+  <tr><td>Konzernstruktur</td><td>Abbildung von Mutter-Tochter-Beziehungen (z.B. Stadtwerke Kassel &rarr; KVV Netz + Service &rarr; St&auml;dtische Werke Energie + W&auml;rme).</td></tr>
+</table>
+
+<!-- F2 -->
+<h3>F2: Subject Matter Management</h3>
+<p>
+  Subject Matters sind Fachthemen, die als zweite Analysedimension neben den Legal Entities dienen.
+  W&auml;hrend eine Legal Entity den Blick auf ein einzelnes Unternehmen erm&ouml;glicht, erlaubt ein Subject Matter
+  den themen&uuml;bergreifenden Vergleich &uuml;ber alle Unternehmen hinweg.
+</p>
+<table>
+  <tr><th>Funktion</th><th>Beschreibung</th></tr>
+  <tr><td>Anlegen &amp; Bearbeiten</td><td>Nutzer definiert ein Thema mit Name, Beschreibung, Rechtsgrundlagen und Suchbegriffen.</td></tr>
+  <tr><td>Automatische Relevanz-Bewertung</td><td>F&uuml;r jedes Dokument berechnet das System einen Relevanz-Score (0.0&ndash;1.0) f&uuml;r jedes Subject Matter.</td></tr>
+  <tr><td>Cross-Entity-Analyse</td><td>Erm&ouml;glicht Fragen wie: &bdquo;Wie gehen verschiedene Netzbetreiber mit dem Thema Pachtk&uuml;rzungen um?&ldquo;</td></tr>
+  <tr><td>Themen-Vorschl&auml;ge</td><td>Basierend auf h&auml;ufig auftretenden offenen Extraktionsergebnissen schl&auml;gt das System neue Subject Matters vor.</td></tr>
+</table>
+
+<!-- F3 -->
+<h3>F3: Document Ingestion Pipeline</h3>
+<p>
+  Die Ingestion Pipeline konvertiert Quelldokumente in maschinenlesbare Formate. Das oberste Gebot ist
+  <strong>100% Verlustfreiheit</strong> &mdash; kein Zeichen, keine Tabelle, keine Fu&szlig;note darf verloren gehen.
+</p>
+
+<table>
+  <tr><th>Quellformat</th><th>Zielformate</th><th>Validierung</th></tr>
+  <tr><td>PDF</td><td>JSONL + TXT <strong>parallel</strong></td><td>Zeichenanzahl-Abgleich, SHA256-Hash, Tabellen-Count, Seitenzahl</td></tr>
+  <tr><td>XLS/XLSX</td><td>JSONL</td><td>Schema-Validierung, Zellanzahl, Datentyp-Pr&uuml;fung</td></tr>
+  <tr><td>HTML</td><td>JSONL + TXT</td><td>DOM-Vergleich, Textcontent-Hash</td></tr>
+  <tr><td>TXT</td><td>JSONL (Passthrough)</td><td>L&auml;ngen-Check, Encoding-Pr&uuml;fung</td></tr>
+</table>
+
+<div class="highlight">
+  <strong>Warum JSONL + TXT parallel?</strong> JSONL enth&auml;lt die strukturierte Variante (Metadaten, Seitenstruktur,
+  Tabellen als Arrays). TXT enth&auml;lt den reinen Volltext als zus&auml;tzliches Safety Net. Beides wird archiviert.
+  Das Original-PDF wird ebenfalls aufbewahrt.
+</div>
+
+<h4>Qualit&auml;tsschwellen f&uuml;r die Konvertierung</h4>
+<table>
+  <tr><th>Confidence Score</th><th>Qualit&auml;ts-Flag</th><th>Aktion</th></tr>
+  <tr><td>&ge; 0.95</td><td><span class="badge badge-green">GREEN</span></td><td>Automatisch weiterverarbeiten</td></tr>
+  <tr><td>&ge; 0.80</td><td><span class="badge badge-yellow">YELLOW</span></td><td>Warnung, automatisch weiter, aber in die Review-Queue eingestellt</td></tr>
+  <tr><td>&lt; 0.80</td><td><span class="badge badge-red">RED</span></td><td>Stopp &mdash; manuelles Review durch einen Mitarbeiter erforderlich</td></tr>
+</table>
+
+<p><strong>Crawler (Version 2):</strong> In einer sp&auml;teren Phase wird ein automatischer Crawler externe Quellen
+abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</strong> und weitere &ouml;ffentliche Register.</p>
+
+<!-- F4 -->
+<h3>F4: Extraction Layer</h3>
+<p>Beschrieben in Kapitel 3.1 (Architektur). Zusammenfassung der Kernpunkte:</p>
+<ul>
+  <li>Geschlossene + offene Extraktion parallel, pro Dokumenttyp eigenes Extraktionsschema</li>
+  <li>Jeder Fakt mit Source-Ref (Dokument, Seite, Absatz, exakter Textausschnitt)</li>
+  <li>Anti-Halluzinations-Ma&szlig;nahmen gem&auml;&szlig; Kapitel 4</li>
+  <li>Gro&szlig;e Dokumente: Sliding Window mit &Uuml;berlappung und Deduplizierung</li>
+  <li>Feedback-Loop: offene Funde &rarr; Ontologie-Kandidaten &rarr; manueller Review</li>
+</ul>
+
+<!-- F5 -->
+<h3>F5: Knowledge Graph + Ontologie</h3>
+<p>Beschrieben in Kapitel 3.2 (Architektur). Zusammenfassung der Kernpunkte:</p>
+<ul>
+  <li>Ontologie als erweiterbares Schema (neue Datenpunkte ohne Code-&Auml;nderung hinzuf&uuml;gbar)</li>
+  <li>Kern-Klassen: LegalEntity, Document, SubjectMatter, Fact, RegulatoryPeriod, CalendarYear</li>
+  <li>Faktentypen: NumericFact, CategoricalFact, TextFact, TemporalFact</li>
+  <li>Zeittaxonomie und Definitions-Taxonomie integriert</li>
+  <li>Vektor-Index als erg&auml;nzender Fallback f&uuml;r semantische Suche</li>
+</ul>
+
+<!-- F6 -->
+<h3>F6: Query Engine</h3>
+<p>
+  Die Query Engine ist die zentrale Schnittstelle, &uuml;ber die Nutzer Fragen an das System stellen.
+  Sie unterst&uuml;tzt verschiedene Abfragetypen:
+</p>
+<table>
+  <tr><th>Abfragetyp</th><th>Was der Nutzer fragt</th><th>Beispiel</th></tr>
+  <tr><td><strong>Entity-Abfrage</strong></td><td>&bdquo;Zeige mir alle Daten zu einem bestimmten Unternehmen&ldquo;</td><td>&bdquo;Alle EOG-Werte der Stadtwerke Elmshorn&ldquo;</td></tr>
+  <tr><td><strong>Subject-Abfrage</strong></td><td>&bdquo;Zeige mir alle Daten zu einem bestimmten Thema&ldquo;</td><td>&bdquo;Alle H&auml;rtefallantr&auml;ge &uuml;ber alle Netzbetreiber&ldquo;</td></tr>
+  <tr><td><strong>Cross-Abfrage</strong></td><td>&bdquo;Kombiniere Unternehmen und Thema&ldquo;</td><td>&bdquo;Pachtk&uuml;rzungen bei Stadtwerken in NRW&ldquo;</td></tr>
+  <tr><td><strong>Aggregation</strong></td><td>&bdquo;Berechne statistische Kennzahlen&ldquo;</td><td>&bdquo;Median-Effizienzwert 4.RP Strom&ldquo;</td></tr>
+  <tr><td><strong>Vergleich</strong></td><td>&bdquo;Vergleiche zwei Unternehmen&ldquo;</td><td>&bdquo;EOG Elmshorn vs. Karlsruhe 2024&ndash;2028&ldquo;</td></tr>
+  <tr><td><strong>Trend</strong></td><td>&bdquo;Wie hat sich etwas &uuml;ber die Zeit entwickelt?&ldquo;</td><td>&bdquo;Entwicklung des dnb-Anteils von 3.RP zu 4.RP&ldquo;</td></tr>
+</table>
+
+<!-- F7 -->
+<h3>F7: Persistente Query-Templates</h3>
+<p>
+  Query-Templates sind wiederverwendbare, parametrisierbare Abfragen, die das System automatisch
+  aktualisiert, wenn neue Dokumente importiert werden. Der Nutzer definiert einmal eine Abfrage,
+  und das System &uuml;berwacht dauerhaft, ob sich die Ergebnisse &auml;ndern.
+</p>
+<table>
+  <tr><th>Konzept</th><th>Erkl&auml;rung</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>Template</strong></td>
+    <td>Eine abstrakte Abfrage mit Parametern</td>
+    <td>&bdquo;K&uuml;rzungsmuster nach Typ f&uuml;r [Entity] in [Periode]&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Instanz</strong></td>
+    <td>Ein Template mit konkreten Werten f&uuml;r die Parameter</td>
+    <td>K&uuml;rzungsmuster f&uuml;r SW Elmshorn in 4.RP Strom</td>
+  </tr>
+  <tr>
+    <td><strong>Snapshot</strong></td>
+    <td>Das Ergebnis einer Instanz zu einem bestimmten Zeitpunkt</td>
+    <td>Stand 15.03.2026: Pacht 45%, Material 20%, Sonstiges 35%</td>
+  </tr>
+  <tr>
+    <td><strong>Delta</strong></td>
+    <td>Die &Auml;nderungen zwischen zwei Snapshots</td>
+    <td>Seit letztem Import: Pacht von 45% auf 52% gestiegen (+7%)</td>
+  </tr>
+  <tr>
+    <td><strong>Trend</strong></td>
+    <td>Wenn mehrere Instanzen das gleiche Delta zeigen</td>
+    <td>&bdquo;Pachtk&uuml;rzungen steigen bei 8 von 12 Netzbetreibern&ldquo; &rarr; Branchen-Trend</td>
+  </tr>
+</table>
+
+<div class="highlight">
+  <strong>Die Deltas sind die eigentlichen Insights.</strong> Nicht die Snapshots selbst liefern die Erkenntnisse,
+  sondern die Ver&auml;nderungen zwischen ihnen. Wenn ein neues Dokument importiert wird, sieht der Nutzer
+  sofort, was sich ge&auml;ndert hat und welche seiner &uuml;berwachten Abfragen betroffen sind.
+</div>
+
+<!-- F8 -->
+<h3>F8: Analyse &amp; Prognose</h3>
+<p>
+  Aufbauend auf den Daten im Knowledge Graph und den Deltas der Query-Templates generiert das System
+  Hypothesen und Prognosen. Dabei gilt das Prinzip der <strong>reziproken Pr&uuml;fung</strong>: Jede Hypothese
+  wird zusammen mit ihrem Gegenteil gepr&uuml;ft.
+</p>
+
+<h4>Hypothesen-G&uuml;tekriterien</h4>
+<table>
+  <tr><th>Kriterium</th><th>Frage</th><th>Wie gemessen</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>Reliabilit&auml;t</strong></td>
+    <td>Ist das Ergebnis reproduzierbar?</td>
+    <td>Anteil der Entities, die die Hypothese best&auml;tigen</td>
+    <td>15 von 19 Netzbetreibern zeigen steigende Pachtk&uuml;rzungen = 79% Reliabilit&auml;t</td>
+  </tr>
+  <tr>
+    <td><strong>Validit&auml;t</strong></td>
+    <td>Messen wir tats&auml;chlich das, was wir behaupten?</td>
+    <td>Pr&auml;zision des Query-Templates gegen manuelle Stichprobe</td>
+    <td>Query findet 95% der manuell identifizierten Pachtk&uuml;rzungen = 95% Validit&auml;t</td>
+  </tr>
+  <tr>
+    <td><strong>Objektivit&auml;t</strong></td>
+    <td>Basiert die Aussage auf harten Zahlen oder Interpretationen?</td>
+    <td>1.0 = nur NumericFacts, 0.0 = nur TextFacts</td>
+    <td>K&uuml;rzungsbetr&auml;ge in EUR = 1.0 Objektivit&auml;t; &bdquo;aggressivere Pr&uuml;fpraxis&ldquo; = 0.3</td>
+  </tr>
+</table>
+
+<div class="success">
+  <strong>Eine Hypothese wird zur These</strong>, wenn Reliabilit&auml;t, Validit&auml;t und Objektivit&auml;t jeweils
+  &uuml;ber einem definierten Schwellwert liegen UND der Wissensraum ausreichend vollst&auml;ndig ist (F11).
+  Andernfalls bleibt sie als Hypothese gekennzeichnet mit dem Hinweis, was noch fehlt.
+</div>
+
+<!-- F9 -->
+<h3>F9: Inkonsistenz-Detektion</h3>
+<p>
+  Das System pr&uuml;ft automatisch alle Datenpunkte auf Widerspr&uuml;che. Die Pr&uuml;flogik ber&uuml;cksichtigt
+  dabei die Definitions-Taxonomie (periodenfix vs. variabel) und den Zeitbezug:
+</p>
+
+<table>
+  <tr><th>Situation</th><th>Merkmal-Typ</th><th>Zeitraum</th><th>Bewertung</th></tr>
+  <tr>
+    <td>Gleiche Entity, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>periodenfix</td><td>gleiche RP</td>
+    <td><span class="badge badge-red">INKONSISTENZ</span> &mdash; Dieser Wert darf sich nicht &auml;ndern</td>
+  </tr>
+  <tr>
+    <td>Gleiche Entity, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>periodenfix</td><td>andere RP</td>
+    <td><span class="badge badge-green">PERIODEN&Uuml;BERGANG</span> &mdash; Erwartbar, neue Festlegung</td>
+  </tr>
+  <tr>
+    <td>Gleiche Entity, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>variabel</td><td>gleiches Jahr</td>
+    <td><span class="badge badge-red">INKONSISTENZ</span> &mdash; Verschiedene Quellen widersprechen sich</td>
+  </tr>
+  <tr>
+    <td>Gleiche Entity, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>variabel</td><td>anderes Jahr (gleiche RP)</td>
+    <td><span class="badge badge-yellow">PR&Uuml;FEN</span> &mdash; Kann ENTWICKLUNG sein (normal) oder INKONSISTENZ (abh. von Definition)</td>
+  </tr>
+  <tr>
+    <td>Gleiche Entity, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>variabel</td><td>andere RP</td>
+    <td><span class="badge badge-green">PERIODEN&Uuml;BERGANG</span></td>
+  </tr>
+  <tr>
+    <td>Verschiedene Entities, gleiche Auspr&auml;gung unterschiedlich</td>
+    <td>beliebig</td><td>gleicher Zeitraum</td>
+    <td><span class="badge badge-blue">VARIATION</span> &mdash; Benchmark-Material, kein Fehler</td>
+  </tr>
+</table>
+
+<!-- F10 -->
+<h3>F10: Verzeichnis-Definitionen</h3>
+<p>
+  Jedes Datenverzeichnis enth&auml;lt eine Datei <code>_definition.json</code>, die dem System mitteilt,
+  welche Art von Dokumenten in diesem Verzeichnis liegt und welche Datenpunkte darin zu erwarten sind.
+  Das System muss dadurch <strong>nicht raten</strong> &mdash; es wei&szlig; exakt, was es vorfindet.
+</p>
+<table>
+  <tr><th>Feld</th><th>Beschreibung</th><th>Beispiel</th></tr>
+  <tr><td>document_type</td><td>Typ der Dokumente in diesem Verzeichnis</td><td>EOG_Beschluss</td></tr>
+  <tr><td>sector</td><td>Sparte</td><td>Strom</td></tr>
+  <tr><td>regulatory_period</td><td>Regulierungsperiode</td><td>4.RP</td></tr>
+  <tr><td>period_years</td><td>Zeitraum der Periode</td><td>2024&ndash;2028</td></tr>
+  <tr><td>source_authority</td><td>Herausgeber / Quelle</td><td>BNetzA</td></tr>
+  <tr><td>source_reliability</td><td>Verl&auml;sslichkeit der Quelle (0.0&ndash;1.0)</td><td>1.0</td></tr>
+  <tr><td>expected_data_points.period_fixed</td><td>Welche periodenfixen Datenpunkte erwartet werden</td><td>Effizienzwert, EK-Zins, Xgen, Ausgangsniveau</td></tr>
+  <tr><td>expected_data_points.annually_variable</td><td>Welche j&auml;hrlich variablen Datenpunkte erwartet werden</td><td>EOG pro Jahr, dnb-Kosten, Erweiterungsfaktor</td></tr>
+</table>
+
+<!-- F11 -->
+<h3>F11: Epistemische Wissensraum-Eigenschaften</h3>
+<p>
+  Jeder Informationsraum in ngdai wird nicht nur nach Inhalt, sondern auch nach <strong>Wissensqualit&auml;t</strong>
+  bewertet. Das System wei&szlig; nicht nur, <em>was</em> es wei&szlig;, sondern auch <em>wie gut</em> es das wei&szlig;
+  und <em>was fehlt</em>.
+</p>
+<table>
+  <tr><th>Eigenschaft</th><th>Frage</th><th>Beispiel-Bewertung</th></tr>
+  <tr>
+    <td><strong>Vollst&auml;ndigkeit</strong></td>
+    <td>Haben wir alle relevanten Dokumente?</td>
+    <td>&bdquo;19 von ca. 180 Strom-Netzbetreibern abgedeckt = 10,5% Vollst&auml;ndigkeit&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Konsistenz</strong></td>
+    <td>Widersprechen sich Datenpunkte?</td>
+    <td>&bdquo;3 Inkonsistenzen erkannt bei Stadtwerke X, 0 bei Stadtwerke Y&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Verl&auml;sslichkeit</strong></td>
+    <td>Wie vertrauensw&uuml;rdig sind die Quellen?</td>
+    <td>&bdquo;85% der Datenpunkte aus BNetzA-Beschl&uuml;ssen (hohe Verl&auml;sslichkeit)&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Aktualit&auml;t</strong></td>
+    <td>Wie alt sind die neuesten Daten?</td>
+    <td>&bdquo;Neuester Beschluss: Juni 2024. Daten &uuml;ber 2 Jahre alt haben reduzierte Konfidenz.&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Abgeschlossenheit</strong></td>
+    <td>Wie viel Prozent des theoretischen Gesamtraums ist abgedeckt?</td>
+    <td>&bdquo;62% der Netzbetreiber in NRW abgedeckt, 8% bundesweit&ldquo;</td>
+  </tr>
+</table>
+
+<h4>Informationsraum-Hierarchie</h4>
+<table>
+  <tr><th>Ebene</th><th>Was sie umfasst</th><th>Beispiel</th></tr>
+  <tr><td><strong>Gesamt-IR</strong></td><td>Alle Dokumente und Fakten im System</td><td>Alle 95+ Dokumente zu Strom und Gas</td></tr>
+  <tr><td><strong>Entity-IR</strong></td><td>Alles was wir &uuml;ber ein Unternehmen wissen</td><td>Alle Beschl&uuml;sse + Gesch&auml;ftsbericht der SW Elmshorn</td></tr>
+  <tr><td><strong>Subject-IR</strong></td><td>Alles was wir &uuml;ber ein Thema wissen</td><td>Alle Pachtk&uuml;rzungen &uuml;ber alle Netzbetreiber</td></tr>
+  <tr><td><strong>Mix-IR</strong></td><td>Schnittmenge: ein Thema bei einem Unternehmen</td><td>Pachtk&uuml;rzungen bei Stadtwerke Elmshorn</td></tr>
+</table>
+
+<div class="success">
+  Jede Systemantwort enth&auml;lt automatisch die epistemische Bewertung: <br>
+  <em>&bdquo;Basierend auf 19 Dokumenten von 12 Netzbetreibern. Vollst&auml;ndigkeit: 10,5%.
+  Konsistenz: 97% (1 Widerspruch erkannt). Quellen&shy;zuverl&auml;ssigkeit: 92% (prim&auml;r BNetzA-Beschl&uuml;sse).
+  Konfidenz der Aussage: 74%.&ldquo;</em>
+</div>
+
+<!-- ============================================================ -->
+<!-- 7. BACKOFFICE VS RUNTIME -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="backoffice">7. Backoffice- vs. Runtime-Verarbeitung</h2>
+
+<p class="intro">
+  Eine zentrale Designentscheidung von ngdai ist die Trennung zwischen <strong>Backoffice-Verarbeitung</strong>
+  (vorberechnete Ergebnisse) und <strong>Runtime-Verarbeitung</strong> (Live-Abfragen). Standardabfragen und
+  Wissensraum-Analysen werden im Backoffice ausgef&uuml;hrt &mdash; nicht bei jeder Nutzeranfrage erneut.
+</p>
+
+<div class="warning">
+  <strong>Grundprinzip:</strong> Alles was vorberechnet werden kann, WIRD vorberechnet. Die Runtime soll
+  so schlank wie m&ouml;glich sein und prim&auml;r auf bereits berechnete Ergebnisse zugreifen.
+</div>
+
+<table>
+  <tr><th>Verarbeitungsschritt</th><th>Backoffice<br>(bei Daten-Import / Batch)</th><th>Runtime<br>(bei User-Abfrage)</th></tr>
+  <tr>
+    <td><strong>F3: Dokument-Konvertierung</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; PDF &rarr; JSONL+TXT wird beim Import einmalig ausgef&uuml;hrt</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F4: Fakten-Extraktion</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Geschlossene + offene Extraktion l&auml;uft nach Import</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F5: Knowledge Graph Update</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Neue Fakten werden in den Graph eingepflegt</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F7: Query-Template-Aktualisierung</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Alle betroffenen Templates werden neu evaluiert, Snapshots + Deltas berechnet</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F9: Inkonsistenz-Pr&uuml;fung</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Bei jedem neuen Fakt: automatischer Abgleich gegen bestehende Fakten</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F11: Epistemische Bewertung</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Wissensraum-Metriken werden nach jedem Import neu berechnet</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>Standard-Aggregationen</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; H&auml;ufig gebrauchte Aggregationen (Median-Effizienzwert, K&uuml;rzungs-Ranking etc.) werden vorberechnet und gecacht</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td><strong>F6: Einfache Abfragen</strong><br>(strukturierte Graph-Queries)</td>
+    <td>&ndash;</td>
+    <td><span class="badge badge-blue">Runtime</span> &mdash; Direkte Abfrage auf vorberechnete Daten im Graph. Schnell, kein LLM n&ouml;tig.</td>
+  </tr>
+  <tr>
+    <td><strong>F6: Ad-hoc-Abfragen</strong><br>(neue, nicht vorberechnete Fragen)</td>
+    <td>&ndash;</td>
+    <td><span class="badge badge-yellow">Runtime</span> &mdash; Graph-Query + ggf. Semantic Search + ggf. LLM-Reasoning. Langsamer, aber flexibel.</td>
+  </tr>
+  <tr>
+    <td><strong>F8: Hypothesen-Generierung</strong></td>
+    <td><span class="badge badge-green">Backoffice</span> &mdash; Hypothesen werden aus vorberechneten Deltas abgeleitet</td>
+    <td><span class="badge badge-yellow">Runtime nur</span> wenn der User eine spezifische Prognose anfragt</td>
+  </tr>
+</table>
+
+<div class="highlight">
+  <strong>Warum diese Trennung?</strong>
+  <ul>
+    <li><strong>Performance:</strong> Nutzer bekommen sofortige Antworten, weil die schwere Rechenarbeit bereits erledigt ist.</li>
+    <li><strong>Kosten:</strong> LLM-Aufrufe sind teuer. Einmal im Backoffice extrahieren statt bei jeder Abfrage.</li>
+    <li><strong>Konsistenz:</strong> Alle Nutzer sehen dieselben vorberechneten Ergebnisse. Keine unterschiedlichen LLM-Antworten bei gleicher Frage.</li>
+    <li><strong>Skalierung:</strong> Bei Tausenden von Dokumenten und vielen gleichzeitigen Nutzern w&auml;re Runtime-Extraktion nicht tragbar.</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<!-- 7B. MARKTAKTEURE -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="marktakteure">7B. Marktakteure &mdash; Default Legal Entities</h2>
+
+<p class="intro">
+  Aus dem <strong>Marktstammdatenregister (MaStR)</strong> der BNetzA liegen vollst&auml;ndige Listen aller
+  registrierten Netzbetreiber vor. Diese werden als <strong>Default-Legal-Entities</strong> in die ngdai-Datenbank
+  importiert, sodass bei jedem Dokumentimport bereits ein umfassendes Verzeichnis aller Netzbetreiber zur
+  Zuordnung bereitsteht.
+</p>
+
+<table>
+  <tr><th>Datei</th><th>Sparte</th><th>Anzahl Netzbetreiber</th><th>Stand</th></tr>
+  <tr><td>OeffentlicheMarktakteure_Strom.csv</td><td><strong>Strom</strong></td><td><strong>872</strong> Stromnetzbetreiber</td><td>23.03.2026</td></tr>
+  <tr><td>OeffentlicheMarktakteur_Gas.csv</td><td><strong>Gas</strong></td><td><strong>758</strong> Gasnetzbetreiber</td><td>23.03.2026</td></tr>
+</table>
+
+<h4>Verf&uuml;gbare Datenfelder pro Marktakteur</h4>
+<table>
+  <tr><th>Feld</th><th>Beschreibung</th><th>Mapping auf Legal Entity</th></tr>
+  <tr><td>MaStR-Nr.</td><td>Eindeutige Marktstammdatenregister-Nummer (z.B. SNB982046657236)</td><td>&rarr; LegalEntity.mastr_nr (Prim&auml;rschl&uuml;ssel)</td></tr>
+  <tr><td>Name des Marktakteurs</td><td>Offizieller Firmenname</td><td>&rarr; LegalEntity.name</td></tr>
+  <tr><td>Marktfunktion</td><td>Stromnetzbetreiber / Gasnetzbetreiber</td><td>&rarr; LegalEntity.sector</td></tr>
+  <tr><td>Marktrollen</td><td>Anschlussnetzbetreiber, Messstellenbetreiber, &Uuml;NB, etc.</td><td>&rarr; LegalEntity.roles (Array)</td></tr>
+  <tr><td>Bundesland</td><td>Sitz des Unternehmens</td><td>&rarr; LegalEntity.state</td></tr>
+  <tr><td>PLZ / Ort / Stra&szlig;e / Hausnummer</td><td>Anschrift</td><td>&rarr; LegalEntity.address</td></tr>
+  <tr><td>Registrierungsdatum</td><td>Datum der MaStR-Registrierung</td><td>&rarr; LegalEntity.registered_at</td></tr>
+  <tr><td>Letzte Aktualisierung</td><td>Datum der letzten Daten&auml;nderung</td><td>&rarr; LegalEntity.updated_at</td></tr>
+  <tr><td>ACER-Code</td><td>Europ&auml;ischer Identifikationscode</td><td>&rarr; LegalEntity.acer_code</td></tr>
+  <tr><td>Geschlossenes Verteilernetz</td><td>Ja/Nein &mdash; ob ein geschlossenes Verteilernetz betrieben wird</td><td>&rarr; LegalEntity.closed_distribution_grid</td></tr>
+  <tr><td>T&auml;tigkeitsstatus</td><td>Aktiv / Inaktiv</td><td>&rarr; LegalEntity.status</td></tr>
+  <tr><td>T&auml;tigkeitsbeginn / -ende</td><td>Zeitraum der Netzbetriebs-T&auml;tigkeit</td><td>&rarr; LegalEntity.active_from / active_until</td></tr>
+</table>
+
+<div class="highlight">
+  <strong>Vorteile des Default-Imports:</strong>
+  <ul>
+    <li>Die Vollst&auml;ndigkeit des Wissensraums (F11) kann pr&auml;zise berechnet werden: &bdquo;Wir haben Beschl&uuml;sse f&uuml;r 19 von 872 Stromnetzbetreibern = 2,2%&ldquo;</li>
+    <li>Automatische Entity-Zuordnung bei Dokumentimport &uuml;ber MaStR-Nr. oder Namens-Matching</li>
+    <li>Erkennung ob ein Netzbetreiber <strong>beide Sparten</strong> betreibt (z.B. &bdquo;Bayernwerk Netz GmbH&ldquo; ist in beiden Listen)</li>
+    <li>Erkennung von <strong>inaktiven</strong> Netzbetreibern (T&auml;tigkeitsstatus = Inaktiv, T&auml;tigkeitsende gesetzt)</li>
+  </ul>
+</div>
+
+<div class="note">
+  <strong>Hinweis zu MaStR-Nummern:</strong> Strom-Netzbetreiber haben das Pr&auml;fix <strong>SNB</strong>, Gas-Netzbetreiber
+  das Pr&auml;fix <strong>GNB</strong>. Dasselbe Unternehmen hat f&uuml;r Strom und Gas unterschiedliche MaStR-Nummern.
+  Die Verkn&uuml;pfung erfolgt &uuml;ber den Firmennamen und/oder den ACER-Code.
+</div>
+
+<!-- ============================================================ -->
+<!-- 7C. FESTLEGUNGEN UND DATENDEFINITIONEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="festlegungen">7C. Festlegungen &amp; Datendefinitionen der BNetzA</h2>
+
+<p class="intro">
+  Die Bundesnetzagentur definiert vor jeder Regulierungsperiode per <strong>Festlegung</strong>, welche Daten
+  von den Netzbetreibern erhoben werden. Diese Festlegungen sind die autoritative Quelle f&uuml;r die
+  Ontologie von ngdai &mdash; sie definieren exakt, welche Datenpunkte existieren, wie sie strukturiert sind
+  und in welchem Format sie erhoben werden.
+</p>
+
+<h3>7C.1 Datenerhebung &mdash; &Uuml;berblick</h3>
+
+<p>Die BNetzA erhebt f&uuml;r jede Regulierungsperiode zwei Arten von Daten:</p>
+
+<table>
+  <tr><th>Datenart</th><th>Festlegung</th><th>Erhebungsbogen</th><th>Zweck</th></tr>
+  <tr>
+    <td><strong>Kostendaten</strong></td>
+    <td>BK8-17-0001-A (3.RP) / BK8-21-0009-A (4.RP)</td>
+    <td>EHB_Kostendaten_VNB.xlsx</td>
+    <td>Bestimmung des Ausgangsniveaus und der Kostenanteile f&uuml;r die EOG-Formel</td>
+  </tr>
+  <tr>
+    <td><strong>Strukturdaten</strong></td>
+    <td>BK8-17-0002-A (3.RP) / BK8-21-0009-A (4.RP)</td>
+    <td>Erhebungsbogen_Effizienzvergleich.xlsx</td>
+    <td>Benchmarking &mdash; Effizienzvergleich zwischen Netzbetreibern</td>
+  </tr>
+</table>
+
+<h3>7C.2 Kostendaten-Erhebungsbogen &mdash; Aufbau</h3>
+
+<p>Der Kostendaten-Erhebungsbogen ist ein standardisiertes Excel-Formular mit folgenden Sektionen:</p>
+
+<table>
+  <tr><th>Sektion</th><th>Inhalt</th><th>Bl&auml;tter</th></tr>
+  <tr><td><strong>A: Jahresabschluss</strong></td><td>Gewinn- und Verlustrechnung, Bilanz, R&uuml;ckstellungsspiegel, Darlehensspiegel</td><td>A1.a, A1.b, A2.a, A2.b, A3, A4</td></tr>
+  <tr><td><strong>B: Kostenrechnung</strong></td><td>Kalkulatorisches Eigenkapital, Sachanlagenverm&ouml;gen, Nutzungsdauerhistorie, Anlagenabg&auml;nge, Baukostenzusch&uuml;sse</td><td>B.a, B.b, B1, B2.a&ndash;B2.f, B3</td></tr>
+  <tr><td><strong>C: Nicht beeinflussbare Kosten</strong></td><td>Dauerhaft nicht beeinflussbare Kosten gem. &sect;11 Abs. 2 ARegV (dnbK)</td><td>C</td></tr>
+  <tr><td><strong>D: Erg&auml;nzende Daten</strong></td><td>Messstellenbetrieb, Blindleistung, Regionaler Lohnniveauindex, Redispatch 2.0 (4.RP neu)</td><td>D</td></tr>
+  <tr><td><strong>E: Kapitalflussrechnung</strong></td><td>Cash-Flow-Statement (optional)</td><td>E</td></tr>
+  <tr><td><strong>F: Kontenmapping</strong></td><td>Zuordnung Kontensalden zu GuV-Positionen</td><td>F.a, F.b</td></tr>
+  <tr><td><strong>G: Erl&auml;uterungen</strong></td><td>Freitexterl&auml;uterungen</td><td>G</td></tr>
+</table>
+
+<h3>7C.3 Kostenkategorien im Detail</h3>
+
+<table>
+  <tr><th>Nr.</th><th>Kategorie</th><th>Unterkategorien (Auswahl)</th></tr>
+  <tr><td>1.1</td><td><strong>Aufwandsgleiche Kosten</strong></td><td>Verlustenergie, EEG-/KWK-Einspeisung, Betriebsverbrauch, vorgelagerte Netzbetreiber, Personalkosten, Konzessionsabgaben, Mieten/Pachtzinsen, Versicherungen</td></tr>
+  <tr><td>2</td><td><strong>Kalkulatorische Abschreibungen</strong></td><td>Immaterielle Verm&ouml;gensgegenst&auml;nde, Sachanlageverm&ouml;gen (historische Anschaffungskosten)</td></tr>
+  <tr><td>3</td><td><strong>Kalkulatorische Eigenkapitalverzinsung</strong></td><td>Basierend auf Eigenkapital und festgelegtem Zinssatz (BK 4)</td></tr>
+  <tr><td>4</td><td><strong>Kalkulatorische Gewerbesteuer</strong></td><td>Hebesatz &times; Messbetrag</td></tr>
+  <tr><td>5</td><td><strong>Kostenmindernde Erl&ouml;se (Abzug)</strong></td><td>Netzanschlusskostenbeitr&auml;ge, Baukostenzusch&uuml;sse, R&uuml;ckstellungsaufl&ouml;sungen, Blindstrom-Ertr&auml;ge</td></tr>
+</table>
+
+<h3>7C.4 Strukturdaten f&uuml;r den Effizienzvergleich</h3>
+
+<p>Der Effizienzvergleich (Benchmarking) bestimmt den Effizienzwert jedes Netzbetreibers. Die daf&uuml;r erhobenen Strukturdaten umfassen:</p>
+
+<table>
+  <tr><th>Datenkategorie</th><th>Parameter</th><th>Einheit</th></tr>
+  <tr><td><strong>Last &amp; Energie</strong></td><td>Jahresarbeit, zeitgleiche Jahresh&ouml;chstlast (je Netzebene)</td><td>MWh, MW</td></tr>
+  <tr><td><strong>Netzstruktur</strong></td><td>Transformatoren (Anzahl, Leistung, Typ), Umspannstationen, Kabelverteilerschr&auml;nke, Schaltstationen (ab 4.RP)</td><td>Stk., kVA</td></tr>
+  <tr><td><strong>Leitungen</strong></td><td>Erdkabel, Freileitungen, Kombinationsanlagen, Stra&szlig;enbeleuchtungskabel (je Netzebene)</td><td>km</td></tr>
+  <tr><td><strong>Anschl&uuml;sse</strong></td><td>Anschlusspunkte (Haushalt, Gewerbe, Industrie, Stra&szlig;enbeleuchtung), Messlokationen (SLP, RLM, Pauschal, Leerstand)</td><td>Stk.</td></tr>
+  <tr><td><strong>Erzeugung</strong></td><td>Dezentrale Erzeugungsanlagen (EEG: Wind, Solar, Biomasse, Wasser; KWKG; Sonstige) &mdash; Anzahl und installierte Leistung</td><td>Stk., kW</td></tr>
+  <tr><td><strong>Einspeisemanagement</strong></td><td>Durchgef&uuml;hrte Ma&szlig;nahmen, abgeregelte Energiemengen, max. gleichzeitig abgeregelte Leistung (ab 4.RP: nach Energietr&auml;ger und Netzebene)</td><td>MWh, MW</td></tr>
+  <tr><td><strong>Geographie</strong></td><td>Versorgte Fl&auml;che (ALKIS-basiert), Bev&ouml;lkerung (inkl. Nebenwohnsitze), Gemeindekennziffern</td><td>km&sup2;, Einwohner</td></tr>
+</table>
+
+<h3>7C.5 &Auml;nderungen von 3.RP zu 4.RP &mdash; Delta-Analyse</h3>
+
+<p class="intro">
+  Die Unterschiede zwischen den Festlegungen der 3. und 4. Regulierungsperiode sind f&uuml;r ngdai essenziell:
+  Sie bestimmen, welche Datenpunkte zwischen den Perioden <strong>vergleichbar</strong> sind und welche
+  <strong>nicht direkt verglichen</strong> werden k&ouml;nnen (weil sie neu, ge&auml;ndert oder entfernt wurden).
+</p>
+
+<h4>Neue Parameter in der 4. RP</h4>
+<table>
+  <tr><th>Parameter</th><th>Beschreibung</th><th>Grund der Einf&uuml;hrung</th></tr>
+  <tr>
+    <td><strong>Schaltstationen</strong></td>
+    <td>Anzahl aller Schaltstationen und Kabelverteilerschr&auml;nke (Wiedereinf&uuml;hrung)</td>
+    <td>Hohe Erkl&auml;rungskraft f&uuml;r Netzkostenstruktur im Benchmarking</td>
+  </tr>
+  <tr>
+    <td><strong>Nicht-steuerbare Ladepunkte</strong></td>
+    <td>Messlokationen nicht-steuerbarer Ladepunkte (neue Kategorie)</td>
+    <td>Energiewende: E-Mobilit&auml;t als neuer Kostentreiber</td>
+  </tr>
+  <tr>
+    <td><strong>Einspeisemanagement-Korrekturen</strong></td>
+    <td>Max. gleichzeitig abgeregelte Leistung, differenziert nach Energietr&auml;ger (Solar, Wind) und Netzebene</td>
+    <td>Erfassung der tats&auml;chlichen Netzbelastung durch Erneuerbare</td>
+  </tr>
+  <tr>
+    <td><strong>Redispatch 2.0 Kosten</strong></td>
+    <td>Kosten aus dem neuen Redispatch-Regime (Sektion D im Kostenbogen)</td>
+    <td>Neues regulatorisches Erfordernis ab 10/2021</td>
+  </tr>
+  <tr>
+    <td><strong>Moderne Messsysteme (MsbG)</strong></td>
+    <td>Detailliertere Kosten f&uuml;r Smart-Meter-Rollout</td>
+    <td>Fortschreitende Digitalisierung der Netze</td>
+  </tr>
+</table>
+
+<h4>Entfernte / ge&auml;nderte Parameter</h4>
+<table>
+  <tr><th>Parameter</th><th>&Auml;nderung</th><th>Auswirkung auf ngdai</th></tr>
+  <tr>
+    <td><strong>Fremdnutzungsanteile Transformatoren</strong></td>
+    <td>Entfernt aus Transformatoren-Z&auml;hlung</td>
+    <td><span class="badge badge-red">Nicht vergleichbar</span> &mdash; 3.RP und 4.RP Transformatoren-Zahlen basieren auf unterschiedlichen Definitionen</td>
+  </tr>
+  <tr>
+    <td><strong>Geographische Fl&auml;che</strong></td>
+    <td>Definition ge&auml;ndert: von &bdquo;Konzessionsgebiet&ldquo; zu &bdquo;Netzausdehnung&ldquo;</td>
+    <td><span class="badge badge-red">Nicht vergleichbar</span> &mdash; Fl&auml;chenwerte zwischen 3.RP und 4.RP nicht direkt vergleichbar</td>
+  </tr>
+  <tr>
+    <td><strong>Anschlusspunkte-Kategorien</strong></td>
+    <td>Erweiterte Prinzipskizzen, Klarstellungen zu mitversorgten Geb&auml;uden</td>
+    <td><span class="badge badge-yellow">Eingeschr&auml;nkt vergleichbar</span> &mdash; Basiskonzept gleich, Erfassung pr&auml;ziser</td>
+  </tr>
+  <tr>
+    <td><strong>Messlokationen Leerstand</strong></td>
+    <td>Definition erweitert: umfasst jetzt auch sehr niedrigen Verbrauch (nicht nur Null)</td>
+    <td><span class="badge badge-yellow">Eingeschr&auml;nkt vergleichbar</span></td>
+  </tr>
+  <tr>
+    <td><strong>Erhebungsbogen-Format</strong></td>
+    <td>4.RP: Zwei Versionen (mit/ohne Blattschutz)</td>
+    <td><span class="badge badge-green">Kein Einfluss</span> auf Datenvergleichbarkeit</td>
+  </tr>
+</table>
+
+<div class="warning">
+  <strong>Konsequenz f&uuml;r ngdai:</strong> Die Inkonsistenz-Detektion (F9) muss bei Perioden&uuml;berg&auml;ngen
+  pr&uuml;fen, ob ein Datenpunkt zwischen den Perioden <strong>&uuml;berhaupt vergleichbar</strong> ist.
+  Die Verzeichnis-Definitionen (F10) m&uuml;ssen f&uuml;r jeden Datenpunkt eine <strong>Vergleichbarkeitsmatrix</strong>
+  enthalten:
+  <ul style="margin-top:8px;">
+    <li><span class="badge badge-green">VERGLEICHBAR</span> &mdash; Gleiche Definition in beiden Perioden (z.B. Effizienzwert, EOG, EK-Zinssatz)</li>
+    <li><span class="badge badge-yellow">EINGESCHR&Auml;NKT</span> &mdash; &Auml;hnliche Definition, Abweichungen dokumentiert (z.B. Anschlusspunkte)</li>
+    <li><span class="badge badge-red">NICHT VERGLEICHBAR</span> &mdash; Unterschiedliche Definition (z.B. Geographische Fl&auml;che, Transformatoren-Z&auml;hlung)</li>
+    <li><span class="badge badge-blue">NUR 4.RP</span> &mdash; Neuer Datenpunkt, existiert in 3.RP nicht (z.B. Schaltstationen, Redispatch 2.0)</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<!-- 8. INFORMATIONSFLUSS -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="fluss">8. Informationsfluss (End-to-End)</h2>
+
+<p class="intro">
+  Der folgende Ablauf zeigt, wie ein neues Dokument vom Import bis zur Nutzerantwort verarbeitet wird:
+</p>
+
+<div class="flow-step"><div class="flow-num">1</div><div><strong>Verzeichnis-Definition laden (F10)</strong><br>Das System liest die <code>_definition.json</code> des Zielverzeichnisses und wei&szlig; damit: Dokumenttyp, Sparte, Regulierungsperiode und welche Datenpunkte zu erwarten sind.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">2</div><div><strong>Ingestion Pipeline (F3)</strong><br>Das Quelldokument (PDF, XLS, HTML, TXT) wird verlustfrei in JSONL + TXT konvertiert. Die Konvertierung wird automatisch validiert (Zeichenanzahl, Hash). Bei niedrigem Confidence-Score: manuelles Review.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">3</div><div><strong>Entity-Erkennung (F1)</strong><br>Das System identifiziert den Netzbetreiber im Dokument (anhand Aktenzeichen, BNR oder Namens-Matching) und verkn&uuml;pft das Dokument mit der passenden Legal Entity. Falls die Entity noch nicht existiert, wird ein Anlage-Vorschlag generiert.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">4</div><div><strong>Fakten-Extraktion (F4)</strong><br>Geschlossene Extraktion (Schema-basiert) und offene Extraktion (explorativ) laufen parallel. Alle extrahierten Fakten werden mit Anti-Halluzinations-Ma&szlig;nahmen validiert (Doppel-Extraktion, Regex, Source-Grounding). Jeder Fakt erh&auml;lt eine Source-Ref.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">5</div><div><strong>Knowledge Graph Update (F5)</strong><br>Die validierten Fakten werden als neue Knoten und Kanten in den Knowledge Graph eingetragen. Beziehungen zu bestehenden Entities, Perioden und Subject Matters werden automatisch hergestellt.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">6</div><div><strong>Inkonsistenz-Check (F9)</strong><br>F&uuml;r jeden neuen Fakt pr&uuml;ft das System: Gibt es bereits einen Fakt mit derselben Entity, demselben Merkmal und demselben Zeitbezug? Falls ja und die Werte unterschiedlich sind: Inkonsistenz-Flag setzen gem&auml;&szlig; der Regelmatrix.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">7</div><div><strong>Query-Template-Update (F7)</strong><br>Alle Query-Instanzen, die von den neuen Daten betroffen sind, werden im Backoffice neu ausgewertet. Neuer Snapshot wird erstellt, Delta zum vorherigen Snapshot berechnet. Bei signifikanten Deltas: Nutzer wird benachrichtigt.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">8</div><div><strong>Epistemische Neubewertung (F11)</strong><br>Die Wissensraum-Metriken (Vollst&auml;ndigkeit, Konsistenz, Verl&auml;sslichkeit) werden f&uuml;r alle betroffenen Informationsr&auml;ume (Entity-IR, Subject-IR, Mix-IR) aktualisiert.</div></div>
+
+<hr style="margin:30px 0;border:none;border-top:1px dashed #ccc;">
+<p style="text-align:center;color:#666;font-style:italic;">Die Schritte 1&ndash;8 laufen im <strong>Backoffice</strong> (beim Daten-Import). Ab hier beginnt die <strong>Runtime</strong>:</p>
+<hr style="margin:30px 0;border:none;border-top:1px dashed #ccc;">
+
+<div class="flow-step"><div class="flow-num">9</div><div><strong>User-Abfrage (F6)</strong><br>Der Nutzer stellt eine Frage. Die Query Engine interpretiert die Frage, f&uuml;hrt eine strukturierte Graph-Abfrage aus (auf den vorberechneten Daten) und liefert das Ergebnis. Bei Bedarf: Semantic Search als Fallback, LLM-Reasoning f&uuml;r Synthese.</div></div>
+<div class="flow-arrow">&darr;</div>
+<div class="flow-step"><div class="flow-num">10</div><div><strong>Antwort mit epistemischer Bewertung</strong><br>Jede Antwort enth&auml;lt die Konfidenz, Datengrundlage und ggf. Warnungen (z.B. &bdquo;Aussage basiert auf nur 10% der Netzbetreiber&ldquo; oder &bdquo;2 Inkonsistenzen in den zugrunde liegenden Daten erkannt&ldquo;).</div></div>
+
+<!-- ============================================================ -->
+<!-- 9. PHASEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="phasen">9. Umsetzungsphasen</h2>
+
+<h3>Phase 1: Fundament (MVP)</h3>
+<p>Ziel: Die grundlegende Pipeline steht. EOG-Beschl&uuml;sse k&ouml;nnen importiert, extrahiert und abgefragt werden.</p>
+<table>
+  <tr><th>Feature</th><th>Umfang</th></tr>
+  <tr><td>F10</td><td>Verzeichnis-Definitionen f&uuml;r alle bestehenden Verzeichnisse erstellen</td></tr>
+  <tr><td>F3</td><td>Ingestion Pipeline: TXT-Passthrough (bestehende Daten) + PDF &rarr; JSONL + TXT</td></tr>
+  <tr><td>F1</td><td>Legal Entity Management mit CRUD und Auto-Erkennung</td></tr>
+  <tr><td>F4</td><td>Geschlossene Extraktion f&uuml;r EOG-Beschl&uuml;sse (Strom + Gas)</td></tr>
+  <tr><td>F5</td><td>Knowledge Graph mit Kern-Ontologie aufsetzen</td></tr>
+  <tr><td>F6</td><td>Query Engine: Strukturierte Graph-Abfragen und Basis-Aggregation</td></tr>
+</table>
+<div class="success"><strong>Ergebnis Phase 1:</strong> Alle EOG-Beschl&uuml;sse (3.RP + 4.RP, Strom + Gas) sind extrahiert, strukturiert und abfragbar. Einfache Vergleiche zwischen Netzbetreibern sind m&ouml;glich.</div>
+
+<h3>Phase 2: Breite</h3>
+<p>Ziel: Alle Dokumenttypen werden unterst&uuml;tzt. Thematische Abfragen werden erm&ouml;glicht.</p>
+<table>
+  <tr><th>Feature</th><th>Umfang</th></tr>
+  <tr><td>F3+</td><td>Verbesserte PDF-Konvertierung, XLS-Support</td></tr>
+  <tr><td>F4+</td><td>Extraktionsschemas f&uuml;r Gesch&auml;ftsberichte, &sect;23b, &sect;23c + offene Extraktion</td></tr>
+  <tr><td>F2</td><td>Subject Matter Management</td></tr>
+  <tr><td>F5+</td><td>Ontologie-Erweiterung: Subject Matter als Dimension</td></tr>
+  <tr><td>F6+</td><td>Semantische Suche als Fallback</td></tr>
+</table>
+<div class="success"><strong>Ergebnis Phase 2:</strong> Alle Dokumenttypen werden verarbeitet. Thematische Abfragen &uuml;ber alle Unternehmen m&ouml;glich. Die offene Extraktion liefert Vorschl&auml;ge f&uuml;r neue Ontologie-Eintr&auml;ge.</div>
+
+<h3>Phase 3: Tiefe</h3>
+<p>Ziel: Das System erkennt Widerspr&uuml;che, bewertet Wissensqualit&auml;t und trackt Ver&auml;nderungen &uuml;ber die Zeit.</p>
+<table>
+  <tr><th>Feature</th><th>Umfang</th></tr>
+  <tr><td>F7</td><td>Persistente Query-Templates mit Snapshots und Delta-Berechnung</td></tr>
+  <tr><td>F9</td><td>Vollst&auml;ndige Inkonsistenz-Detektion mit Regelmatrix</td></tr>
+  <tr><td>F11</td><td>Epistemische Bewertung auf allen Informationsraum-Ebenen</td></tr>
+</table>
+<div class="success"><strong>Ergebnis Phase 3:</strong> Das System ist nicht nur eine Datenbank, sondern ein aktiver Qualit&auml;tssicherer: Es findet Widerspr&uuml;che, bewertet die Belastbarkeit seiner Aussagen und zeigt Ver&auml;nderungen automatisch an.</div>
+
+<h3>Phase 4: Intelligenz</h3>
+<p>Ziel: Das System leitet eigenst&auml;ndig Erkenntnisse, Trends und Prognosen ab.</p>
+<table>
+  <tr><th>Feature</th><th>Umfang</th></tr>
+  <tr><td>F8</td><td>Analyse &amp; Prognose mit reziprokem Hypothesen-Lifecycle und G&uuml;tekriterien</td></tr>
+  <tr><td>F6+</td><td>LLM-Reasoning f&uuml;r komplexe Synthesen und Prognosen</td></tr>
+  <tr><td>F3+</td><td>Crawler f&uuml;r BNetzA-Beschlussdatenbank und weitere externe Quellen</td></tr>
+  <tr><td>F7+</td><td>Cross-Entity-Trend-Erkennung (wenn viele Instanzen das gleiche Delta zeigen)</td></tr>
+</table>
+<div class="success"><strong>Ergebnis Phase 4:</strong> ngdai generiert eigenst&auml;ndig belastbare Hypothesen, identifiziert Branchen&shy;trends und prognostiziert Regulierungs&shy;entwicklungen &mdash; mit transparenter Angabe der Konfidenz und Datengrundlage.</div>
+
+<!-- ============================================================ -->
+<!-- 10. TECHNOLOGIE -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="tech">10. Technologie-Empfehlungen</h2>
+
+<table>
+  <tr><th>Komponente</th><th>Empfehlung</th><th>Begr&uuml;ndung</th></tr>
+  <tr><td>Knowledge Graph</td><td>Neo4j Community oder Apache AGE (PostgreSQL-Extension)</td><td>Graph-native Abfragen mit Cypher. AGE hat den Vorteil, dass alles in einer PostgreSQL-Datenbank bleibt.</td></tr>
+  <tr><td>Vektor-Datenbank</td><td>pgvector (bei AGE) oder Qdrant (dediziert)</td><td>F&uuml;r den Semantic Search Fallback. pgvector passt gut wenn AGE schon auf PostgreSQL l&auml;uft.</td></tr>
+  <tr><td>LLM f&uuml;r Extraktion</td><td>Claude oder GPT-4 via API</td><td>Gro&szlig;es Context-Window f&uuml;r Document-Level-Extraktion. Structured Output f&uuml;r JSON-Antworten.</td></tr>
+  <tr><td>LLM f&uuml;r Reasoning</td><td>Claude oder GPT-4 via API</td><td>F&uuml;r Synthese, Hypothesen-Generierung und Query Understanding.</td></tr>
+  <tr><td>Backend</td><td>Python (FastAPI)</td><td>Bestes &Ouml;kosystem f&uuml;r ML/LLM-Integration, async-f&auml;hig, gro&szlig;e Community.</td></tr>
+  <tr><td>Datenformat</td><td>JSONL + TXT parallel</td><td>JSONL ist streaming-f&auml;hig und maschinenlesbar. TXT als Ground Truth und Safety Net.</td></tr>
+  <tr><td>Task Queue</td><td>Celery + Redis oder Temporal</td><td>F&uuml;r langlebige Backoffice-Jobs (Extraktion, Template-Updates, Inkonsistenz-Checks).</td></tr>
+  <tr><td>Frontend</td><td>Noch offen (siehe Designfragen)</td><td>Abh&auml;ngig von der Zielgruppe: Web-App, CLI oder Notebook.</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 11. OFFENE FRAGEN -->
+<!-- ============================================================ -->
+<h2 id="fragen">11. Offene Designfragen (f&uuml;r die Architekturphase)</h2>
+
+<table>
+  <tr><th>Nr.</th><th>Frage</th><th>Optionen</th></tr>
+  <tr><td>1</td><td>Welche Graph-Datenbank?</td><td>Neo4j (dediziert, ausgereiftes Tooling) vs. Apache AGE (PostgreSQL-nativ, eine DB f&uuml;r alles)</td></tr>
+  <tr><td>2</td><td>LLM-Strategie?</td><td>Ein gro&szlig;es Modell f&uuml;r alles vs. spezialisierte kleinere Modelle pro Extraktionstyp</td></tr>
+  <tr><td>3</td><td>Ontologie-Format?</td><td>JSON-Schema (einfach) vs. OWL/RDF (m&auml;chtig) vs. PropertyGraph-Schema (graph-nativ)</td></tr>
+  <tr><td>4</td><td>UI/UX?</td><td>Web-App vs. CLI-first vs. Jupyter-Notebook-first &mdash; abh&auml;ngig von der Zielgruppe</td></tr>
+  <tr><td>5</td><td>Multi-Tenancy?</td><td>Single-Tenant (ein Unternehmen) vs. Multi-Tenant (SaaS f&uuml;r mehrere Kunden)</td></tr>
+  <tr><td>6</td><td>Embedding-Modell?</td><td>Standard (multilingual-e5) vs. Domain-specific Finetuning f&uuml;r deutschen Regulierungskontext</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 12. RISIKEN -->
+<!-- ============================================================ -->
+<h2 id="risiken">12. Risiken &amp; Mitigationen</h2>
+
+<table>
+  <tr><th>Risiko</th><th>Wahrscheinlichkeit</th><th>Impact</th><th>Mitigation</th></tr>
+  <tr>
+    <td>OCR-Qualit&auml;t der PDF-Quelldokumente ist unzureichend (fehlerhafte Zeichen, verschobene Tabellen)</td>
+    <td class="risk-high">Hoch</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Quality-Flags in der Ingestion Pipeline, manuelle Review-Queue, OCR-Nachbearbeitung wo n&ouml;tig</td>
+  </tr>
+  <tr>
+    <td>LLM halluziniert Zahlen oder erfindet Datenpunkte bei der Extraktion</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-high">Hoch</td>
+    <td>Umfassende Anti-Halluzinations-Strategie (Kapitel 4): Doppel-Extraktion, Source-Grounding, Regex-Validierung, Structured Output</td>
+  </tr>
+  <tr>
+    <td>Ontologie ist zu starr und deckt neue Dokumenttypen nicht ab</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Offene Extraktion mit Feedback-Loop zur dynamischen Ontologie-Erweiterung</td>
+  </tr>
+  <tr>
+    <td>LLM Context-Window zu klein f&uuml;r gro&szlig;e Beschl&uuml;sse (50+ Seiten)</td>
+    <td class="risk-high">Hoch</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Seitenweises Sliding Window mit &Uuml;berlappung und Deduplizierung der Ergebnisse</td>
+  </tr>
+  <tr>
+    <td>System skaliert nicht auf Tausende Dokumente</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-high">Hoch</td>
+    <td>Backoffice/Runtime-Trennung, asynchrone Pipeline, Batch-Processing, inkrementelle Graph-Updates</td>
+  </tr>
+  <tr>
+    <td>Inkonsistenz-Detektion erzeugt zu viele Fehlalarme</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Pr&auml;zise Definitions-Taxonomie (periodenfix vs. variabel), Perioden&uuml;bergang als eigene Kategorie, manuelles Resolution-Tracking</td>
+  </tr>
+</table>
+
+<br><br>
+<hr style="margin-top:60px;">
+<p style="text-align:center;color:#999;font-size:12px;margin-top:20px;">
+  ngdai Produktkonzept &mdash; Version 1.0 &mdash; Stand M&auml;rz 2026<br>
+  Dieses Dokument kann &uuml;ber den Browser als PDF gedruckt werden: <strong>Strg+P &rarr; &bdquo;Als PDF speichern&ldquo;</strong>
+</p>
+
+</body>
+</html>

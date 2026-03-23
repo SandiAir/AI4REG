@@ -1,0 +1,4158 @@
+﻿1 Geschäftsbericht 
+2024
+
+40 Jahre
+Sta
+
+bil
+itä
+
+t 
+un
+
+d
+
+Ver
+än
+
+de
+ru
+
+ng
+
+
+
+Geschäftsbericht 2024 
+Unternehmenskennzahlen
+
+Haushalts- und Gewerbekunden rund 2,45 Mio.
+
+Jahresstrommenge 11.903 GWh
+
+Anzahl der Beschäftigten* 1.977
+
+Auszubildende 144
+
+Anzahl der Stromanbieter, die das Berliner Stromnetz 582
+nutzen (aktiv)
+
+Leitungen (ohne FM-Kabel**) 35.708 km
+
+Investitionen	 366,7 Mio. €
+
+Umsatzerlöse	 1.652,8 Mio. €
+
+Ergebnis nach Steuern 150,9 Mio. €
+
+Konzessionsabgabe an das Land Berlin 138,4 Mio. €
+
+SAIDI*** 8,7 Minuten
+
+*	 im Jahresdurchschnitt
+**	 Fernmeldekabel
+***	 D ie Kennzahl SAIDI (System Average Interruption Duration Index) gibt die durch­
+
+schnittliche Versorgungsunterbrechung (Nichtverfügbarkeit) je angeschlossene*r 
+Letztverbraucher*in innerhalb eines Kalenderjahrs an. Die Kennzahl SAIDIEnWG 
+berücksichtigt nur ungeplante Unterbrechungen, die länger als drei Minuten dauern 
+und auf den Störungsanlässen atmosphärische Einwirkung, Einwirkung Dritter, 
+Zuständigkeit des Netzbetreibers, kein erkennbarer Anlass oder Rückwirkungs­
+störung beruhen. 
+
+
+
+Inhaltsverzeichnis
+4 Vorwort: 140 Jahre Stabilität und Veränderung 
+
+8 Blick zurück nach vorn 
+
+10 Unser Netz: Brutkasten Gendarmenmarkt 
+
+12 Zähler: Digital statt Drehmoment  
+
+14 Umspannwerke: Kathedrälchen der Energiewende 
+
+16 Umspannwerke: Transformation der Transformation
+
+18 Unsere Kund*innen: Immer bessere Anschlussleistung  
+
+20 Mobilität: Berlin wird elektromobil
+
+22 Unsere Mitarbeiter*innen: So bunt und so vielfältig wie Berlin 
+
+24 Bericht über das Geschäftsjahr 2024
+
+25 Lagebericht 
+
+44 Jahresabschluss zum 31.12.2024 der Stromnetz Berlin GmbH 
+
+47 Anhang 
+
+86 Bestätigungsvermerk des unabhängigen Wirtschaftsprüfers 
+
+93 Impressum
+
+
+
+1882 gingen am Potsdamer Platz die 
+ersten elektrischen Straßenlaternen 
+in Berlin in Betrieb, festgehalten auf 
+einem Gemälde von Carl Saltzmann. 
+Damals konnte Strom zunächst „nur“ 
+Licht, heute kann Strom alles.
+
+140 Jahre Stabilität 
+und Veränderung
+Liebe Berliner*innen,
+
+zum Start der elektrischen Straßenbeleuchtung in Berlin im mehr Sichtbarkeit und Sicherheit begrüßten, kritisierten 
+September 1879 wollten Ingenieure der Firma Siemens & Halske andere das in ihren Augen zu grelle Licht. Meinungsfreudig 
+vor dem Roten Rathaus die ersten mit Strom betriebenen Later- waren die Berliner*innen offensichtlich schon damals.
+nen präsentieren. Sie sollten eine Alternative sein zu den damals 
+üblichen Gaslaternen, deren Leuchtkraft überschaubar war. Zu den Kandelabern an der Leipziger Straße mit ihren 
+
+jeweils vier Glühlampen würde man heutzutage wohl 
+Das Problem: Leider gingen sie nicht an. Den Vorführeffekt gab „Leuchttürme“ sagen, selbst in einer wenig maritim 
+es also schon im 19. Jahrhundert. Ein weiterer Versuch ein Jahr geprägten Stadt wie Berlin. Denn das elektrische Licht 
+später am Brandenburger Tor verlief erfolgreicher. Und 1882 der Laternen beleuchtete die Anfänge einer langen 
+gingen an der Leipziger Straße nahe dem Potsdamer Platz die und kraftvollen Erfolgsgeschichte, die bis heute anhält. 
+ersten elektrischen Straßenlaternen dauerhaft in Betrieb. Die Und wir als Unternehmen fügen ihr gerade wesentliche 
+Reaktionen waren uneinheitlich: Während viele den Beitrag für neue Kapitel hinzu.
+
+4 Stromnetz Berlin  
+
+
+
+Mit Spannung umgehen Home-Steuerungen mit Strom aus der Leitung betrieben. Heute 
+In diesem Geschäftsbericht blicken wir gemeinsam mit Ihnen auf bewältigt unser Netz Rechenzentren, deren Strombedarf dem 
+Vergangenheit, Gegenwart und Zukunft des Stromnetzbetriebs ganzer Stadtteile gleichkommt.
+in Berlin. Leider lässt sich die Zukunft nicht uneingeschränkt in 
+die Karten schauen. Wir wagen dennoch einen Blick nach vorn –  Von Leuchttürmchen zu Leuchttürmen
+im vollen Bewusstsein, dass neue und veränderte Anforderungen Aus bescheidenen Anfängen hat sich also unfassbar viel ent- 
+die Zukunft unseres Netzes beeinflussen können. Sicher ist aber wickelt. Aus den Leuchttürmchen des späten 19. Jahrhunderts 
+schon heute, dass wir die Leistung des Netzes mehr als verdop­ sind – im übertragenen Sinne – riesige Leuchttürme geworden, 
+peln werden. die das Leben und Arbeiten in Berlin möglich machen, versorgen, 
+
+erleichtern, bewegen, antreiben, navigieren, mobilisieren, verbes- 
+Aber auch in der Zukunft wird es für uns in erster Linie darum sern und nach wie vor ins rechte Licht setzen. Das Stromnetz ist 
+gehen, Elektronen durch Leitungen zu bewegen. Und das sicher heute die Basisinfrastruktur für Berlin. Nicht mehr, nicht weniger. 
+und zu jeder Zeit. Gerade die Balance aus Stabilität und Verän- Viele unserer Mitarbeiter*innen sind darauf sehr stolz und freuen 
+derung macht unsere Arbeit so reizvoll und spannend. Und mit sich, jeden Tag daran mitarbeiten zu dürfen.
+Spannung können wir schon seit 140 Jahren gut umgehen.
+
+Vor allem unsere Hochspannungsanlagen, also Umspannwerke 
+Wie sehr sich Elektrizität im Leben der Stadt und ihrer und Netzknoten, sind die Leuchttürme der Neuzeit. Von diesen 
+Bewohner*innen durchsetzen würde, konnten Ende des  Leuchttürmen errichten wir derzeit und in den nächsten Jahren 
+19. Jahrhunderts vermutlich nur wenige Menschen ahnen.  mehrere neue. Außerdem legen wir 6.000 Kilometer neue Kabel.
+Emil Rathenau konnte es.
+
+Vom technischen Grundprinzip her unterscheidet sich die 
+1884, also vor genau 140 Jahren, gründete Rathenau das erste Stromverteilung heute kaum von der des Jahres 1954: Seitdem 
+unserer Vorgängerunternehmen: die Aktiengesellschaft „Städti­ fließt im gesamten Berliner Netz Drehstrom durch die Leitungen. 
+sche Elektricitäts-Werke“. Im August 1885 floss am Gendarmen- Über 99 % unseres Leitungsnetzes sind unterirdisch verlegt. 
+markt zum ersten Mal in der Berliner Geschichte Strom durch Unser Netz ist im Stadtgebiet also oft genauso wenig sichtbar 
+ein öffentliches Netz. Zwei Kilometer lang war dieses Netz. wie die Tunnelsysteme von Maulwürfen.
+Übertragen wurde Gleichstrom unter anderem zum Königlichen 
+Schauspielhaus, zur Reichsbank und zum damals weltberühmten Unvermeidbare Maulwurfshügel
+Café Bauer. In der Mitte der Stadt gingen damals an fast jeder Die Ähnlichkeiten mit Maulwürfen und ihren unterirdischen Netz- 
+Ecke die Lichter an. Berlin galt als die am besten beleuchtete werken sind rein symbolisch zu verstehen. Erstens scheuen unsere 
+Stadt der Welt. Mitarbeiter*innen keineswegs das Tageslicht, sondern sind Tag 
+
+und Nacht unterwegs und koordinieren ihre Arbeiten in Teams.
+Elektropolis: als der Strom Berlin eroberte
+Während der 20er-Jahre, also vor 100 Jahren, erblühte Berlin 
+sogar zur „Elektropolis“, zur Welthauptstadt der Elektrizität. „Es geht längst nicht mehr nur um  
+Fast überall in Berlin blinkte, strahlte und glitzerte es, weil neue 
+
+Beleuchtung. Es geht um fast alles.“
+Kraft- und Umspannwerke und viele neue Leitungen gebaut 
+worden waren, über die der Strom für das viele Licht kam. Die 
+äußeren Hüllen der Umspannwerke mit ihrer klassischen roten 
+Klinkerstruktur gibt es zum Teil immer noch, sie prägen zahlreiche Zweitens bestehen die Stellen, an denen unser Stromnetz an die 
+Kieze, und – Überraschung! – in vielen von ihnen machen wir heute Erdoberfläche vorstößt, nicht aus kleinen braunen Hügeln mitten 
+noch Betrieb. auf dem Rasen, sondern aus Kabelverteilerschränken, Netzstatio- 
+
+nen und Umspannwerken, die sich mitunter – wenngleich nicht 
+Inzwischen ist unser Netz etwa 36.000 Kilometer lang und versorgt immer – so ins Stadtbild einfügen, dass sie kaum erkennbar sind. 
+2,4 Millionen Anschlüsse. Und es geht längst nicht mehr nur um Aber sie sind unvermeidlich, wenn wir die Versorgung Berlins 
+Beleuchtung. Man könnte sagen: Es geht um fast alles. sichern und das Netz ausbauen wollen. So wie Maulwurfshügel 
+
+notwendig sind, um unterirdische Gänge zu belüften.
+Gewachsen ist unser Stromnetz in 140 Jahren immer, weil die 
+Anforderungen, Bedarfe und Wünsche der Menschen gewachsen Wir tun viel dafür, dass unsere oberirdischen Anlagen nicht auf- 
+sind: Zunächst ging es um Licht in den Gebäuden und davor. fallen oder im besten Fall sogar gefallen. Mit dem Stromkasten-
+Schon Ende der 1880er-Jahre kam die Versorgung erster elek- Styling haben wir seit 2009 bereits mehr als die Hälfte unserer 
+trischer Geräte dazu. In Häusern und Wohnungen wurden in den Betriebsmittel mit der Hilfe kreativer Jugendlicher verschönert. 
+folgenden Jahren und Jahrzehnten Aufzüge, Elektroherde, Die Fassaden unserer Umspannwerke können manchmal nur 
+Fernsehgeräte, Gaming-Konsolen, Wärmepumpen oder Smart- Expert*innen von Wohn- oder Bürohäusern unterscheiden.
+
+Geschäftsbericht 2024 5
+
+
+
+Unsere unterirdischen Anlagen, also vor allem die Stromkabel, voltampere (MVA) eingeführt. Zum Vergleich: Ein Einfamilienhaus 
+müssen irgendwann mal neu verlegt oder ersetzt werden. Das kommt mit einer Anschlusskapazität von etwa 15 Kilovoltampere 
+geht nicht ohne Baumaßnahmen. Wir sind uns bewusst, dass (kVA) aus. Das neue Verfahren betrifft dementsprechend nur 
+unsere Ausbauarbeiten eine Belastung für die Anwohner*innen einen geringen Teil unserer Kund*innen.
+und für den Straßenverkehr mit sich bringen können. Unter 
+anderem deshalb stellen wir uns auch der Aufgabe einer verbes- Wir haben das neue Zuteilungsverfahren eingeführt, weil die 
+serten berlinweiten Baustellenkoordination. Anfragen für sehr große Netzanschlüsse die Kapazität, die wir 
+
+jährlich zubauen können, deutlich übersteigen. Unser Ziel bei 
+Wesentliche Voraussetzung dafür ist die gemeinsame Nutzung dem Verfahren ist, möglichst viele Anfragen unserer großen 
+des infreSt-Baustellenatlas, dessen verpflichtende Anwendung Kund*innen möglichst gut zu bedienen. Die Senatsverwaltung 
+und weitere Schritte sich in unserem infrastrukturübergreifenden für Wirtschaft, Energie und Betriebe und Berlin Partner sind von 
+Baustellenkoordinierungskonzept wiederfinden. Diese Zielsetzung Anfang an in unsere Planungen eingebunden gewesen und 
+hat das Berliner Abgeordnetenhaus jüngst in einem Beschluss haben uns bei der Entwicklung und Kommunikation des Verfah­
+bestätigt.  rens unterstützt. Dafür sind wir sehr dankbar.
+
+Dimension und Geschwindigkeit Vergrößert hat sich 2024 auch die kommunale Energiefamilie: 
+Zurzeit betreibt das Berliner Stromnetz also Muskelaufbau: Wir Mit der Berliner Energie und Wärme AG (BEW) sind die meisten 
+befinden uns in einem Wachstumsschub, wie ihn unser Netz der Berliner Kraftwerke und das Fernwärmenetz wieder in der 
+noch nie erlebt hat. Dieser Schub ist eine Frage von Dimension Hand des Landes Berlin und damit der Bürger*innen unserer 
+und Geschwindigkeit. Wir müssen unserem Netz nicht nur neue Stadt. Im Mai haben wir mit der BEW „140 Jahre Strom für Berlin“ 
+und größere Muskeln, also mehr Leistungsfähigkeit antrainieren, gefeiert, gemeinsam mit vielen unserer Partner*innen aus Politik, 
+wir müssen das auch sehr schnell tun. Verwaltung und Stadtgesellschaft. Auch bei dieser Feier sind das 
+
+große Interesse an unserem Ausbauprogramm und das große 
+Denn der Stromhunger unserer Kund*innen wird weiterhin wach- Vertrauen spürbar gewesen, das in uns, unsere Arbeit und unsere 
+sen. Diesem Hunger gerecht zu werden, ist unsere Versorgungs­ Konzepte gesetzt wird.
+aufgabe. Dementsprechend geht unser Netz auf Expansionskurs. 
+Bis 2033 verdoppeln wir seine Leistungskapazität und bauen Mehr als 2.000 Beschäftigte
+dafür neue Werke, neue Leitungen und neue Anschlüsse. Die  Um mehr zu bauen und schneller zu werden, benötigen wir kluge 
+2,2 Gigawatt Netzkapazität, die wir bis heute erreicht haben, Köpfe und neue Ideen. Wir haben viele neue Mitarbeiter*innen 
+verdoppeln wir aber nicht etwa in 140, sondern in gerade einmal eingestellt und die Marke von 2.000 Beschäftigten überschritten. 
+zehn Jahren. Wir begeistern nicht nur viele neue Kolleg*innen: Wir sind 
+
+unsererseits begeistert von den hoch qualifizierten Fachkräften 
+Soll ein Stromnetz wachsen, braucht es Material: 2024 haben und smarten Auszubildenden, die bei uns arbeiten und Verant­
+wir zahlreiche Großaufträge für Transformatoren auf den Weg wortung für die Energiewende in Berlin übernehmen. Denn das 
+gebracht – unser Bedarf ist damit für die nächsten Jahre gesichert. merken wir immer wieder in den Bewerbungsgesprächen: Für 
+Außerdem haben wir besonders klimafreundliche Schaltanlagen das Netz zu arbeiten, ist attraktiv, weil es bedeutet, unmittelbar 
+ausgeschrieben. Damit kommen wir auf unserem Weg zu mehr für die Energiewende zu arbeiten.
+Nachhaltigkeit einen großen Schritt voran, denn wie das Land 
+Berlin wollen auch wir spätestens 2045 treibhausgasneutral sein. Kennen Sie jemanden, die oder der gut zu uns und unseren 
+
+Aufgaben passen könnte? Dann empfehlen Sie uns gern als 
+Wir bauen unser Netz nicht nur mit traditionellen Materialien wie zukunftssicheren Arbeitgeber.  
+Stahl, Kupfer oder Aluminium. Wir sorgen außerdem dafür, dass  
+unsere Assets noch schlauer werden und sich intelligenter Mit Straßenlaternen haben wir angefangen. Heute beschäftigen 
+steuern lassen. Dank großflächiger Digitalisierung wissen wir wir uns mit dem Anschluss von Ladeinfrastruktur, Wärmepumpen, 
+heute noch genauer als vor einigen Jahren, in welchem Zustand Photovoltaik und sogar mit Rechenzentren. Was auch immer 
+sich unser Stromnetz befindet und wo wir vielleicht eingreifen danach kommt: Das Stromnetz wird da sein, so wie es in den 
+müssen, damit die Versorgung von 3,8 Millionen Berliner*innen vergangenen 140 Jahren da gewesen ist.
+auf dem gewohnt hohen Niveau bleibt.
+
+Neues Zuteilungsverfahren für Großkund*innen
+Wachstum gelingt nur mit verlässlichen Partner*innen an unserer 
+Seite. Ein Beispiel: 2024 haben wir ein neues Zuteilungsverfahren 
+für Anschlussanfragen mit einer Leistungskapazität ab 3,5 Mega- 
+
+6 Stromnetz Berlin  
+
+
+
+Dr. Erik Landeck Bernhard Büllmann 
+Vorsitzender der Geschäftsführung Geschäftsführer 
+Stromnetz Berlin GmbH Stromnetz Berlin GmbH
+
+Geschäftsbericht 2024 7
+
+
+
+8 Stromnetz Berlin  
+
+
+
+Blick zurück  
+nach vorn
+140 Jahre Strom für Berlin – dieses Jubiläum haben Dieser Bericht ist also eine Einladung an Sie, und 
+wir 2024 feiern können. Mit der Gründung der zwar zu einer Zeitreise in zwei Richtungen: in das 
+Städtischen Elektricitäts-Werke AG nahm 1884 eine zum Teil weit zurückliegende Gestern und in das 
+bewegte und bewegende Geschichte ihren Anfang, Morgen. Ein bisschen Heute ist selbstverständlich 
+die neben viel Stabilität und Stringenz genauso viel auch dabei, schließlich ist das Heute das Morgen  
+Abwechslung und viel Spannung beinhaltet – das von gestern. Begleitet werden Sie dabei von Elektra, 
+liegt bei Strom in seiner Natur. die schon vor 140 Jahren den Beginn des elektri­
+
+schen Zeitalters in Berlin symbolisierte.
+In diesem Geschäftsbericht schauen wir aber nicht 
+bloß in den Rückspiegel. Das wäre nicht hilfreich, Das Stromnetz ist seit 140 Jahren ein verlässlicher 
+wenn wir unser Unternehmen und das Berliner Partner der Stadt und aller Berliner*innen. Das wird 
+Stromnetz so zukunftsorientiert weiterentwickeln auch so bleiben. Denn Strom werden unsere 
+wollen, wie wir das derzeit tun: Bis 2033 verdoppeln Kund*innen in 140 Jahren genauso benötigen wie 
+wir die Kapazität unseres Netzes. gestern und heute. Unter anderem für Zeitreisen.
+
+Geschäftsbericht 2024 9
+
+
+
+Unser Netz:
+
+Brutkasten  
+Gendarmenmarkt
+1884–1910
+Das erste Stromnetz Berlins entsteht unter dem Gendarmenmarkt: Die Leitun­
+gen führen vom Kraftwerk an der Markgrafenstraße zu einer Blockstation in der 
+Friedrichstraße. Versorgt werden das Königliche Schauspielhaus, die Reichs­
+bank und bald auch das Café Bauer: Dessen Gäste wollen die 800 ausgelegten 
+Tageszeitungen nicht mehr unter dem Funzellicht von Gaslampen lesen müssen. 
+1887 werden die Kabelnetze der Kraftwerke Markgrafen- und Mauerstraße mit­
+einander gekoppelt. Die ersten Netze verteilen noch Gleichstrom, 1910 beginnt 
+der Bau von Drehstromnetzen. Damals ist Berlin dank AEG und Siemens nicht 
+nur eine Stadt des Lichts, sondern auch der Kabel: In mehreren Werken werden 
+Leitungen entwickelt und produziert, häufig in Kooperation mit den Städtischen 
+Elektricitäts-Werken.
+
+1884–
+1910
+
+Im Kraftwerk Markgrafenstraße wurde zum ersten Mal in 
+Berlins Geschichte in großem Maßstab Strom erzeugt und 
+von dort aus über ein öffentliches Netz verteilt.
+
+10 Stromnetz Berlin  
+
+
+
+2034 
+Am Gendarmenmarkt, Das Berliner Kabelnetz ist in zehn Jahren um 6.000 Kilometer ge- 
+wo fast alle städtischen wachsen. Das bedeutet mehr Aufwand für Wartung, Instandhaltung 
+Infrastrukturen zusam-
+mentreffen, haben wir und Reparaturen. Dafür nutzen wir moderne Technologie: Bevor 
+die gesamte Elektroins- Baumaßnahmen beginnen, prüfen wir mit Drohnen die Umgebung. 
+tallation erneuert. Defekte Kabel bergen wir unterirdisch mit einem Spülkopfverfahren, 
+
+mit dem ein Rohr um das Kabel gelegt wird. Durch das wird das 
+alte Kabel herausgezogen und das neue eingezogen. Damit vermei- 
+den wir das Aufgraben von Straßen oder Gehwegen. In die Jahre 
+gekommene Anschlussmuffen tauschen wir direkt im Kabelgraben 
+durch ein Ersatzteil aus dem 3D-Drucker aus.
+
+2034
+
+2024
+
+2024 
+140 Jahre nach Inbetriebnahme des allerersten Berliner 
+Stromnetzes ist am Gendarmenmarkt eine ganz neue 
+Stromversorgung entstanden. Zwei neue Netzstationen 
+wandeln den Strom aus der Mittelspannung (10 kV) in 
+Niederspannung (0,4 kV) um. Von dort aus wird die elek- 
+trische Energie an den Deutschen und Französischen 
+Dom, das Schauspielhaus und 29 Entnahmestellen 
+verteilt, deren Abdeckungen in die denkmalgerecht 
+gepflasterte Oberfläche des Platzes eingelassen sind. 
+Sie halten 40 Tonnen schwere Lkw aus und versorgen 
+zum Beispiel den Winterzauber-Weihnachtsmarkt oder 
+das Classic Open Air. Auch die historischen Kandelaber 
+haben wir erneuert.
+
+Für schlanke Planungsprozesse und schnelle Baupro­
+jekte der Zukunft schaffen wir die Grundlagen: Wie 
+müssen virtuelle Modelle von Trassen oder Umspann­
+werken gestaltet sein, damit wir gemeinsam mit unseren 
+Kooperationspartnern daran arbeiten können? Unter 
+welchen Bedingungen können wir Technologien wie 
+Künstliche Intelligenz künftig einsetzen? Mit dem Aufbau 
+
+Mit Drohnen erfassen wir in Zukunft mögliche Trassen- 
+eines geschützten Labors, in dem wir KI-Anwendungen verläufe und finden so neue und besonders effiziente Wege  
+testen, haben wir bereits begonnen. Bis dahin ist der für den Strom.
+
+Bau neuer Stromleitungen noch viel Bagger- und Hand- 
+arbeit, zum Beispiel beim Ziehen von Kabeln.
+
+Geschäftsbericht 2024 11
+
+
+
+Seit 1885 werden in Berlin Stromzähler verbaut, um den 
+Verbrauch zu messen. Die Zahl der installierten Modelle 
+geht in die Tausende.
+
+1920–
+1930
+
+Zähler:
+
+Digital statt
+Drehmoment
+1920–1930   
+Das dramatische Wachstum des Berliner Stromnetzes Am 2. September 1930 war Zähler Nr. 1.000.000 an  
+in dieser Zeit lässt sich anhand der Zahl der installierten der Reihe. Anfang der 20er-Jahre waren in Berlin 150  
+Stromzähler ablesen: Im Juni 1924 wurde der 250.000.  verschiedene Zähler-Bauarten in Betrieb. Der Ferraris- 
+Zähler montiert. 1927 waren es bereits 500.000, damit  Zähler mit sich drehender Scheibe setzte sich durch.
+war die Hälfte aller Berliner Haushalte am Netz.  
+
+12 Stromnetz Berlin  
+
+
+
+2024 
+Der Austausch der mechanischen Ferraris-Zähler gegen 
+digitale Messgeräte läuft nach Plan. Mittlerweile sind in 
+Berlin 1.000.000 moderne Messeinrichtungen verbaut, bis 
+Ende 2032 werden alle herkömmlichen Zähler ersetzt.  
+Bei Kund*innen mit einem Jahresverbrauch von mehr als 
+6.000 kWh sowie für Erzeugungsanlagen zwischen 7 und 
+100 kW Leistung bauen wir intelligente Messsysteme ein. 
+Bei Letzteren misst der Zähler beides: Stromverbrauch 
+und ins Netz eingespeiste erneuerbare Energie. Berlinweit 
+sind 50.000 intelligente Messsysteme verbaut. Bis Ende 
+2025 kommen 27.500 dazu. Dann werden 4.800 Smart 
+Meter in den Liegenschaften der öffentlichen Verwaltung 
+montiert sein.
+
+2024
+Franziska Giffey, Senatorin für  
+Wirtschaft, Energie und Betriebe,  
+bei der Installation eines intelligenten 
+Messsystems im Seniorenclub  
+„Am Mühlenberg“ in Schöneberg.
+
+2040
+
+2040 
+Als Netz- und Messstellenbetreiber dürfen wir Ver-
+brauchseinrichtungen wie Wärmepumpen oder  
+Wallboxen zeitweise im Leistungsbezug reduzieren,  
+wenn das die Netzstabilität erfordert – selbstverständ-
+lich nur bis zu einer Mindestgrenze, die Versorgung  
+des Haushalts bleibt unangetastet. Viele unserer 
+Kund*innen ermöglichen das und profitieren von redu- 
+zierten Netzentgelten. Die fortschreitende Digitalisie-
+rung erlaubt sogar zeitvariable Netzentgelte. Die 
+Kund*innen ziehen also einen dreifachen Nutzen: Ihre 
+Stromkosten sinken, die Stromversorgung ist noch 
+sicherer und das Klima freut sich über die geringen 
+Emissionen von mit Strom betriebenen Autos und 
+Heizungen.
+
+Über ein Smart-Meter-Gateway lassen sich  
+Verbrauchseinrichtungen wie zum Beispiel  
+Ladepunkte so steuern, dass das Stromnetz 
+entlastet wird.
+
+Geschäftsbericht 2024 13
+
+
+
+Umspannwerke:
+
+Kathedrälchen  
+der Energiewende
+
+1920–1929
+Ab 1923 entstehen an vielen Orten der 
+Stadt neue Umspannwerke: Kathedralen der 
+Elektrizität. Sie sind bewusst groß dimensio­
+niert, um die Leistungsfähigkeit des noch 
+relativ jungen Energieträgers zu zeigen. 
+Deshalb werden sie dort erbaut, wo sich die 
+Berliner*innen den Strom auch leisten 
+können. Hunderte Maurer*innen arbeiten auf 
+den Baustellen, Bauzeit: zwei bis drei Jahre. 
+1928 fließt erstmals innerhalb Berlins Strom 
+mit einer Spannung von 110 kV.
+
+Eines der ersten großen Umspannwerke war das 
+Werk Scharnhorst, erbaut 1928, wie viele andere 
+große Anlagen nach Plänen des Bewag-Haus-
+architekten Hans-Heinrich Müller.
+
+1920–
+1929
+
+2024–
+2033
+
+2024–2033  
+In 71 vergleichsweise kompakten toren durch neue. Bei Planung und  
+Umspannwerken wird Strom von der Bau setzen wir auf Standardisierung: 
+Hoch- auf Mittelspannung transfor­ Struktur und Technologie sind iden- 
+miert: von 110 kV auf 10 kV. In den tisch, die Außenhüllen aber unter­
+nächsten Jahren gehen fünf neue scheiden sich. Neue Werke fügen 
+Umspannwerke in Betrieb. Außerdem sich architektonisch individuell in ihre 
+ersetzen wir viele ältere Transforma- städtebauliche Umgebung ein.
+
+So vielgestaltig die Berliner Architektur, so vielgestaltig sind die 
+äußeren Hüllen unserer Umspannwerke und Netzknoten. Bei der 
+Gestaltung nehmen wir schon heute Rücksicht auf städtebauliche 
+Belange und gehen auf Wünsche der Anwohner*innen ein.
+
+14 Stromnetz Berlin  
+
+
+
+In Zukunft wird es noch mehr 
+darauf ankommen, dass sich un- 
+sere Umspannwerke möglichst 
+gut und intelligent in die Bebau- 
+ung der Umgebung einfügen. 
+Dennoch dürfen sie durch Glas 
+oder Begrünung architektoni-
+sche Akzente setzen. Mit einer 
+modularen Bauweise sparen wir 
+Zeit und Aufwand.
+
+2045
+
+2045
+Schaltanlagen in Umspannwerken müssen isoliert werden. Das gelingt  
+am besten mit dem Isoliergas Schwefelhexafluorid (SF6). Das ist allerdings 
+klimaschädlich. In allen neuen Umspannwerken wenden wir SF6 nicht  
+mehr an, sondern Isoliergase, die weniger Auswirkungen auf das Klima haben.  
+Die Schaltanlagen haben dann einen größeren Platzbedarf – sie benötigen  
+30 bis 40 % mehr Platz. Die Umspannwerke der Zukunft sind auch aufgrund 
+der Energiewende, gewachsenen Strombedarfs in der Stadt und wegen  
+gestiegener Brandschutzanforderungen größer. Für die älteren Werke, die 
+noch SF6 nutzen, erwerben wir CO2-Zertifikate. Bilanziell werden wir so  
+bis 2045 treibhausgasneutral.
+
+Mehr von unseren Umspannwerken  
+der Zukunft zeigen wir Ihnen auf der  
+nächsten Seite. 
+
+Geschäftsbericht 2024 15
+
+
+
+Umspannwerke:
+
+Transformation  
+der Transformation
+Auch in Zukunft dienen unsere Umspannwerke dazu, an Die nachhaltige Architektur integriert sich möglichst 
+vielen Orten der Stadt Strom zu transformieren und zu subtil ins bauliche Umfeld oder wertet Straßenzüge 
+verteilen. Die Bauwerke, deren Höhe und Volumen sich sogar auf. Außerdem führt die modulare Bauweise mit 
+aus den technischen Anforderungen ergeben, sind Just-in-time-Lieferung der technischen Komponenten 
+gleichzeitig interessante und von den Bürger*innen ge- zu kurzen Bauzeiten und minimiert die Belastung der 
+schätzte Nachbarn. Denn sie übernehmen als Knoten- Anwohner*innen. So werden unsere großen Anlagen  
+und Verteilpunkte weitere Netzfunktionen, zum Beispiel zu integralen Stadtbausteinen.
+als Strom- oder Datenspeicher. Sie können auch Abwärme 
+in Quartiernetze einspeisen.
+
+16 Stromnetz Berlin  
+
+
+
+Hinweis: Diese Bilder wurden mit 
+Künstlicher Intelligenz erzeugt. 
+Sie stellen keine echte Planung 
+dar, sondern zeigen Zukunfts-
+visionen ohne konkrete Bezüge.
+
+Geschäftsbericht 2024 17
+
+
+
+Unsere Kund*innen:
+
+Immer bessere 
+Anschlussleistung
+1888–1933 
+Im vordigitalen Zeitalter heißen Kund*innen noch Abnehmer. 1888 
+eröffnen die Städtischen Elektricitäts-Werke (StEW) ihr erstes 
+Verkehrsbüro in der Friedrichstraße. Anfang der 30er-Jahre gibt es 
+acht solcher Büros in allen Teilen der Stadt. Dort können Kund*innen 
+einen Netzanschluss für ihr Wohngebäude beantragen oder sich zur 
+Elektroinstallation in ihrem Haushalt beraten lassen.
+
+1888–
+1933
+
+An der Ecke Schiffbauerdamm/Luisenstraße in Mitte stand 
+eine der ersten Firmenzentralen der BEWAG. Dort gab es 
+auch einen Vorführraum und ein Kundenbüro.
+
+18 Stromnetz Berlin  
+
+
+
+Datacenter haben einen enormen Strombedarf. Um die vielen 
+anfragenden Kund*innen möglichst gut zu bedienen, haben 
+wir 2024 ein neues Zuteilungsverfahren für besonders große 
+Anschlussleistungen eingeführt.
+
+2024 
+Unsere Kund*innen sind anspruchsvoller geworden – wir spüren das zum Bei­
+spiel an der Zahl der Anfragen für Netzanschlüsse mit sehr großer Leistungs­
+kapazität. Solche Anfragen machen 0,1 % der Gesamtzahl aus, sie stehen 
+aber für 93 % der angefragten Leistung. Um möglichst viele große Kund*innen 
+möglichst gut bedienen zu können, verteilen wir die verfügbare Anschluss-
+kapazität ab 2025 einmal jährlich gleichmäßig, fair und diskriminierungsfrei an 
+alle Großkund*innen, die am Verfahren teilnehmen.
+
+2034
+
+2024
+
+2034 
+Anschlusskund*innen, Betreiber*innen von PV-Anlagen, 
+Kund*innen mit steuerbaren Verbrauchseinrichtungen – 
+sie alle nutzen die modernen und leicht zu bedienen­
+den Lösungen in unserem Serviceportal. Auch dank 
+Künstlicher Intelligenz dauert es in den meisten Fällen 
+nur wenige Tage, bis ein Anschlussbegehren von uns 
+geprüft und bewilligt wird und die Bauarbeiten starten. 
+Außerdem hat sich durch eine immer bessere digitale 
+Überwachung unseres Netzes die Versorgungsqualität 
+in Berlin noch weiter verbessert: Wir haben unser Netz 
+auf allen Spannungsebenen permanent im Blick und 
+können so zum Beispiel Störungen erkennen, bevor sie 
+überhaupt auftreten.
+
+Im Dienst unserer Kund*innen nutzen wir in Zukunft immer 
+mehr digitale Möglichkeiten, um das Stromnetz noch zuver-
+lässiger zu machen.
+
+Geschäftsbericht 2024 19
+
+
+
+Ladeinfrastruktur für  
+E-Fahrzeuge gab es in Berlin 
+auch schon vor 100 Jahren. 
+
+1904–
+1914
+
+Mobilität  1904–1914 
+Elektromobilität hat in Berlin beinahe Tradition, wenn­
+
+Berlin wird gleich nicht ohne Unterbrechungen: Schon Anfang des 
+20. Jahrhunderts errichteten die Berliner Elektricitäts-
+Werke erste Ladestellen für mit Strom betriebene 
+
+elektromobil Fahrzeuge. 1914 waren 208 Elektromobile und über 
+500 Elektrodroschken in der Stadt unterwegs. Genutzt 
+wurden die Fahrzeuge vor allem von Feuerwehr, Post 
+und Straßenreinigung. Geladen wurden die Fahrzeug­
+batterien an 57 Ladestellen.
+
+2024  
+Die angebliche E-Auto-Krise ist in der Berliner 
+Ladeinfrastruktur kaum spürbar. Ende 2023 2024
+gab es stadtweit 31.000 Ladepunkte (öffent-
+lich und privat). 2024 haben wir über 2.900 
+Ladeinfrastrukturen bei unseren Kund*innen 
+ans Netz angeschlossen. Im vierten Quartal 
+ging die Zahl der Anschlüsse kräftig nach oben: 
+26 % Zuwachs gegenüber dem vierten Quartal 
+2023. Die Zahl der Schnelllade-Hubs zum 
+Beispiel an Tankstellen nimmt zu. Über 75.000 
+E-Fahrzeuge sind in Berlin zugelassen.  
+Die BVG stellt ihre Busflotte weitgehend auf 
+Elektroantrieb um.
+
+Der Ausbau der E-Ladeinfrastruktur in Berlin  
+hat sich weiter beschleunigt. Auch die Zahl der  
+E-Fahrzeuge wächst.
+
+20 Stromnetz Berlin  
+
+
+
+Induktives Laden, wie wir es heute von Mobiltelefonen 
+oder elektrischen Zahnbürsten kennen, könnte in Zukunft 
+auch für E-Fahrzeuge funktionieren.
+
+2040
+
+2040  
+2035 ist das Verbrenner-Aus in Kraft getreten: und Ladezeiten verringert. E-Auto-Batterien tragen 
+Neufahrzeuge mit Benzin- oder Dieselantrieb als flexible Stromspeicher zur Netzstabilität bei. 
+werden EU-weit nur noch in wenigen Ausnahme­ Und die Ladeinfrastruktur war der Entwicklung 
+fällen zugelassen. Die Automobilbranche bietet immer mindestens einen Schritt voraus: Viele 
+mittlerweile zahlreiche E-Auto-Modelle an, die Tausend Kund*innen haben leistungsfähige Lade- 
+auch für Durchschnittshaushalte erschwinglich punkte installieren lassen und dabei von unseren 
+sind. Die Batterietechnik hat weitere Fortschritte schnellen und schlanken Anmelde- und Geneh­
+gemacht, dadurch haben sich Reichweiten erhöht  migungsprozessen profitiert.
+ 
+ 
+
+Geschäftsbericht 2024 21
+
+
+
+Unsere Mitarbeiter*innen:
+
+So bunt und so 
+vielfältig wie Berlin
+1884–2004 
+120 Jahre lang war die Energieversorgung in Berlin die Aufgabe eines Verbund- 
+unternehmens, das Strom und Wärme erzeugte, verteilte und verkaufte –  
+zumindest im westlichen Berlin war das durchgehend der Fall. Aus der soge- 
+nannten Ost-Bewag wurde in der DDR das Energiekombinat Berlin. Auch dort 
+war die Energieversorgung monopolistisch organisiert. Manches war dadurch 
+praktischer: zum Beispiel die interne Kommunikation bei Störungen. Großen 
+Verbundunternehmen ist aber eine gewisse Trägheit und Inflexibilität zu eigen –  
+auch nicht immer zum Vorteil der Kund*innen. Zudem waren die Führungsposi-
+tionen fast ausschließlich mit Männern besetzt.
+
+1884–
+2004
+
+Heraus zum 1. Mai: BEWAG-Mitarbeiter mit 
+reichlich junger Unterstützung auf dem Weg 
+zur Maidemonstration im West-Berlin der 
+Nachkriegszeit.
+
+22 Stromnetz Berlin  
+
+
+
+Technik ist bei uns schon längst keine reine 
+Männersache mehr: Mit Spannung umgehen, wie 
+hier in der Schaltanlage eines Umspannwerks, 
+können alle Menschen, die dafür ausgebildet und 
+qualifiziert sind. 
+
+2024 
+Die Energiewirtschaft ist seit 2005 entflochten: Netzbetrei­
+ber sind organisatorisch, personell und finanziell unabhängig 
+von Energieerzeugung und -vertrieb. Stromnetz Berlin ist 
+außerdem seit 2021 wieder ein kommunales Unternehmen 
+mit inzwischen fast 2.000 Mitarbeiter*innen. 
+
+Modernität bemisst sich nach Struktur, aber auch nach 
+Kultur: Wir fördern und pflegen einen respektvollen 
+und wertschätzenden Umgang miteinander. Seit 2024 
+beschäftigen wir einen hauptamtlichen Diversity Officer, 
+der Kolleg*innen und Gremien berät und begleitet sowie 
+gemeinsam mit vielen engagierten Mitarbeiter*innen 
+dafür sorgt, dass wir die Vielfalt Berlins auch in unserem 
+Unternehmen widerspiegeln.
+
+2024
+
+2034 
+Vielfalt zeigt sich zuallererst in der perso-
+nellen Zusammensetzung: In unserem 
+Unternehmen zeigt sie sich aber genauso in 
+unserer Innovationskraft mit einem stetig 
+wachsenden Output an kreativen und prakti- 
+kablen Ideen. Neue Technologien testen wir 
+mit großer Neugier und implementieren sie 
+schnell in unsere Prozesse.
+
+2034
+Damit ist Stromnetz Berlin ein Spiegel der 
+gesellschaftlichen und wirtschaftlichen 
+Entwicklungen: Die Anforderungen unserer 
+Kund*innen sind immer vielfältiger geworden, 
+und dementsprechend sind auch die Möglich- 
+keiten gewachsen, die der Strom, den wir in 
+Berlin verteilen, den Menschen bietet. Elek- 
+trizität, Wärme, Mobilität, Lebensqualität – 
+Strom kann und leistet alles, und zwar 24/7.
+
+Stadt unter Spannung: Seit 140 Jahren sorgen wir 
+in Berlin für Licht, Elektrizität, Mobilität und Wärme.
+
+Geschäftsbericht 2024 23
+
+
+
+Bericht über das  
+Geschäftsjahr 2024
+vom 1. Januar bis 31. Dezember 2024
+
+25 	 Lagebericht
+
+44	 Bilanz
+
+45	 Gewinn- und Verlustrechnung
+
+46	 Kapitalflussrechnung
+
+47	 Anhang
+
+68	 Abschlüsse der Tätigkeitsbereiche nach § 6b Abs. 3 
+Energiewirtschaftsgesetz und § 3 Abs. 4 Satz 2 
+Messstellenbetriebsgesetz
+
+86	 Bestätigungsvermerk des unabhängigen Abschlussprüfers
+
+24 Stromnetz Berlin  
+
+
+
+Lagebericht
+Gesellschaftsrechtliche Struktur 
+ 
+Die Stromnetz Berlin GmbH (Stromnetz Berlin) ist der Verteilungsnetzbetreiber und Eigentümer des  
+der Konzessionierung unterliegenden Verteilungsnetzes von Berlin. Stromnetz Berlin unterliegt 
+weitestgehend den Anforderungen der Regulierung von Stromnetzbetreibern und ist insbesondere 
+auf dem Gebiet der Stromverteilung tätig. Das Unternehmen betreibt innerhalb des Stadtgebietes 
+Berlin das Stromverteilungsnetz, einschließlich eines Fernmelde- und eines Lichtwellenleiterkabel­
+netzes, mit einer Gesamtlänge von 43.218 km in den Spannungsebenen Hoch-, Mittel- und Nieder­
+spannung. Stromnetz Berlin stellt sein Netz diskriminierungsfrei zur Verfügung und ist verantwort­
+lich für die Sicherheit sowie die Zuverlässigkeit der Stromversorgung, im engen Zusammenspiel  
+mit dem regelzonenverantwortlichen Übertragungsnetzbetreiber, den Einspeisenden und Kund*innen. 
+Die damit verbundenen Kernaufgaben der Vorhaltung und Ertüchtigung des Netzes, der Netz­
+führung, der Netznutzung und des entsprechenden Asset- und Kundenmanagements sowie des 
+grundzuständigen Messstellenbetriebs wurden auch im Geschäftsjahr 2024 auf Basis geprüfter 
+und auditierter Managementsysteme durchgeführt.
+
+Stromnetz Berlin ist ein 100%iges Tochterunternehmen der BEN Berlin Energie und Netzholding 
+GmbH (BEN).
+
+Auf Grundlage des Gesellschaftsvertrages hat Stromnetz Berlin als Netzbetreiber gemäß Energie­
+wirtschaftsgesetz (EnWG) die Verantwortung für Errichtung, Erwerb, Betrieb und Bereitstellung von 
+Energieversorgungs- und Telekommunikationsanlagen, Messstellenbetrieb sowie Instandhaltung, 
+Außerbetriebnahme und Rückbau von Netzanlagen sowie Netzen einschließlich Erbringung aller 
+hiermit zusammenhängenden Dienstleistungen.
+
+Der im Jahr 2021 unterzeichnete Konzessionsvertrag gilt vom 1. Januar 2021 bis zunächst  
+31. Dezember 2030. Der Konzessionsvertrag enthält diverse Verpflichtungen zum sicheren, um­
+weltverträglichen, kundenfreundlichen und effizienten Netzbetrieb des Berliner Stromverteilungs­
+netzes. Über die Erfüllung der Verpflichtungen ist regelmäßig gegenüber dem Land Berlin bzw.  
+der zuständigen Vergabestelle bei der Senatsverwaltung für Finanzen (SenFin) zu berichten.
+
+Ausgehend vom Koalitionsvertrag des Jahres 2023 sowie von den Anforderungen, die das Ab­
+geordnetenhaus für den BEN-Konzern mit seiner Netztochter Stromnetz Berlin vorgab, sollen 
+durch den Konzern vielfältige Aufgaben, Energie und Netze betreffend, bei der Energiewende, 
+der Dekarbonisierung und dem Stadtwachstum erfüllt werden. Details sind im jeweils aktuellen 
+Zielbild des Landes Berlin für den BEN-Konzern formuliert. Ein Schwerpunkt des Konzerns ist die 
+Umsetzung der Investitionen zur Erreichung der klima- und energiepolitischen Ziele des Landes 
+Berlin, aber auch das Schnittstellenmanagement zwischen Energie- und Netzdienstleistungen. 
+Seitens Stromnetz Berlin wird dabei in enger Abstimmung mit der Gesellschafterin auf die Anfor­
+derungen und Einhaltung der Gleichbehandlung gemäß den EnWG-Vorgaben geachtet. Auch in 
+diesem Geschäftsjahr konnte Stromnetz Berlin mit der BEN die weitreichenden Konsequenzen für 
+das elektrische Verteilungsnetz aufgrund der Entwicklungen bei Photovoltaik-(PV-)Anschlüssen, 
+der Wärmewende und der E-Mobilität schärfen. Die Erkenntnisse wurden mithilfe einer Szenario­
+analyse sowie unter Berücksichtigung des am 30. April 2024 veröffentlichten Netzausbauplans 
+kombiniert und führten zu einer Überarbeitung sowie einem Anstieg des Investitions- und Finan­
+zierungsvolumens in der verabschiedeten Wirtschaftsplanung. Der gesetzlich vorgeschriebene 
+Netzausbauplan enthält konkret geplante oder voraussichtlich notwendige Ausbaumaßnahmen 
+im Hoch- und Mittelspannungsnetz für die Jahre 2028 und 2033, um die Klimaneutralitätsziele bis 
+2045 in Deutschland zu erreichen, und dient der methodisch einheitlichen Prognose der Vertei­
+lungsnetzbetreiber. 
+
+Lagebericht Geschäftsbericht 2024 25
+
+
+
+Zur Umsetzung dieser weitreichenden Aufgaben wurden entsprechende Arbeitsbeziehungen 
+zwischen der BEN und Stromnetz Berlin weiter vertieft. In diesem Zusammenhang besteht seit 
+dem 1. Juli 2021 ein Dienstleistungsvertrag, der auch im Jahr 2024 vollumfänglich erfüllt wurde. 
+Seit dem 1. Juli 2021 besteht ein Cash-Pooling-Vertrag mit der BEN. Am 11. April 2022 wurde der 
+Ergebnisabführungsvertrag zwischen Stromnetz Berlin und der BEN unterzeichnet. Der Ergebnis­
+abführungsvertrag ist bis zum 31. Dezember 2026 abgeschlossen. Seit dem Geschäftsjahr 2022 
+besteht eine ertragsteuerliche Organschaft. 
+
+Die sonstigen Erklärungen enthalten Angaben zur Erklärung zur Unternehmensführung sowie zur 
+Umsetzung des Landesgleichstellungsgesetzes für das Geschäftsjahr und sind verpflichtend zu ver­
+öffentlichende Angaben, die nicht Teil der gesetzlichen Abschlussprüfung gemäß § 316 ff. HGB sind.
+
+Wirtschaftsbericht
+Wirtschaftliches und politisches Umfeld
+
+Die Energie- und Wärmewende befindet sich in einer Phase grundlegender Strukturanpassung, 
+da die forcierte Umstellung auf Erneuerbare Energien sowie sektorübergreifende Maßnahmen das 
+Gesamtsystem stark beeinflussen. Gerade Stromnetzbetreiber spielen eine Hauptrolle, wenn es 
+um die Integration der Erneuerbaren Energien, den Anschluss von Wärmepumpen und den Ausbau 
+der Ladeinfrastruktur geht. Hierfür sind nicht nur technologische (Weiter-)Entwicklungen erforder­
+lich. Auch der gesetzliche sowie regulatorische Rahmen erfordern weitgehende Anpassungen, um 
+eine schnelle und reibungslose Transformation zu ermöglichen. Gleichzeitig werden die Abhängig­
+keiten und Zusammenhänge immer komplexer. 
+
+Die Veränderungsgeschwindigkeit in der Energiewirtschaft und im Stromnetzbetrieb hat stark zu­
+genommen. Entsprechend der im September 2021 veröffentlichten Studie zur „Entwicklung einer 
+Wärmestrategie für das Land Berlin“ wird bis spätestens 2045 von einer Vervielfachung des  
+Stromanteils im Wärmesektor ausgegangen. Dieser Anstieg ist insbesondere auf den zunehmenden 
+Einsatz von Power-to-Heat-Anlagen und Wärmepumpen zurückzuführen. Zudem stellen vermehrt 
+leistungsintensive Rechenzentren aufgrund weiterer Zunahme digitaler Anwendungen Anfragen 
+für einen Anschluss an das Verteilungsnetz in Berlin. Stromnetz Berlin selbst hat den Anspruch, 
+diesen Anforderungen mit vollem Engagement gerecht zu werden sowie neue Herausforderungen 
+und Änderungen an der Versorgungsaufgabe frühzeitig zu erkennen. Hierzu ist Stromnetz Berlin 
+in regelmäßigen Abstimmungen mit dem Übertragungsnetzbetreiber 50Hertz Transmission GmbH 
+(50Hertz), um auch die Netzanschlüsse zum Übertragungsnetz an die veränderte Versorgungs- 
+aufgabe anzupassen. Diese Herausforderungen werden nur mit einer umfassenden Transformation 
+der Prozesse, Arbeitsweisen und Organisation bei Stromnetz Berlin bewältigt werden können.  
+Die in einem Projekt im Jahr 2024 erarbeitete Neuorganisation von Stromnetz Berlin tritt am  
+1. Januar 2025 in Kraft.
+
+Im Jahr 2024 stieg die Anzahl der Anschlussanfragen in der Niederspannung an Stromnetz  
+Berlin weiter an. Hintergrund dieser Entwicklung ist die Installation dezentraler Erzeugungsanlagen, 
+allen voran Photovoltaik-Anlagen, sowie vermehrter dezentraler Netznutzung durch Ladeinfra­
+struktur sowohl im privaten wie im öffentlichen Raum und Wärmepumpen. Stromnetz Berlin geht 
+davon aus, dass der Trend in den kommenden Jahren mindestens auf konstant hohem Niveau 
+verbleibt. In Berlin ist die Anzahl der Wärmepumpeninstallationen im Gegens atz zum Bundestrend 
+2024 weiter angestiegen. Die ersten Ergebnisse der kommunalen Wärmeplanung in Berlin legen 
+nahe, dass in den kommenden Jahren zunehmend Wärmepumpeninstallationen insbesondere in 
+den Randbereichen von Berlin zu erwarten sind. Um die Vielzahl der Anschlussprozesse kunden­
+orientiert, effizient und zeitgerecht umsetzen zu können, fokussiert der Bereich Kunden und 
+
+26 Stromnetz Berlin  
+
+
+
+Märkte, in dem ein Großteil der Anschlussprozessschritte zusammenläuft, die Verschlankung  
+der Prozesse auf Basis durchgehender IT-Unterstützung von der Anschlussanfrage bis zur 
+Anschlussfreigabe. Das Kundenportal „Mein.Stromnetz“ bietet den Stromnetz Berlin-Kund*innen 
+digitale Prozesse für inzwischen fast alle Anschlussarten in der Niederspannung, auch Mehr- 
+fach-Hausanschlüsse und Quartiere, sowie auch für den Mittelspannungsbereich an.
+
+Parallel zum Anschlusshochlauf in der Niederspannung nahmen in den vergangenen Jahren die 
+Anschlussanfragen in der Hochspannung sowie große Mittelspannungsanfragen zu. Diese sehr 
+leistungsintensiven Anfragen gehen auf weniger als 1 % der Stromnetz Berlin-Kund*innen zurück, 
+bedingen jedoch über 90 % der angefragten Leistung.
+
+Bis 2024 wurden Leistungsanfragen für Netzanschlüsse in der Mittel- und Hochspannung größer 
+3,5 MVA in der Reihenfolge des zeitlichen Eingangs bearbeitet, sogenanntes Windhundverfahren, 
+und den Großkund*innen die angefragte Leistung zugeteilt. Für die wenigen jährlichen Anfragen 
+war im Verteilungsnetz stets eine entsprechende Kapazität verfügbar. Inzwischen hat sich die 
+Situation grundlegend geändert. Die Anzahl der Anschlussanfragen über 3,5 MVA hat erheblich 
+zugenommen und übersteigt die frei verfügbare Leistung im Netz signifikant. Zur fortgesetzten 
+Sicherstellung des Grundsatzes der Gleichbehandlung von Anschlussanfragen mit einem Leis­
+tungsbedarf größer 3,5 MVA werden die begrenzten Netzkapazitäten im 2024 neu eingeführten 
+Repartierungsverfahren anteilig und gleichberechtigt zugeteilt. Dieses Verfahren gewährleistet auf 
+Basis der gesetzlich vorgegebenen Anschlussregelungen ein höchstmögliches Maß an Transpa­
+renz und Fairness.
+
+Die Energie- und Kapitalmärkte sowie die Inflation haben sich im Vergleich zum Vorjahr stabilisiert, 
+zum Teil aber auf einem deutlich höheren Preisniveau. Die hohe Inflation führt zu steigenden In­
+vestitionen auch bei Stromnetz Berlin. Der Regulierungsrahmen sieht allerdings auch Instrumente 
+vor, welche die Berücksichtigung der Inflation in den Netznutzungsentgelten ermöglichen.
+
+Auch im Geschäftsjahr haben sich die Lieferzeiten und Preise vieler Betriebsmittel (z. B. Transfor­
+matoren) gegenüber den Vorjahren sehr stark erhöht. Durch einen vorausschauenden Einkauf von 
+Wirtschaftsgütern wie Transformatoren oder Sicherungen und das Ausweichen auf Alternativma­
+terialien konnte der betriebsnotwendige Bedarf trotzdem jederzeit befriedigt werden. Stromnetz 
+Berlin fällt unter das Lieferkettensorgfaltspflichtengesetz und wird gemäß den Vorgaben des 
+Bundesamts für Wirtschaft und Ausfuhrkontrolle (BAFA) bis spätestens zum 30. April 2025 über 
+die Umsetzung der im Gesetz vorgesehenen Sorgfaltspflichten für das Jahr 2024 berichtspflichtig. 
+
+Die Großhandelspreise für Strom haben sich im Laufe des Jahres 2024 etwas normalisiert. Die 
+Volatilität und das Preisniveau sind zurückgegangen. Aufgrund der hohen Beschaffungskosten für 
+Netzverluste, die durch die Preisverwerfungen der Vergangenheit entstanden, wurden alternative 
+Beschaffungswege geprüft. Die zukünftige Ausgestaltung der Beschaffung von Netzverlusten ist 
+Gegenstand eines Projektes in 2025. 
+
+Die in Stromnetz Berlin eingesetzte Task Force „Gasmangellage“ hat alle vorbereitenden Maßnahmen 
+abgeschlossen und getroffen, um für diesen Krisenfall vorbereitet zu sein. Hierbei wurden Themen­
+felder wie z. B. die Beschaffung von Betriebsmitteln, das Kommunikations- und Reaktionskonzept 
+bearbeitet und entwickelt. Im Geschäftsjahr 2024 gab es kein Risiko zur Gasmangellage. Zum 
+Thema Cybersicherheit erfolgen regelmäßige Abstimmungen mit der BEN sowie mit anderen  
+KRITIS-Unternehmen. Bei Stromnetz Berlin existieren umfangreiche bauliche, technische, organi­
+satorische und persönliche Maßnahmen zum Schutz der kritischen Infrastruktur. Zudem ist 
+Stromnetz Berlin ISMS-zertifiziert und steht zur Einschätzung der Lage im engen Austausch mit 
+anderen Netzbetreibern und den zuständigen Behörden. 
+ 
+
+Lagebericht Geschäftsbericht 2024 27
+
+
+
+Im Klimaschutzgesetz des Bundes und auch im Berliner Klimaschutz- und Energiewendegesetz ist 
+die Klimaneutralität bis 2045 gesetzlich vorgegeben. Dies zeigt sich u. a. am Ziel, so schnell wie 
+möglich einen Einsatz von 25 % Erneuerbarer Energien bezogen auf den Berliner Stromverbrauch 
+zu erreichen, wie im Masterplan Solarcity und in der Berliner Koalitionsvereinbarung von 2023 fest­
+gelegt. Umgerechnet in Photovoltaik-Erzeugung sind dies rund 4,4 GW installierte Erzeugungsleis­
+tung. Entscheidend ist die Verzahnung der Bausteine in der kommunalen Wärmeplanung. Mit  
+dem „Gesetz für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze“ (WPG) wird ein 
+wichtiges Zeichen für den Klimaschutz gesetzt. Das WPG bietet damit eine gute Basis für eine 
+höhere Planungssicherheit für Kommunen, Bürger*innen sowie Energieversorger und Infrastruk­
+turbetreiber. Politisch festgelegte Ziele erhalten darüber einen Pfad und Instrumente, wie die 
+Wärmewende kosteneffizient und sozialverträglich erreicht werden kann. 
+
+Wichtig ist dabei, dass alle Akteure vor Ort bei der Zielerreichung zusammenarbeiten und die 
+Energiewirtschaft umfassend in den Prozess der Transformation einbezogen wird. Einige noch  
+offene Punkte, wie Regelungen zu Anteilen von Erneuerbaren Energien in Fernwärmenetzen 
+oder die Anrechnung von Biomasse und Wasserstoff, werden im parlamentarischen Verfahren 
+zum Wärmeplanungsgesetz aktuell noch verhandelt. Das Gesetz verpflichtet alle Kommunen  
+in Deutschland zur Erstellung einer kommunalen Wärmeplanung. Das Land Berlin muss demnach 
+bis zum 30. Juni 2026 einen Wärmeplan für die Transformation der Wärmeversorgung Berlins 
+vorlegen. Dabei bringt Stromnetz Berlin seine Expertise bei der Erarbeitung einer kommunalen 
+Wärmeplanung der Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt (SenMVKU) 
+im „Arbeitskreis Infrastrukturunternehmen zur Wärmeplanung“ ein. Unter anderem bearbeitet 
+Stromnetz Berlin im Rahmen von Studien die Fragen nach dem Potenzial und dem Einfluss von 
+Wärmepumpen auf das Netz. 
+
+Die gesetzlich vorgeschriebene kommunale Wärmeplanung ist eine wichtige Grundlage für die 
+Ausbau- und Investitionsbedarfe von Stromnetz Berlin. Daher stellt Stromnetz Berlin hierfür  
+wesentliche Anforderungen und Rahmenbedingungen zusammen, die eine durchgängige Bewertung 
+für das Stromverteilungs- und Übertragungsnetz ermöglichen. Bereits am 12. Dezember 2024 
+veröffentlichte die SenMVKU für Berlin erste Ergebnisse der Wärmeplanung. Berlin hat somit die 
+Möglichkeit der „Eignungsprüfung und verkürzten Wärmeplanung“ nach dem Wärmeplanungs­
+gesetz genutzt. Die verkürzte Wärmeplanung ermöglicht es, anhand eines einfachen Prüfverfah­
+rens Gebiete zu identifizieren, die sich nicht für eine Versorgung über ein Wärme- oder Wasser­
+stoffnetz eignen. Zwei Drittel der Gebäude in der Hauptstadt können an zentrale Wärme- oder 
+Wasserstoffnetze angeschlossen werden. Ein Drittel dagegen wird auch in Zukunft dezentrale 
+Heizungsanlagen benötigen. 
+
+Stromnetz Berlin hatte sich im Jahr 2022 gemeinsam mit anderen Berliner Landesunternehmen 
+verpflichtet, 10 % der Energie für die Betriebsverbräuche einzusparen. Ein eigenes Projektteam 
+analysiert mit externer Expertise die Einsparmöglichkeiten von Stromnetz Berlin in verschiedenen 
+Dimensionen (u. a. Technik und Verhalten). Die Maßnahmen zur Realisierung dieses Einsparzieles 
+werden bei Stromnetz Berlin mit weiteren Aktivitäten im Bereich Umweltschutz, Soziales sowie 
+Governance kombiniert und bilden einen Teil der Nachhaltigkeitsleistung. Im Geschäftsjahr wurde 
+das Klimaschutzkonzept von Stromnetz Berlin erarbeitet. Insgesamt werden die THG-Emissionen 
+(Treibhausgase wie CO2 oder SF6) von Stromnetz Berlin von Jahr zu Jahr reduziert. Dies gelingt 
+mit der im Geschäftsjahr erstellten Carbon Roadmap, die auf Maßnahmen für alle Emissionsursa­
+chen beruht. Als Maßnahmen wurden in der Carbon Roadmap der Ersatz von SF6-Anlagen durch 
+SF6-freie Anlagen, die weitere Elektrifizierung des Fuhrparks, die Wärmedämmung und intelligente 
+Heizungssteuerung sowie die Nutzung von Fernwärme und Wärmepumpen beschlossen. Sowohl 
+das Klimaschutzkonzept verbunden mit der Carbon Roadmap als auch die Deutsche Nachhaltig­
+keitskodex-Erklärung bieten eine gute Basis für die Umsetzung der zukünftigen Anforderungen an 
+
+28 Stromnetz Berlin  
+
+
+
+das Nachhaltigkeitsmanagement und -reporting sowie an die Berichtspflicht gemäß EU-Taxonomie 
+und CSRD (Corporate Sustainability Reporting Directive). Stromnetz Berlin befindet sich in Vorbe­
+reitung dazu und hat in 2024 ein Projekt zur Umsetzung gestartet.
+
+Auch bundespolitisch war das Jahr 2024 insbesondere durch das vorzeitige Ende der Regierungs­
+koalition aus SPD, Bündnis 90/Die Grünen und FDP geprägt. Hierdurch konnte eine Vielzahl an 
+energiewirtschaftlichen Gesetzesvorhaben vor den nun anstehenden Neuwahlen nicht mehr zum 
+Abschluss gebracht werden. Unabhängig davon wurde am 31. Januar 2025 im Bundestag aber  
+noch eine Energierechtsnovelle verabschiedet. Sie schafft wesentliche Neuregelungen zur Sicher­
+stellung der Systemstabiltät und zum besseren Umgang mit der PV-Spitzenproblematik. Viele der 
+geplanten Anpassungen einer ursprünglichen Version des Gesetzes (z. B. zentralisierte Netzan­
+schlussportale) wurden dagegen fallen gelassen. Einige der Anpassungen haben unmittelbaren 
+Einfluss auf das Geschäft von Stromnetz Berlin. So wirken beispielsweise die Anpassungen im 
+Messstellenbetriebsgesetz (MsbG) positiv auf die Wirtschaftlichkeit und die Planungssicherheit  
+im Metering-Geschäft. Beim Smart-Meter-Rollout handelt es sich um einen Infrastrukturmaßnah­
+me, die aufgrund der zunehmenden Flexibilisierung des Energiesystems notwendig und volks­
+wirtschaftlich sinnvoll ist. Für einen erfolgreichen privatwirtschaftlich organisierten Rollout muss 
+gleichzeitig sichergestellt sein, dass der Messstellenbetrieb für die verpflichteten Unternehmen 
+auskömmlich ist. Aus Sicht der Energiewirtschaft sollten weitere angedachte Regelungen,  
+die es zukünftig ermöglichen, die Herausforderungen der Energiewende zu meistern, nach der  
+Bundestagswahl zeitnah im gesetzlichen Rahmen verankert werden. Dies sind insbesondere  
+alle Maßnahmen, die dem schnellen Ausbau und sicheren Betrieb des deutschen Stromnetzes 
+und der raschen Integration Erneuerbarer Energien in das Stromnetz Rechnung tragen. Dazu  
+gehören auch transparentere, planbarere Netzanschlussprozesse und alle Maßnahmen, die zu 
+deren Beschleunigung beitragen. 
+
+Auch zum Schutz kritischer Infrastrukturen und zur Cybersicherheit sind wichtige Gesetzesvor­
+haben offen. Mit dem KRITIS-Dachgesetz und dem NIS-2-Umsetzungsgesetz sollen europäische 
+Vorgaben in nationales Recht umgesetzt werden. Sie sollen die Resilienz und die physische Sicher­
+heit auch von energiewirtschaftlichen Anlagen verbessern und die Cybersicherheit erhöhen. 
+
+Aus Sicht der Energiebranche bleibt zu hoffen, dass eine neue Regierung schnell gebildet werden 
+kann und liegen gebliebene Gesetzesvorhaben zumindest bis zur Sommerpause 2025 wieder  
+aufgenommen bzw. sogar umgesetzt werden können.
+
+Forschung und Entwicklung
+Die gemeinsame Initiative „Enter Technik“ der Berliner Senatsverwaltung für Arbeit, Soziales, 
+Gleichstellung, Integration, Vielfalt und Antidiskriminierung (SenASGIVA), der beteiligten Koope­
+rationsunternehmen und des Vereins LIFE Bildung, Umwelt, Chancen-Gleichheit e. V. dient der 
+Nachwuchsgewinnung weiblicher Fachkräfte im gewerblich-technischen Bereich. Angelehnt  
+an das freiwillige soziale Jahr lernen Frauen im Rahmen von Praktika Unternehmen kennen, die 
+eine gewerblich-technische Ausbildung anbieten. Stromnetz Berlin ist seit dem 1. März 2023  
+als Kooperationsunternehmen Teil der Initiative Enter Technik und wird diese Kooperation bis  
+2026 fortführen.  
+
+Im Rahmen der Erstellung des Regionalszenarios zur Umsetzung des § 14d EnWG hat Stromnetz 
+Berlin mit weiteren Verteilungsnetzbetreibern der sogenannten Planungsregion Ost eine Analyse 
+zur Dekarbonisierung des Wärmesektors erstellen lassen. Diese hat weitere wichtige Erkenntnisse 
+für die Umsetzung des Netzausbauplans gebracht, der in 2024 erstellt und veröffentlicht wurde.
+
+Lagebericht Geschäftsbericht 2024 29
+
+
+
+Als InfraLab-Mitglied hat Stromnetz Berlin erste mögliche Long-Range-Wide-Area-Network-
+(LoRaWAN-)Anwendungsfälle im eigenen Unternehmen identifiziert. Es werden derzeit erste Piloten 
+umgesetzt, um ergebnisoffen Erfahrungen mit LoRaWAN zu sammeln und den Einsatz sowie 
+Nutzen zu bewerten wie z. B. die Integration von Temperatursensoren in den Traforäumen aus­
+gewählter Netzstationen zur Identifikation einer möglichen Überhitzung sowie Tests von LoRa­
+WAN-fähigen Kurzschlussanzeigern. 
+
+Stromnetz Berlin arbeitet gemeinsam mit dem Wohnungsunternehmen Vonovia, der decarbon1ze 
+GmbH und dem Übertragungsnetzbetreiber 50Hertz in einem Projekt zur Pilotanlage „Strom­
+wärme statt Abregeln“. Konkret geht es darum, Strom aus Erneuerbaren Energien zu nutzen, 
+anstatt im Falle von Netzengpässen, vor allem im Übertragungsnetz, abzuregeln. Der aktuelle ge­
+setzliche Rahmen sieht größere Projekte dieser Art in Berlin nicht vor. Mittelfristig könnte sich das 
+aber ändern. Stromnetz Berlin ist darauf vorbereitet und wird die Entwicklungen weiter begleiten. 
+
+Tätigkeit des Aufsichtsrats
+Stromnetz Berlin hat gemäß Gesellschaftsvertrag, basierend auf den Beteiligungsgrundsätzen  
+des Landes Berlin, einen Aufsichtsrat mit weitreichenden Rechten, insbesondere bei zustimmungs­
+pflichtigen Geschäften. Am 12. Juni 2024 trat ein neuer Gesellschaftsvertrag in Kraft, in dem in  
+§ 8 Abs. 1 Satz 1 festgelegt ist, dass der Aufsichtsrat aus 16 Mitgliedern besteht. Die Arbeitneh­
+menden wählten nach den Vorschriften des Mitbestimmungsgesetzes acht Mitglieder des Auf­
+sichtsrats. Die übrigen acht Mitglieder entsandte die Gesellschafterin. Erstmalig wurde auch ein 
+Vertreter der Leitenden in den Aufsichtsrat gewählt. In der Sitzung des Aufsichtsrats am 27. Juni 
+2024 wählte der Aufsichtsrat Staatssekretär Dr. Severin Fischer als Vorsitzenden des Aufsichts­
+rats und Thomas Verhoeven als stellvertretenden Vorsitzenden des Aufsichtsrats. 
+
+Dr. Erik Landeck war im Geschäftsjahr 2024 Vorsitzender der Geschäftsführung von Stromnetz 
+Berlin sowie für das Ressort Energiewirtschaft & Technik verantwortlich. Bernhard Büllmann ist 
+als Mitglied der Geschäftsführung zuständig für das Ressort Finanzen & Personal. Mit Beschluss 
+des Aufsichtsrats vom 19. September 2024, dem die Gesellschafterversammlung mit Beschluss 
+vom 1. November 2024 zugestimmt hat, wurde die Geschäftsanweisung für die Geschäftsführung 
+und somit auch der Geschäftsverteilungsplan angepasst. Seit dem 1. Januar 2025 verantwortet 
+Dr. Erik Landeck neben dem Vorsitz das Ressort Technik und Bernhard Büllmann das Ressort 
+Personal & Finanzen. 
+
+Im Rahmen der Aufsichtsratssitzungen wurde neben dem Überblick über das operative Geschäft 
+regelmäßig über das Thema „Energie- und Wärmewende“ informiert. Dabei wurden die Heraus­
+forderungen aus dem derzeitigen Hochlauf der Entwicklungen hinsichtlich der Dekarbonisierung 
+der Fernwärme, des Zubaus von Rechenzentren, dezentraler Erzeugungsanlagen (Photovoltaik 
+und Kraft-Wärme-Kopplung), Wärmepumpen und Ladeinfrastruktur erörtert und diskutiert. Da die 
+kommunale Wärmeplanung erst im Jahr 2026 zur Verfügung steht, erfolgten zur Konkretisierung 
+der Planung der zukünftigen Versorgungsaufgabe eine Szenarioanalyse sowie die Einbeziehung 
+des Netzausbauplans. Diese beinhalten für die Energie-, Wärme- und Mobilitätswende mögliche 
+Ausprägungen, die sich hierbei maßgeblich hinsichtlich der Intensität des jeweiligen Ausbaus von 
+Photovoltaik, Wärmepumpen und E-Mobilität unterscheiden. Für die Wirtschaftsplanung wurde  
+durch das Management von Stromnetz Berlin ein Zielszenario festgelegt, welches auf Basis 
+aktueller Erkenntnisse die jeweils realistischsten Ausbauszenarien zusammen mit dem erwarteten 
+Kundenwachstum und den Leistungsanfragen zum Umbau der Fernwärmeversorgung kombiniert. 
+Gleichwohl werden sich zukünftig Rahmenbedingungen noch weiter entwickeln und das tatsäch­
+
+30 Stromnetz Berlin  
+
+
+
+liche Kundenverhalten bei der Umsetzung der Mobilitätswende oder bei Gebäudesanierung, Hei­
+zungstausch und Wärmeverbrauch sowie bei der Installation dezentraler Erzeugungsanlagen und 
+Speicherbatterien noch ausprägen. Der durch die Energie- und Wärmewende erhöhte Investitions­
+bedarf wurde im Rahmen der Wirtschaftsplanung berücksichtigt und dem Aufsichtsrat erläutert. 
+
+Lage des Unternehmens
+Die Gesellschaft führt im Sinne des § 6b Abs. 3 EnWG die Tätigkeit „Elektrizitätsverteilung“ und im 
+Sinne des § 3 Abs. 4 Satz 2 MsbG die Tätigkeit „Messstellenbetrieb“ sowie „Tätigkeiten außerhalb 
+des Elektrizitäts- und Gassektors“ aus.
+
+Finanzielle und nichtfinanzielle Leistungsindikatoren
+Wesentliche finanzielle Leistungsindikatoren der Gesellschaft sind das Ergebnis vor Steuern, 
+Zins- und Beteiligungsergebnis (EBIT) sowie die Investitionen im Geschäftsjahr. Das EBIT betrug 
+im Geschäftsjahr 155,6 Mio. € und liegt 65,9 Mio. € über dem geplanten Wert. Die Ergebnisver­
+besserung resultiert im Wesentlichen aus den geringeren Abschreibungen aufgrund der Verlän­
+gerung der handelsrechtlichen Nutzungsdauern sowie aus den Auflösungen von Rückstellungen.  
+Die Investitionen in das Sachanlagevermögen beliefen sich im Geschäftsjahr auf 366,7 Mio. €.  
+Das Investitionsvolumen lag um 29,3 Mio. € über dem geplanten Wert. Während die Investitionen 
+zur Unterstützung der Klimaziele des Landes Berlins, zur Erweiterung des Netzes und die Inves­
+titionen in den Austausch bestehender Anlagen gesteigert werden konnten, blieb die Nachfrage 
+nach Kundenanschlüssen hinter den avisierten Erwartungen zurück.
+
+Zu den wesentlichen nichtfinanziellen Leistungsindikatoren zählen insbesondere die Lost Time 
+Incident Frequency (LTIF) und der System Average Interruption Duration Index (SAIDI).
+
+Die wesentliche Kennzahl im Arbeitsschutz ist der LTIF, welcher die Unfallhäufigkeit ausdrückt, 
+indem die Anzahl der Unfälle mit Ausfallzeit in Relation zu den geleisteten Arbeitsstunden 
+gesetzt wird. Der LTIF lag in diesem Jahr für Stromnetz Berlin mit 3,5 unter dem Vorjahresniveau. 
+Stromnetz Berlin hatte sich einen Zielwert von kleiner gleich 2,0 gesetzt. Die Auswertung  
+der Unfallstatistik zeigt, dass Stolpern, Rutschen und Stürzen sowie Schnittverletzungen  
+bei Kabelarbeiten die häufigsten Unfallschwerpunkte waren.
+
+Der SAIDI beschreibt die durchschnittliche kumulative Dauer der ungeplanten Störungen mit 
+Versorgungsunterbrechungen für einen Kunden in einem definierten Zeitraum von einem Jahr.  
+Im Geschäftsjahr betrug der SAIDI 8,7 Minuten pro Jahr und lag somit unter dem Zielwert von  
+10,0 Minuten pro Jahr sowie unter dem Vorjahreswert von 9,9 Minuten pro Jahr. 
+
+Lagebericht Geschäftsbericht 2024 31
+
+
+
+Ertragslage
+
+2024 2023 Veränderung
+
+Absatz Umsatz Absatz Umsatz Absatz Umsatz 
+GWh Mio. € GWh Mio. € % %
+
+Netznutzung 11.903 914,2 11.905 701,0 −0,0 30,4
+
+Grundzuständiger  40,1 30,8 30,2
+Messstellenbetrieb
+
+Konzessionsabgabe* 138,4 139,7 −1,0
+
+KWK-Erlöse* 94,5 117,2 −19,4
+
+§ 17f EnWG* 69,7 63,3 10,1
+
+§ 19 Abs. 2 StromNEV* 57,3 38,0 50,8
+
+§ 18 AbLaV* 0,0 0,0 0,0
+
+EEG-Erlöse* (145) 36,5 (112) (29,5) 18,9
+
+Stromverkäufe (494) 126,0 (604) 177,5 (−18,2) −29,0
+
+sonstige 56,5 53,7 5,2
+
+Umsatzerlöse 1.533,2 1.351,9 13,4
+
+* Die Erlöse aus Konzessionsabgabe, KWK, EEG, der Umlage gemäß § 19 Abs. 2 StromNEV, der Umlage gemäß § 17f EnWG 
+sowie der Umlage nach § 18 AbLaV in Höhe von 396,4 Mio. € (Vorjahr: 388,9 Mio. €) sind in gleicher Höhe im Aufwand zu 
+finden und haben daher keine Ergebniswirkung.
+
+Im abgelaufenen Geschäftsjahr wurden 12.275 GWh Strom durch das Netz von Stromnetz Berlin 
+geleitet. Die Jahreshöchstlast wurde am 9. Januar 2024 mit 2.085 MW erreicht. Unter Berück­
+sichtigung von Netzverlusten, Betriebsverbräuchen und periodenfremden Effekten betrug die 
+Stromabgabe 11.903 GWh und liegt nur geringfügig unter dem Vorjahr. Die von der Regierung 
+geforderten Energie-Einsparziele haben somit in diesem Jahr zu keinem wesentlich veränderten 
+Kundenverhalten geführt. Aus der Mengenentwicklung resultierte im Rahmen der genehmigten 
+Erlösobergrenze eine Zuführung zum Regulierungskonto von 17,4 Mio. €. Die Erlöse aus der  
+Netznutzung erhöhten sich dennoch preisbedingt um insgesamt 213,2 Mio. €. Der Preisanstieg 
+resultiert im Wesentlichen aus dem deutlichen Kostenanstieg für vertikale Netznutzung  
+und Netzverluste.
+
+Die Erlöse aus Messstellenbetrieb sind im Wesentlichen aufgrund erhöhter Preise bei konventio­
+nellen Messeinrichtungen sowie des weiteren Fortschritts beim Einbau moderner Messeinrichtun­
+gen um insgesamt 9,3 Mio. € gestiegen. 
+
+Unter den Stromverkäufen werden im Wesentlichen Erlöse aus der Mehr-/Mindermengenabrech­
+nung und Erlöse aus der Abrechnung des Differenzbilanzkreises gezeigt. Der Rückgang der 
+Stromverkäufe um 51,5 Mio. € resultiert im Geschäftsjahr aus der Marktentwicklung der Strom­
+preise. Dabei ergaben sich 21,2 Mio. € geringere Erlöse aus dem Differenzbilanzkreis sowie  
+29,1 Mio. € geringere Erlöse aus Mehr-/Mindermengenabrechnung.
+
+Die Erlöse aus den Umlagen gemäß § 17f EnWG und § 19 Abs. 2 StromNEV sowie die KWK-Erlöse 
+veränderten sich im Vergleich zum Vorjahr insbesondere preisbedingt.
+
+32 Stromnetz Berlin  
+
+
+
+Die EEG-Erlöse liegen im Wesentlichen mengenbedingt um 5,8 Mio. € über Vorjahresniveau. 
+Die Erlöse aus KWK, Konzessionsabgabe, der Umlage gemäß § 19 Abs. 2 StromNEV, der Umlage 
+gemäß § 17f EnWG, der Umlage gemäß § 18 AbLaV sowie die Erlöse aus dem EEG finden sich ent­
+sprechend auch auf der Aufwandsseite und sind somit ohne Ergebniswirkung bei Stromnetz Berlin.
+
+Gewinn- und Verlustrechnung (Kurzfassung)
+
+2024 2023 Veränderung
+
+Mio € Mio. € Mio. €
+
+Umsatzerlöse und übrige Erträge 1.652,8 1.451,8 201,0
+
+Operative Aufwendungen −1.497,2 −1.338,2 −159,0
+
+Zins- und Beteiligungsergebnis −4,7 −15,5 10,8
+
+Steuern von Einkommen und Ertrag − 0,0 0,0
+
+Ergebnis nach Steuern 150,9 98,1 52,8
+
+Den Umsatzerlösen und übrigen Erträgen stehen operative Gesamtaufwendungen bestehend aus 
+Material-, Personalaufwand, sonstigen betrieblichen Aufwendungen, Konzessionsabgabe sowie 
+Abschreibungen auf das Anlagevermögen gegenüber.
+
+Das Ergebnis nach Steuern liegt um 52,8 Mio. € über Vorjahresniveau. Dies resultiert im Wesent­
+lichen aus der Anpassung der Nutzungsdauer für bestimmte Anlagenklassen und daher geringeren 
+Abschreibungen sowie durch gestiegene Investitionen bedingte höhere aktivierte Eigenleistungen. 
+Gegenläufig wirkte sich der höhere Leistungs- und Arbeitspreis für die vertikale Netznutzung zu 
+den preisbedingt gestiegenen Netznutzungserlösen aus. Der höhere Leistungs- und Arbeitspreis 
+resultiert aus dem wegfallenden Zuschuss aus dem Wirtschaftsstabilisierungsfonds an die Über­
+tragungsnetzbetreiber. 
+
+Die aktivierten Eigenleistungen betrugen 104,1 Mio. € und werden mit unter den Umsatzerlösen 
+und übrigen Erträgen ausgewiesen. Sie lagen aufgrund des gestiegenen Investitionsvolumens um 
+13,8 Mio. € über dem Vorjahr.
+
+Die sonstigen betrieblichen Erträge in Höhe von 15,5 Mio. € erhöhten sich um 5,9 Mio. € durch 
+höhere Auflösungen von Rückstellungen, höhere Erträge aus Vertragsstrafen und Vergleichs­
+vereinbarungen sowie höhere Erträge aus Abgängen des Anlagevermögens. 
+
+Der Materialaufwand erhöhte sich im Vorjahresvergleich um 176,0 Mio. €. Dies resultiert größten­
+teils aus der im Wesentlichen preisbedingten Erhöhung der vertikalen Netznutzung mit 185,8 Mio. €.
+
+Der Personalaufwand war mit 206,2 Mio. € nahezu auf Vorjahresniveau. Der Anstieg des Personal­
+aufwands aufgrund von Mitarbeiterzugängen wurde im Wesentlichen durch geringere Tarif- und 
+Rentensteigerungen im Geschäftsjahr, welche zu einer Auflösung von Pensionsrückstellungen 
+führten, nahezu vollständig kompensiert.
+
+Die sonstigen betrieblichen Aufwendungen erhöhten sich um 1,9 Mio. € auf 86,6 Mio. € im 
+Wesentlichen durch die in 2024 höheren Zuführungen zu Rückstellungen für ökologische Lasten,  
+höheren Entschädigungszahlungen und Gebühren für Telekommunikationsdienstleistungen. 
+Gegenläufig wirkte hier die in 2024 geringere Inanspruchnahme von Serviceleistungen.
+
+Lagebericht Geschäftsbericht 2024 33
+
+
+
+Die Abschreibungen gingen im Vergleich zum Vorjahr um 17,7 Mio. € zurück. Die Verlängerung der 
+betriebsgewöhnlichen Nutzungsdauern führt im Geschäftsjahr zu einer geringeren Abschreibung. 
+Gegenläufig ergeben sich durch den Anstieg von Investitionen durch den weiteren Ausbau und die 
+Erneuerung der Netzinfrastruktur höhere Abschreibungen.
+
+Das Jahresergebnis vor Gewinnabführung von 149,7 Mio. € lag über dem Niveau des Geschäfts­
+jahres 2023 und wird vollständig an die Muttergesellschaft abgeführt. Im Geschäftsjahr bestand 
+ein Ergebnisabführungsvertrag. 
+
+Vermögens- und Finanzlage
+Die Vermögensstruktur wird im Folgenden nach wirtschaftlichen Gesichtspunkten beschrieben.
+
+31.12.2024 31.12.2023 Veränderung
+
+Mio. € Mio. € Mio. €
+
+AKTIVA  
+
+Anlagevermögen 2.262,6 2.004,2 258,4
+
+Umlaufvermögen (einschließlich RAP) 433,5 402,0 31,5
+
+2.696,1 2.406,2 289,9
+
+PASSIVA
+
+Eigenmittel 1.853,0 1.534,8 318,2
+
+Langfristige Fremdmittel 304,7 309,0 −4,3
+
+Mittel- und kurzfristige Fremdmittel 538,4 562,4 −24,0
+
+2.696,1 2.406,2 289,9
+
+Die Tätigkeit des Verteilungsnetzbetreibers ist anlagenintensiv. Bei einer Bilanzsumme von  
+2.696,5 Mio. € (vor Saldierung des Sonderverlustkontos) beträgt der Anteil des Anlagevermögens 
+am Gesamtvermögen 83,9 %. Durch die Verrechnung des Eigenkapitals mit dem Sonderverlust­
+konto in Höhe von 0,4 Mio. € ergibt sich eine wirtschaftliche Bilanzsumme in Höhe von  
+2.696,1 Mio. €. Dabei ergibt sich eine Quote des Anlagevermögens am Gesamtvermögen von 
+83,9 %. Die Finanzierung des Vermögens steht auf solidem Fundament. Die wirtschaftliche  
+Eigenkapitalquote nach Verrechnung des Sonderverlustkontos, des Sonderpostens sowie 70,0 % 
+der Baukostenzuschüsse beträgt 68,7 % (Vorjahr: 63,8 %). Das Anlagevermögen ist zu 81,9 %  
+durch wirtschaftliches Eigenkapital (Eigenmittel) gedeckt. Die langfristigen Fremdmittel enthalten  
+30,0 % der Baukostenzuschüsse sowie Pensionsrückstellungen. Die mittel- und kurzfristigen 
+Fremdmittel bestehen aus Verbindlichkeiten, mittel- bis kurzfristigen Rückstellungen sowie 
+Rechnungsabgrenzungsposten. Der Anstieg der Eigenmittel resultiert im Wesentlichen aus der 
+Einlage als Zuzahlung in die Kapitalrücklage in Höhe von 300,0 Mio. € durch die Gesellschafterin. 
+Im Vergleich zum Vorjahr verringerten sich die mittel- und kurzfristigen Fremdmittel insbesondere 
+aufgrund geringerer Verbindlichkeiten aus Lieferungen und Leistungen.  
+
+Im abgelaufenen Geschäftsjahr 2024 wurden 366,7 Mio. € vor allem in die Erweiterung und 
+Verstärkung des Stromverteilungsnetzes und den Ausbau bestehender Netzanlagen investiert. 
+Neben der Errichtung einer steigenden Anzahl von Kundenanschlüssen, Netzerweiterungen sowie 
+Anlagenersatz und -umbau im Mittel- und Niederspannungsnetz und dem Austausch von modernen 
+Messeinrichtungen sowie intelligenten Messsystemen waren die bedeutendsten technischen Vor­
+
+34 Stromnetz Berlin  
+
+
+
+haben der Neubau des 110-kV-Netzknotens Berlin-Südost, der Neubau des Verwaltungsgebäudes 
+Nord sowie der Neubau des Umspannwerkes Poelchaustraße.
+
+Insgesamt wurden im Geschäftsjahr 2024 Maßnahmen zum Erhalt und Ausbau der Netzinfra­
+struktur inklusive Messeinrichtungen für 615,4 Mio. € (Vorjahr: 479,0 Mio. €) realisiert.
+
+Kapitalflussrechnung (Kurzfassung) 
+
+2024 2023 Veränderung
+
+Mio. € Mio. € Mio. €
+
+Cashflow aus laufender Geschäftstätigkeit 186,6 271,7 −85,1
+
+Cashflow aus der Investitionstätigkeit −362,7 −315,0 −47,7
+
+Cashflow aus der Finanzierungstätigkeit 183,0 41,9 141,1
+
+Zahlungswirksame Veränderungen des Finanzmittelfonds 6,9 −1,4 8,3
+
+Finanzmittelfonds am Ende der Periode 152,0 145,1 6,9
+
+Die Zahlungsfähigkeit der Gesellschaft war im Berichtsjahr jederzeit gegeben. Im Geschäftsjahr 
+ergab sich ein Mittelzufluss in Höhe von 6,9 Mio. € (Vorjahr: Mittelabfluss 1,4 Mio. €).
+
+Der Mittelabfluss aus Investitionstätigkeit konnte nicht vollumfänglich durch den Cashflow aus 
+laufender Geschäftstätigkeit gedeckt werden. Der Mittelabfluss aus Investitionstätigkeit erhöhte 
+sich insbesondere durch 88,1 Mio. € höhere Investitionen im Vergleich zum Vorjahr. Im Vorjahr 
+enthält der Mittelabfluss neben den Investitionen ein ausgereichtes Darlehen. Der geringere 
+Mittelzufluss aus laufender Geschäftstätigkeit ergibt sich im Wesentlichen aus einer Abnahme der 
+Verbindlichkeiten im Vergleich zum Vorjahr. Der Mittelzufluss aus Finanzierungstätigkeit resultiert 
+insbesondere aus der im Vergleich zum Vorjahr höheren Einlage als Zuzahlung in die Kapital­
+rücklage durch die Gesellschafterin. Gegenläufig wirkt hier die höhere Ergebnisabführung an die 
+Gesellschafterin.
+
+Der positive Finanzmittelfonds am Ende des Geschäftsjahres setzt sich aus 90,3 Mio. € (Vorjahr: 
+104,2 Mio. €) Cash-Pooling-Forderung gegen die Muttergesellschaft BEN und 61,7 Mio. € (Vorjahr: 
+40,9 Mio. €) Guthaben bei Kreditinstituten zusammen.
+
+Mitarbeiterinnen und Mitarbeiter
+
+Am 31. Dezember 2024 beschäftigte Stromnetz Berlin 1.977 Mitarbeiter*innen sowie 144 Aus­
+zubildende im Vergleich zu 1.808 Beschäftigten und 124 Auszubildenden im Jahr 2023. Der Be­
+schäftigungszuwachs von 169 Mitarbeitenden ergibt sich im Wesentlichen aus 220 Einstellun­
+gen aus dem externen Arbeitsmarkt für den Bedarf an zusätzlichen Ressourcen. Darüber hinaus  
+wurden 23 Auszubildende in ein Arbeitsverhältnis übernommen. Gegenläufig wirkte der über­
+wiegend altersbedingte Abgang von 74 Mitarbeiter*innen.
+
+Gesamtaussage
+
+Insgesamt wird die wirtschaftliche Lage des Unternehmens durch die Geschäftsführung als  
+positiv beurteilt.
+
+Lagebericht Geschäftsbericht 2024 35
+
+
+
+Prognosebericht
+Die Erlöse aus Netznutzung und somit auch die Umsatzerlöse sind preisbedingt wie in 2023 
+prognostiziert angestiegen, allerdings durch die Preiserhöhung der vorgelagerten Netze höher als 
+erwartet. Zusammenfassend ist die im Jahr 2023 getroffene Prognose hinsichtlich eines positiven 
+Ergebnisbeitrages eingetroffen. Das für 2024 angestrebte Periodenergebnis von 82,8 Mio. € wurde 
+deutlich übertroffen. Der Anstieg des Periodenergebnisses ist auf höhere Netznutzungserlöse, 
+geringere Abschreibungen aufgrund der Verlängerung der handelsrechtlichen Nutzungsdauern 
+sowie Rückstellungsauflösungen und Erträge aus Schadenersatzansprüchen zurückzuführen.  
+Gegenläufig wirkten preisbedingt höhere Kosten für die vertikale Netznutzung. Das erwartete 
+EBIT in Höhe von 89,7 Mio. € wurde ebenfalls deutlich übertroffen.
+
+Das wirtschaftliche und politische Umfeld wird weiterhin durch geopolitische Risiken, die Entwick­
+lungen der Kapital- und Energiemärkte sowie der Inflation geprägt sein. Mögliche Auswirkungen 
+auf Stromnetz Berlin lassen sich nur schwer abschätzen.
+
+Das für 2025 angestrebte Periodenergebnis liegt mit 142,0 Mio. € unter dem Ergebnis des  
+Berichtsjahres 2024. Das EBIT wird für 2025 mit 149,0 Mio. € somit leicht geringer geplant.  
+Es wird erwartet, dass die Erlöse aus Netznutzung und somit auch die Umsatzerlöse weiter  
+steigen werden.
+
+Der LTIF wird als nichtfinanzieller Leistungsindikator im nächsten Jahr mit bis zu 2,9 unter dem 
+Niveau des Geschäftsjahres erwartet. Um das LTIF-Ziel zu erreichen und die Sicherheit der 
+Mitarbeiter*innen zu erhöhen, sind Maßnahmen wie verstärkte Baustellenbegehungen durch die 
+Arbeitssicherheit und Schulungen aller Führungskräfte über Verantwortung und Aufgaben im 
+Arbeits- und Gesundheitsschutz geplant. Des Weiteren wird ein neues Anreizsystem für sicheres 
+Verhalten und das aktive Melden von Gefahrenstellen über eine HSE-Software eingeführt. Durch 
+eine gezielte Sensibilisierung der Mitarbeiter*innen, Verbesserungen der Arbeitsumgebung sowie 
+praxisnahe Schulungen wird angestrebt, die Unfallzahlen nachhaltig zu senken und die Sicher­
+heitskultur im Unternehmen weiter zu stärken.
+
+Für den SAIDI werden 10,0 Minuten im Jahr 2025 angestrebt. 
+
+Mit weiterhin steigenden Ausgaben für die Netzinfrastruktur wird Stromnetz Berlin auch in 
+Zukunft seine Verantwortung für eine sichere Stromversorgung in Berlin wahrnehmen und  
+seinen Beitrag zur Umsetzung der Klimaziele des Landes Berlin leisten. Damit werden für 2025 
+Investitionen in Höhe von 467,0 Mio. € erwartet. Durch die Einbindung von Stromnetz Berlin in  
+den BEN-Konzern und das damit unterlegte sowie abgesicherte Finanzierungskonzept steht die  
+Finanzierung der notwendigen Investitionen auch in den nächsten Jahren weiterhin auf einem 
+soliden Fundament. 
+
+Wesentlich für die Geschäftsentwicklung der Gesellschaft und die Erlösobergrenze wird auch 
+in den nächsten Jahren der gesetzlich vorgegebene Regulierungsrahmen sein. Hervorzuheben 
+sind die regulatorischen Zinssätze, welche von Stromnetz Berlin erlösseitig vereinnahmt werden 
+dürfen. Neue Investitionen ab dem Jahr 2024 werden im Rahmen der Kapitalkostenaufschläge  
+im Vergleich zu den Bestandsanlagen mit höheren regulatorischen Zinssätzen verzinst. Der Kapi­
+talkostenaufschlag sinkt systembedingt vom letzten Jahr der auslaufenden dritten Regulierungs­
+periode 2023 zum ersten Jahr der neu beginnenden vierten Regulierungsperiode 2024 ab, um 
+danach aufgrund der fortwährend hohen Investitionen wieder jährlich anzusteigen. Einen wesent­
+lichen Einfluss hat auch die Festlegung des generellen sektoralen Produktivitätsfaktors.
+
+36 Stromnetz Berlin  
+
+
+
+Chancen- und Risikobericht
+Im Chancen- und Risikobericht werden die wesentlichen Chancen und Risiken für die Gesellschaft 
+erfasst, wobei die Risiken keine Bestandsgefährdung für das Unternehmen darstellen.
+
+Chancen und Risiken
+
+Umfeld
+Auf Bundes- wie auf Landesebene sind umfangreiche Maßnahmen zur Beschleunigung der  
+Energiewende vorgesehen, welche aufgrund des dezentralen Ansatzes insbesondere für die Ver­
+teilungsnetzbetreiber als Basisinfrastruktur Chancen für die Wertschöpfung durch zunehmende 
+Elektrifizierung und Intelligenz in den Systemen bieten. Auch wenn sich aus dieser Beschleunigung 
+teilweise Risiken ableiten lassen, überwiegt nach den Stellungnahmen des Verbandes kommunaler 
+Unternehmen e. V. und des Bundesverbandes der Energie- und Wasserwirtschaft e. V. die positive 
+Einschätzung in der Branche.
+
+Der Europäische Gerichtshof hat im Vertragsverletzungsverfahren gegen die Bundesrepublik 
+Deutschland am 2. September 2021 festgestellt, dass Deutschland Art. 37 der EltRL 09 nicht 
+rechtsfehlerfrei in nationales Recht umgesetzt hat. Nach Einschätzung des Gerichtshofs habe der 
+deutsche Gesetzgeber mit § 24 EnWG die Kompetenzen der BNetzA unrechtmäßig beschnitten. 
+Mit dem Gesetz zur Anpassung des Energiewirtschaftsrechts an unionsrechtliche Vorgaben und 
+zur Änderung weiterer energierechtlicher Vorschriften wird dem nun abgeholfen. Der Konsultati­
+onsprozess zur konkreten Ausgestaltung der zukünftigen Regulatorik wurde im Jahr 2024 durch 
+die Bundesnetzagentur (BNetzA) gestartet. Kurzfristig sind keine unmittelbaren Auswirkungen  
+auf die Regulierung von Stromnetz Berlin zu erwarten. Mittelfristig werden Anpassungen im deut­
+schen Regulierungsrecht allerdings notwendig, da bisherige Verordnungen perspektivisch außer 
+Kraft treten werden (z. B. StromNEV und ARegV per Ende 2028).
+
+Marktrisiko
+Ein großes Marktrisiko besteht in einer ungünstigen Entwicklung auf den Beschaffungsmärkten. 
+Dies kann, neben höheren Preisen, auch beeinflusst durch höhere Finanzierungskosten, zu deut­
+lich längeren Lieferzeiten für wichtige Materialien und Leistungen führen. Begrenzt wird dieses 
+Risiko durch eine gezielte Beobachtung des Beschaffungsmarktes, eine belastbare und voraus­
+schauende Beschaffungsplanung verbunden mit hierauf abgestimmten Beschaffungsstrategien, 
+die stetige Entwicklung neuer Lieferanten, die Standardisierung von Materialien und Betriebsmit­
+teln sowie eine angemessene Lagerhaltung von wichtigen Betriebsmitteln und Materialien.
+
+Weitere Risiken können aus den sich weiter entwickelnden regulatorischen und gesetzlichen 
+Rahmenbedingungen entstehen. Neue Anforderungen des Gesetzgebers, beispielsweise aus dem 
+Regulierungsrahmen, zum § 14a EnWG (Steuerung in der Niederspannung), oder verschärfte  
+Vorgaben zum Klimaschutz im Allgemeinen können zusätzlich Investitionen und Aufwendungen  
+für den Netzausbau und -umbau nach sich ziehen.
+
+Steigende und volatile Preise auf dem Energiemarkt für die Energiebeschaffung können zu un­
+geplanten Mehrausgaben führen. Davon können die Verlustenergiekosten, der Betriebsverbrauch 
+und die Bewirtschaftung der Bilanzkreise betroffen sein. Begrenzt wird dieses Risiko durch die 
+Einhaltung vorgegebener regulatorischer Prozesse bezüglich der sogenannten volatilen Kosten 
+und durch eine enge Marktbeobachtung.
+
+Lagebericht Geschäftsbericht 2024 37
+
+
+
+Der im Jahr 2017 gestartete Rollout von modernen Messeinrichtungen (mME) und der im Jahr 2020 
+begonnene Rollout von intelligenten Messsystemen (iMSys) führen zu zusätzlichen Investitionen, 
+die nicht dem Kapitalkostenaufschlag unterliegen und somit anders als Investitionen in das Ver­
+teilungsnetz nicht in die Erlösobergrenze eingepreist werden können. Diese Investitionen müssen 
+sich vielmehr über die festgelegten Preisobergrenzen für mME und iMSys amortisieren und sind 
+daher besonderen Effizienzkriterien unterworfen. Zudem müssen die intelligenten Messsysteme 
+zusätzlich in die IT-Landschaft des Verteilungsnetzbetreibers eingebunden werden. Chancen und 
+Risiken bestehen insbesondere, sollte es zu gesetzlichen Anpassungen der bisherigen Preisober­
+grenzen kommen. Stromnetz Berlin geht auf Basis des „Digitalisierungsberichts § 48 des Mess­
+stellenbetriebsgesetzes im Jahr 2024“ davon aus, dass Preisobergrenzen tendenziell angeho­
+ben werden. Bei den neuen Aufgaben innerhalb der Geschäftsfelder der Elektrizitätsverteilung 
+und dem Rollout der iMSys hilft die gute Einbindung von Stromnetz Berlin in die deutschen und 
+europäischen Verbandsstrukturen mit den damit verbundenen Zugängen zu Lobbymöglichkeiten 
+und technischer Expertise. Konkret konnte mit dem Beschluss der BNetzA zur „Festlegung zur 
+regulatorischen Behandlung der beim Anschlussnetzbetreiber nach MsbG entstehenden Kosten“ 
+vom 28. Juni 2024 eine Regelung erreicht werden, die es den Netzbetreibern erlaubt, Erlöse zur 
+Deckung ihrer Kosten, die sie anteilig für iMSys zu tragen haben, zu vereinnahmen.
+
+Sonstige Risiken
+Stromnetz Berlin hat die möglichen Folgen einer Gasmangellage erkannt und hierzu ein „Betriebs­
+konzept Gasmangellage“ erarbeitet. Es beschreibt das Vorgehen bei Überlastungen von Betriebs­
+mitteln zum Schutz des Verteilungsnetzes vor irreparablen Schäden bis hin zu damit verbundenen 
+Abschaltungen von Kundenanschlüssen als ultimativer Letztmaßnahme. Gezielte Monitoring­
+maßnahmen sollen bei der Früherkennung von Überlastungen und der effektiven Steuerung von 
+Gegenmaßnahmen unterstützen. 
+
+Zur Vorbereitung auf Krisen, zum Erkennen von Krisensituationen und zur Entwicklung von Gegen­
+maßnahmen zur Bewältigung bzw. Eindämmung von Krisen hat Stromnetz Berlin ein Krisen­
+management eingerichtet, in dessen Rahmen im Bedarfsfall ein Krisenstab einberufen wird. Die 
+Richtlinie Krisenmanagement (RL1014) von Stromnetz Berlin legt die Prozesse des Krisenmanage­
+ments im Unternehmen fest und bildet die drei Phasen Krisenvorbereitung, Krisenbewältigung und 
+Krisennachbereitung ab. Die Richtlinie verweist auf weitere interne Vorschriften wie die Richtlinie 
+Netzführungsregeln (NFR), Richtlinie Netzwiederaufbauplan (NWA) für das Verteilungsnetz Berlin, 
+Verfahrensanweisung Konzeption im Falle eines Blackouts, Verfahrensanweisung Räumung der 
+Netzleitstelle, Pandemieplan von Stromnetz Berlin, Verfahrensanweisung Zusammenarbeit zwi­
+schen dem Krisenstab und dem Business-Continuity-Management-(BCM-)Team der Smart Meter 
+Gateway Administration. Die am 1. Dezember 2023 in Kraft getretene Konzernrichtlinie Ereignis­
+management (Störungs-, Notfall- und Krisenmanagement) im BEN-Konzern findet bei Stromnetz 
+Berlin Anwendung. 
+
+Der Übertragungsnetzbetreiber 50Hertz hat angekündigt, aufgrund von notwendigen Leistungs­
+erhöhungen für das Berliner Stromnetz in den nächsten Jahren von Stromnetz Berlin Zuschüsse 
+in Form von dauerhaften Kapazitätsrechten zu erheben, welche die Bereitstellung der erhöhten 
+Leistungskapazität garantieren. Dies kann bei Stromnetz Berlin zu signifikanten Liquiditätseffek­
+ten führen. 
+
+Die BNetzA hat das Verfahren zur Festlegung der kalenderjährlichen Erlösobergrenzen für die 
+vierte Regulierungsperiode mit Vorlage des entsprechenden Beschlusses vom 17. Mai 2024 abge­
+schlossen. Dieser Beschluss beeinflusst das Erlösniveau von Stromnetz Berlin ab 2024 wesentlich. 
+Er umfasst insbesondere das Ausgangsniveau für die Erlösobergrenzen ab 2024 und den Effi-
+zienzwert sowie den Effizienzbonus für die vierte Regulierungsperiode. Im selben Beschluss trifft 
+die BNetzA Anpassungszusagen für die Eigenkapitalzinssätze für Alt- und Neuanlagen sowie für 
+
+38 Stromnetz Berlin  
+
+
+
+den generellen sektoralen Produktivitätsfaktor jeweils für die vierte Regulierungsperiode, sollte 
+Stromnetz Berlin in beiden anhängigen Klageverfahren obsiegen.
+
+Die zwischenzeitlich hohe Inflation betrifft auch Stromnetz Berlin. Der Regulierungsrahmen sieht 
+Instrumente vor, welche die Berücksichtigung der Inflation in den Netznutzungsentgelten ermög­
+lichen. Insbesondere ist dies bei Investitionsausgaben gewährleistet, weil die jährlich von Stromnetz 
+Berlin zu beantragenden Kapitalkostenaufschläge aktuelle Preiseinschätzungen gestatten. Ob 
+die regulatorisch zulässigen Erlöse ab 2024 die tatsächlichen Preisentwicklungen bei Stromnetz 
+Berlin werden decken können, hängt auch vom Kostenmanagement von Stromnetz Berlin ab. Ihre 
+Kostensteigerungen für im Erlösobergrenzenbescheid der vierten Regulierungsperiode abgebildete 
+Kosten müssen die hierfür regulatorisch vorgesehenen generellen Preis- (Verbraucherpreisindex) 
+und Produktivitätsvorgaben (genereller sektoraler Produktivitätsfaktor) der StromNEV bzw. der 
+BNetzA berücksichtigen. Der generelle sektorale Produktivitätsfaktor für die vierte Regulierungs­
+periode wurde von der BNetzA in Höhe von 0,86 % festgelegt. Neben der Inflation führt insbeson­
+dere auch das Wachstum von Stromnetz Berlin zur Herbeiführung der Klimaneutralität in Berlin  
+zu im Zeitverlauf strukturell steigenden operativen Kosten. Ob die entsprechenden regulatorisch 
+zulässigen Erlöse ab 2024 diese über das Kostenniveau, welches im Erlösobergrenzenbescheid 
+der vierten Regulierungsperiode abgebildet worden ist, zusätzlichen operativen Betriebsauf­
+wendungen werden decken können, hängt vor allem davon ab, ob der Regulierungsrahmen hier 
+passgenauer ausgestaltet wird. Der Verband kommunaler Unternehmen e. V. hat hierzu einen Vor­
+schlag unterbreitet, der aus Sicht der BNetzA operationabel ist und sich sowohl in der laufenden 
+vierten als auch in einer fünften Regulierungsperiode anwenden ließe.
+
+Diskussionen zu Energiewende und -preisen sowie auch die Coronapandemie haben Einfluss auf 
+die Struktur und das Volumen der Absatzmenge gezeigt. Aufgrund der besonderen Regulatorik ist 
+der Netzbetreiber in einer mehrjährigen Betrachtung jedoch grundsätzlich vor negativen finanziel­
+len Auswirkungen von Absatzschwankungen geschützt.
+
+Die neue F-Gas-Verordnung 2024/573 ist am 11. März 2024 in Kraft getreten. Durch die Neu­
+regelung der Verordnung ergeben sich gravierende Auswirkungen auf Stromnetz Berlin, da die  
+Umstellung auf SF6-freie Anlagen technisch und wirtschaftlich anspruchsvoll ist. Nur wenige 
+Schaltanlagenhersteller bieten SF6-freie Produkte an. Daher ist in den kommenden Jahren mit 
+einer Knappheit am Markt und deutlich höheren Preisen zu rechnen. Alternative Hochspannungs­
+schaltanlagen haben einen höheren Platzbedarf, sodass auch für den Ersatz von Umspannwerken 
+und Netzknoten ein höherer Flächenbedarf und höhere Kosten für entsprechende Baukörper ent­
+stehen sowie Bestandsbauten nicht ausreichend dimensioniert sind und erweitert oder vollständig 
+ersetzt werden müssen. Diesen Entwicklungen wird durch weitere Marktbeobachtungen der tech­
+nischen Veränderungen sowie die Suche nach angemessenen Grundstücken Rechnung getragen. 
+
+Der Fachkräftemangel ist auch für Stromnetzbetreiber zu einem Risiko für die Umsetzung der 
+notwendigen Investitionen geworden. Sowohl bei der Verfügbarkeit von ausreichenden Ressour­
+cen für die Beschaffung von Fremdleistungen als auch bei der Erbringung von Leistungen mit 
+eigenem Personal sind bereits Engpässe zu beobachten. Die Entwicklung von zusätzlichen Kapa­
+zitäten aufseiten der Dienstleister und die Fortführung der Ausbildung von eigenen Nachwuchs­
+kräften sind Maßnahmen zur Verringerung dieses Risikos. Gleichzeitig schärft Stromnetz Berlin sein 
+Profil als attraktiver Arbeitgeber am Markt.
+
+Stromnetz Berlin ist Betreiber einer kritischen Infrastruktur. Bei einem erfolgreichen Cyber­
+angriff bestünde die Gefahr, dass die Versorgungsaufgabe wesentlich eingeschränkt wäre. Des­
+halb hat Stromnetz Berlin im Einklang mit den gesetzlichen Anforderungen Vorsorge getroffen.  
+Für die Sicherheit der Überwachung und Steuerung des elektrischen Verteilungsnetzes sowie 
+für die Sicherheit der Marktprozesse im Zusammenhang mit dem Smart-Meter-Rollout wurde 
+
+Lagebericht Geschäftsbericht 2024 39
+
+
+
+ein Informationssicherheitsmanagementsystem (ISMS) nach ISO/IEC 27001 implementiert. Das 
+ISMS setzt die Anforderungen des § 11 EnWG (IT-Sicherheitskatalog) und des Bundesamtes für 
+Sicherheit in der Informationstechnik (BSI) (TR-03109-6) um. Im Rahmen des ISMS identifizieren 
+Sicherheitsexperten von Stromnetz Berlin relevante Risiken und Bedrohungen, führen qualifizierte 
+Bewertungen durch und implementieren angemessene Sicherheitsmaßnahmen. Die Wirksamkeit 
+dieses Vorgehens wurde im Jahr 2024 durch eine erfolgreiche Rezertifizierung des ISMS unab­
+hängig bestätigt. Mit dem Gesetz zur Umsetzung der NIS-2-Richtlinie (EU 2022/2555) und dem 
+Gesetz zur Umsetzung der CER-Richtlinie (EU 2022/2557) sowie zur Stärkung der Resilienz von 
+Betreibern kritischer Anlagen (KRITIS-Dachgesetz) befinden sich zwei Vorhaben im Gesetzge­
+bungsprozess, deren Inkraftsetzung erwartbar zu neuen regulatorischen Sicherheitsanforderun­
+gen führt. Stromnetz Berlin analysiert die Auswirkungen dieser Gesetzesvorhaben, begleitet  
+diese aktiv über Verbandsarbeit und hat für das NIS-2-Umsetzungsgesetz bereits ein Implemen­
+tierungsprojekt gestartet.
+
+Chancen
+Die zunehmende Verantwortung der Stromnetzbetreiber bei der Umsetzung der Energiewende 
+und hier insbesondere bei der Wärme- und Verkehrswende sowie beim Einsatz von Photovoltaik  
+in den Städten kann für Stromnetz Berlin zu zusätzlichen Erlöschancen (Ausweitung der regulato­
+rischen Assetbase) führen.
+
+Ausgehend von den vom Senat bestätigten Stadtentwicklungskonzepten ergeben sich Chancen 
+für ein weiteres Wachstum des Verteilungsnetzes sowie höhere Anforderungen an die Elektrizi­
+tätsversorgungssicherheit.
+
+Stromnetz Berlin hat in Abstimmung mit der Gesellschafterin vor dem Oberlandesgericht  
+Düsseldorf Beschwerde gegen die Festlegung der Eigenkapitalzinssätze für Alt- und Neuanlagen 
+für Betreiber von Elektrizitätsversorgungsnetzen für die Dauer der vierten Regulierungsperiode 
+durch die BNetzA eingelegt. Im August 2023 hat das Oberlandesgericht Düsseldorf die Festlegung 
+der BNetzA aus dem Jahr 2021 aufgehoben und die BNetzA zu einer Neufestlegung verpflichtet. 
+Hiergegen hat die BNetzA Rechtsbeschwerde beim Bundesgerichtshof eingelegt. Der Bundes­
+gerichtshof hat mit Entscheidung vom 18. Dezember 2024 den Beschluss des dritten Kartell­
+senats des Oberlandesgerichts Düsseldorf aufgehoben und damit die Festlegung der BNetzA  
+aus dem Jahr 2021 bestätigt. Stromnetz Berlin verbleibt dennoch die Chance auf höhere Eigen­
+kap italz inssätze, da sie Ende 2023 zusätzlich einen Antrag gemäß § 29 Abs. 2 EnWG auf Neu­
+festlegung der Eigenkapitalzinssätze unter Berücksichtigung der aktuellen Kapitalmarktverhältnis­
+se bei der BNetzA gestellt hat.
+
+Unabhängig davon hat die BNetzA auf die veränderten Kapitalmarktverhältnisse bereits reagiert. 
+Entsprechend ihrer Ermächtigung durch § 118 Abs. 46 EnWG hat sie am 23. August 2023 eine 
+Festlegung über die zu erlösenden Fremdkapitalzinsen für das eingesetzte Kapital bei Anlagen, 
+die zwischen 2024 und Ende 2028 in Betrieb gehen, getroffen. Demnach können Stromnetz- 
+betreiber anstelle von 1,71 % nunmehr jährlich einen, entsprechend dem aktuellen Jahr und in 
+Abhängigkeit repräsentativer Zinsreihen der Deutschen Bundesbank, kapitalmarktgerechten 
+Fremdkapitalzinssatz in den Kapitalkostenaufschlägen ansetzen. Planung und Kapitalkostenauf­
+schläge von Stromnetz Berlin bilden die Vorgaben der BNetzA ab und berücksichtigen für noch 
+nicht abgeschlossene Geschäftsjahre jeweils Prognosezinssätze. In Abhängigkeit der Kapitalmarkt­
+entwicklung können die tatsächlich zu erlösenden Fremdkapitalzinsen darüber oder darunter 
+liegen. Stromnetz Berlin hat, wie andere Netzbetreiber auch, gegen die Festlegung der BNetzA 
+Beschwerde vor dem Oberlandesgericht Düsseldorf eingelegt. Damit wahrt Stromnetz Berlin die 
+Chance, dass die Neuregelung auch für die Jahre 2022 und 2023 zur Anwendung kommen könnte. 
+Eine erste Verhandlung am 13. November 2024 über Beschwerden von Netzbetreibern, welche  
+die Musterklage führen, ergab noch keine Entscheidung durch das zuständige Oberlandesgericht. 
+
+40 Stromnetz Berlin  
+
+
+
+Für die Eigenkapitalzinssätze hat die BNetzA am 17. Januar 2024 eine Neuregelung im Rahmen 
+der Kapitalkostenaufschläge der vierten Regulierungsperiode getroffen. Abweichend zum Eigen­
+kapitalzins für Neuanlagen, wie er 2021 in Höhe von 5,07 % festgelegt wurde, kommen jährlich 
+zu aktualisierende Eigenkapitalzinssätze zur Anwendung, die den jährlichen risikolosen Basiszins 
+gemessen an der Umlaufrendite festverzinslicher Wertpapiere inländischer Emittenten umfassen. 
+Planung und Kapitalkostenaufschläge von Stromnetz Berlin bilden die Vorgaben der BNetzA ab 
+und berücksichtigen für noch nicht abgeschlossene Geschäftsjahre jeweils Prognosezinssätze. 
+In Abhängigkeit der Kapitalmarktentwicklung können die tatsächlich zu erlösenden Eigenkapital­
+zinsen darüber oder darunter liegen. Stromnetz Berlin hat, wie andere Netzbetreiber auch, gegen 
+die Festlegung der BNetzA Beschwerde vor dem Oberlandesgericht Düsseldorf eingelegt. Damit 
+wahrt Stromnetz Berlin die Chance, wirtschaftliche Verbesserungen beim Eigenkapitalzinssatz 
+für die Kapitalkostenaufschläge zu erlangen. Das gilt insbesondere auch infolge einer möglichen 
+Pflicht der BNetzA, die 2021 durch sie beschlossenen Eigenkapitalzinssätze neu festlegen zu müssen.
+
+Gesamtrisikolage
+
+Das Geschäft von Stromnetz Berlin wird kurzfristig im Wesentlichen durch rechtlich-regulatorische 
+Risiken sowie durch Marktrisiken beeinflusst. 
+
+Mittel- und langfristig sind die Ressourcenengpässe auf dem Feld der Fachkräfte und der Dienst­
+leister und Lieferanten von Stromnetz Berlin zusätzlich relevant.
+
+Für die Gesellschaft ergab sich im Jahr 2024 weder durch Einzelrisiken noch durch die aggregierte 
+Risikoposition eine Bestandsgefährdung. Auch für das Jahr 2025 sind keine derartigen Risiken er­
+kennbar. Das Verteilungsnetzgeschäft von Stromnetz Berlin steht auf einem robusten Fundament. 
+Zusätzliche Anforderungen von Bund und Land an Verteilungsnetzbetreiber aus dem Umbau der 
+Energiesysteme sowie aus dem Wachstum der Stadt Berlin stabilisieren und steigern grundsätzlich 
+die Geschäftsbasis der Gesellschaft.
+
+Insgesamt sichert die bundes- und landespolitisch massiv unterstützte beschleunigte Energiewende 
+das Geschäftsfeld von Stromnetz Berlin mit zusätzlichen regulatorisch finanzierten Investitionen 
+auch zukünftig ab.
+
+Lagebericht Geschäftsbericht 2024 41
+
+
+
+Erklärung zur Unternehmensführung (§ 289f HGB)
+Eines der Ziele von Stromnetz Berlin besteht in der Sicherstellung kompetenzbasierter und auf 
+Chancengleichheit beruhender Neubesetzungen. Langfristig wird ein ausgeglichenes Geschlechter­
+verhältnis in allen Aufsichts- und Führungsgremien von Stromnetz Berlin angestrebt. Im Fokus 
+von Stromnetz Berlin stehen neben der Gender-Diversity auch ethnische und kulturelle Diversität 
+sowie die Entwicklung und Etablierung einer von Inklusion geprägten Unternehmenskultur.
+
+Im Geschäftsjahr 2022 wurden durch die zuständigen Gremien von Stromnetz Berlin für den Auf­
+sichtsrat und für die Geschäftsführung für den Bezugszeitraum bis zum 30. November 2027 sowie 
+für die erste und zweite Führungsebene unterhalb der Geschäftsführung für den Bezugszeitraum 
+bis zum 30. Juni 2027 folgende Zielquoten für den Frauenanteil festgelegt:
+
+•	 Aufsichtsrat 50 % (d. h. acht Frauen bei derzeit 16 Aufsichtsratsmitgliedern)
+•	 Geschäftsführung 50 % (d. h. eine Frau bei derzeit zwei Geschäftsführer*innen)
+•	 erste und zweite Führungsebene unterhalb der Geschäftsführung jeweils 50 %  
+
+(d. h. 20 Frauen bei derzeit 39 Führungskräften)
+
+Am 31. Dezember 2024 beträgt der Frauenanteil im Aufsichtsrat 38 % (sechs Frauen bei  
+16 Aufsichtsratsmitgliedern). In der Geschäftsführung ist keine Frau vertreten. Auf der ersten 
+Führungsebene unterhalb der Geschäftsführung liegt der Frauenanteil am 31. Dezember 2024  
+bei 27 % (drei Frauen bei elf Führungskräften) und auf der zweiten Führungsebene unterhalb  
+der Geschäftsführung bei 46 % (13 Frauen bei 28 Führungskräften).
+
+Um die Zielgröße für die erste und zweite Führungsebene unterhalb der Geschäftsführung 
+zu erreichen, bindet Stromnetz Berlin für die Besetzung von Führungspositionen fallbezogen 
+Personalberatungsunternehmen bzw. Headhunting-Agenturen, die auf eine nachhaltige  
+Förderung von Frauen in Führungspositionen spezialisiert sind, ein.
+
+Im Geschäftsjahr 2024 endete die vierte Amtszeit des Aufsichtsrats von Stromnetz Berlin. Ein 
+neuer Aufsichtsrat mit nunmehr 16 Mitgliedern, davon je acht Vertreter*innen der Anteilseignerin 
+und der Arbeitnehmer*innen, hat sich entsprechend den Vorschriften des Mitbestimmungsgesetzes 
+konstituiert. Die Aufsichtsratsmitglieder der Arbeitnehmer*innen wurden von den wahlberechtigten 
+Arbeitnehmer*innen gewählt, und die Aufsichtsratsmitglieder der Anteilseignerin wurden durch 
+die Gesellschafterin BEN Berlin Energie und Netzholding GmbH entsandt. Erstmalig gibt es eine 
+Vertretung der Leitenden.
+
+Die folgende Erklärung zur Umsetzung des Landesgleichstellungsgesetzes (LGG) ist nicht  
+Gegenstand der gesetzlichen Abschlussprüfung nach § 316 ff. HGB.
+
+42 Stromnetz Berlin  
+
+
+
+Umsetzung des Landesgleichstellungsgesetzes (LGG)
+Das Thema „Diversität“ mit all seinen Facetten spielt bei Stromnetz Berlin seit Langem eine 
+wichtige Rolle. Gemäß dem Gesellschaftsvertrag von Stromnetz Berlin sind die Regelungen des 
+Landesgleichstellungsgesetzes in der jeweils geltenden Fassung entsprechend anzuwenden. 
+Dies gilt insbesondere für die Erstellung eines Frauenförderplans, für Stellenbesetzungsverfahren 
+einschließlich der Besetzung von Geschäftsführungspositionen sowie für die Wahl von Frauen­
+vertreterinnen. Vor diesem Hintergrund wird die im Mai 2022 gemäß § 16 LGG gewählte Frauen­
+vertreterin nebst ihrer Stellvertreterin an Stellenbesetzungsverfahren, die unter Berücksichtigung 
+des LGG durchgeführt werden, beteiligt sowie in andere Fragestellungen gemäß LGG entspre­
+chend eingebunden, z. B. in das im Geschäftsjahr durchgeführte Reorganisationsprojekt ZE:NiT.
+
+Der mit Beteiligung der Frauenvertreterinnen erarbeitete und im Geschäftsjahr 2023 veröffentlich­
+te Frauenförderplan von Stromnetz Berlin beschreibt die geplanten Entwicklungen für die Jahre 
+2023 bis 2029. Das Unternehmen hat sich die Ziele gesetzt, innerhalb dieses Zeitraums den pro­
+zentualen Anteil der Frauen in der Gesamtbelegschaft auf 25 %, in Führungspositionen auf 50 % 
+und in der Ausbildung (IHK-Ausbildungsberufe sowie duale Studiengänge) auf 20 % zu erhöhen.  
+Im Rahmen der Besetzungsprozesse werden die Stellenausschreibungen so gestaltet, dass sie 
+gleichermaßen für alle Geschlechter gelten und sich alle auch gleichermaßen angesprochen fühlen.
+
+Im Mai 2024 hat, durch die Frauenvertreterinnen organisiert, die zweite Frauenversammlung von  
+Stromnetz Berlin stattgefunden. Unter dem Motto „Starke Frauen stärken Frauen“ folgten mehr 
+als 200 Frauen verschiedenen Vorträgen und Impulsen, die einen besonderen Fokus auf die 
+anstehenden Herausforderungen und Chancen für Frauen angesichts des unternehmensweiten 
+Transformationsprozesses legten.
+
+Berlin, 17. Februar 2025
+
+	
+Dr. Erik Landeck	 Bernhard Büllmann
+
+Geschäftsführung Stromnetz Berlin GmbH
+
+Lagebericht Geschäftsbericht 2024 43
+
+
+
+Bilanz
+Anhang 31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+AKTIVA 
+
+Anlagevermögen (1)
+
+Immaterielle Vermögensgegenstände 17,1 12,5
+
+Sachanlagen 2.218,4 1.964,6
+
+Finanzanlagen 27,1 27,1
+
+2.262,6 2.004,2
+
+Umlaufvermögen
+
+Vorräte (2) 46,8 38,2
+
+Forderungen und sonstige Vermögensgegenstände (3) 320,9 319,3
+
+Guthaben bei Kreditinstituten 61,7 40,9
+
+429,4 398,4
+
+Rechnungsabgrenzungsposten 4,1 3,6
+
+Sonderverlustkonto aus Rückstellungsbildung (4) 0,4 0,7
+
+2.696,5 2.406,9
+
+PASSIVA 
+
+Eigenkapital (5)
+
+Gezeichnetes Kapital 100,0 100,0
+
+Kapitalrücklage 1.591,4 1.291,4
+
+Andere Gewinnrücklagen 12,7 12,7
+
+1.704,1 1.404,1
+
+Sonderposten für Investitionszuschüsse (6) 0,4 0,6
+
+Baukostenzuschüsse (7) 212,7 186,9
+
+Rückstellungen (8) 485,8 483,6
+
+Verbindlichkeiten (9) 292,4 330,2
+
+Rechnungsabgrenzungsposten 1,1 1,5
+
+2.696,5 2.406,9
+
+44 Stromnetz Berlin  Bilanz
+
+
+
+Gewinn- und Verlustrechnung
+Anhang 2024 2023
+
+Mio. € Mio. €
+
+Umsatzerlöse (10) 1.533,2 1.351,9
+
+Andere aktivierte Eigenleistungen (11) 104,1 90,3
+
+Sonstige betriebliche Erträge (12) 15,5 9,6
+
+Materialaufwand (13) −960,1 −784,1
+
+Personalaufwand (14) −206,2 −206,1
+
+Abschreibungen (15) −105,9 −123,6
+
+Konzessionsabgabe (16) −138,4 −139,7
+
+Sonstige betriebliche Aufwendungen (17) −86,6 −84,7
+
+Beteiligungsergebnis (18) 0,0 0,1
+
+Zinsergebnis (19) −4,7 −15,6
+
+Steuern vom Einkommen und vom Ertrag (20) − 0,0
+
+Ergebnis nach Steuern 150,9 98,1
+
+Sonstige Steuern (21) −1,2 −1,2
+
+Jahresergebnis vor Gewinnabführung 149,7 96,9
+
+Gewinnabführung −149,7 −96,9
+
+Jahresüberschuss − −
+
+Gewinn- und Verlustrechnung Geschäftsbericht 2024 45
+
+
+
+Kapitalflussrechnung
+2024 2023
+
+Mio. € Mio. €
+
+Jahresergebnis vor Gewinnabführung 149,7 96,9
+
++ Abschreibungen auf Gegenstände des Anlagevermögens 105,9 135,5
+
+− Abnahme der Rückstellungen −63,5 −86,4
+
++/− Sonstige zahlungsunwirksame Aufwendungen abzüglich entsprechender 
+Erträge 57,9 126,8
+
+− Zunahme der Vorräte, der Forderungen aus Lieferungen und Leistungen 
+sowie anderer Aktiva, die nicht der Investitions- oder der Finanzierungs
+tätigkeit zuzuordnen sind −24,6 −36,8
+
+−/+ Abnahme/Zunahme der Verbindlichkeiten aus Lieferungen und Leistungen 
+sowie anderer Passiva, die nicht der Investitions- oder der Finanzierungs
+tätigkeit zuzuordnen sind −38,3 31,3
+
++ Verlust aus dem Abgang von Gegenständen des Anlagevermögens 1,5 2,6
+
+− Sonstige Beteiligungserträge −0,0 −0,1
+
+− Zinserträge abzüglich Zinsaufwendungen −2,0 −1,9
+
++ Ertragsteueraufwand − 0,0
+
++ Ertragsteuerzahlungen − 3,8
+
+= Cashflow aus der laufenden Geschäftstätigkeit 186,6 271,7
+
++ Einzahlungen aus Abgängen von Gegenständen  − 0,0
+des immateriellen Anlagevermögens
+
+− Auszahlungen für Investitionen in das immaterielle Anlagevermögen −10,3 −6,1
+
++ Einzahlungen aus Abgängen von Gegenständen des Sachanlagevermögens 0,1 0,0
+
+− Auszahlungen für Investitionen in das Sachanlagevermögen −356,4 −272,5
+
++ Einzahlungen aus Abgängen von Gegenständen des Finanzanlagevermögens 0,8 0,1
+
+− Auszahlungen für Investitionen in das Finanzanlagevermögen − −39,0
+
++ Erhaltene Zinsen und Beteiligungserträge 3,1 2,5
+
+= Cashflow aus der Investitionstätigkeit −362,7 −315,0
+
+− Gewinnabführung an Anteilseigner −149,7 −96,9
+
++ Einzahlungen aus Eigenkapitalzuführungen vom Anteilseigner 300,0 100,0
+
++ Einzahlungen aus erhaltenen Zuschüssen/Zuwendungen 33,8 39,3
+
+− Gezahlte Zinsen −1,1 −0,5
+
+= Cashflow aus der Finanzierungstätigkeit 183,0 41,9
+
+Zahlungswirksame Veränderungen des Finanzmittelfonds 6,9 −1,4
+
+Finanzmittelfonds am Anfang der Periode 145,1 146,5
+
+= Finanzmittelfonds am Ende der Periode 152,0 145,1
+
+46 Stromnetz Berlin  Kapitalflussrechnung
+
+
+
+Anhang
+Allgemeine Vorbemerkungen
+
+Der Jahresabschluss der Stromnetz Berlin GmbH wurde nach den handelsrechtlichen Rechnungs­
+legungsvorschriften für große Kapitalgesellschaften und den ergänzenden Vorschriften des GmbH-
+Gesetzes sowie unter Beachtung des Energiewirtschaftsgesetzes (EnWG) aufgestellt. Alle Werte 
+sind in Millionen Euro (Mio. €) ausgewiesen.
+
+Zur übersichtlicheren Darstellung sind in der Bilanz sowie der Gewinn- und Verlustrechnung Posten 
+zusammengefasst sowie aufgegliedert und im Anhang gesondert ausgewiesen und erläutert. Aus 
+dem gleichen Grunde wurden die Angaben zur Mitzugehörigkeit zu anderen Posten und Davon-
+Vermerke ebenfalls an dieser Stelle gemacht. Die Gewinn- und Verlustrechnung ist nach dem 
+Gesamtkostenverfahren aufgestellt und wurde zur besseren Darstellung um den Posten „Jahres­
+ergebnis vor Gewinnabführung“ ergänzt.
+
+Seit dem 11. April 2022 besteht ein Ergebnisabführungsvertrag zwischen Stromnetz Berlin und 
+der BEN Berlin Energie und Netzholding GmbH (BEN). Ab dem Geschäftsjahr 2022 besteht eine 
+ertragsteuerliche Organschaft. Stromnetz Berlin GmbH mit Sitz in Berlin ist unter der Nummer 
+HRB 96555B im Handelsregister des Amtsgerichts Charlottenburg eingetragen.
+
+Stromnetz Berlin wird in den Konzernabschluss der BEN (größter und kleinster Konsolidierungs­
+kreis) einbezogen. Der Konzernabschluss der BEN wird nach den handelsrechtlichen Vorschriften 
+aufgestellt und im Unternehmensregister offengelegt. 
+
+Aufgrund der Teilrechtsnachfolge mit der BEW Berliner Energie und Wärme GmbH (ehemals:  
+Vattenfall Wärme Berlin AG) und davor erfolgter gesellschaftsrechtlicher Umstrukturierungen 
+finden Gesetze, deren Geltungsbereich sich nach dem Einigungsvertrag grundsätzlich nur auf das 
+Gebiet der ehemaligen DDR erstreckt, auch auf Stromnetz Berlin insgesamt Anwendung. Dies 
+gilt vor allem für das D-Markbilanzgesetz (DMBilG).
+
+Bilanzierungs- und Bewertungsmethoden
+
+Bei der Erstellung des Jahresabschlusses waren nahezu unverändert die nachfolgenden Bilanzie­
+rungs- und Bewertungsmethoden maßgebend.
+
+Anhang Geschäftsbericht 2024 47
+
+
+
+AKTIVA
+
+Anlagevermögen
+Entgeltlich erworbene immaterielle Vermögensgegenstände werden zu Anschaffungskosten er­
+fasst und linear entsprechend ihrer voraussichtlichen Nutzungsdauer zwischen drei und 25 Jahren 
+abgeschrieben.
+
+Vom Aktivierungswahlrecht für selbst geschaffene immaterielle Vermögensgegenstände des  
+Anlagevermögens wird kein Gebrauch gemacht.
+
+Sachanlagen werden zu Anschaffungs- bzw. Herstellungskosten vermindert um Abschreibungen 
+bewertet. Die Herstellungskosten der selbst erstellten Anlagen umfassen neben den direkt zu­
+rechen baren Einzelkosten in angemessenem Umfang anteilige Gemeinkosten. Fremdkapitalzinsen 
+sind nicht einbezogen.
+
+Abschreibungen für Sachanlagen werden nach der linearen Abschreibungsmethode vorgenommen.
+
+Stromnetz Berlin hat das im Geschäftsjahr 2023 gestartete Projekt zur Überprüfung der Band­
+breiten der betriebsgewöhnlichen Nutzungsdauern für die Netzinfrastruktur im Geschäftsjahr 
+2024 fortgesetzt. Hierbei wurden die aktuellen Erfahrungen zum Alterungsverhalten und zur 
+Störanfälligkeit des im Bestand befindlichen Anlagenbestands berücksichtigt. Im Geschäftsjahr 
+wurden im Rahmen des Projekts im Wesentlichen die Nutzungsdauern der Sachanlagen des  
+Mittel- und Niederspannungsnetzes überprüft. Im Ergebnis der Überprüfung hat sich heraus­
+gestellt, dass sich bei den untersuchten Anlagenklassen überwiegend eine Verlängerung der 
+betriebsgewöhnlichen Nutzungsdauern von einer Bandbreite von 15 bis 25 auf eine Bandbreite 
+von 20 bis 40 Jahren ergeben hat, die hauptsächlich auf durch die Energiewende hervorgerufene 
+Anpassungen in der Netzinfrastruktur wie Netzentflechtungen, teilweise neue technologische 
+Lösungen im Netzausbau sowie die Anwendung schwerpunktorientierter Wartungsmethoden 
+zurückzuführen ist. Durch die Verlängerung der betriebsgewöhnlichen Nutzungsdauern für den 
+untersuchten Anlagenbestand hat sich im Geschäftsjahr 2024 eine positive Ergebniswirkung von 
+insgesamt 23,0 Mio. € ergeben.
+
+Die Vermögensgegenstände des Sachanlagevermögens werden nach Maßgabe der voraussicht­
+lichen Nutzungsdauer nunmehr überwiegend über 20 Jahre, maximal über 50 Jahre abgeschrieben.
+
+Außerplanmäßige Abschreibungen werden vorgenommen, wenn bei dauerhafter Wertminderung 
+der Ansatz mit einem niedrigeren beizulegenden Wert erforderlich ist. Sofern die Gründe für die 
+außerplanmäßigen Abschreibungen entfallen sind, erfolgt eine Wertaufholung bis maximal zu den 
+fortgeführten Anschaffungskosten des Vermögensgegenstands. 
+
+Geringwertige Wirtschaftsgüter von 205,01 bis 1.000,00 € werden als Sammelposten ausgewie­
+sen und über fünf Jahre linear abgeschrieben.
+
+Finanzanlagen sind zu Anschaffungskosten oder dem niedrigeren beizulegenden Wert unter 
+Beachtung des Wertaufholungsgebots bilanziert. Außerplanmäßige Abschreibungen aufgrund 
+vorübergehender Wertminderung werden nicht vorgenommen.
+
+Ausleihungen werden mit ihrem Nennwert angesetzt bzw., soweit bei Niedrig- und Unverzinslich­
+keit erforderlich, auf den Bilanzstichtag abgezinst.
+
+48 Stromnetz Berlin  
+
+
+
+Umlaufvermögen
+Die Vorräte sind zu Anschaffungs- und Herstellungskosten unter Anwendung zulässiger Bewer­
+tungsvereinfachungsverfahren und unter Beachtung des strengen Niederstwertprinzips bewertet.
+
+Forderungen und sonstige Vermögensgegenstände sind mit dem Nennwert oder mit dem niedrige­
+ren beizulegenden Wert angesetzt. Allen erkennbaren Einzelrisiken und dem allgemeinen Kredit­
+risiko wird durch angemessene Wertabschläge Rechnung getragen.
+
+Innerhalb der Forderungen aus Lieferungen und Leistungen werden erhaltene Abschlagszahlun­
+gen auf den noch nicht abgerechneten Verbrauch für Netznutzung verrechnet. Die Forderungen 
+aus noch nicht abgerechneter Netznutzung basieren auf einer aus den Durchleitungsmengen 
+abgeleiteten Verbrauchs- und Erlösabgrenzung, die nach anerkannten Methoden auf den Leis­
+tungszeitraum hochgerechnet wird. Für die Abgrenzung findet im Wesentlichen ein Individual­
+bewertungsverfahren Anwendung.
+
+Die Guthaben bei Kreditinstituten sind mit dem Nominalwert angesetzt.
+
+Rechnungsabgrenzungsposten
+Als Rechnungsabgrenzungsposten sind auf der Aktivseite Ausgaben vor dem Abschlussstichtag 
+ausgewiesen, die Aufwand für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Sonderverlustkonto aus Rückstellungsbildung
+Auf der Aktivseite wird für Rückstellungen, die aufgrund der erstmaligen Anwendung des § 249  
+Abs. 1 Satz 1 HGB in der D-Markeröffnungsbilanz (DMEB) zu bilden waren, ein Sonderverlustkonto 
+aus Rückstellungsbildung nach § 17 Abs. 4 D-Markbilanzgesetz (DMBilG) ausgewiesen. Das Sonder­
+verlustkonto verändert sich entsprechend der Inanspruchnahme und Auflösung der zugrunde 
+liegenden DMEB-Rückstellungen. Für Inanspruchnahmen werden keine Aufwendungen in den je- 
+weiligen Posten der Gewinn- und Verlustrechnung, sondern Abschreibungen auf das Sonderver­
+lustkonto in den sonstigen betrieblichen Aufwendungen ausgewiesen. Bei Auflösungen von DMEB-
+Rückstellungen wird das Sonderverlustkonto erfolgsneutral mit den Rückstellungen verrechnet.
+
+PASSIVA
+
+Sonderposten für Investitionszuschüsse
+Als Sonderposten werden steuerfreie Zulagen nach dem Investitionszulagengesetz ausgewiesen. 
+Die ertragswirksame Auflösung erfolgt entsprechend dem Abschreibungsverlauf der betreffenden 
+Vermögensgegenstände.
+
+Baukostenzuschüsse 
+Erhaltene investitionsbezogene Baukostenzuschüsse und Anschlusskostenbeiträge werden passi­
+viert. Die Baukostenzuschüsse und Anschlusskostenbeiträge werden entsprechend der Nutzungs­
+dauer des Vermögensgegenstands ertragswirksam aufgelöst. 
+
+Rückstellungen
+Bei der Bemessung der Rückstellungen wird allen erkennbaren Risiken und ungewissen Verbindlich­
+keiten nach vernünftiger kaufmännischer Beurteilung in notwendigem Umfang Rechnung getragen.
+
+Anhang Geschäftsbericht 2024 49
+
+
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen sowie die unter den sonstigen  
+Rückstellungen erfassten Jubiläumszuwendungen werden versicherungsmathematisch unter  
+Zugrundelegung biometrischer Wahrscheinlichkeiten (Richttafeln Heubeck 2018 G) nach dem 
+Anwartschaftsbarwertverfahren ermittelt. Verpflichtungen aus Aufstockungsbeträgen und  
+dem angesammelten Erfüllungsrückstand bei Altersteilzeitverträgen sind mit dem versicherungs­
+mathematischen Barwert angesetzt. Zukünftig erwartete Entgelt- und Rentensteigerungen  
+werden bei der Ermittlung der Verpflichtungen berücksichtigt.
+
+Versicherungsmathematische Prämissen
+
+31.12.2024 31.12.2023
+
+% %
+
+Abzinsungsfaktor für Pensionsverpflichtungen 1,89 1,83
+
+Abzinsungsfaktor für Pensionsverpflichtungen vergleichbare  
+und andere langfristige Personalrückstellungen 1,96 1,75
+
+Abzinsungsfaktor für Verpflichtungen aus Altersteilzeitregelungen 1,50 1,04
+
+Langfristige Gehaltssteigerungsrate 2,50 2,50
+
+Allgemeiner Rententrend 2,50 2,50
+
+Rententrend abhängig von Versorgungszusage 0,00 bis 2,25 0,00 bis 2,25
+
+Fluktuationsrate 0,00 bis 10,40 0,00 bis 10,40
+
+Inflationsrate 2,25 2,25
+
+Dynamik der Beitragsbemessungsgrenze 3,50 3,50
+
+Für die Abzinsung werden die von der Deutschen Bundesbank ermittelten und veröffentlichten 
+durchschnittlichen Marktzinssätze zum 31. Dezember 2024 angewandt. Bei Pensionsrückstellun­
+gen sind zur Durchschnittszinsermittlung die vergangenen zehn Geschäftsjahre, bei den anderen 
+Rückstellungen die vergangenen sieben Geschäftsjahre einzubeziehen. Für Pensions- und ver­
+gleichbare, langfristig fällige Personalrückstellungen wird eine Restlaufzeit von 15 Jahren und bei 
+Altersteilzeitrückstellungen entsprechend der Restlaufzeit von einem Jahr angenommen.
+
+Soweit Pensionsverpflichtungen mit einem Aktivwert einer Versicherung rückgedeckt sind, werden 
+diese mit den jeweiligen Rückstellungen saldiert.
+
+Kongruent rückgedeckte Altersversorgungszusagen, deren Höhe sich somit ausschließlich nach 
+dem beizulegenden Zeitwert eines Rückdeckungsversicherungsanspruchs bestimmt, sind mit die­
+sem bewertet, soweit er den garantierten Mindestbetrag (diskontierter Erfüllungsbetrag der Ga­
+rantieleistung) übersteigt. Der beizulegende Zeitwert eines Rückdeckungsversicherungsanspruchs 
+besteht aus dem sogenannten geschäftsplanmäßigen Deckungskapital des Versicherungsneh­
+mers zuzüglich eines etwa vorhandenen Guthabens aus Beitragsrückerstattungen (sogenannte 
+Überschussbeteiligung).
+
+50 Stromnetz Berlin  
+
+
+
+Der Zinsanteil aus der Zuführung zu den Pensions- und sonstigen Rückstellungen wird im Zins­
+ergebnis erfasst. Das Ergebnis aus Zinssatzanpassungen wird mit den Zuführungsbeträgen zur 
+Rückstellung verrechnet. Ein sich daraus ergebender Aufwand wird für Pensionsrückstellungen im 
+Personalaufwand und für sonstige Rückstellungen im sonstigen betrieblichen Aufwand erfasst,  
+ein sich daraus ergebender Ertrag wird innerhalb der sonstigen betrieblichen Erträge ausgewiesen.
+
+Die Steuer- und anderen sonstigen Rückstellungen werden mit dem nach vernünftiger kaufmän­
+nischer Beurteilung notwendigen Erfüllungsbetrag bewertet. Zukünftige Preis- und Kostensteige­
+rungen werden berücksichtigt, sofern ausreichende objektive Hinweise für deren Eintritt vorliegen. 
+Dabei werden Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr mit dem ihrer Rest­
+laufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjah­
+re abgezinst. Die anzuwendenden Zinssätze zum 31. Dezember 2024 wurden von der Deutschen 
+Bundesbank veröffentlicht.
+
+Verbindlichkeiten
+Verbindlichkeiten werden mit ihrem Erfüllungsbetrag angesetzt. 
+
+Rechnungsabgrenzungsposten
+Als Rechnungsabgrenzungsposten sind auf der Passivseite Einnahmen vor dem Abschlussstichtag 
+ausgewiesen, die Ertrag für eine bestimmte Zeit nach diesem Tag darstellen.
+
+Latente Steuern
+Stromnetz Berlin ist in den ertragsteuerlichen Organkreis der BEN einbezogen. Latente Steuern 
+werden auf temporäre oder quasi permanente Differenzen zwischen den handelsrechtlichen 
+Wertansätzen von Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten sowie 
+ihren steuerlichen Wertansätzen auf Ebene des Organträgers ermittelt und bei Passivüberhang 
+nach Saldierung auch dort bilanziert.
+
+Finanzinstrumente
+Derivative Finanzinstrumente werden als schwebende Geschäfte nicht bilanziert. Gewinne aus 
+Sicherungsgeschäften werden erst bei Fälligkeit realisiert. Unrealisierte Verluste aus derivativen 
+Finanzinstrumenten werden ergebniswirksam zurückgestellt.
+
+Anhang Geschäftsbericht 2024 51
+
+
+
+Erläuterungen zur Bilanz
+
+(1) Anlagevermögen
+Die Aufgliederung der in der Bilanz zusammengefassten Anlageposten im Berichtsjahr 2024 ist in 
+der Entwicklung des Anlagevermögens, beigefügt als Anlage zum Anhang, dargestellt. Unter den 
+sonstigen Ausleihungen wird ein langfristiges Darlehen ausgewiesen.
+
+Mit Wirkung zum 1. Januar 2024 wurde die Beteiligung an der infrest – Infrastruktur eStrasse GmbH 
+an die BEN Berlin Energie und Netzholding GmbH verkauft. Damit bestehen am 31. Dezember 2024 
+keine Anteile an Beteiligungen mehr.
+
+(2) Vorräte
+Bei den Vorräten handelt es sich um Roh-, Hilfs- und Betriebsstoffe mit einer Wertberichtigung in 
+Höhe von 0,8 Mio. € (Vorjahr: 0,2 Mio. €). 
+
+(3) Forderungen und sonstige Vermögensgegenstände
+
+davon davon 
+Restlaufzeit Restlaufzeit 
+
+31.12.2024 > 1 Jahr 31.12.2023 > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. €
+
+Forderungen aus Lieferungen und Leistungen 203,8 − 202,6 0,0
+
+Forderungen gegen verbundene Unternehmen 91,3 − 104,9 −
+
+Sonstige Vermögensgegenstände 25,8 0,1 11,8 0,1
+
+ 320,9 0,1 319,3 0,1
+
+Die Forderungen aus Lieferungen und Leistungen entfallen im Wesentlichen auf Forderungen aus 
+der Netznutzung. Innerhalb der Forderungen aus Lieferungen und Leistungen sind abgerechnete 
+Forderungen in Höhe von 90,6 Mio. € (Vorjahr: 63,8 Mio. €) sowie noch nicht abgerechnete Forderun­
+gen aus Netznutzung in Höhe von 536,1 Mio. € (Vorjahr: 484,3 Mio. €), die mit Abschlagszahlungen 
+in Höhe von 441,8 Mio. € (Vorjahr: 366,0 Mio. €) verrechnet worden sind, ausgewiesen. 
+
+Weiterhin sind unter diesem Posten 14,5 Mio. € Forderungen aus der Weitergabe des KWK-Zu­
+schlags an die 50Hertz Transmission GmbH, 6,9 Mio. € Forderungen aus Stromverkäufen, 3,6 Mio. € 
+Forderungen aus Materialverkäufen, 2,8 Mio. € Forderungen aus der Umlage gemäß § 19 Abs. 2 
+StromNEV sowie der Konzessionsabgabe, 1,5 Mio. € Forderungen aus Instandhaltungsleistungen, 
+1,4 Mio. € Forderungen aus Mindererlösen gemäß § 19.2 gegenüber der 50Hertz Transmission 
+GmbH, 1,3 Mio. € Forderungen aus der Rückerstattung von vermiedenen Netznutzungsentgelten 
+sowie 9,4 Mio. € sonstige Forderungen aus Lieferungen und Leistungen ausgewiesen. Die Forde­
+rungen aus Lieferungen und Leistungen berücksichtigen Wertberichtigungen in Höhe von 5,3 Mio. € 
+(Vorjahr: 6,0 Mio. €). Des Weiteren wurden die Forderungen aus Lieferungen und Leistungen in Höhe 
+von 17,2 Mio. € mit Verbindlichkeiten aus Lieferungen und Leistungen verrechnet.
+
+Von den Forderungen gegen verbundene Unternehmen betreffen 90,3 Mio. € (Vorjahr: 104,2 Mio. €) 
+verzinsliche kurzfristige Geldanlagen (Cashpooling) bei der Gesellschafterin BEN, 1,0 Mio. € (Vorjahr: 
+0,5 Mio. €) Forderungen aus weiterberechneten Steuern, 0,0 Mio. € (Vorjahr: – Mio. €) Forderungen 
+aus Lieferungen und Leistungen sowie im Vorjahr 0,2 Mio. € Zinsforderungen. 
+ 
+ 
+
+52 Stromnetz Berlin  
+
+
+
+Die sonstigen Vermögensgegenstände enthalten Forderungen in Höhe von 24,7 Mio. € gegenüber 
+Finanzbehörden (Vorjahr: 9,7 Mio. €), 0,7 Mio. € Anzahlungen (Vorjahr: 1,3 Mio. €), 0,0 Mio. € debi­
+torische Kreditoren (Vorjahr: 0,6 Mio. €) sowie 0,4 Mio. € sonstige Forderungen (Vorjahr: 0,2 Mio. €).
+
+(4) Sonderverlustkonto aus Rückstellungsbildung
+Die Entwicklung des Sonderverlustkontos im Berichtsjahr stellt sich wie folgt dar:
+
+01.01.2024 Verbrauch Auflösung 31.12.2024
+
+Mio. € Mio. € Mio. € Mio. €
+
+Sonstige Rückstellungen 
+
+Ökologische Lasten 0,7 − 0,3 0,4
+
+0,7 − 0,3 0,4
+
+(5) Eigenkapital
+Das gezeichnete Kapital in Höhe von 100.000.000,00 € wird zu 100,0 % von der BEN gehalten.  
+Mit Beschluss vom 16. Dezember 2024 erfolgte im Geschäftsjahr 2024 eine Einlage als Zuzahlung 
+in die Kapitalrücklage in Höhe von 300.000.000,00 € durch die Gesellschafterin BEN.
+
+(6) Sonderposten
+Der Sonderposten besteht im Geschäftsjahr aus steuerfreien Investitionszulagen zum Anlagevermögen.
+
+(7) Baukostenzuschüsse
+Die Zuschüsse entfallen im Wesentlichen auf Anschlusskostenbeiträge für Hausanschlüsse.
+
+(8) Rückstellungen
+
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen 240,9 252,9
+
+Steuerrückstellungen 0,1 0,0
+
+Sonstige Rückstellungen 244,8 230,7
+
+485,8 483,6
+
+Die Pensionsrückstellungen decken die Versorgungsverpflichtungen gegenüber ehemaligen und 
+noch tätigen Mitarbeitern ab.  
+
+Verpflichtungen aus Pensionszusagen sind teilweise durch Vermögensgegenstände gesichert.  
+Die angelegten Vermögensgegenstände dienen ausschließlich der Erfüllung der Pensionsverpflich­
+tungen und sind dem Zugriff übriger Gläubiger entzogen. Sie werden nach § 246 Abs. 2 Satz 2 
+HGB mit den zugrunde liegenden Verpflichtungen verrechnet. Es handelt sich um Aktivwerte bei 
+Rückdeckungsversicherungen. Diese entsprechen im Wesentlichen den Anschaffungskosten  
+unter Berücksichtigung von Zinseffekten.
+
+Anhang Geschäftsbericht 2024 53
+
+
+
+Die Rückstellungen für Altersversorgungsverpflichtungen mit einer Restlaufzeit von mehr als 
+einem Jahr wurden mit dem durchschnittlichen Marktzinssatz aus den vergangenen zehn  
+Geschäftsjahren abgezinst. Bei einem Ansatz dieser Rückstellungen unter Anwendung einer  
+Abzinsung mit dem durchschnittlichen Marktzinssatz aus den vergangenen sieben Jahren  
+ergäbe sich eine um 2,1 Mio. € geringere Rückstellung (§ 253 Abs. 6 HGB).
+
+31.12.2024 31.12.31.12.2023
+
+Mio. € Mio. €
+
+Erfüllungsbetrag der Pensionen und ähnlicher Verpflichtungen 241,4 253,4
+
+Beizulegender Zeitwert der Vermögensgegenstände −0,5 −0,5
+
+Nettowert der Pensionen und ähnlicher Verpflichtungen (Rückstellung) 240,9 252,9
+
+Die Steuerrückstellungen entfallen im Geschäftsjahr wie auch im Vorjahr vollständig auf 
+die Energiesteuern.
+
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+Rückstellungen für
+
+Personal ohne Pensionen 135,9 123,9
+
+Verpflichtungen aus dem Regulierungskonto 72,3 61,8
+
+Ungewisse Verpflichtungen 20,6 19,7
+
+Ökologische Lasten 6,8 1,2
+
+Ausgleichsverpflichtungen aus dem KWK- und EEG-Gesetz 5,1 14,0
+
+Drohverluste 0,2 4,9
+
+Übrige 3,9 5,2
+
+Sonstige Rückstellungen 244,8 230,7
+
+Höhere Rückstellungen für Personal ohne Pensionen ergaben sich im Wesentlichen durch die 
+Tarifsteigerung sowie gestiegene ergebnisabhängige Zahlungen. 
+
+Das Regulierungskonto dient der Erfassung und dem Abgleich der tatsächlich erzielten und der 
+zulässigen Erlöse unter Berücksichtigung der tatsächlichen Mengenentwicklung. Der Anstieg um 
+10,5 Mio. € resultiert im Wesentlichen aus höheren erzielten Netznutzungserlösen im Vergleich  
+zu den genehmigten Erlösen.
+
+Aufgrund der Marktpreisentwicklung für bereits beschaffte Netzverlustenergie für 2025 und den 
+Betriebsverbrauch für 2025 ergab sich die Notwendigkeit der Bildung einer Drohverlustrückstellung.
+
+Die Rückstellungen für ökologische Lasten berücksichtigen die erwarteten Kosten für erforderliche 
+Bodensanierungen auf fremden und eigenen Grundstücken.
+
+54 Stromnetz Berlin  
+
+
+
+(9) Verbindlichkeiten
+
+davon davon davon davon 
+Restlaufzeit Restlaufzeit Restlaufzeit Restlaufzeit 
+
+31.12.2024 ≤ 1 Jahr > 1 Jahr 31.12.2023 ≤ 1 Jahr > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Erhaltene 
+Anzahlungen 21,3 21,3 − 13,3 13,3 −
+
+Verbindlichkeiten 
+aus Lieferungen 
+und Leistungen 107,5 107,5 − 202,7 202,7 0,0
+
+Verbindlichkeiten 
+gegenüber verbun-
+denen Unternehmen 150,1 150,1 − 97,2 97,2 −
+
+Verbindlichkeiten ge-
+genüber Unternehmen, 
+mit denen ein Betei
+ligungsverhältnis 
+besteht − − − 0,0 0,0 −
+
+Sonstige 
+Verbindlichkeiten 13,5 13,5 0,0 17,0 17,0 0,0
+
+davon aus Steuern (11,2) (11,2) (−) (13,8) (13,8) (−)
+
+davon im Rahmen 
+der sozialen 
+Sicherheit (0,2) (0,2) (−) (0,6) (0,6) (−)
+
+292,4 292,4 0,0 330,2 330,2 0,0
+
+Die Verbindlichkeiten aus Lieferungen und Leistungen enthalten Verpflichtungen in Höhe von  
+31,1 Mio. € aus Mehr-/Mindermengen, 9,6 Mio. € aus Umlagen gemäß § 19.2 StromNEV und  
+§ 17f EnWG, 6,3 Mio. € aus bezogenen Leistungen des Bereichs Facility, 4,8 Mio. € aus KWK,  
+4,8 Mio. € aus Strombezügen gegenüber Trading, 0,8 Mio. € aus dem Differenzbilanzkreis sowie 
+67,3 Mio. € Verbindlichkeiten aus Netzausbau, Instandhaltung und sonstigen Projektaktivitäten. 
+Des Weiteren wurden die Verbindlichkeiten aus Lieferungen und Leistungen in Höhe von  
+17,2 Mio. € mit Forderungen aus Lieferungen und Leistungen verrechnet.
+
+Von den Verbindlichkeiten gegenüber verbundenen Unternehmen betreffen 149,7 Mio. € (Vorjahr: 
+96,9 Mio. €) Verbindlichkeiten aus der Ergebnisabführung an die Gesellschafterin BEN sowie Zins­
+verbindlichkeiten in Höhe von 0,4 Mio. €.
+
+Die sonstigen Verbindlichkeiten enthalten 2,0 Mio. € (Vorjahr: 2,0 Mio. €) für Entlastungsbeträge 
+aus dem Strompreisbremsengesetz für das Jahr 2023, 0,0 Mio. € (Vorjahr: 0,5 Mio. €) kreditoris che 
+Debitoren sowie 0,1 Mio. € (Vorjahr: 0,1 Mio. €) übrige sonstige Verbindlichkeiten.
+
+Zum Bilanzstichtag bestanden keine Verbindlichkeiten mit einer Restlaufzeit länger als fünf Jahre.
+
+Anhang Geschäftsbericht 2024 55
+
+
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+(10) Umsatzerlöse
+
+2024 2023
+
+Mio. € Mio. €
+
+Netznutzung 914,2 701,0
+
+Konzessionsabgabe 138,4 139,7
+
+Belastungsausgleich KWK 94,5 117,2
+
+Umlage gemäß § 17f EnWG 69,7 63,3
+
+Umlage gemäß § 19 Abs. 2 StromNEV 57,3 38,0
+
+Umlage gemäß § 18 AbLaV 0,0 0,0
+
+EEG-Erlöse 36,5 30,7
+
+Übrige 222,6 262,0
+
+1.533,2 1.351,9
+
+Die Erlöse aus Konzessionsabgabe, KWK, EEG sowie aus Umlagen gemäß § 17f EnWG, § 19 Abs. 2 
+StromNEV und § 18 AbLaV sind in gleicher Höhe im Materialaufwand zu finden bzw. werden als 
+Aufwendungen aus Konzessionsabgabe ausgewiesen und haben daher keine Ergebniswirkung. 
+Innerhalb der Umsatzerlöse aus Netznutzung wurden 17,4 Mio. € (Vorjahr: 53,3 Mio. €) im Regu­
+lierungskonto erlösmindernd abgegrenzt.
+
+2024 2023
+
+Mio. € Mio. €
+
+Erlöse aus
+
+ Stromverkäufen 126,0 177,5
+
+ Grundzuständiger Messstellenbetrieb 40,1 30,8
+
+ Materialverkäufen 16,7 15,1
+
+ Dienstleistungen für die öffentliche Beleuchtung 11,2 11,2
+
+ Auflösung von Baukostenzuschüssen 8,0 9,0
+
+ Kundenanschlüssen 7,6 6,2
+
+ Vermietungen 1,7 1,9
+
+ Sonstigen Geschäften 11,3 10,3
+
+Übrige Umsatzerlöse 222,6 262,0
+
+Den Vorjahren sind 3,3 Mio. € höhere Erlöse aus Netznutzung sowie 2,1 Mio. € aus den übrigen 
+Umsatzerlösen zuzurechnen.
+
+56 Stromnetz Berlin  
+
+
+
+(11) Andere aktivierte Eigenleistungen 
+Es handelt sich um die Aktivierung von Eigenleistungen, für die Aufwendungen unter verschiedenen 
+Aufwandspositionen ausgewiesen werden, für die Schaffung selbst erstellter Anlagen.
+
+(12) Sonstige betriebliche Erträge 2024 2023
+
+Mio. € Mio. €
+
+Erträge aus der Auflösung von Rückstellungen 7,4 5,1
+
+Erträge aus Schadenersatz 3,2 2,3
+
+Erträge aus Abgängen vom Anlagevermögen 0,9 0,0
+
+Erträge aus der Auflösung von Sonderposten 0,1 0,3
+
+Übrige Erträge 3,9 1,9
+
+15,5 9,6
+
+Von den Erträgen aus Schadenersatz sind 0,6 Mio. € und von den übrigen Erträgen 2,4 Mio. €  
+den Vorjahren zuzurechnen.
+
+Die Erträge aus der Auflösung von Rückstellungen betreffen im Wesentlichen die Rückstellungen  
+für vermiedene Netznutzung sowie die Rückstellung von Pensionsverpflichtungen. 
+
+Bei den Erträgen aus Abgängen vom Anlagevermögen handelt es sich im Wesentlichen um den  
+Verkauf der Beteiligung.
+
+(13) Materialaufwand 2024 2023
+
+Mio. € Mio. €
+
+Strombezug 224,9 249,8
+
+Strombezug EEG 36,5 30,7
+
+Übrige 22,6 20,3
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe  
+und für bezogene Waren 284,0 300,8
+
+Nutzung vorgelagerter Netze 375,8 196,9
+
+Belastungsausgleich KWK 94,5 117,2
+
+Belastungsausgleich gemäß § 17 EnWG 69,7 63,3
+
+Belastungsausgleich gemäß § 19 Abs. 2 StromNEV 57,3 38,0
+
+Belastungsausgleich gemäß § 18 AbLaV 0,0 0,0
+
+Messstellenbetrieb gemäß GNDEW* 0,2 −
+
+Fremdlieferungen und -leistungen 78,6 67,9
+
+Aufwendungen für bezogene Leistungen 676,1 483,3
+* Gesetz zum Neustart der Digitalisierung der Energiewende 960,1 784,1
+
+Anhang Geschäftsbericht 2024 57
+
+
+
+Den Vorjahren sind 0,6 Mio. € Aufwendungen für Strombezug sowie 0,2 Mio. € Aufwendungen für 
+bezogene Leistungen zuzurechnen.
+
+(14) Personalaufwand
+2024 2023
+
+Mio. € Mio. €
+
+Löhne und Gehälter 167,7 146,1
+
+Soziale Abgaben 30,3 26,0
+
+Aufwendungen 
+
+ für Altersversorgung 6,1 29,4
+
+ für Unterstützung 2,1 4,6
+
+206,2 206,1
+
+Mitarbeiter im Jahresdurchschnitt (ohne Auszubildende)
+2024 2023
+
+Gewerbliche Arbeitnehmer*innen 153 169
+
+Angestellte 
+
+ davon technischer Bereich 1.051 956
+
+ davon kaufmännischer Bereich 773 637
+
+1.977 1.762
+
+(15) Abschreibungen
+Die Abschreibungen sind im Einzelnen aus der Entwicklung des Anlagevermögens zu entnehmen.  
+Im Geschäftsjahr wurden wie im Vorjahr keine außerplanmäßigen Abschreibungen auf die Vermögens­
+gegenstände vorgenommen. Die Abschreibungen entfallen im Wesentlichen auf die Netzanlagen.
+
+(16) Konzessionsabgabe
+Stromnetz Berlin ist als Konzessionsnehmer für die Nutzung des öffentlichen Straßenlandes auf 
+Basis des Konzessionsvertrages vom 1. Juli 2021 zur Zahlung einer Konzessionsabgabe verpflichtet.
+
+58 Stromnetz Berlin  
+
+
+
+(17) Sonstige betriebliche Aufwendungen
+2024 2023
+
+Mio. € Mio. €
+
+Serviceleistungen 48,0 53,6
+
+Sonstige Personalaufwendungen 8,1 6,6
+
+Mieten und Pachten 7,2 6,6
+
+Zuführungen zu den Rückstellungen 7,0 3,5
+
+Rechts- und Beratungskosten 2,6 2,3
+
+Aufwendungen aus Abgängen vom Anlagevermögen 2,3 2,5
+
+Übrige 11,4 9,6
+
+86,6 84,7
+
+(18) Beteiligungsergebnis
+Im Geschäftsjahr erhielt Stromnetz Berlin eine Gewinnausschüttung für das Jahr 2023 in Höhe 
+von 0,0 Mio. € von der infrest – Infrastruktur eStrasse GmbH.
+
+(19) Zinsergebnis
+2024 2023
+
+Mio. € Mio. €
+
+Erträge aus Ausleihungen des Finanzanlagevermögens − 0,0
+
+ davon aus verbundenen Unternehmen (−) (−)
+
+Sonstige Zinsen und ähnliche Erträge 3,0 2,4
+
+ davon aus verbundenen Unternehmen (0,8) (0,8)
+
+Abschreibungen auf Finanzanlagen − −11,9
+
+Zinsen und ähnliche Aufwendungen −7,7 −6,1
+
+ davon an verbundene Unternehmen (−1,1) (−0,4)
+
+ −4,7 −15,6
+
+Der Zinsanteil aus der Zuführung zu den Pensions- und Personalrückstellungen wird unter „Zinsen 
+und ähnliche Aufwendungen“ ausgewiesen. Es handelt sich um den Nettoaufwand nach Verrech­
+nung mit Erträgen aus den Aktivwerten.
+
+Im Geschäftsjahr wurden Aufwendungen aus der Aufzinsung der Pensions- und längerfristigen 
+Personalrückstellungen in Höhe von 6,0 Mio. € (Vorjahr: 5,5 Mio. €) mit Erträgen aus den zugehörigen 
+Aktivwerten in Höhe von 0,0 Mio. € (Vorjahr: 0,0 Mio. €) verrechnet.
+
+Aus der Aufzinsung der Pensions- und längerfristigen Personalrückstellungen nach Verrechnung 
+mit Erträgen aus Aktivwerten und aus der Aufzinsung von sonstigen Rückstellungen resultieren 
+Aufwendungen von insgesamt 6,6 Mio. € (Vorjahr: 5,6 Mio. €).
+
+In den Abschreibungen auf Finanzanlagen sind im Vorjahr die Abzinsungsbeträge eines langfristig 
+ausgegebenen Darlehens enthalten.
+
+Anhang Geschäftsbericht 2024 59
+
+
+
+(20) Steuern vom Einkommen und vom Ertrag
+Seit dem Geschäftsjahr 2022 besteht eine ertragsteuerliche Organschaft. Demzufolge werden  
+die Steuern vom Einkommen und Ertrag beim Organträger ausgewiesen. Der ausgewiesene Steuer­
+aufwand im Vorjahr beinhaltet Gewerbeertrag- und Körperschaftsteuern, Solidaritätszuschlag 
+sowie Kapitalertragsteuer, die auf das Geschäftsjahr 2021 entfallen.
+
+(21) Sonstige Steuern
+Der ausgewiesene Steueraufwand betrifft im Wesentlichen die Grundsteuer sowie die Stromsteuer 
+auf den Selbstverbrauch von Energie. 
+
+Erläuterungen zur Kapitalflussrechnung
+
+In der Kapitalflussrechnung sind die Zahlungsströme in Anlehnung an die Empfehlungen des DRS 21 
+des Deutschen Rechnungslegungs Standards Committee e. V. nach Geschäfts-, Investitions- und 
+Finanzierungstätigkeit aufgeteilt.
+
+Der Finanzmittelfonds am Ende der Periode besteht aus 61,7 Mio. € Guthaben bei Kreditinstituten 
+und 90,3 Mio. € verzinslichen kurzfristigen Geldanlagen bei der BEN.
+
+Sonstige Angaben
+
+Honorare des Abschlussprüfers
+Für Tätigkeiten des Abschlussprüfers PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesell­
+schaft wurden im Geschäftsjahr 0,3 Mio. € (Vorjahr: 0,3 Mio. €) berechnet. Die Honorare entfallen 
+auf Abschlussprüfungsleistungen (0,2 Mio. €) sowie auf andere Bestätigungsleistungen (0,1 Mio. €).
+
+Außerbilanzielle Geschäfte, sonstige finanzielle Verpflichtungen und Haftungsverhältnisse
+Am 31. Dezember 2024 bestand ein Bestellobligo für Investitionen und Instandhaltungsmaßnahmen 
+in Höhe von 383,1 Mio. € (Vorjahr: 349,7 Mio. €).
+
+Für Strombezüge zur marktorientierten Beschaffung von Energie zum Ausgleich von Netzverlus­
+ten ist Stromnetz Berlin Abnahmeverpflichtungen für die Jahre 2025 und 2026 in einem Umfang 
+von 63,9 Mio. € (Vorjahr: 122,8 Mio. €) und zusätzlich für die Beschaffung von Energie für den 
+Betriebsverbrauch in einem Umfang von 2,7 Mio. € (Vorjahr: 5,0 Mio. €) für die Jahre 2025 und 
+2026 eingegangen.
+
+Stromnetz Berlin ist als Konzessionsnehmer für die Nutzung des öffentlichen Straßenlandes zur 
+Zahlung der Konzessionsabgabe an das Land Berlin verpflichtet.
+
+Des Weiteren bestehen Mietverpflichtungen in Höhe von 16,6 Mio. € (Vorjahr: 10,5 Mio. €) sowie 
+Verpflichtungen aus Leasingverträgen für Fahrzeuge in Höhe von 8,4 Mio. € (Vorjahr: 8,2 Mio. €).
+
+Gegenüber der BEN bestehen Verpflichtungen aus dem Dienstleistungsvertrag in Höhe von 0,5 Mio. € 
+(Vorjahr: 0,5 Mio. €).
+
+Zur Finanzierung des Erwerbs aller Anteile an Stromnetz Berlin durch die BEN hat diese Kredit­
+verträge über insgesamt 2.084 Mio. € (Vorjahr: 2.116 Mio. €) abgeschlossen. Stromnetz Berlin ist 
+diesen Kreditverträgen als Garantin beigetreten. Die Wahrscheinlichkeit einer Inanspruchnahme  
+ist als gering einzuschätzen. 
+
+60 Stromnetz Berlin  
+
+
+
+Stromnetz Berlin ist für die durch die BEN Berlin Energie und Netzholding GmbH aufzunehmenden
+Investitionsfinanzierungen in Höhe von maximal 511 Mio. € mittels geeigneter Sicherheitsleistung
+als Garantin beigetreten.
+
+Stromnetz Berlin haftet für Pensionszusagen nach § 1 BetrAVG. Die Versorgungsverpflichtungen 
+sind durch den Zeitwert des Vermögens der Pensionskasse überdeckt. 
+
+Derivative Finanzinstrumente
+Zur Absicherung der Beschaffung von Netzverlusten und Betriebsverbrauch wurden Termin­
+geschäfte mit einem Volumen von 66,6 Mio. € abgeschlossen. Der Marktwert dieser Geschäfte 
+beläuft sich insgesamt auf 61,8 Mio. € zum Bilanzstichtag. Unter Berücksichtigung des Referenz­
+preises, der in der Erlösobergrenze für die Beschaffung von Netzverlusten zum Ansatz gebracht 
+werden kann, ergab sich im Geschäftsjahr eine Drohverlustrückstellung von 0,2 Mio. €.
+
+Geschäfte größeren Umfangs nach § 6b Abs. 2 Energiewirtschaftsgesetz (EnWG)
+Gemäß § 6b Abs. 2 EnWG sind die Geschäfte größeren Umfangs mit verbundenen sowie assozi­
+ierten Unternehmen darzustellen.
+
+Stromnetz Berlin beauftragte die BEN mit der Erbringung von Dienstleistungen für das Jahr 2024 
+in Höhe von 2,0 Mio. €. Seit dem 1. Juli 2021 besteht ein Cash-Pool-Vertrag mit der BEN. Zum 
+Bilanzstichtag am 31. Dezember 2024 bestand eine Cash-Pool-Forderung von 90,3 Mio. €. Für 
+die Erbringung der Dienstleistung für die öffentliche Beleuchtung Berlins erhielt Stromnetz Berlin 
+11,2 Mio. € Erlöse.
+ 
+Tätigkeitsabschluss nach § 6b Abs. 3 Energiewirtschaftsgesetz (EnWG) und § 3 Abs. 4 Satz 2 
+Messstellenbetriebsgesetz (MsbG)
+Die Gesellschaft führt im Sinne des § 6b Abs. 3 EnWG die Tätigkeit „Elektrizitätsverteilung“ und im 
+Sinne des § 3 Abs. 4 Satz 2 MsbG die Tätigkeit „Messstellenbetrieb“ sowie „Tätigkeiten außerhalb 
+des Elektrizitäts- und Gassektors“ aus.
+
+Nachtragsbericht
+Vorgänge von besonderer Bedeutung sind nach dem Abschlussstichtag nicht eingetreten. 
+
+Anhang Geschäftsbericht 2024 61
+
+
+
+Angaben zu den Organen der Gesellschaft
+Die Mitglieder des Aufsichtsrats und der Geschäftsführung sind in einer gesonderten Übersicht 
+als Anlage zum Anhang dargestellt.
+
+Die Bezüge der Geschäftsführung setzen sich wie folgt zusammen:
+
+Dr. Erik Landeck Bernhard Büllmann
+
+€ €
+
+Grundvergütung 264.000 210.000
+
+Variable Vergütung 64.901 48.494
+
+Dienstwagen/Mobilitätspauschale 7.027 6.376
+
+Betriebliche Altersvorsorge 45.371 −
+
+Versicherungen 165 165
+
+Arbeitgeberanteil Sozialversicherung 12.896 14.991
+
+Sonstige Leistungsbezüge − −
+
+Die Mitglieder des Aufsichtsrats von Stromnetz Berlin haben für ihre Tätigkeit im abgelaufenen 
+Geschäftsjahr 103 T€ erhalten. 
+
+Die Pensionsrückstellungen der früheren Mitglieder der Geschäftsführung von Stromnetz  
+Berlin beliefen sich am Bilanzstichtag 2024 auf 3,4 Mio. € (Vorjahr: 3,3 Mio. €). Die Zuführungen  
+zu Pensionsrückstellungen im Personalaufwand betrugen 0,0 Mio. € (Vorjahr: 0,0 Mio. €).
+
+Berlin, 17. Februar 2025
+
+	
+Dr. Erik Landeck	 Bernhard Büllmann
+
+Geschäftsführung Stromnetz Berlin GmbH
+
+62 Stromnetz Berlin  
+
+
+
+Anhang Geschäftsbericht 2024 63
+
+
+
+Entwicklung des Anlagevermögens
+
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Entgeltlich erworbene Konzessio-
+nen, gewerbliche Schutzrechte und 
+ähnliche Rechte und Werte sowie 
+Lizenzen an solchen Rechten und 
+Werten 103,2 2,3 0,2 0,1 105,6 93,3 5,7 − 0,1 98,9 6,7 9,9
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 2,6 8,0 −0,2 − 10,4 − − − − − 10,4 2,6
+
+Immaterielle 
+Vermögensgegenstände 105,8 10,3 − 0,0 116,0 93,3 5,7 − 0,1 98,9 17,1 12,5
+
+Grundstücke, grundstücksgleiche 
+Rechte und Bauten einschließlich 
+Bauten auf fremden Grundstücken 251,0 13,2 33,6 − 297,8 113,0 4,0 −0,0 − 117,0 180,8 138,0
+
+Verteilungsanlagen Strom 3.241,0 197,7 92,2 13,8 3.517,1 1.701,6 87,6 − 11,6 1.777,6 1.739,5 1.539,4
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 59,2 5,9 0,2 0,6 64,7 31,8 8,6 0,0 0,4 40,0 24,7 27,4
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 259,8 139,6 −126,0 0,0 273,4 − − − − − 273,4 259,8
+
+Sachanlagen 3.811,0 356,4 − 14,4 4.153,0 1.846,4 100,2 − 12,0 1.934,6 2.218,4 1.964,6
+
+Beteiligungen 0,0 − − 0,0 − − − − − − − 0,0
+
+Sonstige Ausleihungen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Finanzanlagen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Anlagevermögen 3.955,8 366,7 − 14,5 4.308,0 1.951,6 105,9 − 12,1 2.045,4 2.262,6 2.004,2
+
+64 Stromnetz Berlin  
+
+
+
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Entgeltlich erworbene Konzessio-
+nen, gewerbliche Schutzrechte und 
+ähnliche Rechte und Werte sowie 
+Lizenzen an solchen Rechten und 
+Werten 103,2 2,3 0,2 0,1 105,6 93,3 5,7 − 0,1 98,9 6,7 9,9
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 2,6 8,0 −0,2 − 10,4 − − − − − 10,4 2,6
+
+Immaterielle 
+Vermögensgegenstände 105,8 10,3 − 0,0 116,0 93,3 5,7 − 0,1 98,9 17,1 12,5
+
+Grundstücke, grundstücksgleiche 
+Rechte und Bauten einschließlich 
+Bauten auf fremden Grundstücken 251,0 13,2 33,6 − 297,8 113,0 4,0 −0,0 − 117,0 180,8 138,0
+
+Verteilungsanlagen Strom 3.241,0 197,7 92,2 13,8 3.517,1 1.701,6 87,6 − 11,6 1.777,6 1.739,5 1.539,4
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 59,2 5,9 0,2 0,6 64,7 31,8 8,6 0,0 0,4 40,0 24,7 27,4
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 259,8 139,6 −126,0 0,0 273,4 − − − − − 273,4 259,8
+
+Sachanlagen 3.811,0 356,4 − 14,4 4.153,0 1.846,4 100,2 − 12,0 1.934,6 2.218,4 1.964,6
+
+Beteiligungen 0,0 − − 0,0 − − − − − − − 0,0
+
+Sonstige Ausleihungen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Finanzanlagen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Anlagevermögen 3.955,8 366,7 − 14,5 4.308,0 1.951,6 105,9 − 12,1 2.045,4 2.262,6 2.004,2
+
+Anhang Geschäftsbericht 2024 65
+
+
+
+Mitglieder des Aufsichtsrats 
+
+Dr. Severin Fischer Andrea Kühnemann*
+Vorsitzender Landesbezirksleiterin, ver.di –  
+(bis 11.06.2024, ab 27.06.2024) Vereinte Dienstleistungsgewerkschaft,  
+Staatssekretär, Senatsverwaltung  Landesbezirk Berlin/Brandenburg
+für Wirtschaft, Energie und Betriebe
+
+Lars Loebner 
+Thomas Verhoeven* Leiter des Referats Wohnungsbauprojekte – 
+Stellvertretender Vorsitzender äußere Stadt, Senatsverwaltung für Stadt­
+(bis 11.06.2024, ab 27.06.2024) entwicklung, Bauen und Wohnen
+Betriebsratsvorsitzender,  
+Stromnetz Berlin GmbH Anja Naujokat
+
+Abteilungsleiterin Abteilung I –  
+Stephan Boy Vermögen und Beteiligungen,  
+Geschäftsführung,  Senatsverwaltung für Finanzen Berlin
+BEN Berlin Energie und Netzholding GmbH
+
+Ellen Naumann*
+Dr. Arwen Colell Gewerkschaftssekretärin 
+Geschäftsführung, decarbon1ze GmbH Ver- und Entsorgung, ver.di – Vereinte  
+
+Dienstleistungsgewerkschaft, Landesbezirk 
+Alexander Goebel* Berlin/Brandenburg
+Freigestelltes Betriebsratsmitglied, 
+Stromnetz Berlin GmbH Uwe Nolte*
+
+Stellvertretender Vorsitzender des Betriebsrats, 
+Prof. Dr.-Ing. Jutta Hanson Stromnetz Berlin GmbH
+(ab 15.07.2024)
+Professorin und Leiterin des Fachgebiets Arne Pfau* (ab 12.06.2024) 
+Elektrische Energieversorgung unter Ein­ Techniker mit Sonderaufgaben, 
+satz Erneuerbarer Energie, TU Darmstadt Stromnetz Berlin GmbH
+
+Philipp Heilmaier (ab 24.06.2024) Steffen Voth* (ab 12.06.2024) 
+Bereichsleiter Zukunft  Leiter Technische Konzeption, 
+der Energieversorgung,  Stromnetz Berlin GmbH
+Deutsche Energie-Agentur GmbH (dena)
+
+Klaus Wichert
+Swetlana Jung* Leiter der Abteilung Klimaschutz, Naturschutz 
+Projektleiterin, Stromnetz Berlin GmbH und Stadtgrün, Senatsverwaltung für Mobilität, 
+
+Verkehr, Klimaschutz und Umwelt
+
+* Arbeitnehmervertreter*in
+
+66 Stromnetz Berlin  
+
+
+
+Mitglieder der Geschäftsführung
+
+Dr. Erik Landeck Bernhard Büllmann
+Vorsitzender Ressort Personal & Finanzen (seit 01.01.2025)
+Ressort Technik (seit 01.01.2025) Ressort Finanzen & Personal (bis 31.12.2024)
+Ressort Energiewirtschaft & Technik Berlin
+(bis 31.12.2024)
+Schönefeld
+
+Mitglieder des Aufsichtsrats/der Geschäftsführung Geschäftsbericht 2024 67
+
+
+
+Abschlüsse der Tätigkeitsbereiche nach 
+§ 6b Abs. 3 Energiewirtschaftsgesetz und 
+§ 3 Abs. 4 Satz 2 Messstellenbetriebsgesetz
+
+Erläuterungen nach § 6b Abs. 3 EnWG und 
+§ 3 Abs. 4 Satz 2 MsbG
+
+Nach § 6b Abs. 3 EnWG haben Energieversorgungsunternehmen nach § 6b Abs. 1 EnWG ge­
+trennte Konten für jede ihrer Tätigkeiten in den nachfolgend aufgeführten Bereichen so zu führen, 
+wie dies erforderlich wäre, wenn diese Tätigkeiten von rechtlich selbstständigen Unternehmen 
+ausgeführt würden. Zusätzlich sind getrennte Konten zu führen gemäß § 3 Abs. 4 Satz 2 MsbG.
+
+Katalogtätigkeiten nach § 6b Abs. 3 Satz 1 und 2 EnWG und § 3 Abs. 4 Satz 2 MsbG:
+
+•	 Elektrizitätsübertragung 
+•	 Elektrizitätsverteilung 
+•	 Gasfernleitung 
+•	 Gasverteilung 
+•	 Gasspeicherung 
+•	 Betrieb von LNG-Anlagen 
+•	 Jede wirtschaftliche Nutzung eines Eigentumsrechts an Elektrizitäts- oder Gasversorgungs­
+
+netzen, Gasspeichern oder LNG-Anlagen 
+•	 Entwicklung, Verwaltung oder Betrieb von Ladepunkten für Elektromobile nach § 7c Abs. 2  
+
+EnWG 
+•	 Messstellenbetrieb
+
+Sonstige Tätigkeiten nach § 6b Abs. 3 Satz 3 und 4 EnWG: 
+
+•	 Andere Tätigkeiten innerhalb des Elektrizitäts- und innerhalb des Gassektors 
+•	 Tätigkeiten außerhalb des Elektrizitäts- und des Gassektors 
+
+Die Stromnetz Berlin GmbH (Stromnetz Berlin) führt gemäß § 6b Abs. 3 Satz 1 EnWG von den 
+genannten Tätigkeitsbereichen die „Elektrizitätsverteilung“ und gemäß § 3 Abs. 4 Satz 2 MsbG die 
+Tätigkeit „Messstellenbetrieb“ durch.
+
+Neben den vorgenannten Tätigkeiten der „Elektrizitätsverteilung“ und des „Messstellenbetriebs“ 
+werden bei Stromnetz Berlin auch „Tätigkeiten außerhalb des Elektrizitäts- und Gassektors“ nach 
+§ 6b Abs. 3 Satz 3 EnWG ausgeübt. 
+
+Die Gesellschaft hat für die Katalogtätigkeiten nach § 6b Abs. 3 Satz 1 und 2 EnWG und § 3 Abs. 4 
+Satz 2 MsbG Tätigkeitsabschlüsse (Bilanzen, Gewinn- und Verlustrechnungen und Erläuterungen) 
+für die Tätigkeiten „Elektrizitätsverteilung“ und „Messstellenbetrieb“ erstellt. Die Systematik zur 
+Aufstellung der Tätigkeitsabschlüsse ist im Folgenden erläutert. 
+
+Die Tätigkeitsabschlüsse wurden unter Berücksichtigung der im Anhang der Gesellschaft  
+dargestellten Bilanzierungs- und Bewertungsmethoden aufgestellt.
+
+68 Stromnetz Berlin  
+
+
+
+Ausgangspunkt für die Kontentrennung aller Tätigkeiten nach § 6b Abs. 3 EnWG und § 3 Abs. 4 
+Satz 2 MsbG und die Erstellung der Tätigkeitsabschlüsse bildet der Jahresabschluss von Strom­
+netz Berlin zum 31. Dezember 2024.
+
+Bei der Zuordnung der Aktiva und Passiva (direkte Zuordnung sowie nach sachgerechter Schlüs­
+selung) wurde die entstehende Residualgröße als gesonderter Verrechnungsposten außerhalb des 
+Eigenkapitals zwischen den Tätigkeitsbereichen erfasst. 
+
+In der Bilanz sowie der Gewinn- und Verlustrechnung erfolgt im Regelfall eine direkte Zuordnung 
+zu den einzelnen Aktivitäten. Lediglich in Fällen, in denen nur ein mittelbarer Sachbezug zu den 
+einzelnen Aktivitäten vorliegt oder die weitere Aufteilung der Konten mit unvertretbar hohem Auf­
+wand verbunden gewesen wäre, wird die Zuordnung durch Schlüsselung auf Basis sachgerechter 
+Bezugsgrößen vorgenommen.
+
+Die im Rahmen der Geschäftstätigkeit für administrative Funktionen und Serviceleistungen 
+anfallenden Aufwendungen werden auf die operativen Geschäftsbereiche verrechnet und in den 
+sonstigen betrieblichen Aufwendungen dargestellt.
+
+Das bilanzielle Eigenkapital ist vollständig der Tätigkeit „Elektrizitätsverteilung“ zugeordnet. 
+
+Bei der Aufstellung des Tätigkeitsabschlusses wurde im Wesentlichen die Nettomethode im  
+Hinblick auf die interne Leistungsverrechnung angewendet. Bis auf die Verrechnung nach GNDEW 
+(Gesetz zum Neustart der Digitalisierung der Energiewende) zwischen der Tätigkeit Messstellen­
+betrieb (Umsatzerlöse) und der Tätigkeit Elektrizitätsverteilung (Materialaufwand) wurden sowohl 
+die Erträge als auch Aufwendungen aus der innerbetrieblichen Leistungsverrechnung je nach 
+Zuordnung dem Materialaufwand, Personalaufwand und den sonstigen betrieblichen Aufwendun­
+gen zugerechnet.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 69
+
+
+
+Bilanz Elektrizitätsverteilung
+
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+AKTIVA 
+
+Anlagevermögen 
+
+Immaterielle Vermögensgegenstände 17,1 12,5
+
+Sachanlagen 2.184,0 1.935,6
+
+Finanzanlagen 27,1 27,1
+
+2.228,2 1.975,2
+
+Umlaufvermögen
+
+Vorräte 31,9 25,9
+
+Forderungen und sonstige Vermögensgegenstände 294,6 305,8
+
+Guthaben bei Kreditinstituten 61,7 40,9
+
+388,2 372,6
+
+Verrechnungsposten gegenüber anderen Aktivitäten 52,7 33,9
+
+Rechnungsabgrenzungsposten 4,1 3,6
+
+Sonderverlustkonto aus Rückstellungsbildung 0,4 0,7
+
+2.673,6 2.386,0
+^
+
+PASSIVA 
+
+Eigenkapital
+
+Gezeichnetes Kapital 100,0 100,0
+
+Kapitalrücklage 1.591,4 1.291,4
+
+Andere Gewinnrücklagen 12,7 12,7
+
+1.704,1 1.404,1
+
+Sonderposten 0,4 0,6
+
+Baukostenzuschüsse 212,7 186,9
+
+Rückstellungen 464,7 465,3
+
+Verbindlichkeiten 290,6 327,6
+
+Rechnungsabgrenzungsposten 1,1 1,5
+
+2.673,6 2.386,0
+
+70 Stromnetz Berlin  
+
+
+
+Bilanz Messstellenbetrieb
+
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+AKTIVA 
+
+Anlagevermögen
+
+Sachanlagen 34,0 28,6
+
+34,0 28,6
+
+Umlaufvermögen
+
+Vorräte 9,2 5,6
+
+Forderungen 23,2 10,8
+
+32,4 16,4
+
+66,4 45,0
+
+PASSIVA 
+
+Eigenkapital
+
+Verrechnungsposten gegenüber anderen Aktivitäten 50,8 31,8
+
+Rückstellungen 15,4 12,8
+
+Verbindlichkeiten 0,2 0,4
+
+66,4 45,0
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 71
+
+
+
+Gewinn- und Verlustrechnung Elektrizitätsverteilung
+
+2024 2023
+
+Mio. € Mio. €
+
+Umsatzerlöse 1.497,0 1.318,5
+
+Andere aktivierte Eigenleistungen 97,5 84,8
+
+Sonstige betriebliche Erträge 15,9 8,7
+
+Materialaufwand −949,6 −772,6
+
+Personalaufwand −193,1 −193,9
+
+Abschreibungen −91,7 −111,7
+
+Konzessionsabgabe −138,4 −139,7
+
+Sonstige betriebliche Aufwendungen −80,5 −79,2
+
+Beteiligungsergebnis 0,0 0,1
+
+Zinsergebnis −4,4 −15,3
+
+Steuern vom Einkommen und vom Ertrag − 0,0
+
+Ergebnis nach Steuern 152,7 99,7
+
+Sonstige Steuern −1,2 −1,2
+
+Ergebnisverrechnung −1,8 −1,6
+
+Jahresergebnis vor Gewinnabführung 149,7 96,9
+
+Gewinnabführung −149,7 −96,9
+
+Jahresüberschuss − −
+
+72 Stromnetz Berlin  
+
+
+
+Gewinn- und Verlustrechnung Messstellenbetrieb 
+
+2024 2023
+
+Mio. € Mio. €
+
+Umsatzerlöse 18,7 14,7
+
+Andere aktivierte Eigenleistungen 6,6 5,4
+
+Sonstige betriebliche Erträge 0,7 0,0
+
+Materialaufwand −1,0 −0,8
+
+Personalaufwand −9,9 −7,7
+
+Abschreibungen −14,1 −11,8
+
+Sonstige betriebliche Aufwendungen −4,1 −3,4
+
+Zinsergebnis −0,2 −0,2
+
+Ergebnis nach Steuern −3,3 −3,8
+
+Ergebnisverrechnung 3,3 3,8
+
+Jahresüberschuss − −
+
+Erläuterungen der Kontentrennung zu den Bilanzen
+
+Ausgehend von der handelsrechtlichen Bilanz wurde die Kontentrennung nach den Tätigkeiten 
+„Elektrizitätsverteilung“, „Messstellenbetrieb“ und „Tätigkeiten außerhalb des Elektrizitäts- und 
+Gassektors“ durchgeführt. War die direkte Zuordnung der Konten nicht möglich, wurde anhand  
+eines sachgerechten Schlüssels eine Verteilung des entsprechenden Kontos auf die verschiede­
+nen Tätigkeiten vorgenommen.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 73
+
+
+
+AKTIVA
+
+Anlagevermögen
+Die Aufgliederung der in den Bilanzen der Elektrizitätsverteilung und des Messstellenbetriebes 
+zusammengefassten Anlageposten im Geschäftsjahr vom 1. Januar bis 31. Dezember 2024 ist in 
+der Entwicklung des Anlagevermögens für die Elektrizitätsverteilung und den Messstellenbetrieb, 
+beigefügt als Anlage zu den Abschlüssen der Tätigkeitsbereiche nach § 6b Abs. 3 EnWG und  
+§ 3 Abs. 4 Satz 2 MsbG, dargestellt. Die immateriellen Vermögensgegenstände, die Sachanlagen 
+sowie die Finanzanlagen wurden den Tätigkeiten direkt zugeordnet. 
+
+Vorräte
+Bei den Vorräten handelt es sich um Roh-, Hilfs- und Betriebsstoffe. Die Vorräte wurden direkt 
+bzw. unter Verwendung des Materialaufwandschlüssels zugeordnet.
+
+Forderungen und sonstige Vermögensgegenstände
+Die Forderungen aus Lieferungen und Leistungen, die Forderungen gegen verbundene Unterneh­
+men sowie die sonstigen Vermögensgegenstände wurden im Wesentlichen direkt zugeordnet. 
+Lediglich für die Forderungen aus Cash-Pooling gegenüber der Gesellschafterin sowie die Forde­
+rungen gegenüber dem Finanzamt erfolgte eine vollständige Zuordnung zur Tätigkeit „Elektrizi­
+tätsverteilung“.
+
+Elektrizitätsverteilung
+davon davon 
+
+Restlaufzeit Restlaufzeit 
+31.12.2024 > 1 Jahr 31.12.2023 > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. €
+
+Forderungen aus Lieferungen und Leistungen 177,6 − 189,1 0,0
+
+Forderungen gegen verbundene Unternehmen 91,3 − 104,9 −
+
+Sonstige Vermögensgegenstände 25,7 0,1 11,8 0,1
+
+ 294,6 0,1 305,8 0,1
+
+Die Forderungen aus Lieferungen und Leistungen entfallen im Wesentlichen auf Forderungen aus 
+der Netznutzung. Innerhalb der Forderungen aus Lieferungen und Leistungen sind noch nicht 
+abgerechnete Forderungen in Höhe von 513,6 Mio. € (Vorjahr: 473,6 Mio. €), die mit Abschlags­
+zahlungen in Höhe von 441,8 Mio. € (Vorjahr: 366,0 Mio. €) verrechnet worden sind, ausgewiesen. 
+
+Von den Forderungen gegen verbundene Unternehmen entfallen 90,3 Mio. € (Vorjahr: 104,2 Mio. €)  
+auf verzinsliche kurzfristige Geldanlagen und 0,0 Mio. € auf Forderungen aus Lieferungen und 
+Leistungen gegenüber der BEN. Gegenüber der Gesellschafterin bestehen insgesamt Forderun­
+gen in Höhe von 91,3 Mio. € (Vorjahr: 104,9 Mio. €).
+
+74 Stromnetz Berlin  
+
+
+
+Messstellenbetrieb
+davon davon 
+
+Restlaufzeit Restlaufzeit 
+31.12.2024 > 1 Jahr 31.12.2023 > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. €
+
+Forderungen aus Lieferungen und Leistungen 23,2 − 10,8 −
+
+ 23,2 − 10,8 −
+
+Die Forderungen aus Lieferungen und Leistungen entfallen ausschließlich auf Forderungen aus 
+Messstellenbetrieb. Innerhalb der Forderungen aus Lieferungen und Leistungen sind noch nicht 
+abgerechnete Forderungen in Höhe von 22,4 Mio. € (Vorjahr: 10,7 Mio. €) ausgewiesen.
+
+Forderungen gegen die Gesellschafterin bestehen am 31. Dezember 2024 wie auch im Vorjahr nicht. 
+
+Guthaben bei Kreditinstituten
+Für die Guthaben bei Kreditinstituten erfolgte eine vollständige Zuordnung zur Tätigkeit 
+„Elektrizitätsverteilung“.
+
+Rechnungsabgrenzungsposten
+Der Rechnungsabgrenzungsposten wurde den Tätigkeiten direkt zugeordnet.
+
+Sonderverlustkonto aus Rückstellungsbildung
+Es erfolgte eine vollständige Zuordnung zur Tätigkeit „Elektrizitätsverteilung“.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 75
+
+
+
+PASSIVA
+
+Rückstellungen
+
+Elektrizitätsverteilung
+31.12.2024 31.12.2023
+
+ 
+Mio. € Mio. €
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen 228,3 241,6
+
+Steuerrückstellungen 0,1 0,0
+
+Sonstige Rückstellungen 236,3 223,7
+
+464,7 465,3
+
+Messstellenbetrieb
+
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen 9,8 8,6
+
+Sonstige Rückstellungen 5,6 4,2
+
+15,4 12,8
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen wurden teilweise direkt und teilweise 
+über Personalschlüssel auf die Tätigkeiten verteilt.
+
+Die unter den Steuerrückstellungen enthaltene Rückstellung für Stromsteuer wurde vollständig 
+der Tätigkeit „Elektrizitätsverteilung“ zugeordnet. 
+
+Die sonstigen Personalrückstellungen wurden über Personalschlüssel auf die Tätigkeiten verteilt. 
+Die Zuordnung der übrigen sonstigen Rückstellungen erfolgte direkt.
+
+76 Stromnetz Berlin  
+
+
+
+Elektrizitätsverteilung
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+Erfüllungsbetrag der Pensionen und ähnlicher Verpflichtungen 228,8 242,1
+
+Beizulegender Zeitwert der Vermögensgegenstände −0,5 −0,5
+
+Nettowert der Pensionen und ähnlicher Verpflichtungen (Rückstellung) 228,3 241,6
+
+Messstellenbetrieb
+31.12.2024 31.12.2023
+
+Mio. € Mio. €
+
+Erfüllungsbetrag der Pensionen und ähnlicher Verpflichtungen 9,8 8,6
+
+Beizulegender Zeitwert der Vermögensgegenstände −0,0 −0,0
+
+Nettowert der Pensionen und ähnlicher Verpflichtungen (Rückstellung) 9,8 8,6
+
+Verbindlichkeiten
+Die Verbindlichkeiten wurden im Wesentlichen den Tätigkeiten direkt zugeordnet. Lediglich für 
+Verbindlichkeiten aus Steuern und die Verbindlichkeit aus der Ergebnisabführung an die Gesell­
+schafterin erfolgte eine vollständige Zuordnung zur Tätigkeit „Elektrizitätsverteilung“.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 77
+
+
+
+Elektrizitätsverteilung
+
+davon davon davon davon 
+Rest- Rest- Rest- Rest-
+
+laufzeit laufzeit laufzeit laufzeit 
+31.12.2024 ≤ 1 Jahr > 1 Jahr 31.12.2023 ≤ 1 Jahr > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Erhaltene 
+Anzahlungen 20,6 20,6 − 12,2 12,2 −
+
+Verbindlichkeiten 
+aus Lieferungen und 
+Leistungen 106,4 106,4 − 201,3 201,3 0,0
+
+Verbindlichkeiten ge-
+genüber verbundenen 
+Unternehmen 150,1 150,1 − 97,2 97,2 −
+
+Verbindlichkeiten 
+gegenüber Unter
+nehmen, mit denen 
+ein Beteiligungs-
+verhältnis besteht − − − 0,0 0,0 −
+
+Sonstige 
+Verbindlichkeiten 13,5 13,5 0,0 16,9 16,9 0,0
+
+davon aus Steuern (11,2) (11,2) (−) (13,8) (13,8) (−)
+
+davon im Rahmen  
+der sozialen  
+Sicherheit (0,2) (0,2) (−) (0,6) (0,6) (−)
+
+290,6 290,6 0,0 327,6 327,6 0,0
+
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen bestehen sowohl im Geschäftsjahr 
+als auch im Vorjahr ausschließlich aus sonstigen Verbindlichkeiten gegenüber der Gesellschafterin. 
+
+78 Stromnetz Berlin  
+
+
+
+Messstellenbetrieb
+
+davon davon davon davon 
+Rest- Rest- Rest- Rest-
+
+laufzeit laufzeit laufzeit laufzeit 
+31.12.2024 ≤ 1 Jahr > 1 Jahr 31.12.2023 ≤ 1 Jahr > 1 Jahr
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Verbindlichkeiten 
+aus Lieferungen und 
+Leistungen 0,2 0,2 (−) 0,4 0,4 (−)
+
+Sonstige 
+Verbindlichkeiten − − − − − −
+
+davon aus Steuern (−) (−) (−) (−) (−) (−)
+
+davon im Rahmen  
+der sozialen  
+Sicherheit (−) (−) (−) (−) (−) (−)
+
+0,2 0,2 (−) 0,4 0,4 (−)
+
+Zum 31. Dezember 2024 bestehen wie auch im Vorjahr keine Verbindlichkeiten gegenüber der 
+Gesellschafterin. 
+
+Rechnungsabgrenzungsposten
+Der Rechnungsabgrenzungsposten wurde den Tätigkeiten direkt zugeordnet.
+
+Erläuterungen der Kontentrennung zu den 
+handelsrechtlichen Gewinn- und Verlustrechnungen
+
+Die wesentlichen Aufwendungen und Erträge werden den Unternehmenstätigkeiten direkt zuge­
+ordnet. In den Fällen, in denen dies nicht möglich oder mit unverhältnismäßig hohem Aufwand 
+verbunden ist, erfolgt grundsätzlich eine Verrechnung nach sachgerechten Schlüsselungen, die  
+eine möglichst verursachungsgerechte Zuordnung gewährleistet. Korrespondierende Postenin­
+halte der Bilanz und der Gewinn- und Verlustrechnung werden den Tätigkeiten unter Berücksich­
+tigung dieser Zusammenhänge zugewiesen.
+
+Umsatzerlöse
+Die Umsatzerlöse wurden direkt der jeweiligen Tätigkeit zugeordnet.
+
+Andere aktivierte Eigenleistungen
+Die anderen aktivierten Eigenleistungen wurden den jeweiligen Tätigkeiten direkt zugeordnet.
+
+Sonstige betriebliche Erträge
+Die Verteilung der sonstigen betrieblichen Erträge erfolgte direkt bzw. im Falle der Auflösung von 
+Pensionsrückstellungen mithilfe von Personalschlüsseln. 
+
+Materialaufwand
+Beim Materialaufwand erfolgte eine direkte Zuordnung zu den Tätigkeiten.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 79
+
+
+
+Elektrizitätsverteilung
+2024 2023
+
+Mio. € Mio. €
+
+Strombezug 224,9 249,9
+
+EEG 36,5 30,7
+
+Übrige 19,8 17,5
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe  
+und für bezogene Waren 281,2 298,1
+
+Nutzung vorgelagerter Netze 351,8 165,9
+
+Aufwendungen für vermiedene Netznutzung 24,0 31,1
+
+Belastungsausgleich KWK 94,5 117,2
+
+Belastungsausgleich gemäß § 19 Abs. 2 StromNEV 57,3 38,0
+
+Belastungsausgleich gemäß § 17f EnWG 69,7 63,3
+
+Belastungsausgleich gemäß § 18 AbLaV 0,0 0,0
+
+Messstellenbetrieb gemäß GNDEW* 2,2 −
+
+Fremdlieferungen und -leistungen 68,9 59,0
+
+Aufwendungen für bezogene Leistungen 668,4 474,5
+* Gesetz zum Neustart der Digitalisierung der Energiewende 949,6 772,6
+
+Messstellenbetrieb
+2024 2023
+
+Mio. € Mio. €
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe 0,2 0,1
+und für bezogene Waren 
+
+Aufwendungen für bezogene Leistungen 0,8 0,7
+
+1,0 0,8
+
+Personalaufwand
+Die Verteilung des Personalaufwands erfolgte im Wesentlichen direkt bzw. im Falle der Zuführung 
+von Pensionsrückstellungen mithilfe von Personalschlüsseln.
+
+80 Stromnetz Berlin  
+
+
+
+Elektrizitätsverteilung
+2024 2023
+
+Mio. € Mio. €
+
+Löhne und Gehälter 155,7 136,4
+
+Soziale Abgaben 29,3 25,1
+
+Aufwendungen 
+
+ für Altersversorgung 6,1 27,9
+
+ für Unterstützung 2,0 4,5
+
+193,1 193,9
+
+Messstellenbetrieb
+2024 2023
+
+Mio. € Mio. €
+
+Löhne und Gehälter 7,9 6,2
+
+Soziale Abgaben 0,4 0,3
+
+Aufwendungen 
+
+ für Altersversorgung 1,6 1,1
+
+ für Unterstützung 0,0 0,1
+
+9,9 7,7
+
+Abschreibungen
+Die Abschreibungen wurden direkt zugeordnet.
+
+Sonstige betriebliche Aufwendungen
+Die Verteilung der sonstigen betrieblichen Aufwendungen erfolgte direkt.
+
+Beteiligungsergebnis
+Das Beteiligungsergebnis wurde vollständig der Tätigkeit „Elektrizitätsverteilung“ zugeordnet.
+
+Zinsergebnis
+Die Zuordnung der sonstigen Zinsen und ähnlicher Erträge sowie der Zinsen und ähnlicher Auf­
+wendungen erfolgte, wo möglich, direkt. Die nicht direkt zuordenbaren Beträge wurden mithilfe von 
+Schlüsseln wie z. B. dem Personalschlüssel verteilt.
+
+Der Zinsanteil aus der Zuführung zu den Pensions- und Personalrückstellungen wird unter „Zinsen 
+und ähnliche Aufwendungen“ ausgewiesen. Es handelt sich um den Nettoaufwand nach Verrech­
+nung mit Erträgen aus den Aktivwerten.
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 81
+
+
+
+Elektrizitätsverteilung
+2024 2023
+
+Mio. € Mio. €
+
+Erträge aus Ausleihungen des Finanzanlagevermögens − 0,0
+
+ davon aus verbundenen Unternehmen (−) (−)
+
+Sonstige Zinsen und ähnliche Erträge 3,0 2,4
+
+ davon aus verbundenen Unternehmen (0,8) (0,8)
+
+Abschreibungen auf Finanzanlagen und auf Wertpapiere des  − −11,9
+Umlaufvermögens
+
+Zinsen und ähnliche Aufwendungen −7,4 −5,8
+
+ davon an verbundene Unternehmen (−1,1) (−0,4)
+
+ −4,4 −15,3
+
+Im Geschäftsjahr wurden Aufwendungen aus der Aufzinsung der Pensions- und längerfristigen 
+Personalrückstellungen in Höhe von 5,6 Mio. € (Vorjahr: 5,3 Mio. €) mit Erträgen aus den zugehöri­
+gen Aktivwerten in Höhe von 0,0 Mio. € (Vorjahr: 0,0 Mio. €) verrechnet.
+
+Aus der Aufzinsung der Pensions- und längerfristigen Personalrückstellungen nach Verrechnung 
+mit den Erträgen aus Aktivwerten und aus Aufzinsung von sonstigen Rückstellungen resultieren 
+Aufwendungen von insgesamt 6,3 Mio. € (Vorjahr: 5,4 Mio. €).		
+
+Messstellenbetrieb
+2024 2023
+
+Mio. € Mio. €
+
+Zinsen und ähnliche Aufwendungen −0,2 −0,2
+
+ davon an verbundene Unternehmen (−) (−)
+
+ −0,2 −0,2
+
+Im Geschäftsjahr wurden Aufwendungen aus der Aufzinsung der Pensions- und längerfristigen 
+Personalrückstellungen in Höhe von 0,2 Mio. € (Vorjahr: 0,2 Mio. €) mit Erträgen aus den zugehöri­
+gen Aktivwerten in Höhe von 0,0 Mio. € (Vorjahr: 0,0 Mio. €) verrechnet.
+
+Aus der Aufzinsung der Pensions- und längerfristigen Personalrückstellungen nach Verrechnung 
+mit den Erträgen aus Aktivwerten resultieren Aufwendungen von insgesamt 0,2 Mio. € (Vorjahr: 
+0,2 Mio. €).
+
+82 Stromnetz Berlin  
+
+
+
+Sonstige Steuern
+Die Aufwendungen für Grund- und Kfz-Steuer wurden den Tätigkeiten direkt zugeordnet. Die 
+Aufwendungen für die Stromsteuer auf den Selbstverbrauch wurden vollständig der Tätigkeit 
+„Elektrizitätsverteilung“ zugeordnet. 
+
+Berlin, 17. Februar 2025
+
+Dr. Erik Landeck Bernhard Büllmann
+
+Geschäftsführung Stromnetz Berlin GmbH
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 83
+
+
+
+Entwicklung des Anlagevermögens Elektrizitätsverteilung
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um- 
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen  Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Entgeltlich erworbene Konzessionen, 
+gewerbliche Schutzrechte und ähn
+liche Rechte und Werte sowie Lizen-
+zen an solchen Rechten und Werten 103,0 2,3 0,2 0,0 105,5 93,1 5,7 − 0,0 98,8 6,7 9,9
+
+Geleistete Anzahlungen  
+und Anlagen im Bau 2,6 8,0 −0,2 − 10,4 − − − − − 10,4 2,6
+
+Immaterielle Vermögensgegenstände 105,6 10,3 − 0,0 115,9 93,1 5,7 − − 98,8 17,1 12,5
+
+Grundstücke, grundstücksgleiche 
+Rechte und Bauten einschließlich 
+Bauten auf fremden Grundstücken 250,5 13,2 33,5 − 297,2 112,8 3,9 0,0 − 116,7 180,5 137,7
+
+Verteilungsanlagen Strom 3.170,7 177,9 92,2 12,8 3.428,0 1.659,6 73,5 − 10,8 1.722,3 1.705,7 1.511,1
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 58,0 5,8 0,2 0,5 63,5 30,9 8,6 0,0 0,4 39,1 24,4 27,1
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 259,7 139,6 −125,9 0,0 273,4 − − − − − 273,4 259,7
+
+Sachanlagen 3.738,9 336,5 − 13,3 4.062,1 1.803,3 86,0 − 11,2 1.878,1 2.184,0 1.935,6
+
+Beteiligungen 0,0 − − 0,0 − − − − − − − 0,0
+
+Sonstige Ausleihungen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Finanzanlagen 39,0 − − 0,0 39,0 11,9 − − − 11,9 27,1 27,1
+
+Anlagevermögen 3.883,5 346,8 − 13,3 4.217,0 1.908,3 91,7 − 11,2 1.988,8 2.228,2 1.975,2
+
+Entwicklung des Anlagevermögens Messstellenbetrieb
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um- 
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen  Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Verteilungsanlagen Strom 70,3 19,8 0,0 1,0 89,1 41,9 14,1 − 0,7 55,3 33,8 28,4
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 0,2 − − − 0,2 0,0 0,0 − − − 0,2 0,2
+
+Geleistete Anzahlungen und Anlagen 
+im Bau 0,0 − 0,0 − − − − − − − − 0,0
+
+Sachanlagen 70,5 19,8 − 1,0 89,3 41,9 14,1 − 0,7 55,3 34,0 28,6
+
+Anlagevermögen 70,5 19,8 − 1,0 89,3 41,9 14,1 − 0,7 55,3 34,0 28,6
+
+84 Stromnetz Berlin  
+
+
+
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um- 
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen  Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Entgeltlich erworbene Konzessionen, 
+gewerbliche Schutzrechte und ähn
+liche Rechte und Werte sowie Lizen-
+zen an solchen Rechten und Werten 103,0 2,3 0,2 0,0 105,5 93,1 5,7 − 0,0 98,8 6,7 9,9
+
+Geleistete Anzahlungen  
+und Anlagen im Bau 2,6 8,0 −0,2 − 10,4 − − − − − 10,4 2,6
+
+Immaterielle Vermögensgegenstände 105,6 10,3 − 0,0 115,9 93,1 5,7 − − 98,8 17,1 12,5
+
+Grundstücke, grundstücksgleiche 
+Rechte und Bauten einschließlich 
+Bauten auf fremden Grundstücken 250,5 13,2 33,5 − 297,2 112,8 3,9 0,0 − 116,7 180,5 137,7
+
+Verteilungsanlagen Strom 3.170,7 177,9 92,2 12,8 3.428,0 1.659,6 73,5 − 10,8 1.722,3 1.705,7 1.511,1
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 58,0 5,8 0,2 0,5 63,5 30,9 8,6 0,0 0,4 39,1 24,4 27,1
+
+Geleistete Anzahlungen und  
+Anlagen im Bau 259,7 139,6 −125,9 0,0 273,4 − − − − − 273,4 259,7
+
+Sachanlagen 3.738,9 336,5 − 13,3 4.062,1 1.803,3 86,0 − 11,2 1.878,1 2.184,0 1.935,6
+
+Beteiligungen 0,0 − − 0,0 − − − − − − − 0,0
+
+Sonstige Ausleihungen 39,0 − − − 39,0 11,9 − − − 11,9 27,1 27,1
+
+Finanzanlagen 39,0 − − 0,0 39,0 11,9 − − − 11,9 27,1 27,1
+
+Anlagevermögen 3.883,5 346,8 − 13,3 4.217,0 1.908,3 91,7 − 11,2 1.988,8 2.228,2 1.975,2
+
+Anschaffungs- und Herstellungskosten Abschreibungen Buchwerte
+
+Um- Um- 
+01.01.2024 Zugänge buchungen Abgänge 31.12.2024 01.01.2024 Zugänge buchungen  Abgänge 31.12.2024 31.12.2024 31.12.2023
+
+Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. € Mio. €
+
+Verteilungsanlagen Strom 70,3 19,8 0,0 1,0 89,1 41,9 14,1 − 0,7 55,3 33,8 28,4
+
+Andere Anlagen, Betriebs- und  
+Geschäftsausstattung 0,2 − − − 0,2 0,0 0,0 − − − 0,2 0,2
+
+Geleistete Anzahlungen und Anlagen 
+im Bau 0,0 − 0,0 − − − − − − − − 0,0
+
+Sachanlagen 70,5 19,8 − 1,0 89,3 41,9 14,1 − 0,7 55,3 34,0 28,6
+
+Anlagevermögen 70,5 19,8 − 1,0 89,3 41,9 14,1 − 0,7 55,3 34,0 28,6
+
+Abschlüsse der Tätigkeitsbereiche Geschäftsbericht 2024 85
+
+
+
+Bestätigungsvermerk des 
+unabhängigen Abschlussprüfers
+An die Stromnetz Berlin GmbH, Berlin
+
+Vermerk über die Prüfung des Jahresabschlusses  
+und des Lageberichts 
+
+Prüfungsurteile
+
+Wir haben den Jahresabschluss der Stromnetz Berlin GmbH, Berlin, – bestehend aus der Bilanz 
+zum 31. Dezember 2024, der Gewinn- und Verlustrechnung und der Kapitalflussrechnung für  
+das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich 
+der Darstellung der Bilanzierungs- und Bewertungsmethoden – geprüft. Darüber hinaus haben  
+wir den Lagebericht der Stromnetz Berlin GmbH für das Geschäftsjahr vom 1. Januar bis zum  
+31. Dezember 2024 geprüft. Die im Abschnitt „Sonstige Informationen“ unseres Bestätigungs­
+vermerks genannten Bestandteile des Lageberichts haben wir in Einklang mit den deutschen 
+gesetzlichen Vorschriften nicht inhaltlich geprüft.
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse 
+
+•	 entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen 
+handelsrechtlichen Vorschriften und vermittelt unter Beachtung der deutschen Grundsätze 
+ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild  
+der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 sowie ihrer Er­
+tragslage für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 2024 und 
+
+•	 vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der Ges ell­
+schaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem Jahresab­
+schluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chanc en und Risiken 
+der zukünftigen Entwicklung zutreffend dar. Unser Prüfungsurteil zum Lagebericht erstreckt 
+sich nicht auf den Inhalt der im Abschnitt „Sonstige Informationen“ genannten Bestandteile 
+des Lageberichts.
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen 
+gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung  
+mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten  
+deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortu ng 
+nach diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers 
+für die Prüfung des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks  
+weiter gehend beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung  
+mit den deutschen handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere  
+sonstigen deutschen Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt.  
+
+86 Stromnetz Berlin  
+
+
+
+Wir sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeig­
+net sind, um als Grundlage für unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht 
+zu dienen.
+
+Sonstige Informationen
+
+Die gesetzlichen Vertreter sind für die sonstigen Informationen verantwortlich. Die sonstigen  
+Informationen umfassen die folgenden von uns vor dem Datum dieses Bestätigungsvermerks 
+erlangten nicht inhaltlich geprüften Bestandteile des Lageberichts:
+
+•	 die in Abschnitt „Erklärung zur Unternehmensführung (§ 289f HGB)“ des Lageberichts enthal­
+tene Erklärung zur Unternehmensführung nach § 289f Abs. 4 HGB (Angaben zur Frauenquote) 
+
+•	 die in Abschnitt „Umsetzung des Landesgleichstellungsgesetzes (LGG)“ des Lageberichts  
+enthaltene Erklärung zur Umsetzung des Berliner Landesgleichstellungsgesetzes 
+
+Unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht erstrecken sich nicht auf die 
+sonstigen Informationen, und dementsprechend geben wir weder ein Prüfungsurteil noch irgend­
+eine andere Form von Prüfungsschlussfolgerung hierzu ab.
+
+Im Zusammenhang mit unserer Prüfung haben wir die Verantwortung, die oben genannten sonstigen 
+Informationen zu lesen und dabei zu würdigen, ob die sonstigen Informationen 
+
+•	 wesentliche Unstimmigkeiten zum Jahresabschluss, zu den inhaltlich geprüften Lageberichts­
+angaben oder zu unseren bei der Prüfung erlangten Kenntnissen aufweisen oder  
+
+•	 anderweitig wesentlich falsch dargestellt erscheinen. 
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den 
+Jahresabschluss und den Lagebericht
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den 
+deutschen handelsrechtlichen Vorschriften in allen wesentlichen Belangen entspricht, und dafür, 
+dass der Jahresabschluss unter Beachtung der deutschen Grundsätze ordnungsmäßiger Buch­
+führung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und 
+Ertragslage der Gesellschaft vermittelt. Ferner sind die gesetzlichen Vertreter verantwortlich für 
+die internen Kontrollen, die sie in Übereinstimmung mit den deutschen Grundsätzen ordnungs­
+mäßiger Buchführung als notwendig bestimmt haben, um die Aufstellung eines Jahresabschlusses 
+zu ermöglichen, der frei von wesentlichen falschen Darstellungen aufgrund von dolosen Hand­
+lungen (d. h. Manipulationen der Rechnungslegung und Vermögensschädigungen) oder Irrtümern ist.
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die 
+Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren 
+haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unterneh­
+menstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf  
+der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu 
+bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts,  
+der insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen 
+
+Bestätigungsvermerk Geschäftsbericht 2024 87
+
+
+
+wesentlichen Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen 
+Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend  
+darstellt. Ferner sind die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und  
+Maßnahmen (Systeme), die sie als notwendig erachtet haben, um die Aufstellung eines Lage­
+berichts in Übereinstimmung mit den anzuwendenden deutschen gesetzlichen Vorschriften zu  
+ermöglichen und um ausreichende geeignete Nachweise für die Aussagen im Lagebericht  
+erbringen zu können.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung des Rechnungslegungsprozesses der 
+Gesellschaft zur Aufstellung des Jahresabschlusses und des Lageberichts.
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahres
+abschlusses und des Lageberichts
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss  
+als Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen  
+oder Irrtümern ist und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der  
+Gesellschaft vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie 
+mit den bei der Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetz­
+lichen Vorschriften entspricht und die Chancen und Risiken der zukünftigen Entwicklung  
+zutreffend darstellt, sowie einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile  
+zum Jahresa bschluss und zum Lagebericht beinhaltet.
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine  
+in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer  
+(IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte 
+Prüfung eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können  
+aus dolosen Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen,  
+wenn vernünftigerweise erwartet werden könnte, dass sie einzeln oder insgesamt die auf  
+der Grundlage dieses Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen  
+Entscheidungen von Adressaten beeinflussen.
+
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische  
+Grundhaltung. Darüber hinaus
+
+•	 identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahres­
+abschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen  
+und führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen  
+Prüfungsnachweise, die ausreichend und geeignet sind, um als Grundlage für unsere  
+Prüfungsurteile zu dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende  
+wesentliche falsche Darstellung nicht aufgedeckt wird, ist höher als das Risiko, dass  
+eine aus Irrtümern resultierende wesentliche falsche Darstellung nicht aufgedeckt wird,  
+da dolose Handlungen kollusives Zusammenwirken, Fälschungen, beabsichtigte Unvoll- 
+ständ igkeiten, irreführende Darstellungen bzw. das Außerkraftsetzen interner Kontrollen  
+beinhalten können. 
+
+•	 erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten  
+internen Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und 
+Maßnahmen, um Prüfungshandlungen zu planen, die unter den Umständen angemessen  
+sind, jedoch nicht mit dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen  
+der Gesellschaft bzw. dieser Vorkehrungen und Maßnahmen abzugeben. 
+
+88 Stromnetz Berlin  
+
+
+
+•	 beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten  
+Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern 
+dargestellten geschätzten Werte und damit zusammenhängenden Angaben. 
+
+•	 ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern 
+angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit  
+sowie, auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit  
+im Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel  
+an der Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen  
+können. Falls wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind 
+wir verpflichtet, im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss 
+und im Lagebericht aufmerksam zu machen oder, falls diese Angaben unangemessen sind, 
+unser jeweiliges Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der 
+Grundlage der bis zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. 
+Zukünftige Ereignisse oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft 
+ihre Unternehmenstätigkeit nicht mehr fortführen kann. 
+
+•	 beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich 
+der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und 
+Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze 
+ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der 
+Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. 
+
+•	 beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzesent­
+sprechung und das von ihm vermittelte Bild von der Lage der Gesellschaft.
+
+•	 führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten  
+zuk unftsorientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter  
+Prüfungsnachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben 
+von den gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und  
+beu rteilen die sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen  
+Annahmen. Ein eigenständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie  
+zu den zugrunde liegenden Annahmen geben wir nicht ab. Es besteht ein erhebliches  
+unvermeidbares Risiko, dass künftige Ereignisse wesentlich von den zukunftsorientierten  
+Angaben abweichen.
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang 
+und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich  
+etwaiger bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen.
+
+Bestätigungsvermerk Geschäftsbericht 2024 89
+
+
+
+Sonstige gesetzliche und andere rechtliche Anforderungen
+
+ 
+Vermerk über die Prüfung der Einhaltung der Rechnungslegungspflichten
+nach § 6b Abs. 3 EnWG und § 3 Abs. 4 Satz 2 MsbG
+
+Prüfungsurteile
+
+Wir haben geprüft, ob die Gesellschaft ihre Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG  
+und § 3 Abs. 4 Satz 2 MsbG zur Führung getrennter Konten für das Geschäftsjahr vom 1. Januar 
+bis zum 31. Dezember 2024 eingehalten hat. Darüber hinaus haben wir die Tätigkeitsabschlüsse 
+für die Tätigkeiten „Elektrizitätsverteilung“ und „Messstellenbetrieb“ nach § 6b Abs. 3 Satz 1 
+EnWG sowie § 3 Abs. 4 Satz 2 MsbG – bestehend jeweils aus der Bilanz zum 31. Dezember 2024 
+und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 1. Januar bis zum 31. Dezember 
+2024 sowie die als Anlage beigefügten Angaben zu den Rechnungslegungsmethoden für die 
+Aufstellung der Tätigkeitsabschlüsse – geprüft.
+
+•	 Nach unserer Beurteilung wurden die Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG und § 3 
+Abs. 4 Satz 2 MsbG zur Führung getrennter Konten in allen wesentlichen Belangen eingehalten. 
+
+•	 Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse entsprechen 
+die beigefügten Tätigkeitsabschlüsse in allen wesentlichen Belangen den deutschen Vorschriften 
+des § 6b Abs. 3 Sätze 5 bis 7 EnWG und des § 3 Abs. 4 Satz 2 MsbG.
+
+Grundlage für die Prüfungsurteile
+
+Wir haben unsere Prüfung der Einhaltung der Pflichten zur Führung getrennter Konten und 
+der Tätigkeitsabschlüsse in Übereinstimmung mit § 6b Abs. 5 EnWG unter Beachtung des IDW 
+Prüfungsstandards: Prüfung nach § 6b Energiewirtschaftsgesetz (IDW PS 610 n. F. (07.2021)) 
+durchgeführt. Unsere Verantwortung nach diesen Vorschriften und Grundsätzen ist im Abschnitt 
+„Verantwortung des Abschlussprüfers für die Prüfung der Einhaltung der Rechnungslegungs- 
+pflichten nach § 6b Abs. 3 EnWG und § 3 Abs. 4 Satz 2 MsbG“ weiter gehend beschrieben.  
+Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen handels- 
+rechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen Berufs- 
+pflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir wenden als Wirtschafts­
+prüfungsgesellschaft die Anforderungen des IDW Qualitätsmanagementstandards: Anforderungen 
+an das Qualitätsmanagement in der Wirtschaftsprüferpraxis (IDW QMS 1 (09.2022)) an. Wir 
+sind der Auffassung, dass die von uns erlangten Prüfungsnachweise ausreichend und geeignet 
+sind, um als Grundlage für unsere Prüfungsurteile zur Einhaltung der Rechnungslegungspflichten  
+nach § 6b Abs. 3 EnWG und § 3 Abs. 4 Satz 2 MsbG zu dienen.
+
+90 Stromnetz Berlin  
+
+
+
+Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für die 
+Einhaltung der Rechnungslegungspflichten nach § 6b Abs. 3 EnWG und  
+§ 3 Abs. 4 Satz 2 MsbG
+
+Die gesetzlichen Vertreter sind verantwortlich für die Einhaltung der Pflichten nach § 6b Abs. 3 
+Sätze 1 bis 5 EnWG und § 3 Abs. 4 Satz 2 MsbG zur Führung getrennter Konten. Die gesetzlichen 
+Vertreter sind auch verantwortlich für die Aufstellung der Tätigkeitsabschlüsse nach den deut­
+schen Vorschriften des § 6b Abs. 3 Sätze 5 bis 7 EnWG und des § 3 Abs. 4 Satz 2 MsbG.
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie als 
+notwendig erachtet haben, um die Pflichten zur Führung getrennter Konten einzuhalten.
+
+Die Verantwortung der gesetzlichen Vertreter für die Tätigkeitsabschlüsse entspricht der im  
+Abschnitt „Verantwortung der gesetzlichen Vertreter und des Aufsichtsrats für den Jahresab­
+schluss und den Lagebericht“ hinsichtlich des Jahresabschlusses beschriebenen Verantwortung 
+mit der Ausnahme, dass der jeweilige Tätigkeitsabschluss kein unter Beachtung der deutschen 
+Grundsätze ordnungsmäßiger Buchführung den tatsächlichen Verhältnissen entsprechendes  
+Bild der Vermögens-, Finanz- und Ertragslage der Tätigkeit zu vermitteln braucht.
+
+Der Aufsichtsrat ist verantwortlich für die Überwachung der Einhaltung der Rechnungslegungs­
+pflichten der Gesellschaft nach § 6b Abs. 3 EnWG und § 3 Abs. 4 Satz 2 MsbG.
+
+Bestätigungsvermerk Geschäftsbericht 2024 91
+
+
+
+Verantwortung des Abschlussprüfers für die Prüfung der Einhaltung  
+der Rechnungslegungspflichten nach § 6b Abs. 3 EnWG und  
+§ 3 Abs. 4 Satz 2 MsbG
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen,
+
+•	 ob die gesetzlichen Vertreter ihre Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG und  
+§ 3 Abs. 4 Satz 2 MsbG zur Führung getrennter Konten in allen wesentlichen Belangen  
+eingehalten haben und 
+
+•	 ob die Tätigkeitsabschlüsse in allen wesentlichen Belangen den deutschen Vorschriften  
+des § 6b Abs. 3 Sätze 5 bis 7 EnWG und des § 3 Abs. 4 Satz 2 MsbG entsprechen.
+
+Ferner umfasst unsere Zielsetzung, einen Vermerk in den Bestätigungsvermerk aufzunehmen,  
+der unsere Prüfungsurteile zur Einhaltung der Rechnungslegungspflichten nach § 6b Abs. 3  
+EnWG und § 3 Abs. 4 Satz 2 MsbG beinhaltet.
+
+Die Prüfung der Einhaltung der Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG und § 3 Abs. 4  
+Satz 2 MsbG zur Führung getrennter Konten umfasst die Beurteilung, ob die Zuordnung der Konten 
+zu den Tätigkeiten nach § 6b Abs. 3 Sätze 1 bis 4 EnWG sowie nach § 3 Abs. 4 Satz 2 MsbG  
+sachgerecht und nachvollziehbar erfolgt ist und der Grundsatz der Stetigkeit beachtet wurde.
+
+Unsere Verantwortung für die Prüfung der Tätigkeitsabschlüsse entspricht der im Abschnitt  
+„Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lagebe­
+richts“ hinsichtlich des Jahresabschlusses beschriebenen Verantwortung mit der Ausnahme,  
+dass wir für den jeweiligen Tätigkeitsabschluss keine Beurteilung der sachgerechten Gesamt­
+darstellung vornehmen können.
+
+Den vorstehenden Bericht über die Prüfung des Jahresabschlusses der Stromnetz Berlin GmbH, 
+Berlin, für das Geschäftsjahr vom 1. Januar bis 31. Dezember 2023 und des Lageberichts für 
+dieses Geschäftsjahr erstatten wir in Übereinstimmung mit den gesetzlichen Vorschriften und den 
+Grundsätzen ordnungsmäßiger Erstellung von Prüfungsberichten (IDW PS 450 n. F. (10.2021)).
+
+Berlin, den 17. Februar 2025
+
+PricewaterhouseCoopers GmbH
+Wirtschaftsprüfungsgesellschaft
+
+gez. Stefanie Bartel		  gez. Jörg Beckert
+Wirtschaftsprüferin		  Wirtschaftsprüfer
+
+92 Stromnetz Berlin  
+
+
+
+Impressum
+
+Herausgeber 
+Stromnetz Berlin GmbH
+Eichenstraße 3a
+12435 Berlin
+Telefon: +49 30 49202-00
+E-Mail: info@stromnetz-berlin.de
+
+Gestaltung
+INTEGR8 media GmbH
+Alte Jakobstraße 85/86
+10179 Berlin
+www.integr8.com
+
+Fotos 
+Titel: INTEGR8 Media GmbH (generiert mit KI) 
+S. 2: INTEGR8 Media GmbH (generiert mit KI) 
+S. 4: Carl Saltzmann: Erste elektrische Straßenbeleuchtung, Museumsstiftung Post und Telekommunikation 
+S. 7: Swen Gottschall 
+S. 8: INTEGR8 Media GmbH (generiert mit KI) 
+S. 10/11: Archiv, Leo Seidel, kaliel (Adobe Stock) 
+S. 12/13: Archiv, Pedro Becerra, phaisarnwong2517 (Adobe Stock)
+S. 14/15: holger.l.berlin (Adobe Stock), INTEGR8 Media GmbH (generiert mit KI) 
+S. 16/17: INTEGR8 Media GmbH (generiert mit KI) 
+S. 18/19: Archiv, Damian Sobczyk (Adobe Stock), HQ Asset (Adobe Stock) (generiert mit KI) 
+S. 20/21: Archiv, Swen Gottschall, sevector (Adobe Stock) 
+S. 22/23: Archiv, Swen Gottschall, Sven Mikat (Adobe Stock)
+
+Stand
+März 2025
+
+Geschäftsbericht 2024 93
+
+
+
+Stromnetz Berlin GmbH
+Eichenstraße 3a
+12435 Berlin
+
+info@stromnetz-berlin.de
+www.stromnetz.berlin

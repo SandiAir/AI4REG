@@ -1,0 +1,1652 @@
+﻿energie   |   wasser   |   telekommunikation   |   freizeit
+
+Geschäftsbericht 2024
+
+SWE_Deckblatt_GB_2024_RZ.indd   1 24.06.25   09:11
+
+
+
+Auf einen Blick
+Kennzahlen der Stadtwerke Erkrath
+
+ 2024  2023 2022 2021 2020
+
+Absatz
+
+Strom MWh 94.414 110.581 156.238 163.621 154.035
+
+Gas MWh 305.126 348.270 376.000 397.360 367.401
+
+Wärme MWh 109.907 108.955 5.167 6.572 5.941
+
+Wasser T m3 2.165 2.166 2.266 2.249 2.393
+
+Vermögens-, Finanz- und Ertragslage
+
+Umsatzerlöse T€ 66.863 75.137 71.412 48.782 42.715
+
+Strom T€ 30.401 33.873 43.388 28.562 26.737
+
+Erdgas T€ 13.029 17.527 20.058 12.808 8.856
+
+Wärme T€ 15.739 16.481 589 423 460
+
+Wasser T€ 4.533 4.607 4.435 4.240 4.517
+
+Neanderbad T€ 1.068 975 909 377 444
+
+Telekommunikation T€ 1.609 1.424 1.212 807 437
+
+Sonstige Erlöse T€ 484 250 821 1.565 1.264
+
+Bilanzsumme T€ 84.000 85.990 82.461 70.884 59.408
+Anlagevermögen T€ 69.087 66.450 65.957 58.986 50.849
+
+Eigenkapital T€ 33.721 31.744 29.831 29.883 32.761
+
+Langfristige Verbindlichkeiten T€ 21.910 23.878 23.430 20.662 12.967
+
+Investitionen T€ 7.439 4.989 11.339 11.462 9.817
+
+Abschreibungen T€ 4.779 4.487 4.231 3.572 3.304
+
+Jahresüberschuss/-fehlbetrag T€ 3.481 1.914 -68 -877 2.226
+
+Bilanzgewinn T€ 3.481 1.846 -68 -877 2.000
+
+Beschäftige im Jahresdurchschnitt * 137 128 103 102 108
+
+Badegäste T 266 259 217 99 128
+
+* Anzahl mit Minijobbern
+
+
+
+Inhalt
+
+Vorwort	 5
+
+Schlaglichter 2024	 6
+
+Jahresabschluss	 12
+
+Lagebericht	 12 
+
+Bilanz	 22
+
+Gewinn- und Verlustrechnung	 24
+
+Entwicklung des Anlagevermögens	 26
+
+Anhang	 28
+
+Impressum
+
+Herausgeber Konzept und Gestaltung Druck Gedruckt auf 100 % Recycling-Papier
+Stadtwerke Erkrath GmbH trurnit GmbH Blueprint AG
+Gruitener Straße 27 Lindberghstraße 17
+40699 Erkrath Bildnachweis 80939 München
+T 02104 943 60 70 Stadtwerke Erkrath GmbH
+F 02104 943 60 78 (Titel, Seite 6, 7, 9, 10, 11)
+info@stadtwerke-erkrath.de Martin Leclaire (Seite 5, 8)
+www.stadtwerke-erkrath.de Trianel Erneuerbare Energien 
+
+GmbH & Co. KG (Seite 7)
+
+3
+
+
+
+Digitalisierung gestalten,
+Versorgung sichern, 
+Infrastruktur ausbauen. 
+
+Wir machen’s einfach.
+
+4 Geschäftsbericht 2021 Stadtwerke Erkrath
+
+
+
+Vorwort 
+
+Sehr geehrte Geschäftspartner,  
+liebe Leserinnen, liebe Leser,
+
+2024 stand für uns ganz im Zeichen der Zukunft: Zentrale  
+Projekte in den Bereichen Digitalisierung, Energieversorgung  
+und Infrastruktur wurden konsequent vorangetrieben – mit  
+dem Ziel, Erkrath nachhaltig, effizient und lebenswert zu gestalten.
+
+Ein besonderer Schwerpunkt lag auf der klimafreundlichen  
+Neuausrichtung unseres Fernwärmenetzes. Die Planungen kamen 
+gut voran: Ein umfassender Transformationsplan bildete dabei die  
+Grundlage für die nächsten Schritte – von der Sanierung des bestehenden Netzes bis zur  
+Prüfung innovativer Technologien. Transparenz war uns dabei sehr wichtig: Hierzu stellten wir  
+Preisinformationen und Berechnungsformeln online bereit und informierten die Bürgerinnen  
+und Bürger regelmäßig über den aktuellen Stand des Transformationsplans, unter anderem zum  
+Bau der geplanten Solarthermie-Anlage in Hochdahl-Millrath – ein wichtiger Baustein für die 
+Wärmeversorgung der Zukunft.
+
+Auch im Servicebereich zeigt sich die Digitalisierung immer deutlicher: Online-Formulare und 
+digitale Abfrageprozesse erleichtern den Zugang zu unseren Leistungen und sorgen für mehr  
+Transparenz und Effizienz. Gleichzeitig blieb der persönliche Kontakt für uns unverzichtbar. Das  
+Gleiche gilt auch für das Neanderbad, wo ein neues Kassen- und Zutrittssystem sowie digitale  
+Angebote wie Online-Tickets und mobil hinterlegbare Geldwertkarten den Besuch spürbar  
+komfortabler gestalten – ohne auf die persönliche Ansprache vor Ort zu verzichten.
+
+Im Bereich Telekommunikation setzten wir 2024 den Ausbau eines zukunftssicheren Hochleistungs-
+netzes mit Glasfaser konsequent fort. Unser Ziel ist es, allen Haushalten in Erkrath einen Zugang 
+zu schnellem und stabilem Internet zu ermöglichen – als Grundlage für modernes Arbeiten, Lernen 
+und Leben.
+
+Wir investieren auch weiterhin in Lebensqualität. Und das nicht nur in Technik und Infrastruktur, 
+sondern auch in die Menschen vor Ort. Als Arbeitgeber, Ausbilder und verlässlicher Partner möchten 
+wir den Wandel aktiv gestalten – verantwortungsvoll, zukunftsorientiert und bürgernah. 
+Wir machen’s einfach.
+
+Ihr
+
+Gregor Jeken
+Geschäftsführer
+
+5
+
+
+
+Schlaglichter 2024 –  
+das Stadtwerke-Jahr im Überblick
+
+JANUAR FEBRUAR
+Trotz der anhaltenden turbu- 
+
+lenten Zeiten auf den Energie- 
+märkten und schwankender 
+Beschaffungskosten konnten die 
+Stadtwerke Erkrath dank ihrer 
+vorausschauenden Beschaf
+fungss trategie für das Jahr 2024 
+Preisvorteile realisieren. Zum 
+1. Januar 2024 wurden die 
+Strom- und die Gaspreise 
+gesenkt. In der Grundversor
+gung reduzierte sich der Arbeits- 
+preis für Strom um 5,03 Cent pro 
+Kilowattstunde (ct/kWh). Der 
+Gaspreis wurde um 2,36 ct/kWh 
+gesenkt. Die Grundpreise bei 
+Strom und Gas blieben unver
+ändert. 
+
+Die Stadtwerke Erkrath 
+treiben die Digitalisierung der 
+Kundenkommunikation weiter 
+voran. Seit 2023 können über Der Ausbau des Glasfasernetzes in Erkrath schritt in 2024 deutlich 
+die Website Förderanträge für voran: Bei rund 78 % der privaten Wohngebäude liegen die Glas
+Wärmepumpen, Photovoltaik 
+und Solarkollektoren bequem faserkabel bereits im Haus oder im Bürgersteig. Alle öffentlichen 
+online gestellt werden. Anfang Gebäude und Schulen im Stadtgebiet sind vollständig an das 
+2024 wurde der Service durch Hochgeschwindigkeitsnetz angeschlossen. Bis Ende 2024 waren 
+intuitive Klickstrecken erweitert, 521 km Glasfaser verlegt (Vorjahr: 470) und 2.802 Hausanschlüsse 
+die den Antrag deutlich vereinfa-
+chen und beschleunigen. Auch realisiert (Vorjahr: 2.382). 104 der 168 Ausbaugebiete sind erschlos-
+das Interessentenportal wurde sen. Die Stadtwerke Erkrath sehen leistungsfähiges Internet als Teil 
+optimiert: Kunden können nun der kommunalen Daseinsvorsorge. Voraussetzung für den Ausbau 
+den Bearbeitungsstatus ihrer 
+Anfragen online einsehen – für eines Gebiets ist eine Anschlussquote von mindestens 40 %. Frühent- 
+mehr Transparenz und weniger schlossene sparen die regulären Anschlusskosten von rund 1.500 €.
+Rückfragen. Seit April 2024 steht Mit den „SchnelleWelle“-Tarifen bietet die Lichtwelle flexible Inter-
+zudem ein benutzerfreundliches netlösungen. Der Lichtwelle Online-Shop erleichtert die Tarif- 
+Online-Formular für Lob und 
+Beschwerden bereit, das eine auswahl und ermöglicht einen einfachen Vertragsabschluss. Neu-
+schnelle und nachvollziehbare kunden profitieren von einem Einstiegspreis von 14,95 € monatlich 
+Bearbeitung ermöglicht. Mit in den ersten sechs Monaten. Für erfolgreiche Weiterempfehlungen 
+diesen digitalen Angeboten gibt es 50 € Prämie. Die Vermarktung erfolgt über eine umfassende 
+schaffen die Stadtwerke moder- 
+ne, effiziente und kundennahe Kommunikationsstrategie, inklusive Großflächen-, Print- und 
+Kommunikationswege. Online-Werbung, Social Media sowie Vor-Ort-Maßnahmen.
+
+6 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+MÄRZ Seit Anfang April 2025 können Kunden ihre Fernwärme
+preise jederzeit transparent nachvollziehen. Auf der Website  
+
+Zum 1. März 2024 wurde der Ver- der Stadtwerke wurde im Bereich Wärme eine umfang
+brauchspreis für Strom angepasst. Grund reiche E rläuterung zur Preisstruktur veröffentlicht. Unter  
+für die Erhöhung waren ausschließlich www.stadtwerke-erkrath.de/waerme/fernwaermepreise 
+gestiegene Netzentgelte sowie die stehen detaillierte Informationen zur Berechnung von Grund- 
+angehobene Umlage nach § 19 StromNEV. und Arbeitspreis sowie anschauliche Beispielrechnungen bereit. 
+Der Grundpreis blieb unverändert. Dieses Angebot stärkt die Transparenz und das Vertrauen in die 
+
+Preisgestaltung der Stadtwerke Erkrath.
+
+APRIL
+MAI
+
+Die im Zuge der Energiekrise einge-
+führte temporäre Senkung der Mehrwert- Seit Mai 2024 haben Kunden der Stadtwerke Erkrath die 
+steuer auf Gas und Wärme endete zum Möglichkeit, den Erhalt ihrer Rechnungen auf digitalen Versand 
+31. März 2024. Ab dem 1. April 2024 umzustellen. Über den Menüpunkt „Digitale Post“ im Kunden
+wurde der Gaspreis wieder regulär mit portal können sie bequem die papierlose Zustellung aktivieren. 
+dem gesetzlichen Mehrwertsteuersatz Sobald eine neue Rechnung verfügbar ist, erhalten die Kunden 
+von 19 % berechnet. eine Benachrichtigung per E-Mail und können das Dokument 
+
+direkt im Portal herunterladen. Mit dieser Funktion wird der 
+Fachdialog auf Augenhöhe: Die Service digitaler, komfortabler und umweltfreundlicher gestaltet.
+
+Stadtwerke Erkrath luden im Berichtsjahr 
+zu mehreren Installateur-Veranstaltungen Im Berichtsjahr setzten 
+in die eigenen Räumlichkeiten ein. Am die Stadtwerke Erkrath ihr 
+17. und 25. April stand jeweils das Thema Engagement für den Ausbau 
+„Energieeffizient und zukunftssicher erneuerbarer Energien 
+heizen mit der Wärmepumpe“ im Fokus. konsequent fort und 
+Am 26. Juni folgte die Veranstaltung realisierten gemeinsam mit 
+„Arbeiten mit der Fernwärme“, inklusive der Trianel Erneuerbare 
+einer Führung durch das Fernheizwerk. Energien GmbH & Co. KG 
+Den Abschluss bildete am 8. Oktober der (TEE) ein weiteres Windpark
+Fachvortrag „Schutz und Hygiene des projekt in Brandenburg.  
+Trinkwassers – Möglichkeiten der Präven Mit dem Trianel Windpark 
+tion“. Mit diesen Angeboten fördern die Görzig, östlich von Berlin  
+Stadtwerke gezielt den Wissenstransfer im Landkreis Oder-Spree, 
+und die partnerschaftliche Zusammen wurde im Mai ein weiterer 
+arbeit mit dem Fachhandwerk. Meilenstein auf dem Weg  
+
+in eine klimaneutrale 
+Zukunft erreicht. Der 
+Windpark besteht aus drei 
+Anlagen mit einer Leistung 
+von jeweils 4,5 Megawatt (MW) und einer Nabenhöhe von 
+164 Metern und erzeugt jährlich rund 40 Mio. Kilowattstunden 
+(kWh) klimafreundlichen Strom – genug, um etwa 11.400 Haus-
+halte zu versorgen und rund 17.400 Tonnen CO2 pro Jahr 
+einzusparen. 
+Im Rahmen der TEE investieren die Stadtwerke Erkrath ge-
+meinsam mit Trianel und 36 weiteren Stadtwerken rund eine 
+halbe Mrd. € in den Auf- und Ausbau eines eigenen Portfolios 
+an Windkraft und Photovoltaik-Freiflächenanlagen in ganz 
+Deutschland. Das derzeitige Gesamtportfolio umfasst rund 
+100 MW Photovoltaik- und etwa 236 MW Wind-Leistung. Die 
+Stadtwerke Erkrath sind seit 2016 an der TEE beteiligt.
+
+U N T E R N E H M E N 7
+
+
+
+JUNI
+
+Im Zuge einer Digitalisierungsoffensive führte steht ein elektronisches Chip-Armband zur 
+das Neanderbad im Jahr 2024 ein neues Verfügung, das den Zutritt sowie die Nutzung 
+Kassen- und Zutrittssystem ein. Seit Mai sorgt der Spinde erleichtert.
+es für reibungslosere Abläufe und mehr Gäste- Besucher haben nun verschiedene Möglichkei-
+komfort. Die Umbauarbeiten begannen bereits ten für Eintritt und Zugang: per Online-Shop, 
+im Februar und erfolgten während des laufen- Ticketautomat im Eingangsbereich oder weiter- 
+den Badebetriebes. Ein zentrales Element ist hin an der Kasse mit persönlichem Service.  
+der neue Neanderbad Online-Shop. Badegäste Auch bei den Schließfächern gibt es zwei Opti-  
+können dort rund um die Uhr Eintrittskarten onen: das neue Chip-Armband (an der Kasse 
+im Voraus kaufen, Aqua-Kurse buchen, Gut- erhältlich) oder das klassische Zwei-Euro-
+scheine erwerben sowie ihre Geldwertkarte Pfandschloss beim Ticketkauf am Automaten. 
+bequem online aufladen. Eine einmalige Regis- Neu auf dem Außengelände: Seit August 2024 
+trierung ist dafür erforderlich. steht den Gästen ein Beach-Fußballplatz  
+Zeitgleich wurde das Zahlungssystem moder- zur Verfügung – als Ersatz für das frühere 
+nisiert. Die neue Geldwertkarte, die online Beach-Volleyballfeld.
+oder vor Ort aufgeladen und optional digital Mit Blick auf die Zukunft wird das Neanderbad 
+auf dem Smartphone hinterlegt werden kann, sein Angebot weiter ausbauen, um weiterhin 
+ersetzt die bisherigen Karten. Für Stammgäste ein attraktives Bad zu sein. 
+
+8 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+JULI SEPTEMBER
+ Am 19. Januar 2024 eröffneten die 
+
+Stadtwerke gemeinsam mit dem Förder-
+kreis Kunst und Kulturraum Erkrath e. V. 
+eine neue Kunstausstellung in den Räum- 
+lichkeiten an der Gruitener Straße 27. 
+Gezeigt wurden Aquarelle der Künstlerin 
+Irmgard Glebe. Ab dem 28. Juni 2024 
+folgten farbenfrohe Malereien der 
+Künstlerin Sabine Clemens. Bereits seit 
+Mai 2016 bieten die Stadtwerke regiona-
+len Künstlern eine Plattform, ihre Werke 
+im Rahmen wechselnder Ausstellungen 
+einer breiten Öffentlichkeit zu präsentie-
+ren – ein nachhaltiger Beitrag zur kultu
+rellen Vielfalt in Erkrath.
+
+AUGUST
+ Auch im Jahr 2024 zeigten die 
+
+Stadtwerke Erkrath Präsenz vor Ort bei 
+verschiedenen Veranstaltungen in Erkrath Seit Januar 2023 sind die Stadtwerke 
+und standen mit Infoständen für den Erkrath für die Fernwärmeversorgung 
+direkten Austausch mit den Bürgern der zuständig. Bis 2030 soll diese vollstän-
+Stadt zur Verfügung. Das Lichtwelle-Team dig dekarbonisiert und auf erneuer
+war darüber hinaus mit einem eigenen 
+Promotionsstand in ausgewählten bare Energien umgestellt werden. Ein 
+Straßenzügen aktiv, von Februar bis Juli, Transformationsplan analysiert dafür 
+um über Produkte und Angebote im geeignete Technologien und dient als 
+Bereich Telekommunikation zu informie- Grundlage für Förderanträge und die 
+ren und persönliche Beratung vor Ort zu 
+ermöglichen. Ebenfalls präsentierten sich geplante Umstellung. Am 10. Septem-
+die Stadtwerke im April auf der Ausbil- ber 2024 luden die Stadtwerke Erkrath 
+dungsbörse in Hilden sowie bei drei zur dritten Informationsveranstaltung 
+Straßenfesten im August und September.
+
+„Zukunft der Fernwärme in Hochdahl“ 
+in die Stadthalle Erkrath ein. Rund 
+130 interessierte Bürger informierten 
+sich über den aktuellen Stand der 
+Dekarbonisierung. Im Mittelpunkt 
+stand die Vorstellung des Transforma-
+tionsplanes durch Prof. Dr.-Ing. Mario 
+Adam von der Hochschule Düsseldorf 
+(Leiter des ZIES Zentrums für innova
+tive Energiesysteme). Die Präsentation 
+wurde anschließend online veröffent-
+licht, um Transparenz und Bürger
+beteiligung zu fördern.
+
+U N T E R N E H M E N 9
+
+
+
+Zur Dekarbonisierung der Fernwärme digitaler Zwilling des Fernwärme
+setzen die Stadtwerke auf ver- netzes erstellt, der Ausbaupotenziale 
+schiedene technologische Ansätze. sichtbar macht und Effizienzsteige
+Entsprechende Fördermittel wurden rungen identifiziert.
+beantragt und sind bewilligt. Im Auch die Bevölkerung wird aktiv 
+Heizkraftwerk Hochdahl werden drei eingebunden: So informierten die 
+Blockheizkraftwerke (BHKW) durch Stadtwerke am 29. Februar 2024 
+hocheffiziente, gasbetriebene,  Anwohner über den geplanten Bau 
+H2-fähige Anlagen ersetzt. Beginn einer Solarthermieanlage in Erkrath-
+der Umbaumaßnahme ist für Sep Millrath. Mit dem Format „ Fernwärme 
+tember 2025 vorgesehen. Außerdem im Dialog“ soll der Austausch mit den 
+entsteht eine iKWK-Anlage (innovative Bürgern künftig regelmäßig fortge-
+Kraft-Wärme-K opplung) mit einem führt werden.
+25.000 m² großen Solarthermiefeld Trotz technischer und regulatorischer 
+und einer Power-to-Heat-Anlage, die Herausforderungen sowie noch nicht 
+elektrische Energie in Wärme umwan- abschließend kalkulierbarer Investi
+delt. Die Planungen und europaweiten tionskosten haben die Stadtwerke das 
+Ausschreibungen sind erfolgt, der Ziel einer bezahlbaren, klimafreund
+Baubeginn ist für 2026 vorgesehen. Zur lichen und zukunftsfähigen Wärme-
+weiteren Optimierung wurde ein versorgung für Erkrath fest im Blick.
+
+10 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+OKTOBER DEZEMBER
+Auch im Jahr 2024 fanden im Nean- Soziales Engagement lag den Stadtwerken 
+
+derbad wieder regelmäßige Events statt: Erkrath weiterhin sehr am Herzen: Im Jahr 2024 
+Besonders beliebt waren die Pool-Partys. unterstützten die Stadtwerke wieder zahlreiche 
+Im Mai begeisterte die Pfingst-Pool-Party Vereine, Initiativen, Schulen, Kitas und soziale 
+mit Wasserspielgeräten und Mitmachakti- Einrichtungen, die sich in Erkrath für Zusammenhalt, 
+onen der Eventagentur Poolevents. Sowohl kulturelle Vielfalt und gesellschaftliches Miteinander 
+bei der School’s Out einsetzen. So unterstützen die Stadtwerke unter 
+Party im Juli als anderem weiterhin die Integrations- und Förder
+auch beim Herbst- arbeit des Vereins Du-Ich-Wir e. V. finanziell, der sich 
+ferienspaß im für Chancengleichheit und umfassende Bildungs
+Oktober sorgte ein angebote für Kinder und Jugendliche mit und ohne 
+buntes Animations- Migrationshintergrund einsetzt. Darüber hinaus 
+programm des engagierten sich die Stadtwerke im Rahmen der 
+Neanderbad-Teams Naturwissenschaftswochen mit Technikführungen 
+für beste Stim-
+mung bei Kindern 
+und Familien.  
+Einen gelungenen Abschluss der Events 
+2024 gab es mit dem Lichterfest sowie 
+dem Nikolausschwimmen im Dezember, 
+bevor das Neanderbad vom 9. bis zum 
+26. Dezember für die jährliche Revision 
+und die Weihnachtstage schloss. 
+
+NOVEMBER
+ Zweimal jährlich erscheint das 
+
+Magazin EINBLICK der Stadtwerke Erkrath 
+und bietet Erkrather Haushalten spannen-
+de Einblicke in die Welt der Energieversor-
+gung, Technik und Nachhaltigkeit. Die 
+erste Ausgabe 2024 wurde am 8. Mai 
+veröffentlicht, die zweite folgte am und sind Mitglied bei Erkrath Initial e. V. Auch das 
+6. November – insgesamt bereits die Projekt Stromsparcheck des Caritasverbandes für den 
+21. Ausgabe des beliebten Magazins. Kreis Mettmann e. V. wurde weiterhin finanziell 
+Neben aktuellen Berichten rund um gefördert. Eine gezielte Unterstützung im Sportbe-
+Energie, Klimaschutz, Technik und Lifestyle reich war die Finanzierung einer neuen LED-Beleuch-
+
+enthält der EINBLICK tung für die Trainingsstätte der Kampfsportschule 
+praktische Tipps und Top Brothers e. V., die Kindern und Jugendlichen über 
+Hintergrundinformatio- den Sport sinnstiftende Beschäftigung und positive 
+nen aus dem Alltag der Perspektiven vermittelt.
+Stadtwerke. Neben der finanziellen Förderung zahlreicher lokaler 
+
+Sportvereine engagieren sich die Stadtwerke seit 
+vielen Jahren auch aktiv bei sportlichen Veranstaltun-
+gen in der Stadt: Beim Fußballturnier der Erkrather 
+Grundschulen im Juni waren die Stadtwerke wieder 
+als Hauptsponsor vertreten, ebenso beim Neander-
+tallauf im September. Auch bei den Stadtmeister-
+schaften Schwimmen setzten sich die Stadtwerke 
+erneut stark ein.
+
+U N T E R N E H M E N 11
+
+
+
+Lagebericht 2024 
+der Stadtwerke Erkrath GmbH 
+
+Gesamtwirtschaftliche Entwicklung
+
+Die ökonomische Entwicklung Deutschlands (preisbereinigtes Bruttoinlandsprodukt) schloss 2024 erneut 
+mit einem Rückgang von 0,2 % ab. Das Bundesland NRW schloss mit einem Plus von 0,3 % und damit 
+überdurchschnittlich in Deutschland ab. 
+
+Die Entwicklung auf dem deutschen Energiemarkt
+
+Der inländische Energieverbrauch ist in 2024 um 1,1 % gegenüber dem Vorjahr erneut gesunken und 
+erreichte nur einen Gesamtverbrauch in Höhe von 10.538 Petajoule bzw. 359,6 (Vj. 366,3) Millionen Tonnen 
+Steinkohleeinheiten (Mio. t SKE). Hauptverantwortlich für den gesunkenen Verbrauch waren die wirt-
+schaftliche Entwicklung, die bisher keine Konjunkturerholung hatte, sowie die warme Witterung.
+
+Die Energieproduktivität hat sich durch Einsparungen im Primärenergieverbrauch bei gleichgebliebener 
+Wirtschaftsleistung bei energieintensiven Branchen auch im Jahr 2024 um 1,2 % verbessert. Es wird davon 
+ausgegangen, dass das Preisniveau nicht wieder auf das Niveau vor den Krisen fallen wird.
+
+Trotz des Verbrauchsanstiegs bei weiterem Ausbau der erneuerbaren Energien sind die CO2- Emissionen 
+aus der Erzeugung von Strom in Deutschland um 16 Mio. t (ca. 9 %) gesunken (Vj. +49 Mio. t). Neben einer 
+geringeren Stromerzeugung sind für diese Entwicklung der größere Beitrag der Erneuerbaren sowie 
+Rückgänge bei der Verstromung von Kohle verantwortlich sowie der gestiegene Import.
+
+Der gesamte Primärenergieverbrauch war im Jahr 2024 geprägt durch eine Verschiebung zu Erdgas und den 
+erneuerbaren Energieträgern. Der Verbrauch von Mineralöl sank um 0,9 %, von Steinkohle um 10,0 %, von 
+Braunkohle um 10,2 % und die Kernenergie verzeichnete einen Rückgang durch die Abschaltung von 100 %. 
+Erdgas stieg hingegen um 4,0 %, Die erneuerbaren Energien steigerten den Beitrag um insgesamt 1,1 %. 
+
+Im Energiemix für das Jahr 2024 kam es erneut zu Verschiebungen. Wichtigster Energieträger blieb das 
+Mineralöl mit einem Anteil von 36,5 % (Vj. 36,4 %), gefolgt vom Erdgas mit 25,9 % (Vj. 24,7 %). Auf die 
+Steinkohle entfiel ein Anteil von 7,3 % (Vj. 8,7 %). Die Braunkohle verminderte ihren Anteil auf 7,6 %  
+(Vj. 8,3 %). Der Beitrag der Kernenergie lag bei 0,0 % (Vj. 0,7 %). Die erneuerbaren Energien weiteten ihren 
+Anteil am gesamten Energieverbrauch auf 20,0 % (Vj. 19,6 %) aus.
+ 
+Die Preisentwicklung auf den Energiemärkten zeichnete sich auch im Berichtsjahr 2024 durch rückläufige 
+Preise aus. Im Zusammenhang mit den geopolitischen Konflikten waren die Märkte weiterhin volatil. 
+Aufgrund des wirtschaftlichen Rückgangs sowie dem bewussteren Umgang mit Energie durch die Verbrau-
+cher, war der Markt im gesamten Jahr liquide, so dass Energieengpässe nicht eingetreten sind.
+
+Das Jahr 2024 war geprägt von konjunkturellen Einbußen. Die in der Folge wieder gesunkenen Erzeuger-
+preise ließen die Verbraucherpreisinflation leichter ansteigen als im Jahr zuvor. Die Verbraucherpreise 
+stiegen um 2,2 % (Vj. 5,9 %), die Arbeitslosenquote betrug 6,0 % (Vj. 5,7 %). 
+
+Insgesamt hat Deutschland im Jahr 2024 24 Mrd. kWh Strom mehr aus dem Ausland bezogen. Damit stieg 
+der Import um 16 %. Der Export sank um 8 %, was den Status als Netto-Importeur festigt.
+
+12 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Energiepolitik
+
+Mit dem „Gesetz zur temporären Senkung des Umsatzsteuersatzes auf Gas- und Wärmelieferungen wurde 
+der Umsatzsteuersatz rückwirkend ab dem 01.10.2022 bis zum 31.03.2024 von 19 auf 7 % reduziert. 
+
+Neben diesem Gesetz wurden die Informationsplichten der Versorger gegenüber den Verbrauchern 
+deutlich verschärft und erweitert. Hierbei musste sowohl das CO2-Kosten-Aufteilungsgesetz als auch die 
+Überarbeitung der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und Abrechnungsverordnung ab 
+dem Abrechnungsjahr 2023 umgesetzt werden.
+
+Alle Vorgaben und gesetzlichen Neuregelungen hatten erhebliche Auswirkungen auf die Abrechnungssoft-
+ware Lima und führten zu erhöhten Beratungsleistungen unserer Mitarbeiter beim Kunden. Alle gesetzli-
+chen Vorgaben konnten innerhalb der vorgegebenen Fristen umgesetzt werden. Daneben wurde auch die 
+Darstellung der Abrechnung generell umgestellt, um den Kunden die gesetzlichen Auswirkungen darstel-
+len zu können und eine bessere Verständlichkeit zu bieten. 
+
+Umwelt- und Klimapolitik
+
+Politisch bleiben die hochgesteckten Ziele zur Reduktion von CO2 über alle Bereiche bestehen und werden 
+sukzessive angegangen.
+Im Jahr 2010 setzte sich die Bundesregierung in ihrem „Energiekonzept“ das Ziel, die Energieproduktivität 
+bis zum Jahr 2050 jährlich um 2,1 % zu steigern. Dieses Ziel wurde auch im Jahr 2024 deutlich verfehlt.
+
+Darüber hinaus wurde inzwischen erkannt, dass angesichts der mit dem Energieverbrauch einhergehen-
+den Umwelt- und Klimabelastung der Energieverbrauch auch absolut sinken muss. Dies spiegelt sich im 
+Ziel des Energieeffizienzgesetzes von 2023 wider: Angestrebt wird ein Rückgang des Endenergieverbrauchs 
+(EEV) um 26,5 % unter den Verbrauch des Jahres 2008 bis 2030. Bis 2045 soll der EEV um 45 % sinken. Diese 
+Ziele gelten unabhängig vom Wirtschaftswachstum.
+
+J A H R E S A B S C H L U S S 13
+
+
+
+Geschäftsverlauf der Stadtwerke Erkrath GmbH
+
+Der Stromabsatz in der Vertriebssparte und auch in der Netzsparte ist im Berichtsjahr gegenüber dem 
+Vorjahr erneut rückläufig. Der Rückgang ist im Wesentlichen mit Kundenverlusten in der Vertriebssparte 
+und dem Zubau von Photovoltaik-Anlagen und einem geänderten Abnahmeverhalten der Endverbraucher 
+begründet.  Der Gasabsatz ist im Berichtsjahr ebenfalls erneut gesunken. Bei nahezu gleichen durch-
+schnittlichen Temperaturen führte das veränderte Kundenverhalten aufgrund der noch erhöhten Energie-
+preise und der Kundenrückgang in der Vertriebssparte Gas zu geringeren Absatzmengen. Der Einsatz des 
+BHKW zur Strom- und Wärmeproduktion wurde an die Preisentwicklung des Strommarktes und des 
+reduzierteren Wärmebedarfes der Verbraucher angepasst. Daneben sind die Motoren aufgrund des 
+Anlagenalters nicht mehr voll einsatzbereit. Dadurch verringerte sich die Stromproduktion und die 
+erzeugte Wärmemenge. Aus diesem Grund wurde die Kesselanlage zur Wärmeproduktion stärker ein
+gesetzt.  
+
+Das Unternehmen ist nach der Übernahme des Fernheizwerkes und der Belieferung der Wärmekunden ab 
+dem Jahr 2023 nun schon im zweiten Jahr „der“ Infrastrukturdienstleister in der Stadt Erkrath. Der weitere 
+Ausbau der Sparte Telekommunikation wurde wie geplant fortgeführt. Die konsequente Entwicklung und 
+Anpassung aller Netze und Techniken an die sich ändernden Anforderungen und den technischen Fort-
+schritt, unter anderem durch die Elektromobilität und Wärmepumpen, haben weiterhin große Bedeutung 
+für die Stadtwerke Erkrath.
+
+Insgesamt sind die Umsatzerlöse des Unternehmens um 11,0 % auf 66,9 Mio. € gesunken. Die Erlöse sind 
+in allen Energiesparten gesunken. Die Umsätze in der Sparte Telekommunikation legten weiter zu. Das 
+Neanderbad konnte die Umsätze aus dem Badbetrieb durch mehr Nutzer ebenfalls weiter steigern.
+
+Stromversorgung
+Mit einer Absatzmenge des Stromvertriebs in Höhe von 70,2 Mio. kWh ist der Absatz um 9,3 % gegenüber 
+dem Vorjahr gesunken. Der Absatz sowohl an die Tarif- als auch an die Sondervertragskunden war rückläu-
+fig. Der Stromabsatz als Ladestrom ist leicht gestiegen im Vergleich zum Vorjahr. 
+
+Die zur Belieferung der Stromkunden benötigten Mengen wurden überwiegend ratierlich und zeitlich 
+versetzt über den Markt bezogen, Verbrauchsschwankungen wurden am Spotmarkt ausgeglichen. Der 
+Bezug von 100 % Ökostrom ist mit den Herkunftsnachweisen des Bundesumweltministeriums dokumen-
+tiert und zertifiziert. Durch die eigenständige Beschaffung der Neander Energie mittels eines Dienstleisters 
+ging der Stromverkauf an Weiterverteiler weiter zurück.
+
+Gasversorgung
+Der Gasabsatz an die Endkunden ist gegenüber dem Vorjahr um 7,0 Mio. kWh auf 117,8 Mio. kWh erneut 
+gesunken.  
+
+Der Rückgang betrifft alle Kundensegmente außer Sondervertragskunden. Die Absatzmengen an die 
+Neander Energie GmbH haben sich im Kundensegment Sondervertragskunden nochmals verdoppelt.
+
+14 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Wasserversorgung
+Der Wasserabsatz liegt im Berichtsjahr bei 2,1 Mio. m³ stabil auf Niveau der Vorjahre. Die Eigenförderung 
+hat einen Anteil am Wasserbezug von 31 % (Vj. 46 %). Das Wasserbezugskonzept, mit dem Fremdbezug von 
+den Stadtwerken Düsseldorf, ist umgesetzt. 
+
+Wärmeversorgung 
+Der Wärmeabsatz aus Heizzentralen und Contracting-Anlagen ist im Berichtsjahr temperaturbedingt auf 
+3,2 Mio. kWh gesunken. 
+
+Zur Ermittlung der Umsatzerlöse der Fernwärme Hochdahl für das Berichtsjahr 2024 wurden die tatsäch-
+lich erfassten Mengen der Wärmeübergabezähler in den Anlagen der Wärmeproduktion verwendet. 
+
+Telekommunikation
+Der Ausbau der Telekommunikationssparte wurde erfolgreich fortgeführt. Zum Ende des Berichtsjahres 
+waren bereits 521 km (Vj. 470 km) Leitungen verlegt und 2.802 (Vj. 2.382) Hausanschlüsse erstellt. Die 
+synchrone Anbindung von datenintensiven Unternehmen sowie die Privatkundenbindung aufgrund 
+bestehender Verträge in anderen Sparten und die lokale Nähe sind weiter ausschlaggebend für den Erfolg. 
+Aufgrund neuer Kunden konnte die Sparte somit ein besseres Ergebnis zum Unternehmensergebnis 
+beisteuern. Die Verdichtung des bereits ausgebauten Gebietes wird zukünftig von größerer Bedeutung sein.
+
+Neanderbad
+Mit insgesamt 266.256 Badegästen (Vj. 259.267) verzeichnete das Neanderbad einen erfreulichen Anstieg 
+der Besucherzahlen. Die Erlöse konnten daher im Berichtsjahr gesteigert werden, die Aufwendungen für 
+Betriebskosten und Personalkosten sind allerdings deutlich gestiegen
+
+Investitionen
+Das Niveau der Investitionen in immaterielle Vermögensgegenstände und Sachanlagen lag im Berichtsjahr 
+bei 7.439 T€. Der größte Anteil der Investitionen stammt aus der Sparte Telekommunikation, gefolgt von 
+Strom- und Wasserversorgung. Ab dem Jahr 2025 verschieben sich die Investitionen sukzessive zur 
+Wärmeversorgung. Es werden zunächst Investitionen für die Erneuerung der Wärmeproduktionsanlagen 
+anfallen, parallel dazu ansteigend die Investitionen in die Erneuerung des Netzes. Die Fremdfinanzierung 
+erfolgt durch Darlehen, die aufgrund der Zuschüsse für KWK rückgeführt werden, als auch mit staatlichen 
+Zuschüssen (BEW) gefördert werden.
+
+Durch die Errichtung von öffentlichen E-Ladesäulen trägt die Stadtwerke Erkrath GmbH zur Weiterentwick-
+lung der Elektromobilität bei. Im Berichtsjahr waren 21 Ladesäulen mit je 2 Ladeplätzen aktiv. 
+
+J A H R E S A B S C H L U S S 15
+
+
+
+Vermögens- und Finanzlage
+Die Bilanzsumme der Stadtwerke Erkrath GmbH erreichte 2024 einen Betrag von 84,0 Mio. €. Das Anlage-
+vermögen stieg auf 69,1 Mio. €. Der Anteil des Anlagevermögens an der Bilanzsumme beträgt 81,7 %. 
+Darüber hinaus ist ein Rückgang des Umlaufvermögens zu verzeichnen, bedingt durch gegenüber dem 
+Vorjahr geringere Vorräte sowie deutlich geringere Forderungen und Guthaben bei Kreditinstituten.
+
+Die langfristigen Verbindlichkeiten wurden aufgrund von Tilgungsleistungen und durch Vermeidung von 
+neuen Investitionsdarlehen reduziert. Die kurzfristige Liquidität ergibt sich u.a. aus dem Bestand an 
+Kundenguthaben sowie aus Verbindlichkeiten aus der Preisbremse gegenüber der KfW. 
+
+Die nachfolgende Kapitalflussrechnung zeigt die Entwicklung der liquiden Mittel im Vergleich zum Vorjahr:
+
+2024 2023 Veränderung
+T€ T€ T€
+
+Jahresergebnis +3.481 +1.914 +1.567
+
+Abschreibungen +4.779 +4.487 +292
+
+Erträge/Aufwendungen aus dem Abgang von 
+Anlagevermögen +15 −2 +17
+
+Ab-/Zunahme der Rückstellungen +732 +3.164 –2.432
+
+Veränderung betriebliche Aktiva/Passiva −336 +5.216 −5.552
+
+Cashflow aus der laufenden Geschäftstätigkeit +8.671 +14.779 −6.108
+
+Zuflüsse aus Abgängen von Anlagevermögen +8 +11 −3
+
+Auszahlung für Investitionen in das Anlagevermögen −7.439 −4.989 −2.450
+Cashflow aus der Investitionstätigkeit −7.431 −4.978 −2.453
+
+Ausschüttung Gesellschafterin −1.504 0 −1.504
+
+Veränderung Baukosten- und Ertragszuschüsse +26 +140 −114
+
+Darlehensaufnahme 0 +2.500 −2.500
+
+Darlehenstilgung −1.968 −5.204 +3.236
+
+Cashflow aus Finanzierungstätigkeit −3.446 +2.564 −882
+
+Veränderung des Finanzmittelfonds −2.206 +7.237 −9.443
+
+Finanzmittel am Anfang der Periode +8.033 +796 +7.237
+
+Finanzmittel am Ende der Periode +5.827 +8.033 −2.206
+
+„+“ = Mittelherkunft / „−“ = Mittelverwendung
+
+Der Mittelzufluss aus der laufenden Geschäftstätigkeit deckte die Mittelabflüsse aus der Investitions
+tätigkeit. Rückläufige Verbindlichkeiten aus Lieferungen und Leistungen und sonstige Verbindlichkeiten,  
+bei gleichzeitig weiter gestiegenem Mittelabfluss aus Investitionstätigkeiten führen in Summe zu einer 
+Abnahme des Finanzmittelbestandes zum 31.12.2024. 
+
+16 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Ertragslage
+Die Ertragslage des Unternehmens war im Berichtsjahr geprägt durch rückläufige Umsatzerlöse im Bereich 
+der Strom- und Erdgasversorgung sowie einem Rückgang der im Vorjahr erstmalig erzielten Umsatzerlöse 
+der Fernwärmesparte. Den um 11,0 % gesunkenen Umsatzerlösen standen um 20,0 % niedrigere Material-
+aufwendungen, höhere Personalkosten (+9,5 %) und gestiegene Abschreibungen (+6,5 %) gegenüber. Die 
+sonstigen Aufwendungen sind aufgrund der Bildung von Rückstellungen im Vorjahr nun wieder um 10,8 % 
+gesunken. Das Betriebsergebnis stieg in Summe um 2,0 Mio. € auf 5,3 Mio. € gegenüber dem Vorjahr. Nach 
+einem verbesserten Zinsergebnis und im Gegenzug gestiegenen Aufwendungen aus Ertragsteuern ergibt 
+sich für das Berichtsjahr 2024 ein Jahresüberschuss in Höhe von rund 3,5 Mio. €. Damit wurde der im 
+Vorjahr für 2024 prognostizierte Jahresüberschuss um rund 17 % übertroffen. 
+
+Die Gesellschaft erbringt keine Forschungs- und Entwicklungsleistungen, sondern stellt als Dienstleister in 
+der Stadt Erkrath die umfassende Infrastruktur sicher. Hierbei greifen wir auf bekannte Technologien 
+zurück, die von unabhängigen Dritten erworben bzw. gemietet werden.
+
+Finanzielle und nichtfinanzielle Leistungsindikatoren
+
+Die Kundenwechselrate im Stadtgebiet ist höher als bisher gewohnt Dies ist auf eine gesteigerte Preissen-
+sitivität aufgrund der geopolitischen Krisen zurückzuführen. Es besteht jedoch immer noch ein hoher 
+Anteil an Kunden in der Grundversorgung. Die Neukunden von Vertriebsgesellschaften, die Ihren Kunden 
+gekündigt hatten, haben sich nun wieder aus der Grundversorgung gelöst und machen den überwiegen-
+den Anteil an den Kundenrückgängen aus. Die Gesellschaft vertreibt ausschließlich regenerativen Strom, 
+was eine weitere Kundenbindung fördert. Die Gesellschaft legt Wert auf regionale Bekanntheit und 
+unterstützt Vereine und soziale Einrichtungen vor Ort.
+
+Mit der Übernahme der Fernwärmeversorgung zum 01.01.2023 können die Stadtwerke nun auch diese 
+Kunden vollumfänglich in allen Themen der Energie- und Wärmeversorgung betreuen. Das fördert die 
+Kundenbindung nachhaltig.
+
+Das Personalmanagement wird durch eine veränderte Arbeitswelt sowie den noch ausgeprägten Arbeit-
+nehmermarkt deutlich intensiver. Neue Projekte sorgen hingegen für ein breiteres Spektrum an Tätigkeits-
+feldern für die Mitarbeiter.
+
+Angaben gemäß § 6b Abs. 7 Satz 4 i.V.m. Abs. 3 Energiewirtschaftsgesetz (EnWG)
+
+Die Tätigkeiten des Unternehmens umfassen die Verteilung von Strom und Gas sowie sonstige Tätigkeiten 
+innerhalb und außerhalb des Elektrizitäts- und Gassektors. Dazu zählen die Wasserversorgung, die 
+Telekommunikation und die Wärmeversorgung. Grundsätzlich werden die Konten den einzelnen  
+Tätigkeiten direkt zugeordnet. 
+
+J A H R E S A B S C H L U S S 17
+
+
+
+Chancen und Risiken der künftigen Entwicklung
+
+Geopolitische Verwerfungen und gesellschaftliche Einflüsse belasten weiter die Weltwirtschaft und dabei 
+besonders Europa. Der Sachverständigenrat prognostiziert ursprünglich für 2024 ein Wachstum des BIP 
+um 0,3 %, realisiert wurde ein Rückgang um 0,2 %. Für 2025 wird nun von einer Veränderung von 0 % 
+ausgegangen, für 2026 ein Wachstum von 1,0 % erwartet. Das Erreichen der Klimaziele hat wesentlichen 
+Einfluss auf die gesamte Energiewirtschaft wegen der Ausbaumaßnahmen der Netze. Wie die Regierung 
+dies eindämmen kann bleibt abzuwarten.
+
+Die Stadtwerke Erkrath GmbH stellt sich den Risiken eines breit aufgestellten kommunalen Querverbund-
+unternehmens. Hierzu ist ein Risikomanagementsystem implementiert. Dieses identifiziert und bewertet 
+Risiken auf den regulierten und auf den marktorientierten Feldern der Geschäftstätigkeit. Anschließend 
+werden diese qualifiziert und quantifiziert. Veränderungen werden stetig eingebracht und Berichte erstellt.
+
+Der energiewirtschaftliche Wettbewerb, welcher sich aufgrund der weiter fallenden Energiehandelspreise 
+im Jahr 2024 weiter verstärkt hat und von derzeit rund 1.200 Energieanbietern im Markt betrieben wird, 
+stellt weiterhin eine enorme Herausforderung für den Vertrieb dar. Die dritte Marktrolle als Messstellenbe-
+treiber führt zu weiterem Wettbewerb und den damit verbundenen Aufgaben. Staatliche Vorgaben zu 
+Preisen kann für die Stadtwerke Erkrath GmbH, je nach Umsetzung, zu einem Nachteil in dem Marktseg-
+ment führen, jedoch auch eine Chance zu weiterer Kundenbindung und einem sparsameren Energieein-
+satz durch die Kontrollmöglichkeiten der Endverbraucher darstellen.
+
+Im Wirtschaftsjahr 2025 werden zudem die alten BHKWs im Sommer abgeschaltet. Sie werden sodann 
+abgebaut und zum Januar 2027 wieder neu errichtet. In diesem Zeitraum kann kein Beitrag zum Ergebnis 
+aus der angepassten Fahrweise der BHKW am Strommarkt erwirtschaftet werden.
+ 
+Mit den neuen Festlegungen der BNetzA ist eine Absenkung der Eigenkapitalverzinsung für die vierte 
+Regulierungsperiode (Gas ab 2023 und Strom ab 2024) einhergegangen. Die aktuelle wirtschaftliche Lage 
+führt zu erneut sinkenden Zinsen für Kredite, welche für Netzerweiterungen und Netzoptimierungen und 
+Investitionen im Rahmen der Energiewende benötigt werden. Das niedrige Zinsniveau in der Vergangen-
+heit war förderlich für Investitionen, was sich nun in einem abgeschwächten Ausmaß wiederholen kann, 
+flankiert durch diverse Förderungen. Dem Ziel, saubere Innenstädte mit einer sehr guten Luftqualität und 
+eine klimafreundlichere Verkehrspolitik durch emissionsarme Fahrzeuge zu gewährleisten, haben die 
+Stadtwerke Erkrath GmbH mit dem Ausbau des Betriebes von öffentlichen Ladesäulen und der weiteren 
+Anschaffung von E-Fahrzeugen Rechnung getragen. Die Übernahme der Fernwärme Hochdahl haben den 
+Stadtwerken den gewünschten positiven Beitrag in der Diversifikation und Sicherheit gebracht. Alle 
+wesentlichen Aufgaben eines Versorgungsdienstleisters liegen in den Händen der Stadtwerke Erkrath und 
+sind die Grundlage der bestmöglichen Versorgung im Stadtgebiet. Eine große Herausforderung wird die 
+Dekarbonisierung und Optimierung der Fernwärme sein. Das werden unsere Kunden in Zukunft zu 
+schätzen wissen, da die politisch und ökologisch gewollte Erzeugung von klimaneutraler Wärme zentral 
+erfolgen kann. 
+
+Die anhaltend angespannte geopolitische Situation und weitere gesetzliche Regelungen und Verordnun-
+gen, wie die Einführung von Kundenwechseln innerhalb von 24 Stunden, werden weiter starke Auswirkun-
+gen auf die Zukunft der Energieversorger haben. Es sind noch immer die Verwerfungen in der Beschaffung 
+von Strom und Gas zu verkraften. Die Sicherstellung der Versorgungspflicht im Rahmen der Grundversor-
+gung für Strom und Gas und die Spezifikation von wettbewerbsfähigen Produkten als Marktteilnehmer 
+werden die zukünftige Beschaffungsstrategie stark beeinflussen. Maßgeblich werden aber die Veränderun-
+gen der Rahmenbedingungen durch den Gesetzgeber sein, der die Sicherheit der Verbraucher hinsichtlich 
+Vertragserfüllung und einseitigen Kündigungsschutz regeln wird, um nicht wieder Geschäfte zu Lasten von 
+Kunden zu ermöglichen. An dieser Stelle gewinnt die Kundenbindung für die Stadtwerke Erkrath GmbH 
+wieder eine zusätzliche Bedeutung und kann langfristig wieder zu mehr Kunden führen. 
+
+18 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Die Investitionstätigkeiten der Stadtwerke Erkrath sind zu einem hohen Anteil fremdfinanziert und werden 
+durch die Abschreibungen gedeckt. Die Finanzierung hängt von bestimmten Bedingungen ab, deren 
+Einhaltung maßgeblich von der aktuellen geopolitischen Lage und der Entwicklung auf den Beschaffungs-
+märkten sowie den Absatzmengen abhängig ist.
+
+Im Rahmen einer Abfrage des Bundeskartellamtes an alle Fernwärmeversoger in Deutschland wurden 
+auch die Stadtwerke Erkrath zur Abgabe von Daten zur Fernwärme im Jahre 2023 aufgefordert. Eine 
+gleichlautende Abfrage des Landeskartellamtes NRW erfolgte für den Zeitraum 2023 bis Oktober 2024.
+
+Mit Wirkung zum 01.01.2023 haben die Stadtwerke Erkrath den Betrieb des Fernwärmenetzes und der 
+Erzeugungsanlagen übernommen und sind somit der Rechtsnachfolger bei den bestehen Endkundenver-
+trägen geworden. Mit Wirkung ab 01.01.2023 sind somit die Stadtwerke auskunftspflichtig gegenüber dem 
+Bundeskartellamt und Landeskartellamt NRW geworden. Eine Rückmeldung zur Datenabfrage seitens der 
+Kartellämter ist bisher nicht eingegangen.
+ 
+Die Stadtwerke Erkrath haben die bestehende Preisformel der E.ON bei der Übernahme der Kunden zum 
+01.01.2023 in unveränderter Form übernommen. Entsprechend der Rechtsnachfolge und Weiterführung der 
+Preisformel wurde auch die Beschaffung der Gasmengen für die Wärmeproduktion entsprechend der Preisfor-
+mel vorgenommen. Das bedeutet, das Gas für die Wärmeerzeugungsanlagen wird entsprechend monatlich 
+zum EGIX beschafft und bildet damit die Veränderungen am Gasmarkt entsprechend der Indices ab. 
+
+Die Kartellämter haben mit ihren Auskunftsverlangen die Angaben zur Beschaffungshäufigkeit, den 
+eingesetzten Betriebsstoffen sowie Drittschuldnerverhältnissen angefordert. Ebenso wurden die Beschaf-
+fungskosten und der dazugehörige Beschaffungsvertrag angefordert. 
+
+Die Verbraucherschutzzentrale hat eine Klage gegen Fernwärmeversorger eingereicht. Es wird die Richtig-
+keit von Preisformeln beklagt, nach denen die Verbraucher die gelieferte Wärme in Rechnung gestellt 
+bekommen. 
+ 
+Mit der Übernahme hat die Stadtwerke Erkrath die Beschaffung der Gasmengen genau an den in der 
+Preisformel verwendeten Index angepasst. Durch diese genaue Beschaffung entsprechend der Preisformel, 
+kann die Gesellschaft keine Risiken aus selbiger aufbauen, jedoch auch explizit keine nicht durch die 
+Preisformel gedeckten Gewinne aus der Beschaffung erwirtschaften.
+
+Die Preisformel selbst besteht in der Variabilität aus mehreren Indizes. Sollte ein Index in der Nutzung 
+verboten werden oder die Verteilung der Gewichtung innerhalb der Preisformel geändert werden müssen, 
+führt dies zu Veränderungen im zeitlichen Verlauf der Umsatzerlöse, jedoch nicht zu signifikanten Ände-
+rungen der Erlöse.
+
+Die Sparte Telekommunikation hat sich weiter positiv entwickelt und wird auch in den Folgejahren 
+aufgrund der steigenden Datenmengen im beruflichen und privaten Umfeld ein wichtiger Baustein für 
+eine erfolgreiche Kundenbindung sein. Positiv wirkt sich der zunehmende Datenaustausch aufgrund der 
+Digitalisierung aus und somit der Bedarf nach einer größeren Bandbreite, vor allem im Upload, mit 
+entsprechender Sicherheit. Hinzu kommt die geplante Abschaltung alter Technologien in der nahen 
+Zukunft.
+
+J A H R E S A B S C H L U S S 19
+
+
+
+Ausblick
+
+Digitalisierung und Prozessautomatisierung
+Die fortschreitende Digitalisierung bietet erhebliche Potenziale zur Effizienzsteigerung für die Stadtwerke 
+Erkrath GmbH. Durch die Einführung automatisierter Prozesse in der Netz- und Kundenbetreuung können 
+Ressourcen gezielter eingesetzt und Reaktionszeiten verkürzt werden. Ziel ist es, manuelle Tätigkeiten zu 
+reduzieren und gleichzeitig die Servicequalität für unsere Kundinnen und Kunden zu erhöhen.
+
+Künstliche Intelligenz (KI) und deren mögliche Einsatzfelder
+Der Einsatz von Künstlicher Intelligenz wird zunehmend relevanter für die Stadtwerke Erkrath GmbH. In 
+Zukunft könnten KI-gestützte Systeme beispielsweise zur Prognose des Energiebedarfs, zur Optimierung 
+von Netzlasten oder zur Analyse von Störmeldungen eingesetzt werden. Zudem eröffnet KI im Kunden
+service neue Möglichkeiten, z. B. durch den Einsatz intelligenter Chatbots oder personalisierter Energie
+beratung. Wir beobachten die technologischen Entwicklungen aufmerksam und prüfen kontinuierlich, 
+inwieweit sich entsprechende Anwendungen wirtschaftlich sinnvoll und datenschutzkonform integrieren 
+lassen.
+
+Nachhaltige Wärmelösungen, z. B. Solarthermie
+Der Ausbau nachhaltiger Wärmelösungen bleibt ein zentrales strategisches Ziel unseres Stadtwerks. 
+Neben dem Einsatz effizienter Wärmepumpen und der Nutzung von Abwärme aus industriellen Prozessen 
+(wie z.B. Rechenzentren) setzen wir u.a. auf den Einsatz solarthermischer Anlagen. Dabei steht die lang
+fristige Dekarbonisierung der Wärmeversorgung klar im Fokus. Solarthermie und die Modernisierung der 
+KWK-Anlagen sind bereits Bestandteil der aktuellen Planung. Die Geothermie ist ebenfalls Bestandteil  
+des Transformationsplanes.
+
+Weitere wirtschaftliche Entwicklung
+Die im Vergleich zu den Vorjahren wieder fallenden Beschaffungskosten werden, nach aktuellen Einschät-
+zungen der Fachwelt, nicht wieder auf das Niveau der Jahre vor 2021 fallen. Mit der ambitionierten 
+Umgestaltung der Erzeugungswirtschaft, aufgrund der notwendigen Reduktion des CO2-Ausstoßes hin zu 
+einer klimaneutralen Erzeugungswirtschaft, ist eine deutliche Absenkung der Beschaffungskosten nicht zu 
+erwarten. Auch die notwendigen Investitionskosten in die Versorgungsnetze zur Abdeckung der erwarte-
+ten Last z. B. durch Stromladepunkte für die Mobilität und der Wärmepumpenausbau als Ersatz für die 
+Gasversorgung werden sich für die Verbraucher in Tarifen und Preisen widerspiegeln. Für das Geschäftsjahr 
+2025 sind Investitionen in Höhe von ca. 13,0 Mio. € eingeplant. Der Investitionsplan besteht nahezu 
+vollständig aus Investitionen in Sachanlagen.
+ 
+Nach der Übernahme der Fernwärme sind noch wenige Aufgaben offen, um die Integration in die Stadt-
+werke Erkrath GmbH voll umfänglich abzuschließen. Alle Mitarbeiter sind gefordert, die noch nicht 
+implementierten Prozesse zu adaptieren. 
+
+Des Weiteren setzen die Stadtwerke Erkrath GmbH weiter auf den Ausbau von Photovoltaikanlagen und 
+deren Förderung. Im Bereich der Elektromobilität sollen weitere öffentliche Standorte mit Ladesäulen 
+ausgestattet werden, um der Nachfrage der steigenden E-Fahrzeuge gerecht zu werden. 
+
+20 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Die Aufgabe zur Erstellung einer kommunalen Wärmeplanung für die Stadt Erkrath bis Mitte 2028 obliegt 
+der Stadt Erkrath. Die Stadtwerke Erkrath werden eng in die Datenermittlungen und Umsetzungen der 
+Ergebnisse eingebunden sein. Bereits jetzt sind die Stadt Erkrath und die Stadtwerke Erkrath im Austausch 
+und in Abstimmungen.
+
+Im Jahr 2025 wird das Neanderbad 20 Jahre und wir rechnen mit einem weiteren Anstieg der Besucherzah-
+len. Die Aufwendungen für ein weiterhin attraktives Bad werden altersbedingt steigen. 
+
+Mit Notarvertrag vom 18.04.2025 hat die Gesellschaft ihre Anteile an der Neander Energie GmbH mit 
+wirtschaftlicher Wirkung zum 01.04.2025 veräußert. Der erzielte Buchgewinn ist in die Wirtschaftsplanung 
+2025 bereits mit eingeflossen.
+
+Im Wirtschaftsplan wird daher bei nahezu gleichbleibenden Umsatzerlösen (nach Abzug von Strom- und 
+Energiesteuern) ein Jahresüberschuss in Höhe von 3,9 Mio. € für das Geschäftsjahr 2025 prognostiziert. 
+
+Die weltweiten geopolitischen Konflikte führen weiterhin zu großen Dynamiken auf den Energiemärkten, 
+die das Unternehmensergebnis 2025 beeinflussen können. Die Stadtwerke Erkrath GmbH beobachten 
+täglich die Situation und sind mit ihren Verbänden und benachbarten Unternehmen im ständigen Kontakt 
+und Austausch. 
+
+Erkrath, den 13. Mai 2025
+
+Stadtwerke Erkrath GmbH
+
+Gregor Jeken
+Geschäftsführer
+
+J A H R E S A B S C H L U S S 21
+
+
+
+Bilanz 
+zum 31. Dezember 2024
+
+Aktiva 31.12.2024 31.12.2024 31.12.2023 31.12.2023 
+ €  € € €
+
+A. Anlagevermögen
+
+I.  Immaterielle Vermögensgegenstände
+Entgeltlich erworbene Konzessionen, gewerbliche 
+Schutzrechte und ähnliche Rechte und Werte sowie 
+Lizenzen an solchen Rechten und Werten 297.018,00 77.645,00
+
+II.  Sachanlagen
+
+1. Grundstücke, grundstücksgleiche Rechte und Bauten 8.670.160,00 8.979.436,00
+
+2. Maschinen und maschinelle Anlagen 53.314.674,00 52.545.418,00
+
+3. Betriebs- und Geschäftsausstattung 2.409.956,00 1.997.020,00
+
+4. Anlagen im Bau 2.312.587,00 767.742,00
+
+66.707.377,00 64.289.616,00
+
+III. Finanzanlagen
+
+Beteiligungen 2.083.088,41 2.083.088,41
+
+69.087.483,41 66.450.349,41
+
+B. Umlaufvermögen
+
+I.  Vorräte
+
+1.  Roh-, Hilfs- und Betriebsstoffe 3.047.099,47 3.383.451,90
+
+2.  Fertige Erzeugnisse und Waren 9.047,21 9.047,21
+
+3.056.146,68 3.392.499,11
+
+II. Forderungen und sonstige Vermögensgegenstände
+
+1.  Forderungen aus Lieferungen und Leistungen 3.508.319,56 3.925.798,05
+
+2.  Forderungen gegen die Stadt Erkrath 0,00 1.568.276,24
+
+3.  Forderungen gegen Unternehmen, mit denen ein  
+Beteiligungsverhältnis besteht 470.552,77 189.456,68
+
+4.  Sonstige Vermögensgegenstände 1.985.692,20 2.395.935,75
+
+5.964.564,53 8.079.466,72
+
+III. Kassenbestand, Guthaben bei Kreditinstituten 5.826.943,45 8.033.308,33
+
+14.847.654,66 19.505.274,16
+
+C. Rechnungsabgrenzungsposten 65.249,82 34.274,54
+
+84.000.387,89 85.989.898,11
+
+22 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Passiva 31.12.2024 31.12.2024 31.12.2023 31.12.2023
+ €  € € €
+
+A. Eigenkapital
+
+I.  Gezeichnetes Kapital 13.450.000,00 13.450.000,00
+
+II.  Kapitalrücklage 3.352.599,10 3.352.599,10
+
+III. Gewinnrücklagen 13.437.839,98 13.096.013,36
+
+IV. Bilanzgewinn 3.481.035,37 1.845.826,62
+
+33.721.474,45 31.744.439,08
+
+B. Sonderposten wegen Investitionszuschüssen 0,00 0,00
+
+C.  Baukosten- und Ertragszuschüsse 2.855.504,00 2.829.492,00
+
+D.  Rückstellungen
+
+1.  Pensionsrückstellungen 1.100.562,00 1.074.094,00
+
+2.  Steuerrückstellungen 10.000,00 10.000,00
+
+3.  Sonstige Rückstellungen 4.865.141,61 4.159.878,74
+
+5.975.703,61 5.243.972,74
+
+E. Verbindlichkeiten
+
+1.  Verbindlichkeiten gegenüber Kreditinstituten 23.878.007,42 25.845.585,30
+
+2.  Erhaltene Anzahlungen 602.727,20 5.338.666,62
+
+3.  Verbindlichkeiten aus Lieferungen und Leistungen 7.365.361,79 5.152.904,04
+
+4.  Verbindlichkeiten gegenüber der Stadt Erkrath 204.856,75 0,00
+
+5.  Verbindlichkeiten gegenüber Unternehmen, mit  
+denen ein Beteiligungsverhältnis besteht 0,00 0,00
+
+6.  Sonstige Verbindlichkeiten 
+(davon aus Steuer: 325.133,36 €,  
+Vj. 2.437.027,70 €,  
+davon im Rahmen der sozialen Sicherheit: 0,00 €,  
+Vj. 36,24 €) 9.127.907,70 9.556.836,36
+
+41.178.860,86 45.893.992,32
+
+F. Rechnungsabgrenzungsposten 268.844,97 278.001,97
+
+84.000.387,89 85.989.898,11
+
+J A H R E S A B S C H L U S S 23
+
+
+
+Gewinn- und Verlustrechnung
+für das Geschäftsjahr 2024
+
+31.12.2024 31.12.2024 31.12.2023 31.12.2023 
+ €  € € €
+
+1.  Umsatzerlöse 69.727.586,46 77.979.919,70
+
+abzüglich Strom- und Energiesteuer −2.864.676,83 −2.842.783,93
+
+66.862.909,63 75.137.135,07
+
+2.  Andere aktivierte Eigenleistungen 585.837,00 376.885,00
+
+3.  Sonstige betriebliche Erträge 331.002,63 245.674,59
+
+4.  Materialaufwand
+
+a) Aufwendungen für Roh-, Hilfs- und Betriebsstoffe  
+und für bezogene Waren −38.044.573,76 48.630.595,82
+
+b) Aufwendungen für bezogene Leistungen −3.208.275,00 −2.946.714,43
+
+−41.252.848,76 −51.577.310,25
+
+5.  Personalaufwand
+
+a) Löhne und Gehälter −7.715.529,82 −7.066.934,16
+
+b) Soziale Abgaben und Aufwendungen für 
+Altersversorgung und für Unterstützung  
+(davon für Altersversorgung: 369.196,11 €,  
+Vj. 340.105,79 €) −2.104.150,90 −1.899.919,71
+
+−9.819.680,72 −8.966.853,87
+
+6.  A bschreibungen auf immaterielle Vermögensgegen
+stände des Anlagevermögens und Sachanlagen −4.779.254,00 −4.486.727,00
+
+7.  Sonstige betriebliche Aufwendungen
+
+a) Konzessionsabgabe −1.911.656,06 −1.883.145,23
+
+b) Übrige sonstige betriebliche Aufwendungen −4.683.944,52 −5.514.412,24
+
+−6.595.600,58 −7.397.557,47
+
+Betriebsergebnis 5.332.365,20 3.331.246,07
+
+8.  Erträge aus Beteiligungen 0,00 54.126,21
+
+9.  Sonstige Zinsen und ähnliche Erträge 183.180,20 94.981,12
+
+10.  Abschreibungen auf Wertpapiere des  
+Umlaufvermögens 0,00 −209.280,00
+
+11. Zinsen und ähnliche Aufwendungen –254.565,42 −395.483,50
+
+Finanzergebnis −71.385,22 −455.656,17
+
+12. Ergebnis der gewöhnlichen Geschäftstätigkeit 5.260.979,98 2.875.589,90
+
+13. Steuern vom Einkommen und vom Ertrag −1.741.306,94 –939.466,56
+
+14. Ergebnis nach Steuern 3.519.673,04 1.936.123,34
+
+15. Sonstige Steuern −38.637,67 −22.219,26
+
+16. Jahresüberschuss/-fehlbetrag 3.481.035,37 1.913.904,08
+
+17. Verlustvortrag 0,00 −68.077,46
+
+18. Bilanzgewinn/-verlust 3.481.035,37 1.845.826,62
+
+24 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+J A H R E S A B S C H L U S S 25
+
+
+
+Entwicklung des Anlagevermögens
+im Geschäftsjahr 2024
+
+Anschaffungs- und Herstellungskosten
+
+Stand Stand Stand Stand
+01.01.2024 Zugang Abgang Um- 
+
+buchungen 31.12.2024 31.12.2018 01.01.2024 Zugang Abgang Stand Stand Stand
+31.12.2024 01.01.2024 31.12.2024
+
+ €  €  €  €  €  €  €  €  €  €  €  €
+
+I. Immaterielle Vermögensgegenstände
+
+Lizenzen 1.219.735 255.038 0 0 1.474.773 1.142.090 35.665 0 1.177.755 77.645 297.018
+
+Summe immaterielle Vermögens
+gegenstände 1.219.735 255.038 0 0 1.474.773 1.142.090 35.665 0 1.177.755 77.645 297.018
+
+II. Sachanlagen
+
+1.  Grundstücke und grundstücks- 
+gleiche Rechte und Bauten 16.597.502 0 0 0 16.597.502 7.618.066 309.275 0 7.927.341 8.979.436 8.670.161
+
+2.  Technische Anlagen und Maschinen 140.202.869 4.406.186 366.330 486.642 144.729.367 87.657.451 4.115.694 358.451 91.414.694 52.545.418 53.314.673
+
+3.  Andere Anlagen, Betriebs- und 
+Geschäftsausstattung 8.934.429 579.220 126.270 152.336 9.539.715 6.937.409 318.620 126.270 7.129.759 1.997.020 2.409.956
+
+4.  Geleistete Anzahlungen und 
+Anlagen im Bau 767.742 2.198.835 15.012 −638.978 2.312.587 0 0 0 0 767.742 2.312.587
+
+Summe Sachanlagen 166.502.542 7.184.241 507.612 0 173.179.171 102.212.926 4.743.589 484.721 106.471.794 64.289.616 66.707.377
+
+III. Finanzanlagen
+
+Beteiligungen 2.083.088 0 0 0 2.083.088 0 0 0 0 2.083.088 2.083.088
+
+Summe Finanzanlagen 2.083.088 0 0 0 2.083.088 0 0 0 0 2.083.088 2.083.088
+
+Summe Anlagevermögen 169.805.365 7.439.279 507.612 0 176.737.032 103.355.016 4.779.254 484.721 107.649.549 66.450.349 69.087.483
+
+26 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Abschreibungen Restbuchwerte
+
+Stand - Stand Stand Stand  
+01.01.2024 Zugang Abgang Um
+
+buchungen 31.12.2024 31.12.2018 01.01.2024 Zugang Abgang Stand Stand Stand
+31.12.2024 01.01.2024 31.12.2024
+
+ €  €  €  €  €  €  €  €  €  €  €  €
+
+I.  Immaterielle Vermögensgegenstände
+
+Lizenzen 1.219.735 255.038 0 0 1.474.773 1.142.090 35.665 0 1.177.755 77.645 297.018
+
+Summe immaterielle Vermögens
+gegenstände 1.219.735 255.038 0 0 1.474.773 1.142.090 35.665 0 1.177.755 77.645 297.018
+
+II.  Sachanlagen
+
+1.  Grundstücke und grundstücks- 
+gleiche Rechte und Bauten 16.597.502 0 0 0 16.597.502 7.618.066 309.275 0 7.927.341 8.979.436 8.670.161
+
+2.  Technische Anlagen und Maschinen 140.202.869 4.406.186 366.330 486.642 144.729.367 87.657.451 4.115.694 358.451 91.414.694 52.545.418 53.314.673
+
+3.  Andere Anlagen, Betriebs- und 
+Geschäftsausstattung 8.934.429 579.220 126.270 152.336 9.539.715 6.937.409 318.620 126.270 7.129.759 1.997.020 2.409.956
+
+4.  Geleistete Anzahlungen und 
+Anlagen im Bau 767.742 2.198.835 15.012 −638.978 2.312.587 0 0 0 0 767.742 2.312.587
+
+Summe Sachanlagen 166.502.542 7.184.241 507.612 0 173.179.171 102.212.926 4.743.589 484.721 106.471.794 64.289.616 66.707.377
+
+III. Finanzanlagen
+
+Beteiligungen 2.083.088 0 0 0 2.083.088 0 0 0 0 2.083.088 2.083.088
+
+Summe Finanzanlagen 2.083.088 0 0 0 2.083.088 0 0 0 0 2.083.088 2.083.088
+
+Summe Anlagevermögen 169.805.365 7.439.279 507.612 0 176.737.032 103.355.016 4.779.254 484.721 107.649.549 66.450.349 69.087.483
+
+J A H R E S A B S C H L U S S 27
+
+
+
+Anhang 
+zum Jahresabschluss 2024
+
+Anwendung der gesetzlichen Bilanzierungsvorschriften (1)
+
+Der Jahresabschluss zum 31. Dezember 2024 ist nach den für große Kapitalgesellschaften geltenden 
+Vorschriften des Handelsgesetzbuches und des GmbH-Gesetzes aufgestellt. Die Gesellschaft ist unter HRB 
+13183 im Handelsregister des Amtsgerichts Wuppertal eingetragen.
+
+Besonderheiten der Versorgungswirtschaft sind im Jahresabschluss durch Hinzufügung von Posten berück-
+sichtigt. Für die Gewinn- und Verlustrechnung ist das Gesamtkostenverfahren gewählt.
+
+Gesetzlich geforderte Angaben zu einzelnen Posten der Bilanz und der Gewinn- und Verlustrechnung 
+werden grundsätzlich im Anhang gemacht. 
+
+Bilanzierungs- und Bewertungsgrundsätze (2)
+
+Die immateriellen Vermögensgegenstände und die Finanzanlagen sind zu Anschaffungskosten, die 
+Sachanlagen sind auf der Grundlage der Anschaffungs- und Herstellungskosten bewertet. Die Herstel-
+lungskosten enthalten neben den direkt zurechenbaren Fertigungs- und Materialkosten Gemeinkosten im 
+erforderlichen Umfang. Den planmäßigen Abschreibungen auf Zugänge liegen die in den amtlichen 
+Abschreibungstabellen vorgegebenen Nutzungsdauern zugrunde. 
+
+Die Abschreibungen erfolgen nach der linearen Methode. Für Wirtschaftsgüter mit einem Wert von 
+weniger als 800 € erfolgt eine Sofortabschreibung im Zugangsjahr.
+
+Zugänge bis 2008 werden – soweit steuerlich zulässig – degressiv abgeschrieben. Das Neanderbad, die 
+übernommenen Stromversorgungsanlagen sowie die übernommenen Straßenbeleuchtungsanlagen 
+werden linear abgeschrieben.
+
+Die Roh-, Hilfs- und Betriebsstoffe und Waren sind zu Anschaffungskosten bzw. dem niedrigeren beizule-
+genden Wert angesetzt.
+
+Mit der Lieferung von Strom und Gas an die Kunden hat die Gesellschaft ihre vertraglichen Liefer- und 
+Leistungsverpflichtungen erfüllt. Branchenüblich rechnet die Gesellschaft den Verbrauch von RLM-Kunden 
+monatlich endgültig nach den abgelesenen Zählerständen ab, während der Verbrauch von SLP-Kunden 
+einmal jährlich ermittelt und anschließend unter Anrechnung der unterjährigen Abschlagszahlungen 
+abgerechnet wird. Für Verbräuche von SLP-Kunden, die auf den Zeitraum zwischen Ablesung und Bilanz-
+stichtag entfallen, werden Forderungen aus noch nicht abgerechneten Lieferungen gebucht. Das Ausfall
+risiko in den Forderungen ist durch Wertberichtigungen angemessen berücksichtigt. 
+
+Die erhaltenen Baukostenzuschüsse werden entsprechend der Nutzungsdauer der bezuschussten Anlagen 
+aufgelöst.
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen sind nach den anerkannten versicherungsmathe-
+matischen Grundsätzen mittels der „Projected-Unit-Credit-Methode“ errechnet. Als biometrische Rechnungs-
+grundlagen wurden die „Richttafeln 2018 G“ von Klaus Heubeck verwendet. Im Berichtsjahr wird der von der 
+Deutschen Bundesbank vorgegebene Marktzinssatz von 1,90 % (letzte 10 Jahre) bei der Bewertung zugrunde 
+gelegt. Gehaltsanpassungen sind mit 2,95 % und Rentenanpassungen mit 2,2 % p. a. eingerechnet. 
+
+28 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Die sonstigen Rückstellungen sind nach vernünftiger kaufmännischer Beurteilung mit ihrem Erfüllungsbe-
+trag angesetzt und so bemessen, dass sie allen erkennbaren Risiken und ungewissen Verbindlichkeiten 
+Rechnung tragen. Rückstellungen von mehr als einem Jahr werden mit dem sich nach der Abzinsungsver-
+ordnung ergebenden amtlichen Zinssatz diskontiert.
+
+Die Verbindlichkeiten sind mit ihrem Erfüllungsbetrag passiviert. Unverzinsliche Verbindlichkeiten mit 
+einer Restlaufzeit von mehr als einem Jahr wurden abgezinst.
+
+Die Umsatzerlöse aus der Wärmeversorgung sind für das Berichtsjahr 2024 anhand bekannter Wärme-
+mengen aus Produktion und Absatz sowie historischer Netzverluste hochgerechnet worden.
+ 
+
+Erläuterungen zur Bilanz
+
+Anlagevermögen (4)
+Die Entwicklung des Anlagevermögens ist in der Anlage zum Anhang dargestellt.
+
+Buchwerte Zugänge
+31.12.2024 2024
+
+T€ T€
+
+Stromversorgung 16.467 1.718
+
+Erdgasversorgung 4.872 368
+
+Tankstellen 100 14
+
+Wasserversorgung 11.903 1.648
+
+Wärmeversorgung 3.081 895
+
+Telekommunikation 23.443 2.504
+
+Neanderbad 5.466 146
+
+Gemeinsame Anlagen   1.678       146
+
+67.010   7.439
+
+Finanzanlagen 2.083 0
+
+Anlagevermögen gesamt 69.093 7.439
+
+Vorräte (5)
+Die Vorräte entfallen im Wesentlichen mit 1.114 T€ auf Lagermaterial und mit 1.918 T€ auf CO2-Zertifikate 
+für den Verkauf von Erdgas und Verbrauch von Erdgas zur Wärmeerzeugung.
+
+Forderungen aus Lieferungen und Leistungen (6)
+31.12.2024 31.12.2023
+
+T€ T€
+
+Abgerechnete Lieferungen und Leistungen 8.429 5.644
+
+Erhaltene Anzahlungen auf noch nicht abgerechnete Lieferungen 20.245 18.018
+
+Noch nicht abgerechnete Lieferungen 15.324   16.300
+
+ 3.508    3.926
+
+davon mit einer Restlaufzeit von mehr als einem Jahr 19 34
+
+Die noch nicht abgerechneten Lieferungen erfassen den Energie- und Wasserverbrauch vom Ablesezeit-
+punkt bis zum 31.12.2024. Es bestehen Wertberichtigungen auf Forderungen in Höhe von 528 T€. 
+
+J A H R E S A B S C H L U S S 29
+
+
+
+Forderungen gegen Gesellschafter (7)
+Es existieren Forderungen gegen die Stadt Erkrath aus der Abrechnung von Energie, der Konzessionsabgabe 
+bei Verbindlichkeiten aus Gewerbesteuer, allesamt mit einer Restlaufzeit von unter einem Jahr. Der Saldo 
+wir unter den Verbindlichkeiten ausgewiesen.
+
+Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht (8)
+Die Forderungen bestehen gegenüber der Neander Energie GmbH und resultieren aus der Abrechnung von 
+Energielieferungen und Dienstleistungen. Alle Forderungen haben eine Restlaufzeit von unter einem Jahr.
+
+Sonstige Vermögensgegenstände (9)
+Die sonstigen Vermögensgegenstände betreffen im Wesentlichen Erstattungsansprüche gegenüber der 
+Amprion aus der Preisbremsenregelung 2023 (173 T€) sowie Erstattungsansprüche aus Umsatz- und 
+Stromsteuer (1.494 T€) und debitorische Kreditoren mit 50 T€. Daneben existieren Kautionsforderungen 
+aus der gewonnenen Ausschreibung zum Bau einer iKWK-Anlage (228 T€).
+
+Kassenbestand, Guthaben bei Kreditinstituten (10)
+Von dem Gesamtbetrag bestehen am Bilanzstichtag 5.827 T€ als Guthaben bei Kreditinstituten.
+
+Aktive Rechnungsabgrenzungen (11)
+Die Abgrenzung beinhaltet im Wesentlichen Zahlungen an Versicherungen sowie eine Vorauszahlung an 
+einen Dienstleister für dessen Dienste für 2 Jahre.
+
+Gezeichnetes Kapital (12)
+Das gezeichnete Kapital beträgt 13.450 T€. Alleinige Gesellschafterin ist die Stadt Erkrath.
+
+Bilanzgewinn (13)
+Der Bilanzgewinn von 3.481 T€ enthält den Jahresüberschuss 2024, im Vorjahr wurde ein Verlustvortrag in 
+Höhe von 68 T€ verrechnet. 
+
+Baukosten- und Ertragszuschüsse (14)
+31.12.2024 31.12.2023
+
+T€ T€
+
+Stromversorgung 1.167 1.056
+
+Erdgasversorgung 975 1.026
+
+Wasserversorgung 662 683
+
+Wärmeversorgung 37 51
+
+Telekommunikation      15      13
+
+2.856 2.829
+
+Pensionsrückstellungen (15)
+31.12.2024 31.12.2023
+
+T€ T€
+
+Pensionsverpflichtung 1.101 1.074
+
+Deckungsvermögen        0      0
+
+1.101 1.074
+
+Die Pensionsrückstellungen sind auf Basis eines versicherungsmathematischen Gutachtens ermittelt.
+
+30 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Rückstellungen (16)
+Die sonstigen Rückstellungen betreffen im Wesentlichen Rückstellungen für CO2-Zertifikate für die 
+In-Verkehrbringung und Nutzung von Erdgas (1.317 T€) und zur Wärmeerzeugung (1.371 T€) sowie 
+Rückstellungen für energiewirtschaftliche Risiken von 1.071 T€. Darüber hinaus sind u.a. Rückstellungen 
+für Verpflichtungen gegenüber Mitarbeitern (318 T€), Abrechnungs- und Abschlusskosten (252 T€), 
+Aufbewahrungskosten (142 T€) sowie eine Rückstellung für Altersteilzeit (41 T€) gebildet.  
+ 
+Verbindlichkeiten (17)
+Die Verbindlichkeiten haben folgende Restlaufzeiten:
+
+davon mit einer Restlaufzeit
+
+Gesamt von 1 bis über 
+bis 1 Jahr Gesamt 
+
+31.12.2024 5 Jahren 5 Jahre 31.12.2023
+T€ T€ T€ T€ T€
+
+Verbindlichkeiten gegenüber 
+Kreditinstituten 23.878 1.968 7.242 14.668 25.846
+Erhaltene Anzahlungen auf 
+Bestellungen 604 604 0 0 5.338
+
+Verbindlichkeiten 
+• aus Lieferungen und 
+
+Leistungen 7.365 7.365 0 0 5.153
+
+• gegenüber Gesellschaftern 205 205 0 0 0
+• gegenüber Unternehmen,  
+
+mit denen ein Beteiligungs-
+verhältnis besteht 0 0 0 0 0
+
+Sonstige Verbindlichkeiten 9.128 9.128 0 0 9.557
+
+41.179 19.270 7.242 14.668 45.894
+
+Die Verbindlichkeiten aus Lieferungen und Leistungen resultieren im Wesentlichen aus dem Energie- und 
+Wasserbezug sowie Fremdleistungen für die Strom-, Erdgas- und Wasserversorgung sowie Bauleistungen.
+
+Verbindlichkeiten gegenüber Gesellschafter
+Es handelt sich um saldierte Forderungen und Verbindlichkeiten mit einem Verbindlichkeiten Überhang 
+(Nr. 7).
+
+Die sonstigen Verbindlichkeiten enthalten vor allem Überzahlungen von Kunden aus der Jahresverbrauchs-
+abrechnung sowie Steuern.
+
+Sonstige finanzielle Verpflichtungen
+Es bestehen Abnahmeverpflichtungen für die Jahre 2025 bis 2028 für Stromlieferungen in Höhe von 14,4 
+Mio. € und für Erdgaslieferungen in Höhe von 9,2 Mio. €. Darüber hinaus besteht ein Wasserliefervertrag 
+für die Jahre 2025 bis 2035 in Höhe von 6,0 Mio. €,
+ 
+
+J A H R E S A B S C H L U S S 31
+
+
+
+Erläuterungen zur Gewinn- und Verlustrechnung
+
+Umsatzerlöse (18)
+2024 2023
+
+T€ T€
+
+Strom (ohne Stromsteuer) 30.401 33.873
+
+Erdgas (ohne Energiesteuer) 13.029 17.527
+
+Wasser 4.533 4.607
+
+Wärme 15.739 16.481
+
+Erlöse aus dem Energie- und Wasserverkauf 63.702 72.488
+
+Erlöse aus Telekommunikation 1.609 1.424
+
+Erlöse aus Badbetrieb 1.068 975
+
+Sonstige Umsatzerlöse 484 250
+
+66.863 75.137
+
+Die Umsatzerlöse Strom beinhalten auch die Erträge aus der Betriebsführung der Straßenbeleuchtung 
+(961 T€). 
+
+Sonstige betriebliche Erträge (19)
+Die Sonstigen betrieblichen Erträge des Berichtsjahres enthalten im Wesentlichen Erträge aus der Auflö-
+sung von Rückstellungen (177 T€), aus der Zuschreibung zu Wertpapieren des Umlaufvermögens (67 T€) 
+sowie Erträge Sachbezügen (31 T€) und Erträge aus dem Abgang von Anlagevermögen (7 T€). 
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (19)
+Die Aufwendungen betreffen im Wesentlichen Energie- und Wasserbezugskosten. 
+
+Aufwendungen für bezogene Leistungen (20)
+Hierin sind vor allem Fremdleistungen für die Instandhaltung der Versorgungsanlagen in Höhe von 
+2.496 T€ ausgewiesen. Der Anteil für Vorleistungen für die Sparte Telekommunikation liegt im Berichtsjahr 
+bei 411 T€. Des Weiteren sind Kosten für Betriebsführung von Netzanlagen und Wartung des BHKW mit 
+227 T€ enthalten.
+
+Personalaufwand (21)
+2023 2022
+
+T€ T€
+
+Löhne und Gehälter 7.670 7.067
+Soziale Abgaben und Aufwendungen für Altersversorgung und für  
+Unterstützung (davon für Altersversorgung: 506 T€; i.Vj. 418 T€) 2.099 1.899
+
+9.769 8.967
+
+32 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Abschreibungen auf immaterielle Vermögensgegenstände  
+des Anlagevermögens und Sachanlagen (22)
+
+2024 2023
+T€ T€
+
+Abschreibungen auf immaterielle Vermögensgegenstände  
+des Anlagevermögens und Sachanlagen 4.773 4.487
+
+Sonstige betriebliche Aufwendungen (23)
+2024 2023
+
+T€ T€
+
+Konzessionsabgabe 1.912 1.883
+
+Übrige betriebliche Aufwendungen 4.682 5.514
+
+6.594 7.397
+
+Erträge aus Beteiligungen (24)
+Im Berichtsjahr gab es zum Zeitpunkt der Erstellung keinen Beschluss zur Ausschüttung von Ergebnissen 
+seitens der Neander Energie GmbH oder der Trianel.
+
+Finanzergebnis (25)
+2024 2023
+
+T€ T€
+
+Sonstige Zinsen und ähnliche Erträge 183 95
+
+• davon aus Abzinsung 0 0
+
+Abschreibungen auf Wertpapiere des Umlaufvermögens 0 –209
+
+Zinsen und ähnliche Aufwendungen –254 –395
+
+• davon aus Aufzinsung       0       0
+
+–71 –509
+
+Steuern vom Einkommen und vom Ertrag (26)
+Hierin sind Körperschaftsteuer, Solidaritätszuschlag und Gewerbesteuer erfasst. Der Gesamtbetrag enthält 
+Aufwendungen für Vorjahre von insgesamt 33 T€.
+
+Sonstige Steuern (27)
+Es handelt sich um Grundsteuer und Kraftfahrzeugsteuer.
+
+J A H R E S A B S C H L U S S 33
+
+
+
+Sonstige Angaben
+
+Beteiligungen
+Die Stadtwerke Erkrath GmbH hält folgende Anteile an Unternehmen:
+
+Unternehmen Anteil am EK Anteil in % Ergebnis 2023
+
+Neander Energie GmbH, Wülfrath 250.000,00 € 33,33 –188.157,83 €
+
+Prüfungskosten
+Im Berichtsjahr sind 45 T€ für Abschlussprüfung, 5 T€ für Steuerberatung und 11 T€ für sonstige Prüfungs-
+leistungen angefallen.
+
+Beschäftigte
+Im Jahresdurchschnitt waren 137 (Vj. 128) Mitarbeiter (ohne Geschäftsführer und Auszubildende) beschäf-
+tigt, davon 32 (Vj. 30) Teilzeitkräfte und 13 (Vj. 8) Minijobber. Darüber hinaus waren 4 (Vj. 5) Auszubildende 
+beschäftigt. 
+
+Mitglieder des Aufsichtsrates
+Wilfried Schmidt	 Diplom-Ingenieur Vorsitzender
+Detlef Ehlert	 Facility Manager	 stellv. Vorsitzender
+
+Jürgen Bauer	 nicht berufstätig
+Simon Eifer	 Kaufmännischer Angestellter	 Arbeitnehmervertreter
+Pascal Hengstermann	 Auszubildender 
+Reinhard Herder	 Diplom-Ingenieur Druck im Ruhestand
+Wolfgang Jöbges	 Juristischer Angestellter
+Peter Knitsch	 Rechtsanwalt
+Matthias Kreisel	 Diplom-Ingenieur für Elektrotechnik
+Leon Lemlijn	 Technischer Angestellter	 Arbeitnehmervertreter
+Ralf Lenger	 Diplom-Volkswirt
+Harald Peuler	 Technischer Angestellter	 Arbeitnehmervertreter
+Helmut Rohden	 Diplom-Ingenieur
+Dennis Sauereßig	 Immobilienverwalter
+Jörg Schintze	 Rechtsanwalt 	 bis 07.03.2024
+Christoph Schultz	 Bürgermeister
+Paul Söhnchen	 Berater
+Peter Urban	 Ruheständler 	 ab 07.03.2024
+Dr. Norbert Vogelpoth	 Wirtschaftsprüfer
+Peer Weber	 Diplom-Ingenieur
+Regina Wedding	 stellv. Bügermeisterin
+Jan Wiertz	 Studienrat
+
+Geschäftsführung
+Gregor Jeken	 Diplom-Ingenieur		 Geschäftsführer
+
+34 Geschäftsbericht 2024 Stadtwerke Erkrath
+
+
+
+Gesamtbezüge des Aufsichtsrates
+
+Die Bezüge setzen sich wie folgt zusammen:
+
+€ €
+
+Jürgen Bauer 1.200 Harald Peuler 900
+Leon Bröcker 400 Helmut Rohden 1.200
+Detlef Ehlert 1.500 Peter Rusche 200
+Simon Eifer 1.000 Dennis Sauereßig 1.100
+Julia Götte 100 Jörg Schintze 200
+Peter Heinze 100 Wilfried Schmidt 3.000
+Pascal Hengstermann 600 Thorsten Schmitz 800
+Reinhard Herder 1.500 Christoph Schultz 1.300
+Wolfgang Jöbges 600 Dorrin Shayesteh 200
+Annette Kirchhoff 200 Paul Söhnchen 1.000
+Peter Knitsch 1.400 Ekkehard Stotz 300
+Florian Korb 100 Peter Urban 500
+Matthias Kreisel 1.000 Dr. Norbert Vogelpoth 800
+Andreas Kuchenbecker 100 Peer Weber 1.000
+Leon Lemlijn 1.200 Regina Wedding 500
+Ralf Lenger 1.400 Jan Wiertz 700
+Antonio Nezi 300 Sulja Zabeli 100
+Bernhard Osterwind 300 Gesamt 27.200
+
+Gesamtbezüge der Geschäftsführung 
+Die Bezüge der Geschäftsführung belaufen sich im Jahre 2024 auf ein Festgehalt von 206,2 T€, erfolgsab-
+hängige Bezüge von 24,3 T€, Versicherungsprämien von 6,0 T€ sowie Sachbezüge von 8,5 T€. Im Berichts-
+jahr erfolgten Zahlungen für das Geschäftsjahr 2023 in Höhe von 20,3 T€.
+
+Nachtragsbericht
+Mit notarieller Beurkundung vom 11.04.2025 wurde die Beteiligung an der Neander Energie GmbH mit 
+wirtschaftlicher Wirkung zum 01.04.2025 verkauft.
+
+Gewinnverwendungsvorschlag
+Es wird vorgeschlagen, von dem Jahresüberschuss in Höhe von 3.481 T€ an den Gesellschafter 1.498 T€ 
+auszuschütten und den Restbetrag von 1.983 T€ in die Gewinnrücklagen einzustellen. 
+
+Erkrath, 13. Mai 2025 
+
+Stadtwerke Erkrath GmbH
+
+Gregor Jeken, Geschäftsführer 
+
+J A H R E S A B S C H L U S S 35
+
+
+
+www.stadtwerke-erkrath.de

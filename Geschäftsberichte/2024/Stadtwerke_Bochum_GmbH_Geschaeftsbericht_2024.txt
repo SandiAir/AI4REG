@@ -1,0 +1,2622 @@
+﻿Stadtwerke Bochum GmbH 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Geschäftsbericht 2024
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Inhalt 
+ 
+ 
+Auf einen Blick ................................................................................................................................... 3 
+Lagebericht ........................................................................................................................................ 4 
+Bilanz ............................................................................................................................................... 23 
+Gewinn- und Verlustrechnung ......................................................................................................... 24 
+Kapitalflussrechnung ....................................................................................................................... 25 
+Anhang ............................................................................................................................................ 26 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers ........................................................... 38 
+
+Seite 2 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+ Auf einen Blick
+ 
+ 
+
+31.12.2024 31.12.2023 
+bzw. bzw. 
+
+  2024 2023 
+
+Umsatzerlöse (ohne Strom- und Erdgassteuer) Mio. € 881,0 1.060,0 
+
+Materialaufwand Mio. € 842,7 1.019,3 
+
+Personalaufwand Mio. € 10,4 8,4 
+
+Abschreibungen auf immaterielle 
+Vermögensgegenstände des Anlagevermögens 
+und Sachanlagen Mio. € 1,3 1,3 
+
+Zinsergebnis Mio. € 2,9 2,3 
+
+Gewinnabführung Mio. € 54,6 30,4 
+
+Investitionen in immaterielle 
+Vermögensgegenstände des Anlagevermögens 
+und Sachanlagen Mio. € 3,1 3,4 
+
+Anlagevermögen Mio. € 71,0 67,1 
+
+Eigenkapital (gemäß HGB) Mio. € 31,4 31,4 
+
+Mitarbeiter*innen (gemäß HGB) Anzahl 104 96 
+ 
+Absatz    
+Stromversorgung    
+
+im Konzessionsgebiet Mio. kWh 750,7 771,5
+außerhalb Konzessionsgebiet Mio. kWh 1.154,8 1.362,8
+
+Optimierungsgeschäfte Mio. kWh 374,7 250,3
+Gasversorgung  
+
+im Konzessionsgebiet Mio. kWh 1.718,1 1.787,5
+außerhalb Konzessionsgebiet Mio. kWh 608,6 786,2
+
+Optimierungsgeschäfte Mio. kWh 14,9 95,8
+Wasserversorgung Mio. m³ 21,5 21,3
+Fernwärmeversorgung Mio. kWh 317,0 300,1
+Sonstige Dienstleistungen   
+
+Contracting Mio. kWh 69,2 69,8
+Mieterstrom Mio. kWh 0,5 0,4
+
+Betriebskostenabrechnung Mio. kWh 59,9 63,3
+Betriebskostenabrechnung Mio. m³ 0,2 0,2
+
+Seite 3 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Konzernzugehörigkeit 
+
+Die Stadtwerke Bochum GmbH mit Sitz in Bochum ist eine 100 %-ige Tochter der Stadtwerke 
+
+Bochum Holding GmbH, Bochum. Diese gehört über das Mutterunternehmen Holding für 
+
+Versorgung und Verkehr GmbH Bochum (HVV), Bochum, dem Konzern der Energie- und 
+
+Wasserversorgung Mittleres Ruhrgebiet GmbH (ewmr), Bochum, an. 
+
+Unternehmensgegenstand 
+
+Gegenstand des Unternehmens sind nach § 2 Abs. 2 des Gesellschaftsvertrages Energiebezug, 
+
+-erzeugung, -speicherung und -handel sowie Wasserbezug zur Versorgung der Bürger*innen, der 
+
+Wirtschaft und sonstiger Verbraucher mit Energie und Wasser, die Erbringung sonstiger Dienst-
+
+leistungen im Zusammenhang mit der Versorgung der Bürger*innen, der Wirtschaft und sonstiger 
+
+Verbraucher mit Energie und Wasser, soweit es sich um integrale Bestandteile der Energie- und 
+
+Wasserversorgung handelt und die Erbringung von Dienstleistungen im Bereich der Tele-
+
+kommunikation. Zur Erfüllung dieser Aufgaben kann sich die Gesellschaft auch an Unternehmen 
+
+beteiligen, deren Geschäftsgegenstand der Aufgabenerledigung der Gesellschaft dient. 
+
+Gesamtwirtschaftliche Lage 
+
+Die deutsche Volkswirtschaft befindet sich weiterhin in der Stagnation. Die anhaltende 
+
+Wachstumsschwäche legt nahe, dass die deutsche Wirtschaft von konjunkturellen wie auch von 
+
+strukturellen Problemen ausgebremst wird. Der Sachverständigenrat sieht nicht nur Probleme vor 
+
+allem in der Industrie, sondern zählt weitere Bereiche auf, in denen Deutschland versäumt hat, 
+
+entschlossen Modernisierungspfade einzuschlagen: zu geringe zukunftsorientierte öffentliche 
+
+Ausgaben, schleppende Digitalisierung und Innovationen im Finanzsektor, eingeschränkte Verfüg-
+
+barkeit und Zugang zu Wohnraum sowie mangelhafte Infrastruktur und hohe CO2-Emissionen im 
+
+Güterverkehr. 
+
+Das preisbereinigte Bruttoinlandsprodukt (BIP) ist ein umfassender Indikator für die gesamt-
+
+wirtschaftliche Leistung, das in 2024 um 0,2 % gegenüber dem Vorjahr zurückgegangen ist. Die 
+
+Verbraucherpreise stiegen um 2,2 % (Vorjahr: 5,9 %), die Arbeitslosenquote betrug 6,0 % 
+
+(Vorjahr: 5,7 %). Der Sachverständigenrat rechnet für 2025 beim BIP angesichts der Industrie-
+
+schwäche und der Konsumzurückhaltung der privaten Haushalte nur mit einem geringfügigen 
+
+Wachstum in Höhe von 0,4 %, bei der Inflationsrate mit 2,1 %. 
+
+Seite 4 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Rechtliches und wirtschaftliches Umfeld 
+
+Der Energie- und Wasserabsatz eines Energieversorgungsunternehmens wird durch 
+
+unterschiedliche Faktoren beeinflusst. Beim Verbrauch von privaten Haushalten ist der größte 
+
+Einflussfaktor im Normalfall die Witterung. Der Absatz an Industrieunternehmen und größere 
+
+Gewerbebetriebe ist in erster Linie von der konjunkturellen Entwicklung abhängig. In den 
+
+vergangenen Jahren wirkte sich der russische Angriffskrieg auf die Ukraine auf die internationalen 
+
+Energiemärkte und die Versorgungssituation aus. Aufgrund des Ausfalls der russischen 
+
+Erdgaslieferungen nach Deutschland wurde daher im Jahr 2022 die Alarmstufe des Notfallplans Gas 
+
+ausgerufen. Mittlerweile hat sich die Situation so weit entspannt, dass Bundeswirtschaftsminister 
+
+Robert Habeck die Gasmangellage im September 2024 vor dem Hintergrund voller Gasspeicher und 
+
+der Inbetriebnahme neu gebauter Flüssiggasterminals (LNG) für beendet erklärt hat. 
+
+Hauptlieferländer für die Erdgasimporte waren im Jahr 2024 Norwegen, die Niederlande und 
+
+Belgien. 
+
+Die Beschaffungspreise an den europäischen Energiebörsen hatten sich nach Beginn des Ukraine-
+
+Krieges zwischenzeitlich massiv erhöht. Nachdem bereits im Vorjahr ein Abwärtstrend bei den 
+
+Preisen für Erdgas festzustellen war, lag der durchschnittliche Preis für Jahresfutures an der EEX 
+
+im Jahr 2024 bei 37,77 €/MWh (2023: 53,59 €/MWh). 
+
+Eine vergleichbare Entwicklung ist am Terminmarkt für Strom zu beobachten. Während der Preis für 
+
+Jahresfutures (Base) im Jahr 2023 bei durchschnittlich 137,32 €/MWh lag, reduzierte er sich im Jahr 
+
+2024 auf durchschnittlich 88,72 €/MWh. 
+
+Für Haushaltskund*innen verminderte sich der durchschnittliche Strompreis in Deutschland gemäß 
+
+einer Auswertung des Bundesverbands der Energie- und Wasserwirtschaft e. V. (BDEW) von 
+
+45,73 ct/kWh brutto im Vorjahr auf 40,92 ct/kWh im Jahr 2024, was insbesondere auf geringere 
+
+Beschaffungskosten der Energieversorger zurückzuführen ist. Der Anteil der Kosten für Beschaffung 
+
+und Vertrieb am Strompreis verringerte sich im Vergleich zum Vorjahr von rund 52 % auf rund 43 %. 
+
+Der Anteil der Netzentgelte inklusive Messstellenbetrieb erhöhte sich hingegen deutlich von 21 % 
+
+auf 28 %. Bei den staatlichen Kostenbestandteilen wurde die KWK-Umlage um 0,082 ct/kWh auf 
+
+0,275 ct/kWh (-23,0 %) gesenkt. Im Gegenzug erhöhte sich die § 19 StromNEV-Umlage um 
+
+0,226 ct/kWh auf 0,643 ct/kWh (+54,2 %) sowie die Offshore-Netzumlage um 0,065 ct/kWh auf 
+
+0,656 ct/kWh (+11,0 %).  
+
+Seite 5 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Alle Stromversorger sind auf Basis des Gesetzes zum Neustart der Digitalisierung der Energiewende 
+
+ab dem Jahr 2025 verpflichtet einen dynamischen Stromtarif anzubieten, der sich an den aktuellen 
+
+Marktpreisen orientiert. Verbraucher*innen sollen dadurch in die Lage versetzt werden 
+
+Stromverbrauch in kostengünstigere Zeiten mit hoher Erzeugung zu verlagern. 
+
+Im Bereich der Gasversorgung kam es im Jahr 2024 zu einer Entspannung der Preissituation. So 
+
+verminderten sich die Erdgaspreise für Haushalte in Mehrfamilienhäuser laut BDEW gegenüber dem 
+
+Vorjahr von durchschnittlich 13,59 ct/kWh brutto auf 10,50 ct/kWh, obwohl die Umsatzsteuer auf 
+
+Erdgaslieferungen seit dem 01.04.2024 wieder reguläre 19 % beträgt. Die befristete Senkung der 
+
+Umsatzsteuer auf Erdgas- und Wärmelieferungen auf 7 % endete am 31.03.2024. Die Absenkung 
+
+war im Oktober 2022 beschlossen worden, um Verbraucher*innen in einer Phase steigender 
+
+Energiepreise zu entlasten. Die Gasspeicherumlage wurde zum 01.01.2024 von 0,145 ct/kWh auf 
+
+0,186 ct/kWh und zum 01.07.2024 auf 0,250 ct/kWh angehoben. Der CO2-Preis erhöhte sich zum 
+
+01.01.2024 von 30 €/t auf 45 €/t bzw. von 0,54 ct/kWh auf 0,82 ct/kWh.  
+
+Bis zum Jahr 2045 soll in Deutschland die Nutzung fossiler Energieträger für die Wärmeversorgung 
+
+im Gebäudebereich beendet werden. Spätestens ab diesem Zeitpunkt müssen alle Heizungen 
+
+vollständig mit Erneuerbaren Energien betrieben werden. Am 01.01.2024 ist dazu die Novelle des 
+
+Gebäudeenergiegesetzes in Kraft getreten. Ebenfalls seit dem 01.01.2024 hat das Wärmeplanungs-
+
+gesetz Gültigkeit. Alle Städte und Gemeinden Deutschlands sollen auf Basis des Wärmeplanungs-
+
+gesetzes eine lokale Wärmeplanung erhalten. Bürger*innen und Unternehmen sollen Sicherheit 
+
+darüber erhalten, ob und mit welcher zentralen Wärmeversorgung sie vor Ort rechnen können. In 
+
+Großstädten mit mehr als 100.000 Einwohnern soll eine kommunale Wärmeplanung bis zum 
+
+30.06.2026 vorliegen. 
+
+Im Jahr 2024 deckten erneuerbare Energien gut 55 % des Bruttostromverbrauchs in Deutschland, 
+
+was einen Anstieg um 2 Prozentpunkte gegenüber dem Vorjahr darstellt. Dies geht aus vorläufigen 
+
+Berechnungen des Zentrums für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg 
+
+(ZSW) und des BDEW hervor. Besonders die Photovoltaik trug zu diesem Wachstum bei. Trotz 
+
+unterdurchschnittlicher Sonneneinstrahlung wurden durch einen Rekordzubau von rund 17 GW 
+
+insgesamt 72 TWh Strom erzeugt. In den Sommermonaten Juni, Juli und August produzierten 
+
+Solaranlagen erstmals jeweils über 10 TWh pro Monat. Die Windenergie an Land blieb mit 115 TWh 
+
+die größte Quelle im Strommix, verzeichnete jedoch einen leichten Rückgang von knapp 3 % 
+
+aufgrund schwächerer Windverhältnisse im vierten Quartal. Im Gegensatz dazu stieg die Offshore-
+
+Windkraft um über 11 % auf nahezu 27 TWh, bedingt durch den Ausbau neuer Anlagen und 
+
+Seite 6 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+reduzierte Abregelungen. Die Wasserkraft profitierte von überdurchschnittlichen Niederschlägen 
+
+und erhöhte ihre Produktion um 10 %. Die Stromerzeugung aus Biomasse nahm leicht zu. 
+
+Geschäftsentwicklung 
+
+Das Kerngeschäft der Stadtwerke Bochum GmbH liegt im Verkauf von Strom, Gas, Wasser und 
+
+Fernwärme. 
+
+Seit nunmehr zehn Jahren ist die Stadtwerke Bochum GmbH auch im Geschäftsfeld der 
+
+Energiedienstleistungen tätig. Durch den Einstieg im Jahr 2015 und das Angebot von innovativen 
+
+Energiedienstleistungsprodukten wird die Marktentwicklung für Energieeffizienz mitgestaltet und 
+
+vorangetrieben. Das Ziel ist es, mit serviceorientierten Produkten für den Privat-, Gewerbe- und 
+
+Industriekundenbereich neue Kund*innen zu akquirieren, Bestandskund*innen zu binden und die 
+
+Energiewende, mit dem Ziel der Klimaneutralität für Bochum, voranzutreiben. Die unvorhersehbar 
+
+starke Volatilität des Energiemarktes der vergangenen Jahre lässt dem Geschäftsfeld eine 
+
+besondere Bedeutung zukommen. Viele Kund*innen möchten unabhängiger werden und schaffen 
+
+dies durch die im Portfolio der Stadtwerke Bochum GmbH enthaltenen Produkte „Solar Paket“ und 
+
+„Solar Paket Premium“. Hierbei wird der Autarkiegrad durch eine Photovoltaikanlage erhöht. Beim 
+
+„Solar Paket Premium“ ist zusätzlich ein Batteriespeicher enthalten. Die Kund*innen können die 
+
+Anlage kaufen oder pachten und so ihre Investition auf mehrere Jahre verteilen, womit die 
+
+Stadtwerke Bochum GmbH finanzielle Flexibilität bietet. Des Weiteren hat das Geschäftsfeld 
+
+Energiedienstleistungen im vergangenen Jahr das Produktportfolio um Solar Carports für 
+
+Gewerbeparkflächen erweitert, welches ein zunehmend wachsendes Feld mit steigender Nachfrage 
+
+im Bereich der erneuerbaren Energien darstellt. Bei allen anderen Produkten können sich die 
+
+Kund*innen ebenfalls zwischen Kauf- oder Pachtmodellen entscheiden. Im Jahr 2022 wurden die 
+
+ersten Mieterstromanlagen in Betrieb genommen. Hierbei handelt es sich um Photovoltaikanlagen 
+
+auf Mehrfamilienhäusern. Die erzeugte Energie wird an die Kund*innen innerhalb des Hauses 
+
+geliefert. Der überschüssige Strom wird in das öffentliche Netz eingespeist. Hierbei kommen 
+
+intelligente Messsysteme zum Einsatz, die für die Mieter verbaut werden. Die Stadtwerke Bochum 
+
+GmbH ist der Eigentümer und Betreiber der Anlagen und liefert den Mieterstrom an die Kund*innen. 
+
+Bei den weiteren Produkten „Wärme Paket“ und „LED Paket“ werden den Kund*innen Service-
+
+leistungen bei der Verpachtung von Heizungsanlagen sowie eine Modernisierung der Beleuchtung 
+
+auf LED-Technik angeboten. Mit dem „Kälte Paket“ können Kund*innen ein hochwertiges Split-
+
+Klimagerät pachten. Ein separater Batteriespeicher kann im „Speicher Paket“ bei einer vorhandenen 
+
+Photovoltaikanlage nachgerüstet werden. Im Jahr 2022 wurde das „Wärmepumpen Paket“ 
+
+Seite 7 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+eingeführt, um der Nachfrage nach Wärmepumpen nach dem Ausbruch des Ukraine-Krieges 
+
+gerecht zu werden. Auch dieses Produkt wird im Kauf- oder Pachtmodell angeboten. Als Rundum-
+
+Servicelösung bietet die Stadtwerke Bochum GmbH als Contracting eine Wärmelieferung in 
+
+Kombination mit einer Heizungsanlage an. Um die Wärmewende voranzubringen, wurde die 
+
+konventionelle Gasbrennwerttechnik zurückgefahren und der Fokus auf Fernwärme gelegt.  
+
+Im Jahr 2023 wurde das nunmehr dritte Bochumer Energieeffizienznetzwerk mit zehn Unternehmen 
+
+aus Bochum, mit dem Ziel Energieeinsparungen durch effektive energetische Maßnahmen zu 
+
+erreichen, eingeleitet. Auch im vergangenen Geschäftsjahr konnten durch den Austausch Impulse 
+
+gesetzt werden. 
+
+Die Betriebskostenabrechnung wird mit dem Produkt „Submetering“ angeboten. Über moderne 
+
+Funksysteme und Gateways wird die Messtechnik der Heizung und des Wassers in Wohnungen 
+
+ausgelesen. Die Nutzerverteilung und Abrechnung gegenüber den Mieter*innen erfolgt durch die 
+
+evu zählwerk Abrechnungs- und Servicegesellschaft mbH in Dienstleistung für die Stadtwerke 
+
+Bochum GmbH. 
+
+Ein weiteres funkbasiertes Produkt stellt „LoRaWAN“ dar. Die Vernetzung von Sensoren, Empfänger 
+
+und Server ermöglicht es, Daten kosten- und energieeffizient zu transportieren. Die Sensoren 
+
+können eine Vielzahl an unterschiedlichen Funktionen und Aufgaben übernehmen. So lassen sich 
+
+beispielweise Rücklauftemperaturen von abrechnungsrelevanten Fernwärmezählern visualisieren, 
+
+aber auch die Temperatur und der CO2-Gehalt von Büroräumen. Im Jahr 2024 konnte eine 
+
+dreistellige Zahl von LoRaWAN-Zählern in Kundenanlagen installiert und in Betrieb genommen 
+
+werden, um so unsere Kund*innen optimal bei der Erfassung und Auswertung ihrer Verbrauchsdaten 
+
+zu unterstützen. 
+
+Die Stadtwerke Bochum GmbH bietet seit 2021 solaroptimiertes Laden, eine Kombination von 
+
+Photovoltaik und Ladeinfrastruktur für Elektrofahrzeuge, an. Die Technik ermöglicht photovoltaik-
+
+optimiertes Laden, prognosebasiertes Laden oder schnelleres Laden des Autos. 
+
+Im Rahmen des Beratungspaketes erhalten Kund*innen Energieausweise für die Wohnungs-
+
+wirtschaft. Außerdem können mit Unterstützung der Stadtwerke Bochum GmbH Energieaudits nach 
+
+DIN EN 16247 erstellt oder Energiemanagementsysteme nach DIN ISO 50001 eingeführt werden. 
+
+Darüber hinaus wurde in Kooperation mit der Gelsenwasser AG eine Plattformlösung zum 
+
+Energiedatenmanagement eingeführt, welches für Gewerbekunden die Möglichkeit bietet, auf einer 
+
+zentralen Plattform alle Energiedaten zentral zu erfassen und so auf optimale Weise das eigene 
+Seite 8 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Energiemanagement zu unterstützen. Neben der Integration von fernauslesbaren Abrechnungs-
+
+messstellen und selbsterfassten Verbrauchsdaten können darüber hinaus über die neu eingeführte 
+
+Marktrolle Energieserviceanbieter (ESA) auch fremdversorgte Verbrauchsdaten in die Plattform 
+
+integriert werden. 
+
+Durch die Direktvermarktung ermöglicht das Geschäftsfeld der Energiedienstleistungen 
+
+Anlagenbetreibern ihren überschüssigen Photovoltaik-Strom an der Börse zum EPEX-Spotpreis zu 
+
+vermarkten. Betreiber mit neuen Anlagen profitieren vom Marktprämienmodell, wohingegen 
+
+Betreiber mit ausgeförderten Photovoltaikanlagen durch die sonstige Direktvermarktung weiterhin 
+
+eine Vergütung für eingespeisten EE-Strom erhalten können. 
+
+Das Geschäftsfeld Elektromobilität nahm weiter an Fahrt auf. So stieg die Anzahl der in Bochum 
+
+zugelassenen Elektrofahrzeuge auf rund 7.450. Insgesamt wurden im Jahr 2024 in Deutschland 
+
+380.609 Elektrofahrzeuge neu zugelassen, was einem Anteil von 13,5 % aller PKW-
+
+Neuzulassungen entspricht. Die Prognosen für die kommenden Jahre gehen von einer steigenden 
+
+Anzahl an Neuzulassungen aus, weshalb sich die Stadtwerke Bochum GmbH weiterhin darin 
+
+bestätigt sieht, das Geschäftsfeld Elektromobilität weiter auszubauen. Daher hat die Stadtwerke 
+
+Bochum GmbH im Jahr 2024 den Ausbau der öffentlichen Ladeinfrastruktur in Bochum, sowie die 
+
+Vertriebsaktivitäten im gewerblichen Bereich zur Errichtung von privater Ladeinfrastruktur, weiter 
+
+fortgesetzt. 
+
+Das öffentliche Netz an Ladestationen wurde weiter ausgebaut. Die Stadtwerke Bochum GmbH 
+
+betrieb Ende des Jahres rund 350 öffentliche Ladepunkte im Bochumer Stadtgebiet. Dabei wurden 
+
+neue Standorte sowohl im Bereich der AC-Ladeinfrastruktur (Alternating Current / Wechselstrom) 
+
+als auch im Bereich der HPC-Schnellladeinfrastruktur (High-Power-Charging) umgesetzt. Im 
+
+öffentlichen Stadtgebiet hat die Stadtwerke Bochum GmbH über 50 neue Ladepunkte errichtet. 
+
+Durch Partnerschaften mit Einzelhandel- und Gastronomiebetrieben sowie einem Krankenhaus 
+
+wurden unter anderem auch 14 Schnellladepunkte in Betrieb genommen und damit die Anzahl an 
+
+Schnellladepunkten deutlich gesteigert. Die Stadtwerke Bochum GmbH bietet zudem Ladekarten an 
+
+und konnte die Anzahl an Verträgen signifikant erhöhen. Durch den Stadtwerkedrive-Ladeverbund 
+
+können Bochumer Kund*innen auch an den Ladestationen der Stadtwerke Witten GmbH und der 
+
+Gelsenwasser AG zu einem einheitlichen und attraktiven Tarif laden. Die Stadtwerke Bochum GmbH 
+
+sieht sich als Treiber der Elektromobilität in Bochum mit dem Ziel, eine flächendeckende 
+
+Ladeinfrastruktur für die Bochumer Bevölkerung bereitzustellen und die Mobilität in Bochum sauber 
+
+und nachhaltig zu gestalten. 
+
+Seite 9 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Zusätzlich zu den öffentlichen Ladestationen bietet die Stadtwerke Bochum GmbH viele weitere 
+
+Dienstleistungen und Produkte im Bereich Elektromobilität an, unter anderem innovative und digitale 
+
+Ladelösungen für die Wohnungswirtschaft, den Einzelhandel, das Gastgewerbe und für Flotten-
+
+betreiber. Die Stadtwerke Bochum GmbH hat sich als Full-Service-Anbieter für Ladeinfrastruktur-
+
+konzepte etabliert. 
+
+Die Stadtwerke Bochum GmbH bietet seit einigen Jahren auch bundesweit Produkte im Bereich 
+
+Strom und Gas für Haushaltskund*innen an. Mit dieser Erweiterung soll ein Rückgang der 
+
+Kundenzahlen und Verbrauchsmengen im regionalen Kernmarkt ausgeglichen werden. Besonderes 
+
+Augenmerk liegt auf den ökologischen „StadtwerkeBochum Gut & Grün“-Produkten, die Ökostrom 
+
+aus europäischen Laufwasserkraftwerken (zertifiziert durch TÜV Süd) und Ökogas umfassen. Mit 
+
+der Unterstützung ausgewählter Klimaschutzprojekte, wie etwa einem Waldschutzprojekt in 
+
+Brasilien, hilft die Stadtwerke Bochum GmbH, CO2-Emissionen zu reduzieren und gleichzeitig 
+
+wertvolle Lebensräume zu bewahren. Die Partnerschaft mit der LEG Immobilien AG ermöglicht es 
+
+weiterhin, bundesweit Mietverträge für Wohnungen zusammen mit Strom- und/oder Gasliefer-
+
+verträgen der Stadtwerke Bochum GmbH abzuschließen. Seit Dezember 2024 neu im Angebot ist 
+
+ein dynamischer Tarif („StadtwerkeBochum Gut & Flex“), der es den bundesweiten Kund*innen 
+
+ermöglicht, von schwankenden Strompreisen auf dem Markt zu profitieren. Dieser Tarif bietet 
+
+besonders in Zukunft großes Potenzial, da er flexibel auf Preisänderungen reagiert und somit eine 
+
+attraktive Option für preisbewusste Haushalte darstellt. 
+
+Angabe zur Rechnungslegung nach Energiewirtschaftsgesetz (EnWG) 
+
+Die Stadtwerke Bochum GmbH hat aufgrund der Zugehörigkeit zu einer Gruppe verbundener 
+
+Elektrizitäts- und Gasversorgungsunternehmen im ewmr-Konzern die Vorschriften nach § 6b 
+
+EnWG zu beachten. Sie übt dabei andere Tätigkeiten innerhalb des Stromsektors sowie andere 
+
+Tätigkeiten innerhalb des Gassektors aus, für die entsprechend § 6b Abs. 3 EnWG getrennte 
+
+Konten geführt werden. 
+
+Preisentwicklung 
+
+Zum 01.01.2024 konnte die Stadtwerke Bochum GmbH die Abgabepreise der Grundversorgung 
+
+in der Stromsparte stabil halten. Der Grund dafür liegt in sinkenden Beschaffungspreisen, die 
+
+steigende Belastungen aus gesetzlichen Umlagen und Netznutzungsentgelten kompensieren. 
+
+Auch zum 01.01.2025 konnten die Abgabepreise gleich gehalten werden. 
+
+Seite 10 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+Die Abgabepreise in der Sparte Gas für Haushalts- und Kleingewerbekunden in der 
+
+Grundversorgung konnten aufgrund gesunkener Beschaffungskosten zum 01.01.2024 gesenkt 
+
+werden. Zum 01.01.2025 folgte eine weitere Preissenkung. 
+
+In der Sparte Wasser blieben die Abgabepreise seit dem 01.01.2020 bis zum 31.12.2024 
+
+unverändert. Zum 01.01.2025 musste jedoch eine Preisanpassung durchgeführt werden. In den 
+
+letzten Jahren verzeichnete die Stadtwerke Bochum GmbH einen rückläufigen Wasserabsatz und 
+
+auch zukünftig ist mit weiter sinkenden Absatzmengen zu rechnen. Die Fixkosten für die 
+
+Aufbereitung und Verteilung des Wassers bleiben allerdings nahezu konstant und erhöhen sich 
+
+teilweise sogar, da z. B. zur Sicherung der Wasserqualität vermehrte Spülungen durchgeführt 
+
+werden müssen. 
+
+In der Sparte Fernwärme wurden die Abgabepreise für die Produkte „FernwärmeKomfort“ und 
+
+„FernwärmeKomfort Plus“ auf Basis der Preisanpassungsformel zum 01.01.2024 und zum 
+
+01.07.2024 angepasst. Die Preissenkung zum 01.01. erfolgte aufgrund des Rückgangs der 
+
+Indexwerte, die in die Preisformel des Arbeitspreises einfließen. Sowohl zur Preisanpassung zum 
+
+01.01.2024 als auch zur Preisanpassung zum 01.07.2024 wurde die Preisgleitklausel aufgrund 
+
+der temporären Ineffektivität der Formel infolge der massiven Preisverwerfungen an den 
+
+Energiemärkten und des immer noch recht hohen Preisniveaus nicht voll ausgeschöpft. Den 
+
+Kund*innen wurde ein Rabatt auf den errechneten Nettoarbeitspreis gewährt.  
+
+Investitionen 
+
+Im Geschäftsjahr 2024 wurden 3,1 Mio. € in Sachanlagen und immaterielle Vermögensgegen-
+
+stände investiert. Die Investitionen betreffen hauptsächlich Anlagen in den Bereichen 
+
+Elektromobilität, Energiedienstleistungen und Contracting. 
+
+Absatzentwicklung 
+
+Die Gradtagszahl für Bochum liegt mit 3.603,9 leicht unter dem Wert des Vorjahres (3.631,0). Der 
+
+Rückgang im Vergleich zum Vorjahr beträgt 0,7 %. Dies kennzeichnet eine im Durchschnitt etwas 
+
+wärmere Witterung. In der wärmegetriebenen Sparte Gas reduzierte sich die Absatzmenge, auch 
+
+aufgrund von Kundenverlusten. Im Gegenzug erhöhte sich die Absatzmenge in der Fernwärme. 
+
+Wesentliche Gründe dafür sind das geänderte Verbrauchsverhalten der Kund*innen, das sich 
+
+zunehmend dem Vorkrisenniveau annähert, sowie der Anschluss neuer Fernwärmekund*innen. 
+
+Auch der Absatz in der Sparte Strom fiel im Vorjahresvergleich geringer aus. Im Rahmen der 
+
+Optimierungsgeschäfte wurden mehr Strommengen und weniger Gasmengen veräußert. Diese 
+
+Handelsgeschäfte hängen wesentlich von Chancen und Risiken und der Volatilität an den 
+Seite 11 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+Energiemärkten ab. Ziel der Optimierung ist es, den Wert des Beschaffungsportfolios zu steigern. 
+
+Ein geringeres Handelsvolumen kann bei einer größeren Volatilität einen deutlich höheren Hebel 
+
+haben als ein größeres Volumen in Zeiten geringerer Volatilität. 
+
+Der Absatz in der Sparte Wasser erhöhte sich im Vergleich zum Vorjahr leicht. Bei Contracting- 
+
+und Betriebskostenabrechnungsdienstleistungen sind Mengenrückgänge zu verzeichnen. 
+
+Die Absatzmengen der Stadtwerke Bochum GmbH der einzelnen Sparten setzen sich wie folgt 
+
+zusammen: 
+
+  2024 2023 
+
+Strom    
+
+im Konzessionsgebiet Mio. kWh 750,7 771,5 
+
+außerhalb Konzessionsgebiet Mio. kWh 1.154,8 1.362,8 
+
+Optimierungsgeschäfte Mio. kWh 374,7 250,3 
+
+Gas    
+
+im Konzessionsgebiet Mio. kWh 1.718,1 1.787,5 
+
+außerhalb Konzessionsgebiet Mio. kWh 608,6 786,2 
+
+Optimierungsgeschäfte Mio. kWh 14,9 95,8 
+
+Wasser Mio. m³ 21,5 21,3 
+
+Fernwärme Mio. kWh 317,0 300,1 
+
+Sonstige Dienstleistungen    
+
+Contracting Mio. kWh 69,2 69,8 
+
+Mieterstrom Mio. kWh 0,5 0,4 
+
+Betriebskostenabrechnung Mio. kWh 59,9 63,3 
+
+Betriebskostenabrechnung Mio. m³ 0,2 0,2 
+
+ 
+
+Umsatzerlöse 
+
+Die Umsatzerlöse setzen sich aus Erlösen aus dem Verkauf von Energie und Wasser sowie 
+
+anderen Geschäftsfeldern wie Energiedienstleistungen und Elektromobilität zusammen. Im 
+
+Geschäftsjahr 2024 sind die Umsatzerlöse ohne Strom- und Erdgassteuer im Vergleich zum 
+
+Vorjahr um 179,0 Mio. € auf 881,0 Mio. € gesunken. Dieser Rückgang resultiert zum einen aus 
+
+einem durchschnittlich geringeren Absatzpreisniveau in den Sparten Strom, Gas und Fernwärme. 
+
+Zum anderen wirkten sich geringere Strom- und Gasabsatzmengen umsatzmindernd aus. 
+
+Seite 12 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+Die Umsatzerlöse verteilen sich im Geschäftsjahr 2024 wie folgt auf die Sparten: 
+
+ 
+
+sonstige betriebliche Erträge 
+
+Die sonstigen betrieblichen Erträge steigen im Vergleich zum Vorjahr um 20,1 Mio. € auf 
+
+35,8 Mio. €. Der deutliche Anstieg resultiert hauptsächlich aus Auflösungen von Rückstellungen, 
+
+die insbesondere durch eine Entspannung der Beschaffungsmärkte möglich wurden. 
+
+Materialaufwand 
+
+Der Materialaufwand sinkt im Vergleich zum Vorjahr um 176,6 Mio. € auf 842,7 Mio. €. Dies 
+
+resultiert aus geringeren Mengen und günstigeren Beschaffungskosten. 
+
+Personalaufwand 
+
+Der Personalaufwand liegt mit 10,4 Mio. € rund 1,9 Mio. € über dem Vorjahreswert. Dieser 
+
+Anstieg resultiert aus tariflichen Entgeltsteigerungen, einem höheren Personalbestand sowie 
+
+Rückstellungseffekten. 
+
+Die Stadtwerke Bochum GmbH beschäftigte im Jahr 2024 durchschnittlich 104 Mitarbeiter*innen 
+
+(Vorjahr: 96). 
+
+Seite 13 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+sonstige betriebliche Aufwendungen 
+
+Die sonstigen betrieblichen Aufwendungen vermindern sich im Geschäftsjahr 2024 um 2,3 Mio. € 
+
+auf 10,1 Mio. €. Ursächlich für diesen Rückgang sind geringere Aufwendungen für Wert-
+
+berichtigungen auf Forderungen. 
+
+sonstige Steuern 
+
+Die sonstigen Steuern des Geschäftsjahres 2024 bestehen im Wesentlichen aus Energie- und 
+
+Stromsteuern auf Eigenverbräuche. 
+
+Ergebnis 
+
+Das Ergebnis nach Steuern liegt bei 55,3 Mio. €. Nach Abzug der sonstigen Steuern verbleibt ein 
+
+aufgrund des Gewinnabführungsvertrages an die Muttergesellschaft Stadtwerke Bochum Holding 
+
+GmbH abzuführender Gewinn in Höhe von 54,6 Mio. € (Vorjahr: 30,4 Mio. €). Die Stadtwerke 
+
+Bochum GmbH hatte im Wirtschaftsplan für das Berichtsjahr 2024 ein Ergebnis von 21,8 Mio. € 
+
+prognostiziert. Hauptgrund für die Überschreitung des Planergebnisses sind Auflösungen von 
+
+Drohverlustrückstellungen, die im Jahr 2023 gebildet wurden. Insbesondere die Rückstellung für 
+
+drohende Verluste aus nicht in Bewertungseinheiten einbezogenen Sleeve-Geschäften wirkte 
+
+sich hier aus.  
+
+Seite 14 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Finanzielle Leistungsindikatoren 
+
+Die Bilanzsumme liegt zum 31.12.2024 mit 250,3 Mio. € rund 47,4 Mio. € unter dem Wert aus dem 
+
+Vorjahr. 
+
+Auf der Aktivseite beträgt das langfristig gebundene Vermögen 28,4 % der Bilanzsumme. Dem 
+
+stehen auf der Passivseite langfristig verfügbare Mittel von 17,8 % gegenüber. Das langfristig 
+
+gebundene Vermögen ist demnach zu 62,9 % langfristig finanziert. 
+
+Die Umsatzrendite erhöht sich im Geschäftsjahr 2024 um 2,6 Prozentpunkte auf 5,8 %. Die 
+
+Gesamtkapitalrendite steigt auf 21,9 % gegenüber 12,6 % im Vorjahr. 
+
+Der aus der laufenden Geschäftstätigkeit erwirtschaftete Cashflow in Höhe von -14,5 Mio. € 
+
+zusammen mit der Finanzierung der Investitionen und der Gewinnabführung reduzieren den 
+
+Finanzmittelfonds um 54,1 Mio. € auf 43,4 Mio. €. Die Gesellschaft war im Geschäftsjahr jederzeit 
+
+in der Lage, ihren Zahlungsverpflichtungen fristgerecht nachzukommen. 
+
+Die geordnete wirtschaftliche Lage der Gesellschaft besteht auch zum Zeitpunkt der Aufstellung des 
+
+Lageberichtes unverändert fort. 
+
+Risikobericht 
+
+Risikomanagementsystem 
+
+Die Stadtwerke Bochum GmbH ist im Rahmen ihres unternehmerischen Handelns vielfältigen 
+
+Risiken ausgesetzt. Die Früherkennung und die Bewertung dieser Risiken sowie die Ergreifung 
+
+wirksamer Gegenmaßnahmen ist die Basis für die Sicherung eines nachhaltigen Unternehmens-
+
+erfolges. 
+
+Entsprechend den gesetzlichen – insbesondere dem Gesetz zur Kontrolle und Transparenz im 
+
+Unternehmensbereich (KonTraG) – und den konzernweiten Vorgaben setzt die Stadtwerke 
+
+Bochum GmbH geeignete Methoden ein, um Entwicklungen früh erkennen zu können, die den 
+
+Fortbestand der Gesellschaft gefährden. Dieses aktive Risikomanagement besteht aus einer 
+
+Vielzahl von Elementen, die in die gesamte Aufbau- und Ablauforganisation eingebettet sind. Das 
+
+Risikomanagement stellt als Instrument der strategischen Unternehmensführung sicher, dass die 
+
+Geschäftsführung jederzeit über die Risikosituation angemessen informiert wird. Dabei 
+
+Seite 15 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+übernimmt das „Risikokomitee Portfoliomanagement Strom und Gas“ im Wesentlichen die 
+
+Risikosteuerung des Portfoliomanagements der Stadtwerke Bochum GmbH. 
+
+Die Stadtwerke Bochum GmbH verfolgt eine Risikopolitik, die sich am Marktumfeld und an den 
+
+Unternehmens- und Konzernzielen orientiert. Sie ist dabei unmittelbar und vollumfänglich in das 
+
+Risikomanagementsystem der Stadtwerke Bochum Holding GmbH eingebunden. Durch die 
+
+Umsetzung der konzernweiten Risikomanagementvorgaben wird ein einheitlicher und 
+
+standardisierter Überwachungsprozess gewährleistet. In diesem Rahmen wird das Risiko-
+
+management regelmäßig auf seine Angemessenheit und Funktionstüchtigkeit überprüft. 
+
+Risikosituation und wesentliche Risiken 
+
+Die Stadtwerke Bochum GmbH ist durch die wachsende Anzahl neuer bzw. durch bereits 
+
+etablierte Marktteilnehmer fortwährend einem intensiven Wettbewerb ausgesetzt. Die hohe 
+
+Volatilität der Beschaffungspreise verstärkt den Wettbewerb, indem sie Konkurrenten die 
+
+Möglichkeit eröffnet, durch eine kurzfristige Beschaffungsstrategie deutlich niedrigere 
+
+Endkundenpreise anzubieten. Die Folge können rückläufige Marktanteile sowie sinkende Margen 
+
+in Bochum sein. Insbesondere in Zeiten von Marktpreisen unterhalb der eigenen im Voraus 
+
+gesicherten Beschaffungspreise besteht das Risiko, dass Wettbewerber deutlich günstigere 
+
+Endkundenpreise anbieten können, wenn diese eine kurzfristige Beschaffungsstrategie 
+
+betreiben. 
+
+Witterungsbedingte Risiken liegen insbesondere in den Sparten Gas, Fernwärme und sonstige 
+
+Dienstleistungen vor. Daher können sich ungewöhnlich milde Wetterphasen während der Herbst- 
+
+und Wintermonate negativ auf die Ergebnisse auswirken. Dies gilt ebenfalls für die Optimierung 
+
+des Verbrauchsverhaltens der Kund*innen durch Energieeffizienzmaßnahmen. 
+
+Risiken entstehen zudem im Bereich der Energiebeschaffung. Diese können vor allem durch 
+
+Preisschwankungen und nichtzutreffende Absatzprognosen entstehen. Die Gasbeschaffung 
+
+eines Geschäftsjahres erfolgt beispielsweise im Voraus auf der Grundlage einer Mengen-
+
+prognose. Diese Menge wird immer im Vorjahr für das Folgejahr festgelegt. Es können jedoch 
+
+durch Änderungen im Verbrauchsverhalten oder durch Kundenzugänge bzw. -verluste 
+
+Abweichungen zwischen Bezugs- und Absatzmenge entstehen. Diese Abweichungen werden mit 
+
+sogenannten Flexibilitätspreisen bewertet. Hier entsteht das Risiko, dass die Gasmengen 
+
+günstiger verkauft bzw. teurer nachgekauft werden müssen als die ursprünglich beschaffte 
+
+Menge. Analog zur Gasbeschaffung basiert auch die Strombeschaffung eines Geschäftsjahres 
+
+auf einer Mengenprognose. Im Vergleich zu dieser langfristigen Prognose, die maßgeblich die 
+Seite 16 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+Beschaffung beeinflusst, passt die Stadtwerke Bochum GmbH für jeden Frontmonat die 
+
+Prognose an die aktuellen Erkenntnisse an. Darüber hinaus werden aus dem Bilanzkreis-
+
+management für jeden folgenden Tag die Prognosedaten aktualisiert, um das Risiko einer 
+
+Abweichung zwischen prognostizierten und tatsächlichen Absatzmengen pro Tag zu minimieren. 
+
+Aus diesen Anpassungsgeschäften können wirtschaftliche Risiken entstehen, wenn die Mengen 
+
+günstiger verkauft bzw. teurer nachgekauft werden müssen. Zur Bewertung der Abweichungen 
+
+zwischen Bezugs- und tatsächlichen Absatzmengen werden kaum kalkulierbare Ausgleichs-
+
+energiepreise angesetzt. Das Auseinanderlaufen von Absatzprognosen, Anpassungsgeschäften 
+
+und tatsächlichen Verbräuchen kann einen großen Einfluss auf die Ertrags- und Liquiditätslage 
+
+des Unternehmens haben, weshalb die Steigerung der Prognosegüte zur Senkung der Kosten 
+
+aus Ausgleichsenergie und Flexibilität eine zentrale Aufgabe des Vertriebes ist. 
+
+Die Stadtwerke Bochum GmbH bietet Haushaltskund*innen Strom- und Gasprodukte mit einer 
+
+bis zu zweijährigen Preissicherheit an. Zum Zeitpunkt der Preiskalkulation stehen noch nicht alle 
+
+Preisbestandteile fest. Übersteigen die tatsächlichen Netzentgelte und Umlagen sowie die 
+
+Beschaffungspreise die einkalkulierten Werte, ergibt sich hieraus ein Risiko für das Unternehmen, 
+
+weil der Abgabepreis an die Kund*innen nicht mehr angepasst werden kann. 
+
+Ein weiteres Risiko besteht in der rollierenden Abrechnung. Dabei muss im Jahresabschluss ein 
+
+wesentlicher Anteil der Erlöse und Mengen bei der Abgrenzung auf das Geschäftsjahr simuliert 
+
+werden. Eine zu hoch geschätzte Menge erzeugt im Jahresabschluss des Folgejahres 
+
+Mindererlöse, welche sich direkt negativ auf das Ergebnis auswirken. 
+
+Den Umsatz-, Kundenabwanderungs-, Beschaffungs- sowie Hochrechnungsrisiken begegnet die 
+
+Stadtwerke Bochum GmbH mit einem umfangreichen Vertriebs- und Beschaffungscontrolling, 
+
+einem konsequenten Kostenmanagement sowie einem marktorientierten Produkt- und 
+
+Kundenmanagement. 
+
+Die letzten Jahre haben gezeigt, dass durch weltpolitische Ereignisse (Kriege etc.) mit 
+
+unvorhergesehenen Folgen für die Energiemärkte gerechnet werden muss. Die genaue 
+
+Beobachtung der politischen und makroökonomischen Entwicklungen wird damit auch zukünftig 
+
+eine große Bedeutung für das Risikomanagement der Stadtwerke Bochum GmbH haben. 
+
+Gesamtbeurteilung 
+
+Im Berichtszeitraum wurden keine bestandsgefährdenden Risiken festgestellt. Aus heutiger Sicht 
+
+bestehen auch für die Zukunft keine den Fortbestand des Unternehmens gefährdende Risiken. 
+Seite 17 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+Durch organisatorische Maßnahmen und die kontinuierliche Anpassung des Risikomanagement-
+
+systems sollen Risiken auch in der Zukunft frühzeitig erkannt und Gegenmaßnahmen eingeleitet 
+
+werden können. 
+
+Nichtfinanzielle Leistungsindikatoren 
+
+Als Bochums führende Energiedienstleister bekennen sich die Unternehmen der Stadtwerke 
+
+Bochum Gruppe zu ihrer besonderen Verantwortung für zukünftige Generationen. Sie richten ihr 
+
+Handeln daher bereits seit vielen Jahren am Grundgedanken der Nachhaltigkeit aus und legen 
+
+großen Wert auf ein ausgewogenes Gleichgewicht von wirtschaftlichem Erfolg zu ökologischer und 
+
+sozialer Verantwortung. 
+
+Um ihr nachhaltiges Engagement transparent zu machen, geben die Unternehmen der Stadtwerke 
+
+Bochum Gruppe regelmäßig freiwillige Erklärungen nach dem Deutschen Nachhaltigkeitskodex ab. 
+
+Diese sind auf der Internetseite des Deutschen Nachhaltigkeitskodex öffentlich einsehbar. Darüber 
+
+hinaus bilden die drei Dimensionen der Nachhaltigkeit – Ökologie, Ökonomie und Soziales – die 
+
+verbindende Klammer im internen Zielsystem der Stadtwerke Bochum Gruppe. So werden 
+
+verschiedenste Messgrößen wie beispielsweise die eigenen Treibhausgas-Emissionen, die 
+
+Gesundheits- und Unfallquote, die Versorgungszuverlässigkeit oder das Unternehmensergebnis als 
+
+quantitativ messbare und langfristig relevante Messgrößen erfasst. 
+
+Die zentrale Aufgabe der Stadtwerke Bochum Gruppe im Bereich der Nachhaltigkeit ist, die 
+
+Energiewende vor Ort voranzutreiben und dadurch die Emissionen der Energieversorgung zu 
+
+verringern. Im Berichtsjahr haben die Stadt Bochum und die Stadtwerke Bochum einen 
+
+Rahmenvertrag vereinbart, der den Ausbau der Solarenergie beschleunigen soll. Durch diese 
+
+Kooperation wurden im Jahr 2024 Photovoltaikanlagen mit einer Gesamtleistung von rund 290 kW-
+
+Peak auf städtischen Gebäuden installiert. Auch den Ausbau von Photovoltaikanlagen auf den 
+
+eigenen Dachflächen hat die Stadtwerke Bochum Gruppe weiter vorangetrieben. Im Jahr 2024 
+
+wurden Photovoltaikanlagen auf den Dachflächen des Verwaltungsgebäudes und des Betriebshofs 
+
+installiert. Die beiden Anlagen haben in Summe eine Leistung von 72,2 kW-Peak. 
+
+Die Photovoltaikanlage auf dem Verwaltungsgebäude wurde aus Mitteln des Sparkassenbriefes 
+
+„Natürlich Bochum“ finanziert. Der Sparkassenbrief ist ein Aktionsprojekt der Sparkasse Bochum 
+
+und der Stadtwerke Bochum, bei dem Bürger*innen über ein solides Finanzprodukt lokale, 
+
+klimafreundliche Projekte unterstützen können. Im Dezember 2024 startete die dritte Auflage des 
+
+Sparkassenbriefes mit einem Gesamtvolumen von 2,0 Mio. €. Das Finanzprodukt zielt ebenfalls 
+Seite 18 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+drauf ab, die Energiewende in Bochum zu fördern. Investiert wird vorrangig in die Bereiche 
+
+Photovoltaik, Elektromobilität sowie umweltfreundliche Wärme- und Kälteprojekte. Im Jahr 2024 
+
+wurden einige Projekte aus den Mitteln der ersten und zweiten Auflage umgesetzt. Dazu zählen 
+
+unter anderem eine Photovoltaikanlage auf einem Gebäude der Wohnungsbaugesellschaft VBW 
+
+Bauen und Wohnen GmbH in der Bochumer Innenstadt sowie eine Ladeinfrastruktur am MediaMarkt 
+
+in Hofstede. 
+
+Auch bei den internen Prozessen setzte die Stadtwerke Bochum Gruppe einige Maßnahmen um, 
+
+die der Nachhaltigkeit in unterschiedlichen Facetten dienen. Im Rahmen des betrieblichen 
+
+Mobilitätsmanagements wurde beispielsweise der Radverkehr durch das Schaffen weiterer 
+
+Fahrradstellplätze im Verwaltungsgebäude gefördert. Zudem wurden auf dem Betriebshof 
+
+insgesamt 24 neue Ladepunkte für E-Fahrzeuge installiert, an welchen die Mitarbeitenden ihre 
+
+privaten PKW laden können. Im Bereich Ernährung wurde die Kantine erneut im Rahmen eines 
+
+wiederkehrenden Audits durch die Deutsche Gesellschaft für Ernährung e. V. (DGE) geprüft und 
+
+erfolgreich zertifiziert. So erhielt die betriebseigene Kantine auch im Jahr 2024 die Zertifikate 
+
+„Gesunde Ernährung“ und „Nachhaltige Verpflegung“. 
+
+Die Stadtwerke Bochum Gruppe setzt sich nicht nur für den Klimaschutz, sondern auch für 
+
+Maßnahmen der Klimafolgenanpassung ein. Beispielweise werden seit langem Flächen begrünt und 
+
+extensiviert. Dadurch trug die Stadtwerke Bochum Gruppe auch 2024 dazu bei, das Stadtklima zu 
+
+verbessern und Hitzeinseln vorzubeugen. Ein weiterer, wichtiger Baustein in der Hitzevorsorge sind 
+
+öffentliche Trinkwasserbrunnen. Die Stadtwerke Bochum Gruppe sieht eine kostenfreie Versorgung 
+
+mit Trinkwasser an öffentlich zugänglichen Orten als Teil der Daseinsvorsorge. Im Jahr 2024 wurde 
+
+ein umfassendes Modernisierungs- und Erweiterungsprogramm der Bochumer Trinkwasserbrunnen 
+
+initiiert. Neben der Erneuerung aller fest installierten Trinkwasserbrunnen sollen weitere Brunnen im 
+
+Stadtgebiet installiert werden. 
+
+Umwelt 
+
+Der umweltfreundliche Anteil am Strommix der Stadtwerke Bochum GmbH lag gemäß der aktuell 
+
+gültigen Stromkennzeichnung bei 60,9 %. Die CO2-Emissionen lagen bei der Stadtwerke Bochum 
+
+GmbH mit 310 g/kWh unter dem Bundesdurchschnitt (324 g/kWh).  
+
+Bereits in den letzten Jahren hatten die Kund*innen die Möglichkeit ein Ökostrom-Produkt zu 
+
+nutzen. Seit dem 01.01.2025 werden alle Kund*innen ausschließlich mit Ökostrom beliefert. 
+
+Damit soll die Energiewende weiter vorangetrieben und Bochum der Klimaneutralität 
+
+nähergebracht werden. Der Ökostrom wird aus erneuerbaren Energiequellen wie Wind-, Solar- 
+Seite 19 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+und Wasserkraft erzeugt. Dies wird durch eingekaufte Herkunftsnachweise belegt. Ein Teil des 
+
+Stroms wird zudem aus dem Offshore-Windpark der Trianel GmbH vor Borkum, an dem die 
+
+Stadtwerke Bochum Holding GmbH beteiligt ist, bezogen. Ein weiterer Teil wird von den 
+
+Windenergieanlagen der Stadtwerke Bochum Holding GmbH in Bremerhaven bezogen. 
+
+Für die Gaskund*innen wird ein Ökogas-Produkt angeboten, durch das zertifizierte 
+
+Klimaschutzprojekte unterstützt werden. 
+
+Kundenzufriedenheit 
+
+Die Stadtwerke Bochum GmbH nutzt ein Kundenbewertungstool mit dem Namen 
+
+„FeedbackDirekt“. Hier wird die Qualität in Stadtwerke-Bereichen wie z. B. in der 
+
+Kundenberatung, der Ablesung und der Wartung von Fernwärmeanlagen in Echtzeit gemessen. 
+
+Die Kund*innen bewerten den Service per Telefon, per zugesandtem Link oder QR-Code. So 
+
+konnten bereits Schwachstellen aufgedeckt und optimiert werden. Ebenso konnte die Kunden-
+
+zufriedenheit über den möglichen Kontaktwunsch, den bisher 197 Kund*innen genutzt haben, 
+
+direkt wiederhergestellt werden. Seit Einführung der digitalen Kundenbefragung haben 93,74 % 
+
+der teilnehmenden Kund*innen im Kundendienst die Stadtwerke Bochum GmbH positiv oder 
+
+neutral bewertet und sind mit den Leistungen der Stadtwerke Bochum GmbH sehr zufrieden bis 
+
+eher zufrieden. 
+
+Betrachtet man nur das Jahr 2024, so haben 97,21 % der teilnehmenden Kund*innen im 
+
+Kundendienst die Stadtwerke Bochum GmbH positiv oder neutral bewertet und sind mit den 
+
+Leistungen der Stadtwerke Bochum GmbH sehr zufrieden bis eher zufrieden. Hier konnte bei 
+
+16 Kund*innen über den möglichen Kontaktwunsch die Kundenzufriedenheit wiederhergestellt 
+
+werden. 
+
+Mitarbeiter*innen 
+
+Im Berichtsjahr 2024 lag der Fokus der Stadtwerke Bochum GmbH auf dem personellen Umgang 
+
+mit den sich ständig ändernden rechtlichen und wirtschaftlichen Rahmenbedingungen sowie den 
+
+daraus resultierenden Wechselwirkungen und Veränderungen. 
+
+Der kontinuierliche Wandel sowie die sich verändernden Erwartungen, insbesondere im hart 
+
+umkämpften Markt für Fach- und Führungskräfte, machen es umso wichtiger, die Attraktivität als 
+
+leistungsstarker und erfolgreicher Arbeitgeber zu bewahren und auszubauen. Die Stadtwerke 
+
+Bochum GmbH nutzt hierfür im Rahmen von Dienstleistungsverträgen die personalwirtschaftliche 
+
+Expertise und die Ressourcen der Stadtwerke Bochum Holding GmbH. Dabei wird von 
+Seite 20 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+
+jahrzehntelanger Expertise in den Bereichen Aus-, Fort- und Weiterbildung sowie 
+
+Gesundheitsförderung profitiert. Zudem wird großer Wert auf die gezielte Gewinnung, Bindung 
+
+und kontinuierliche Entwicklung der Fach- und Führungskräfte gelegt. Hierzu wurden für die 
+
+Stadtwerke Bochum Gruppe sowohl eine Arbeitgebermarke erarbeitet als auch eine 
+
+Arbeitgeberkampagne ins Leben gerufen. Beides dient dazu, die Unternehmen der Stadtwerke 
+
+Bochum Gruppe als zukunftsorientierte, klimafreundliche und erfolgreiche Arbeitgeber zu 
+
+positionieren, die Wert auf ein außergewöhnlich gutes Arbeitsklima legen. 
+
+Die fortschreitende Digitalisierung personalwirtschaftlicher Prozesse, die Flexibilisierung von 
+
+Arbeitsort und -zeit sowie die Vereinbarkeit von Privatleben und Beruf bleiben zentrale Treiber 
+
+der Personalarbeit. Im Mittelpunkt der personalwirtschaftlichen Überlegungen stand dabei die 
+
+kontinuierliche Befähigung und Qualifikation der Mitarbeiter*innen über alle Hierarchieebenen 
+
+hinweg, um deren Leistungsfähigkeit und Motivation zu erhalten und zu sichern. 
+
+Arbeitssicherheit und Gesundheitsschutz 
+
+Bei der Stadtwerke Bochum GmbH wurden im Berichtsjahr keine meldepflichtigen Wege- bzw. 
+
+Arbeitsunfälle verzeichnet.  
+
+Im Berichtszeitraum erfolgten darüber hinaus diverse Schulungen und Unterweisungen 
+
+zugunsten der Arbeitssicherheit. Daneben legt ein aktives und systematisches Gesundheits-
+
+management den Grundstein für die Gesunderhaltung der Mitarbeiter*innen. 
+
+Schwerbehindertenquote 
+
+Zum 31.12.2024 beschäftigte die Stadtwerke Bochum GmbH drei schwerbehinderte 
+
+Mitarbeiter*innen. Durch die anspruchsgerechte Einrichtung und Ausstattung der einzelnen 
+
+Arbeitsplätze unterstützt das Unternehmen die Sicherung und Förderung der Beschäftigungs-
+
+fähigkeit und trägt so seiner Verantwortung aktiv Rechnung. 
+
+Öffentliche Zwecksetzung 
+
+Die Stadtwerke Bochum GmbH hat die ihr von der Stadt Bochum im Rahmen der Daseinsvorsorge 
+
+übertragene öffentliche Zwecksetzung nachhaltig erfüllt. 
+
+Durch die wirtschaftliche und strategische Ausrichtung des Unternehmens ist die Versorgungs-
+
+sicherheit langfristig gewährleistet und die wirtschaftliche und ökologische Energie- und Wasser-
+
+versorgung sichergestellt. 
+Seite 21 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Lagebericht 
+ 
+ 
+Prognosebericht 
+
+Zum Jahresbeginn 2025 hat die Stadtwerke Bochum GmbH die Arbeitspreise im Grundversorgungs-
+
+tarif Gas (StadtwerkeBasis Gas) in allen Verbrauchsstufen um netto 0,54 ct/kWh gesenkt. Auch in 
+
+der Sparte Fernwärme wurden die Arbeitspreise reduziert, hier um netto 0,99 ct/kWh. Im Gegensatz 
+
+dazu mussten die Absatzpreise für Wasser erstmals seit der letzten Preisanpassung im Jahr 2020 
+
+aufgrund gestiegener Kosten angehoben werden. Die Preise in der Grundversorgung Strom konnten 
+
+stabil gehalten werden. 
+
+Für das Geschäftsjahr 2025 sind Investitionen in Höhe von ca. 5,4 Mio. € geplant, im Wesentlichen 
+
+für Investitionen in Sachanlagen. Hierzu zählen Investitionen im Geschäftsfeld Elektromobilität, im 
+
+Contracting-Bereich sowie in den Energiedienstleistungen, bspw. für die Solar- und Wärme-Pakete. 
+
+Im Wirtschaftsplan 2025 wird bei mengenbedingt rückläufigen Umsatzerlösen von 671,8 Mio. € und 
+
+ebenfalls sinkenden Materialaufwendungen aufgrund günstigerer Bezugskosten von 624,9 Mio. € 
+
+ein Ergebnis in Höhe von 22,8 Mio. € prognostiziert. Nach heutigem Stand wird davon ausgegangen, 
+
+dass die Stadtwerke Bochum GmbH ihr Planergebnis erreichen wird. 
+
+Bochum, 31. März 2025 
+
+ 
+
+Thiel     Perić 
+
+Seite 22 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+ Bilanz
+ 
+ 
+
+31.12.2024 31.12.2023 
+AKTIVA Anhang  T€  T€ 
+
+A. Anlagevermögen (1)     
+
+ I. Immaterielle Vermögensgegenstände   25  18 
+
+ II. Sachanlagen   15.458  13.673 
+
+ III. Finanzanlagen   55.541  53.386 
+
+     71.024  67.077 
+
+B. Umlaufvermögen      
+
+ I. Vorräte (2)  17.496  16.257 
+
+ II. Forderungen und sonstige Vermögensgegenstände (3)  161.750  214.277 
+
+ III. Kassenbestand und Guthaben bei Kreditinstituten   10  15 
+
+     179.256  230.549 
+
+C. Rechnungsabgrenzungsposten   57  130 
+
+     250.337  297.756 
+        
+
+31.12.2024 31.12.2023 
+PASSIVA Anhang  T€  T€ 
+
+A. Eigenkapital      
+
+ I. Gezeichnetes Kapital (4)  10.000  10.000 
+
+ II. Kapitalrücklage   21.433  21.433 
+
+     31.433  31.433 
+
+B. Rückstellungen (5)  107.861  122.820 
+
+C. Verbindlichkeiten (6)  111.043  143.503 
+
+    250.337  297.756 
+
+Seite 23 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+ Gewinn- und Verlustrechnung
+ 
+ 
+
+2024 2023 
+  Anhang  T€  T€ 
+
+1. Umsatzerlöse   917.488  1.101.665 
+
+ Stromsteuer   -27.377  -30.649 
+
+ Erdgassteuer   -9.147  -11.020 
+
+ Umsatzerlöse ohne Strom- und Erdgassteuer (7)  880.964  1.059.996 
+
+2. Erhöhung oder Verminderung des Bestands an 
+unfertigen Leistungen   -356  389 
+
+3. andere aktivierte Eigenleistungen   32  34 
+
+4. Gesamtleistung   880.640  1.060.419 
+
+5. sonstige betriebliche Erträge (8)  35.805  15.697 
+
+6. Materialaufwand (9)  -842.650  -1.019.274 
+
+7. Personalaufwand (10)  -10.370  -8.424 
+
+8. Abschreibungen auf immaterielle 
+Vermögensgegenstände des Anlagevermögens 
+und Sachanlagen   -1.312  -1.295 
+
+9. sonstige betriebliche Aufwendungen   -10.054  -12.323 
+
+10. Ergebnis aus Finanzanlagen (11)  297  414 
+
+11. Zinsergebnis (12)  2.895  2.289 
+
+12. Steuern vom Einkommen und vom Ertrag   0  -6.458 
+
+13. Ergebnis nach Steuern   55.251  31.045 
+
+14. sonstige Steuern   -646  -638 
+
+15. aufgrund eines Gewinnabführungsvertrages 
+abgeführter Gewinn   -54.605  -30.407 
+
+16. Jahresüberschuss   0  0 
+
+Seite 24 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Kapitalflussrechnung 
+ 
+ 
+
+   2024 2023 
+T€ T€ 
+
+1. Jahresüberschuss vor Gewinnabführung 54.605 30.407
+2. + Abschreibungen auf Gegenstände des Anlagevermögens 1.318 1.299
+3. + Zunahme der Rückstellungen -14.959 34.474
+4. - Zunahme der Forderungen aus Lieferungen und Leistungen sowie 
+
+anderer Aktiva, die nicht der Investitions- oder Finanzierungstätigkeit 
+zuzuordnen sind -3.184 -34.539
+
+5. -/+ Abnahme/Zunahme der Verbindlichkeiten aus Lieferungen und 
+Leistungen sowie anderer Passiva, die nicht der Investitions- oder 
+Finanzierungstätigkeit zuzuordnen sind -42.441 39.042
+
+6. + Verlust aus dem Abgang von Gegenständen des Anlagevermögens 11 83
+7. - sonstige Beteiligungserträge -297 -414
+8. - Zinserträge -3.101 -2.475
+9. + Ertragsteueraufwendungen 0 6.458
+
+10. - Ertragsteuerzahlungen laufende Geschäftstätigkeit -6.477 -70
+
+11. = Cashflow aus der laufenden Geschäftstätigkeit 
+(Summe aus 1. bis 10.) -14.525 74.265
+
+12. Einzahlungen aus Abgängen von Gegenständen des immateriellen 
+Anlagevermögens und des Sachanlagevermögens 13 41
+
+13. - Auszahlungen für Investitionen in das immaterielle Anlagevermögen 
+und in das Sachanlagevermögen -3.128 -3.377
+
+14. + Einzahlungen aus Abgängen von Gegenständen des 
+Finanzanlagevermögens 582 215
+
+15. - Auszahlungen für Investitionen in das Finanzanlagevermögen -2.743 -68
+16. + erhaltene Zinsen 3.422 2.489
+
+17. + erhaltene Dividenden 414 223
+
+18. = Cashflow aus der Investitionstätigkeit 
+(Summe aus 12. bis 17.) -1.440 -477
+
+19. Auszahlung an Gesellschafter aus Ergebnisabführung -38.147 -18.523
+20. - gezahlte Zinsen -1 -334
+
+21. = Cashflow aus der Finanzierungstätigkeit 
+(Summe aus 19. und 20.) -38.148 -18.857
+
+22. Zahlungswirksame Veränderung des Finanzmittelfonds 
+(Summe 11., 18. und 21.) -54.113 54.931
+
+23. + Finanzmittelfonds am Anfang der Periode 97.509 42.578
+
+24. = Finanzmittelfonds am Ende der Periode 
+(Summe aus 22. und 23.) 43.396 97.509
+
+ 
+Zusammensetzung des Finanzmittelfonds am Ende der Periode 
+
+Zahlungsmittel 10 15
+Cashpooling 43.386 97.494
+
+   43.396 97.509
+ 
+Kapitalflussrechnung nach Deutschem Rechnungslegungs Standard 21 (DRS 21)
+
+Seite 25 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+A nhang 
+ 
+ 
+Allgemeine Angaben 
+
+Die Stadtwerke Bochum GmbH mit Sitz in Bochum ist beim Amtsgericht Bochum unter der Nummer 
+
+HRB 14071 eingetragen. 
+
+Der Jahresabschluss ist nach den für große Kapitalgesellschaften maßgeblichen Rechnungs-
+
+legungsvorschriften des Handelsgesetzbuches (HGB) und des GmbH-Gesetzes aufgestellt. 
+
+Um die Übersichtlichkeit der Darstellung zu verbessern, werden einzelne Posten der Bilanz und der 
+
+Gewinn- und Verlustrechnung gemäß § 265 Abs. 7 Nr. 2 HGB zusammengefasst. Diese Posten sind 
+
+im Anhang gesondert ausgewiesen. 
+
+Für die Gliederung der Gewinn- und Verlustrechnung wurde das Gesamtkostenverfahren gewählt. 
+
+Bilanzierungs- und Bewertungsmethoden 
+
+Entgeltlich erworbene immaterielle Vermögensgegenstände sind mit den Anschaffungskosten 
+
+abzüglich planmäßiger Abschreibungen bewertet. 
+
+Die Bilanzierung der Sachanlagen erfolgt zu Anschaffungs- und Herstellungskosten. Die 
+
+Herstellungskosten der selbst erstellten Anlagen umfassen Einzelkosten sowie zurechenbare 
+
+Material- und Lohngemeinkosten. 
+
+Die planmäßigen Abschreibungen erfolgen für Neuzugänge ab dem Geschäftsjahr 2015 
+
+ausschließlich linear. Frühere Zugänge werden linear oder degressiv mit späterem Übergang auf 
+
+die lineare Abschreibungsmethode, sobald sich höhere Abschreibungsbeträge ergeben, 
+
+abgeschrieben. Die zugrunde gelegten Nutzungsdauern richten sich nach den 
+
+Abschreibungstabellen für Versorgungsbetriebe. 
+
+Die Finanzanlagen sind mit den Anschaffungskosten bewertet. 
+
+Die sonstigen Ausleihungen werden grundsätzlich zu Anschaffungskosten angesetzt. Unverzins-
+
+liche Darlehen an Mitarbeiter*innen werden mit ihrem Barwert bewertet. Die Abzinsung erfolgt mit 
+
+einem marktüblichen Zinssatz (Durchschnittsrendite einer Bundesanleihe) entsprechend ihrer 
+
+durchschnittlichen Restlaufzeit. 
+
+Seite 26 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+Die Bewertung der Roh-, Hilfs- und Betriebsstoffe erfolgt mit fortgeschriebenen durchschnittlichen 
+
+Anschaffungskosten unter Beachtung des Niederstwertprinzips. Unfertige Leistungen werden 
+
+entsprechend den selbst erstellten Anlagen bewertet, jedoch ohne anteilige Aufwendungen für 
+
+Planung und Bauüberwachung. 
+
+Die Position fertige Erzeugnisse und Waren beinhaltet CO2-Zertifikate, die zu aktuellen Marktwerten 
+
+unter Beachtung des strengen Niederstwertprinzips bewertet wurden. 
+
+Forderungen und sonstige Vermögensgegenstände werden zu Nennwerten unter Berücksichtigung 
+
+von Wertminderungen in begründeten Einzelfällen angesetzt. Dem allgemeinen Ausfallrisiko wird 
+
+durch Bildung einer aktivisch abgesetzten Wertberichtigung Rechnung getragen. Für den 
+
+Verbrauchszeitraum zwischen Ablesung und Bilanzstichtag wird anhand anerkannter 
+
+mathematischer Methoden der Verbrauch auf den Bilanzstichtag hochgerechnet und entsprechend 
+
+bewertet. Die daraus resultierenden Forderungen werden mit den entsprechenden erhaltenen 
+
+Anzahlungen verrechnet. 
+
+Die Bewertung der Pensionsverpflichtungen – einschließlich mittelbarer Pensionsverpflichtungen 
+
+und Deputate – wurde nach versicherungsmathematischen Grundsätzen – unter Anwendung der 
+
+Richttafeln 2018 G von Prof. Dr. K. Heubeck – nach den Vorschriften des HGB durchgeführt. Die 
+
+Berechnung erfolgte nach der Projected Unit Credit Method (PUC-Methode). Der Abzinsungs-
+
+zinssatz nach der Rückstellungsabzinsungsverordnung (RückAbzinsV) beträgt zum 31.12.2024 
+
+1,90 % (i. Vj. 1,82 %). Der Unterschiedsbetrag gemäß § 253 Abs. 6 HGB beträgt -180 T€ 
+
+(i. Vj. 234 T€). Die Bewertung der Rückstellungen für Altersteilzeit und Jubiläen wurde nach den 
+
+gleichen Grundsätzen durchgeführt. Hier beträgt der Abzinsungszinssatz nach der RückAbzinsV 
+
+zum 31.12.2024 1,96 % (i. Vj. 1,74 %). Künftige Gehalts- und Kostensteigerungen wurden mit einem 
+
+Trend von 2,5 % zugrunde gelegt. Der Trend für Rentenanpassungen in der Versorgungsanstalt des 
+
+Bundes und der Länder (VBL) betrug 1,0 %. 
+
+Sämtliche Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewisse Verbind-
+
+lichkeiten. Der Ansatz erfolgt in Höhe des nach vernünftiger kaufmännischer Beurteilung 
+
+notwendigen Erfüllungsbetrages. 
+
+Die Gesellschaft tätigt regelmäßig sogenannte Sleeve-Geschäfte insbesondere für die Stadtwerke 
+
+Bochum Holding GmbH und die Energie- und Wasserversorgung Mittleres Ruhrgebiet GmbH. 
+
+Grundsätzlich unterliegen diese beiden Geschäfte im Rahmen der Bilanzierung dem handels-
+
+rechtlichen Einzelbewertungsgrundsatz. Gemäß § 254 HGB existiert abweichend hiervon bei 
+Seite 27 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+Vorliegen bestimmter Voraussetzungen ein Wahlrecht zur Bildung von Bewertungseinheiten, bei der 
+
+die beiden Geschäfte zusammengefasst bewertet werden können. Von diesem Wahlrecht hat die 
+
+Gesellschaft im Geschäftsjahr keinen Gebrauch gemacht. 
+
+Rückstellungen mit einer Laufzeit von mehr als einem Jahr wurden mit dem von der Deutschen 
+
+Bundesbank veröffentlichten und ihrer Laufzeit entsprechenden durchschnittlichen Marktzins 
+
+abgezinst. 
+
+Verbindlichkeiten sind zum Erfüllungsbetrag passiviert. 
+
+Erläuterungen zur Bilanz 
+
+(1) Anlagevermögen 
+
+Die Aufgliederung der in der Bilanz zusammengefassten Anlagepositionen und ihre Entwicklung 
+
+im Jahre 2024 ergeben sich aus dem Anlagespiegel. 
+
+Anteilsbesitz 
+
+Anteil am Eigen- 
+   Kapital kapital Ergebnis 
+   in % T€ Jahr T€ 
+
+Beteiligungsunternehmen     
+
+WMR Wasserbeschaffung und Energieerzeugung 
+ Mittlere Ruhr GmbH, Bochum 50,0 5.733 2024 415 
+
+ unigy GmbH, Essen 16,7 3.628 2023 1.028 
+
+ VfL Bochum - Stadioncenter GmbH, Bochum 5,0 1.529 2024 144 
+
+ 
+
+(2) Vorräte 
+
+31.12.2024 31.12.2023 
+ T€ T€ 
+
+Roh-, Hilfs- und Betriebsstoffe 163 158 
+
+unfertige Leistungen 429 785 
+
+fertige Erzeugnisse und Waren 16.682 15.129 
+
+geleistete Anzahlungen 222 185 
+
+Gesamt 17.496 16.257 
+
+ 
+Seite 28 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+(3) Forderungen und sonstige Vermögensgegenstände 
+
+31.12.2024 31.12.2023 
+ T€ T€ 
+
+Forderungen aus Lieferungen und Leistungen 92.618 89.768 
+
+davon mit einer Restlaufzeit von mehr als einem Jahr (1.169) (644) 
+
+Forderungen gegen verbundene Unternehmen 57.610 117.086 
+
+davon aus Lieferungen und Leistungen (12.496) (18.095) 
+
+davon gegen Gesellschafter (51.504) (108.156) 
+
+Forderungen gegen Unternehmen, mit 
+denen ein Beteiligungsverhältnis besteht 16 34 
+
+davon aus Lieferungen und Leistungen (16) (34) 
+
+sonstige Vermögensgegenstände 11.506 7.389 
+
+davon mit einer Restlaufzeit von mehr als einem Jahr (9) (13) 
+
+Gesamt 161.750 214.277 
+ 
+
+(4) Gezeichnetes Kapital 
+
+Das gezeichnete Kapital von 10.000 T€ ist voll eingezahlt. 
+
+(5) Rückstellungen 
+
+31.12.2024 31.12.2023 
+ T€ T€ 
+
+Rückstellungen für Pensionen und ähnliche Verpflichtungen 11.732 11.061 
+
+sonstige Rückstellungen 96.129 111.759 
+
+Gesamt 107.861 122.820 
+
+ 
+Die Rückstellungen für Pensionen und ähnliche Verpflichtungen enthalten u. a. Sachleistungs-
+
+verpflichtungen.  
+
+Die Gesellschaft ist Mitglied der VBL und hat ihre Mitarbeiter*innen entsprechend der Satzung 
+
+versichert. Seit dem Jahr 2002 erfolgt die Umstellung vom Gesamtversorgungssystem mit 
+
+Umlagefinanzierung zu einer deckungskapital-orientierten Finanzierung. Seitdem teilt sich der 
+
+Gesamt-Umlagesatz in einen Beitrag zur Kapitaldeckung und einen Sanierungsbeitrag des 
+
+Arbeitgebers zur Deckung der Altlasten auf. 
+
+Seite 29 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+Die sonstigen Rückstellungen zum 31.12.2024 betreffen im Wesentlichen ausstehende 
+
+Abrechnungen der Netzentgelte, die Verpflichtung zur Abgabe von Emissionszertifikaten nach 
+
+dem BEHG, die Abrechnungsverpflichtung sowie drohende Verluste aus Sleeve-Geschäften. 
+
+Bei den Sleeve-Geschäften sind sich gegenüberstehende Ein- und Verkaufsgeschäfte paarweise 
+
+abgebildet. Die jeweils zugehörigen Geschäfte können unter gewissen Voraussetzungen 
+
+teilweise durch Micro-Hedges zu Bewertungseinheiten zusammengefasst werden. Das 
+
+Wahlrecht zur Bildung von Bewertungseinheiten wurde im Geschäftsjahr nicht genutzt. 
+
+Dementsprechend bestehen Rückstellungen für drohende Verluste aus schwebenden 
+
+Geschäften in Höhe von 3.742 T€. 
+
+(6) Verbindlichkeiten 
+
+31.12.2024 31.12.2023 
+ T€ T€ 
+
+Verbindlichkeiten aus Lieferungen und Leistungen 26.019 27.671 
+
+Verbindlichkeiten gegenüber verbundenen Unternehmen 80.766 104.457 
+
+davon aus Lieferungen und Leistungen (43.825) (80.470) 
+
+davon gegenüber Gesellschaftern (36.351) (41.621) 
+
+Verbindlichkeiten gegen Unternehmen, mit denen ein 
+Beteiligungsverhältnis besteht 744 2.695 
+
+davon aus Lieferungen und Leistungen (744) (2.695) 
+
+sonstige Verbindlichkeiten 3.514 8.680 
+
+davon aus Steuern (108) (4.613) 
+
+Gesamt 111.043 143.503 
+
+ 
+Die Verbindlichkeiten haben eine Restlaufzeit von bis zu einem Jahr. 
+
+Haftungsverhältnisse und sonstige finanzielle Verpflichtungen 
+
+Der Grundbesitz einschließlich seiner Bestandteile und Zubehör ist gemeinsam mit dem Grund-
+
+besitz der Stadtwerke Bochum Holding GmbH und der Stadtwerke Bochum Netz GmbH mit 
+
+Grundschulden belastet, die zur Besicherung von Darlehen der Muttergesellschaften in Höhe von 
+
+101.782 T€ (i. Vj. 108.081 T€) dienen. Mit einer Inanspruchnahme aus diesem Haftungs-
+
+verhältnis ist nicht zu rechnen, da gemäß den Mittelfristplanungen der Muttergesellschaften die 
+
+Bedienung der Darlehen über den Cashflow der Gesellschaften sichergestellt ist. 
+
+Seite 30 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+Aus Energie- und Wasserbeschaffungsverträgen existieren sonstige finanzielle Verpflichtungen 
+
+in Höhe von insgesamt 408.971 T€ (i. Vj. 718.974 T€). Der Anteil gegenüber verbundenen 
+
+Unternehmen beträgt 250.979 T€ (i. Vj. 384.015 T€). Diesen Verpflichtungen stehen absatzseitig 
+
+bereits abgeschlossene Geschäfte bzw. Erwartungen in ausreichendem Maß gegenüber. 
+
+Zusätzlich bestehen sonstige finanzielle Verpflichtungen aus bereits aufgegebenen Bestellungen 
+
+(Bestellobligo) in Höhe von 841 T€ (i. Vj. 734 T€) sowie aus Leasingverträgen in Höhe von 18 T€ 
+
+(i. Vj. 0 T€). 
+
+Erläuterungen zur Gewinn- und Verlustrechnung 
+
+(7) Umsatzerlöse ohne Strom- und Erdgassteuer 
+
+2024 2023 
+ T€ T€ 
+
+Stromversorgung ohne Stromsteuer 529.884 636.005 
+
+Gasversorgung ohne Erdgassteuer 202.226 265.149 
+
+Wasserversorgung 48.600 48.431 
+
+Wärmeversorgung 78.610 79.944 
+
+Sonstige Dienstleistungen 21.644 30.467 
+
+Gesamt 880.964 1.059.996 
+
+ 
+In den Umsatzerlösen sind periodenfremde Erlöse in Höhe von 2.147 T€ (i. Vj. 3.078 T€) 
+
+enthalten. 
+
+(8) sonstige betriebliche Erträge 
+
+Hier sind 34.711 T€ (i. Vj. 14.654 T€) Erträge aus der Auflösung von Rückstellungen enthalten.  
+
+Diese resultieren im Wesentlichen aus der Auflösung von Rückstellungen für drohende Verluste 
+
+aus Sleeve-Geschäften (29.787 T€), die nicht eingetreten sind.  
+
+Die Position beinhaltet zudem periodenfremde Erträge in Höhe von 434 T€ (i. Vj. 327 T€). 
+
+Seite 31 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+(9) Materialaufwand 
+
+2024 2023 
+ T€ T€ 
+
+Aufwendungen für Roh-, Hilfs- und Betriebsstoffe -812.798 -993.037 
+
+Aufwendungen für bezogene Leistungen -29.852 -26.237 
+
+Gesamt -842.650 -1.019.274 
+
+ 
+Im Materialaufwand sind -576 T€ (i. Vj. 3.203 T€) periodenfremder Aufwand enthalten. 
+
+(10) Personalaufwand 
+
+2024 2023 
+ T€ T€ 
+
+Löhne und Gehälter -8.027 -6.713 
+
+soziale Abgaben -1.481 -1.248 
+
+Aufwendungen für Altersversorgung -862 -463 
+
+Gesamt -10.370 -8.424 
+ 
+
+2024 2023 
+ Anzahl Anzahl 
+
+durchschnittliche Anzahl der Mitarbeiter*innen 104 96 
+
+davon männlich 50 49 
+
+davon weiblich 54 47 
+ 
+
+(11) Ergebnis aus Finanzanlagen 
+
+Das Ergebnis aus Finanzanlagen betrifft ausschließlich Beteiligungserträge in Höhe von 297 T€ 
+
+(i. Vj. 414 T€). 
+
+Seite 32 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+(12) Zinsergebnis 
+
+2024 2023 
+ T€ T€ 
+
+sonstige Zinsen und ähnliche Erträge 3.116 2.828 
+
+davon aus Abzinsung (14) (19) 
+
+davon aus verbundenen Unternehmen (3.079) (2.793) 
+
+Zinsen und ähnliche Aufwendungen -221 -539 
+
+davon aus Aufzinsung (-220) (-205) 
+
+davon an verbundene Unternehmen (0) (-327) 
+
+Gesamt 2.895 2.289 
+ 
+
+Seite 33 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+Sonstige Angaben 
+
+Geschäftsführung 
+
+Frank Thiel 
+
+Robert Perić ab 01.01.2024 
+
+Berichterstattung über die Bezüge und andere Leistungen der Geschäftsführung 
+
+Für die Verträge der Geschäftsführenden der Gesellschaft ist der Gesellschafter in Abstimmung 
+
+mit dem Aufsichtsrat der Stadtwerke Bochum Holding GmbH zuständig. Der Aufsichtsrat orientiert 
+
+sich dabei an branchenüblichen Anstellungs- und Vergütungsstrukturen vergleichbarer 
+
+kommunaler Unternehmen. 
+
+Mit Herrn Thiel besteht ein über fünf Jahre befristeter Dienstvertrag mit der Stadtwerke Bochum 
+
+Holding GmbH. Ein separater Vergütungsanspruch gegenüber der Stadtwerke Bochum GmbH 
+
+besteht nicht. Mit Herrn Perić besteht ein über fünf Jahre befristeter Dienstvertrag. Herr Perić 
+
+erhält überwiegend feste Bezüge. Neben den festen Bezügen kann er als variable Vergütung 
+
+eine jährliche Tantieme von bis zu 45 % des Jahresgrundgehalts erreichen. 
+
+Im Rahmen einer schriftlichen Zielvereinbarung zwischen der Gesellschafterversammlung und 
+
+Herrn Perić erfolgt die jährliche Festlegung der Ziele. Die Zielvereinbarungen beinhalten 
+
+Komponenten mit jährlicher und dreijähriger Laufzeit. 
+
+Das Jahresgrundgehalt wird durch den Aufsichtsrat regelmäßig alle 2,5 Jahre überprüft und 
+
+gegebenenfalls angepasst. Er orientiert sich an den zwischen den Tarifvertragsparteien des 
+
+Tarifvertrages für Versorgungsbetriebe vereinbarten kumulierten prozentualen Steigerungen. 
+
+2024 Grundbetrag bzw. Zielprämie sonstige Gesamt- 
+Jahresfestgehalt (erfolgs- Vergütung vergütung 
+einschl. Zulagen abhängig) * (Sachbezug  
+
+(erfolgsunabhängig)  Dienst-PKW)  
+T€ T€ T€ T€ 
+
+Robert Perić 196 53 2 251 
+ 
+
+* Variable Vergütung für das Geschäftsjahr 
+
+Seit dem 01.01.2024 ist Herr Perić neuer Geschäftsführer neben Herrn Thiel. 
+
+Seite 34 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+
+Herr Perić ist zu Lasten der Gesellschaft bei einer Unterstützungskasse versichert. Der 
+
+Jahresbeitrag beträgt 25 % des Grundgehalts. 
+
+Geschäfte größeren Umfangs mit verbundenen Unternehmen 
+
+Die Gesellschaft hat im Geschäftsjahr 2024 folgende Geschäfte größeren Umfangs gemäß 
+
+§ 6b Abs. 2 EnWG getätigt: 
+
+2024 2023 
+ T€ T€ 
+
+Stadtwerke Bochum Holding GmbH  
+Erlöse aus Dienstleistungsverträgen 1.694 1.601
+Erlöse aus Energieversorgung 25.060 27.456
+Aufwendungen aus Dienstleistungsverträgen -7.861 -6.719
+Aufwendungen aus Energiebezug -54.532 -63.551
+Aufwendungen aus Netzentgelten -37.276 -37.335
+
+Stadtwerke Bochum Netz GmbH  
+Erlöse aus Energieversorgung 12.203 2.269
+Aufwendungen aus Netzentgelten -114.400 -101.508
+Aufwendungen aus Dienstleistungsverträgen -7.021 -6.412
+
+ewmr - Energie- und Wasserversorgung Mittleres Ruhrgebiet 
+GmbH  
+
+Erlöse aus Energieversorgung 33.023 43.944
+Aufwendungen aus Energiebezug -258.354 -348.641
+
+evu zählwerk Abrechnungs- und Servicegesellschaft mbH  
+Aufwendungen aus Abrechnungsdienstleistungen -8.945 -7.843
+
+FHE Fernheizgesellschaft Bochum-Ehrenfeld GmbH  
+Erlöse aus Energieverkauf 8.230 10.918
+
+ 
+
+Seite 35 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+ 
+Nachtragsbericht 
+
+Vorgänge von besonderer Bedeutung nach Ende des Geschäftsjahres sind nicht aufgetreten. 
+
+Konzernabschluss 
+
+Die Gesellschaft ist ein Tochterunternehmen der Stadtwerke Bochum Holding GmbH, Bochum. Die 
+
+Holding für Versorgung und Verkehr GmbH Bochum (HVV) mit Sitz in Bochum stellt als Mutter-
+
+unternehmen der Stadtwerke Bochum Holding GmbH einen Teilkonzernabschluss auf, der beim 
+
+Unternehmensregister offengelegt wird. Gleichzeitig stellt die Energie- und Wasserversorgung 
+
+Mittleres Ruhrgebiet GmbH (ewmr) mit Sitz in Bochum als Mutterunternehmen der HVV einen 
+
+befreienden Konzernabschluss für den größten Kreis von Unternehmen auf, der ebenfalls beim 
+
+Unternehmensregister offengelegt wird. 
+
+Angaben zum Mindeststeuergesetz 
+
+Die Gesellschaft fällt als Geschäftseinheit einer Mindeststeuergruppe, deren oberste Gruppen-
+
+trägerin die ewmr ist, grundsätzlich in den Anwendungsbereich des Mindeststeuergesetzes. Die 
+
+Mindeststeuergruppe ist im Jahr 2024 von der Mindeststeuer befreit. 
+
+Bochum, 31. März 2025 
+
+ 
+
+Thiel     Perić 
+
+Seite 36 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Anhang 
+ 
+Entwicklung des Anlagevermögens 
+   Anschaffungs- und Herstellungskosten  Abschreibungen  Restbuchwerte 
+
+Stand Zugänge Abgänge Umbuch- Stand  Stand Zugänge Abgänge Stand  Stand Stand 
+01.01.2024   ungen 31.12.2024 01.01.2024   31.12.2024 31.12.2024 31.12.2023 
+
+   T€ T€ T€ T€ T€ T€ T€ T€ T€ T€ T€ 
+I. Immaterielle Vermögensgegenstände              
+
+ 1. entgeltlich erworbene gewerbliche 
+Schutzrechte, ähnliche Rechte und Werte 1.268 4 0 0 1.272  1.266 2 0 1.268  4 2 
+
+ 2. geleistete Anzahlungen 16 5 0 0 21  0 0 0 0  21 16 
+   1.284 9 0 0 1.293  1.266 2 0 1.268  25 18 
+II. Sachanlagen              
+
+ 1. Grundstücke, grundstücksgleiche Rechte 
+und Bauten einschließlich der Bauten auf 
+fremden Grundstücken 6.102 0 0 0 6.102  3.938 153 0 4.091  2.011 2.164 
+
+ 2. technische Anlagen und Maschinen 21.451 888 316 534 22.557  10.605 1.142 292 11.455  11.102 10.846 
+ 3. andere Anlagen, Betriebs- und 
+
+Geschäftsausstattung 283 77 1 0 359  245 15 1 259  100 38 
+ 4. geleistete Anzahlungen und Anlagen im 
+
+Bau 625 2.154 0 -534 2.245  0 0 0 0  2.245 625 
+   28.461 3.119 317 0 31.263  14.788 1.310 293 15.805  15.458 13.673 
+III. Finanzanlagen              
+
+ 1. Ausleihungen an verbundene Unternehmen 50.000 0 0 0 50.000  0 0 0 0  50.000 50.000 
+ 2. Beteiligungen 2.564 2.670 0 0 5.234  0 0 0 0  5.234 2.564 
+ 3. Ausleihungen an Unternehmen, mit denen 
+
+ein Beteiligungsverhältnis besteht 382 0 382 0 0  0 0 0 0  0 382 
+ 4. sonstige Ausleihungen 455 73 203 0 325  15 6 3 18  307 440 
+   53.401 2.743 585 0 55.559  15 6 3 18  55.541 53.386 
+   83.146 5.871 902 0 88.115  16.069 1.318 296 17.091  71.024 67.077 
+
+Seite 37 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+„An die Stadtwerke Bochum GmbH 
+
+Prüfungsurteile 
+
+Wir haben den Jahresabschluss der Stadtwerke Bochum GmbH - bestehend aus der Bilanz zum 
+
+31. Dezember 2024 und der Gewinn- und Verlustrechnung für das Geschäftsjahr vom 
+
+1. Januar 2024 bis zum 31. Dezember 2024 sowie dem Anhang, einschließlich der Darstellung der 
+
+Bilanzierungs- und Bewertungsmethoden - geprüft. Darüber hinaus haben wir den Lagebericht der 
+
+Stadtwerke Bochum GmbH für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 
+
+geprüft. 
+
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse 
+
+─ entspricht der beigefügte Jahresabschluss in allen wesentlichen Belangen den deutschen, für 
+
+Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften und vermittelt unter Beachtung 
+
+der deutschen Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen 
+
+entsprechendes Bild der Vermögens- und Finanzlage der Gesellschaft zum 31. Dezember 2024 
+
+sowie ihrer Ertragslage für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 
+
+und 
+
+─ vermittelt der beigefügte Lagebericht insgesamt ein zutreffendes Bild von der Lage der 
+
+Gesellschaft. In allen wesentlichen Belangen steht dieser Lagebericht in Einklang mit dem 
+
+Jahresabschluss, entspricht den deutschen gesetzlichen Vorschriften und stellt die Chancen und 
+
+Risiken der zukünftigen Entwicklung zutreffend dar. 
+
+Gemäß § 322 Abs. 3 Satz 1 HGB erklären wir, dass unsere Prüfung zu keinen Einwendungen 
+gegen die Ordnungsmäßigkeit des Jahresabschlusses und des Lageberichts geführt hat. 
+
+  
+
+Seite 38 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+Grundlage für die Prüfungsurteile 
+
+Wir haben unsere Prüfung des Jahresabschlusses und des Lageberichts in Übereinstimmung mit 
+
+§ 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen 
+
+Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführt. Unsere Verantwortung nach diesen 
+
+Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die Prüfung 
+
+des Jahresabschlusses und des Lageberichts“ unseres Bestätigungsvermerks weitergehend 
+
+beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen 
+
+handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen 
+
+Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir sind der Auffassung, dass 
+
+die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für 
+
+unsere Prüfungsurteile zum Jahresabschluss und zum Lagebericht zu dienen. 
+
+Verantwortung der gesetzlichen Vertreter für den Jahresabschluss und den Lagebericht 
+
+Die gesetzlichen Vertreter sind verantwortlich für die Aufstellung des Jahresabschlusses, der den 
+
+deutschen, für Kapitalgesellschaften geltenden handelsrechtlichen Vorschriften in allen wesent-
+
+lichen Belangen entspricht, und dafür, dass der Jahresabschluss unter Beachtung der deutschen 
+
+Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes 
+
+Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. Ferner sind die 
+
+gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie in Übereinstimmung mit den 
+
+deutschen Grundsätzen ordnungsmäßiger Buchführung als notwendig bestimmt haben, um die 
+
+Aufstellung eines Jahresabschlusses zu ermöglichen, der frei von wesentlichen falschen Dar-
+
+stellungen aufgrund von dolosen Handlungen (d. h. Manipulationen der Rechnungslegung und 
+
+Vermögensschädigungen) oder Irrtümern ist. 
+
+Bei der Aufstellung des Jahresabschlusses sind die gesetzlichen Vertreter dafür verantwortlich, die 
+
+Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit zu beurteilen. Des Weiteren 
+
+haben sie die Verantwortung, Sachverhalte in Zusammenhang mit der Fortführung der Unter-
+
+nehmenstätigkeit, sofern einschlägig, anzugeben. Darüber hinaus sind sie dafür verantwortlich, auf 
+
+der Grundlage des Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit zu 
+
+bilanzieren, sofern dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen. 
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die Aufstellung des Lageberichts, der 
+
+insgesamt ein zutreffendes Bild von der Lage der Gesellschaft vermittelt sowie in allen wesentlichen 
+
+Belangen mit dem Jahresabschluss in Einklang steht, den deutschen gesetzlichen Vorschriften 
+
+Seite 39 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt. Ferner sind 
+
+die gesetzlichen Vertreter verantwortlich für die Vorkehrungen und Maßnahmen (Systeme), die sie 
+
+als notwendig erachtet haben, um die Aufstellung eines Lageberichts in Übereinstimmung mit den 
+
+anzuwendenden deutschen gesetzlichen Vorschriften zu ermöglichen, und um ausreichende 
+
+geeignete Nachweise für die Aussagen im Lagebericht erbringen zu können. 
+
+Verantwortung des Abschlussprüfers für die Prüfung des Jahresabschlusses und des Lage-
+
+berichts 
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob der Jahresabschluss als 
+
+Ganzes frei von wesentlichen falschen Darstellungen aufgrund von dolosen Handlungen oder 
+
+Irrtümern ist, und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Gesellschaft 
+
+vermittelt sowie in allen wesentlichen Belangen mit dem Jahresabschluss sowie mit den bei der 
+
+Prüfung gewonnenen Erkenntnissen in Einklang steht, den deutschen gesetzlichen Vorschriften 
+
+entspricht und die Chancen und Risiken der zukünftigen Entwicklung zutreffend darstellt, sowie 
+
+einen Bestätigungsvermerk zu erteilen, der unsere Prüfungsurteile zum Jahresabschluss und zum 
+
+Lagebericht beinhaltet. 
+
+Hinreichende Sicherheit ist ein hohes Maß an Sicherheit, aber keine Garantie dafür, dass eine in 
+
+Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) 
+
+festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung durchgeführte Prüfung 
+
+eine wesentliche falsche Darstellung stets aufdeckt. Falsche Darstellungen können aus dolosen 
+
+Handlungen oder Irrtümern resultieren und werden als wesentlich angesehen, wenn vernünftiger-
+
+weise erwartet werden könnte, dass sie einzeln oder insgesamt die auf der Grundlage dieses 
+
+Jahresabschlusses und Lageberichts getroffenen wirtschaftlichen Entscheidungen von Adressaten 
+
+beeinflussen. 
+
+  
+
+Seite 40 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+Während der Prüfung üben wir pflichtgemäßes Ermessen aus und bewahren eine kritische Grund-
+
+haltung. Darüber hinaus 
+
+─ identifizieren und beurteilen wir die Risiken wesentlicher falscher Darstellungen im Jahres-
+
+abschluss und im Lagebericht aufgrund von dolosen Handlungen oder Irrtümern, planen und 
+
+führen Prüfungshandlungen als Reaktion auf diese Risiken durch sowie erlangen Prüfungs-
+
+nachweise, die ausreichend und geeignet sind, um als Grundlage für unsere Prüfungsurteile zu 
+
+dienen. Das Risiko, dass eine aus dolosen Handlungen resultierende wesentliche falsche Dar-
+
+stellung nicht aufgedeckt wird, ist höher als das Risiko, dass eine aus Irrtümern resultierende 
+
+wesentliche falsche Darstellung nicht aufgedeckt wird, da dolose Handlungen kollusives 
+
+Zusammenwirken, Fälschungen, beabsichtigte Unvollständigkeiten, irreführende Darstellungen 
+
+bzw. das Außerkraftsetzen interner Kontrollen beinhalten können. 
+
+─ erlangen wir ein Verständnis von den für die Prüfung des Jahresabschlusses relevanten internen 
+
+Kontrollen und den für die Prüfung des Lageberichts relevanten Vorkehrungen und Maßnahmen, 
+
+um Prüfungshandlungen zu planen, die unter den Umständen angemessen sind, jedoch nicht mit 
+
+dem Ziel, ein Prüfungsurteil zur Wirksamkeit der internen Kontrollen der Gesellschaft bzw. dieser 
+
+Vorkehrungen und Maßnahmen abzugeben. 
+
+─ beurteilen wir die Angemessenheit der von den gesetzlichen Vertretern angewandten 
+
+Rechnungslegungsmethoden sowie die Vertretbarkeit der von den gesetzlichen Vertretern 
+
+dargestellten geschätzten Werte und damit zusammenhängenden Angaben. 
+
+─ ziehen wir Schlussfolgerungen über die Angemessenheit des von den gesetzlichen Vertretern 
+
+angewandten Rechnungslegungsgrundsatzes der Fortführung der Unternehmenstätigkeit sowie, 
+
+auf der Grundlage der erlangten Prüfungsnachweise, ob eine wesentliche Unsicherheit im 
+
+Zusammenhang mit Ereignissen oder Gegebenheiten besteht, die bedeutsame Zweifel an der 
+
+Fähigkeit der Gesellschaft zur Fortführung der Unternehmenstätigkeit aufwerfen können. Falls 
+
+wir zu dem Schluss kommen, dass eine wesentliche Unsicherheit besteht, sind wir verpflichtet, 
+
+im Bestätigungsvermerk auf die dazugehörigen Angaben im Jahresabschluss und im Lagebericht 
+
+aufmerksam zu machen oder, falls diese Angaben unangemessen sind, unser jeweiliges 
+
+Prüfungsurteil zu modifizieren. Wir ziehen unsere Schlussfolgerungen auf der Grundlage der bis 
+
+zum Datum unseres Bestätigungsvermerks erlangten Prüfungsnachweise. Zukünftige Ereignisse 
+
+oder Gegebenheiten können jedoch dazu führen, dass die Gesellschaft ihre Unternehmens-
+
+tätigkeit nicht mehr fortführen kann. 
+
+Seite 41 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+─ beurteilen wir Darstellung, Aufbau und Inhalt des Jahresabschlusses insgesamt einschließlich 
+
+der Angaben sowie ob der Jahresabschluss die zugrunde liegenden Geschäftsvorfälle und 
+
+Ereignisse so darstellt, dass der Jahresabschluss unter Beachtung der deutschen Grundsätze 
+
+ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der 
+
+Vermögens-, Finanz- und Ertragslage der Gesellschaft vermittelt. 
+
+─ beurteilen wir den Einklang des Lageberichts mit dem Jahresabschluss, seine Gesetzes-
+
+entsprechung und das von ihm vermittelte Bild von der Lage des Unternehmens. 
+
+─ führen wir Prüfungshandlungen zu den von den gesetzlichen Vertretern dargestellten zukunfts-
+
+orientierten Angaben im Lagebericht durch. Auf Basis ausreichender geeigneter Prüfungs-
+
+nachweise vollziehen wir dabei insbesondere die den zukunftsorientierten Angaben von den 
+
+gesetzlichen Vertretern zugrunde gelegten bedeutsamen Annahmen nach und beurteilen die 
+
+sachgerechte Ableitung der zukunftsorientierten Angaben aus diesen Annahmen. Ein eigen-
+
+ständiges Prüfungsurteil zu den zukunftsorientierten Angaben sowie zu den zugrunde liegenden 
+
+Annahmen geben wir nicht ab. Es besteht ein erhebliches unvermeidbares Risiko, dass künftige 
+
+Ereignisse wesentlich von den zukunftsorientierten Angaben abweichen. 
+
+Wir erörtern mit den für die Überwachung Verantwortlichen unter anderem den geplanten Umfang 
+
+und die Zeitplanung der Prüfung sowie bedeutsame Prüfungsfeststellungen, einschließlich etwaiger 
+
+bedeutsamer Mängel in internen Kontrollen, die wir während unserer Prüfung feststellen. 
+
+Seite 42 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+SONSTIGE GESETZLICHE UND ANDERE RECHTLICHE ANFORDERUNGEN 
+
+Vermerk über die Prüfung der Einhaltung der Rechnungslegungspflichten nach § 6b Abs. 3 
+
+EnWG 
+
+Prüfungsurteil 
+
+Wir haben geprüft, ob die Gesellschaft ihre Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG zur 
+
+Führung getrennter Konten für das Geschäftsjahr vom 1. Januar 2024 bis zum 31. Dezember 2024 
+
+eingehalten hat.  
+
+Nach unserer Beurteilung wurden die Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG zur Führung 
+
+getrennter Konten in allen wesentlichen Belangen eingehalten. 
+
+Grundlage für das Prüfungsurteil 
+
+Wir haben unsere Prüfung der Einhaltung der Pflichten zur Führung getrennter Konten in Überein-
+
+stimmung mit § 6b Abs. 5 EnWG unter Beachtung des IDW Prüfungsstandards: Prüfung nach § 6b 
+
+Energiewirtschaftsgesetz (IDW PS 610 n.F. (07.2021)) durchgeführt. Unsere Verantwortung nach 
+
+diesen Vorschriften und Grundsätzen ist im Abschnitt „Verantwortung des Abschlussprüfers für die 
+
+Prüfung der Einhaltung der Rechnungslegungpflichten nach § 6b Abs. 3 EnWG“ weitergehend 
+
+beschrieben. Wir sind von dem Unternehmen unabhängig in Übereinstimmung mit den deutschen 
+
+handelsrechtlichen und berufsrechtlichen Vorschriften und haben unsere sonstigen deutschen 
+
+Berufspflichten in Übereinstimmung mit diesen Anforderungen erfüllt. Wir wenden als Wirtschafts-
+
+prüfungsgesellschaft die Anforderungen des IDW Qualitätssicherungsstandards: Anforderungen an 
+
+die Qualitätssicherung in der Wirtschaftsprüferpraxis (IDW QS 1) an. Wir sind der Auffassung, dass 
+
+die von uns erlangten Prüfungsnachweise ausreichend und geeignet sind, um als Grundlage für 
+
+unser Prüfungsurteil zur Einhaltung der Rechnungslegungspflichten nach § 6b Abs. 3 EnWG zu 
+
+dienen. 
+
+  
+
+Seite 43 von 44 
+
+
+
+ 
+Stadtwerke Bochum GmbH 
+Bestätigungsvermerk des unabhängigen Abschlussprüfers 
+ 
+ 
+Verantwortung der gesetzlichen Vertreter für die Einhaltung der Rechnungslegungspflichten 
+
+nach § 6b Abs. 3 EnWG 
+
+Die gesetzlichen Vertreter sind verantwortlich für die Einhaltung der Pflichten nach § 6b Abs. 3 
+
+Sätze 1 bis 5 EnWG zur Führung getrennter Konten. 
+
+Außerdem sind die gesetzlichen Vertreter verantwortlich für die internen Kontrollen, die sie als 
+
+notwendig erachtet haben, um die Pflichten zur Führung getrennter Konten einzuhalten. 
+
+Verantwortung des Abschlussprüfers für die Prüfung der Einhaltung der Rechnungslegungs-
+
+pflichten nach § 6b Abs. 3 EnWG 
+
+Unsere Zielsetzung ist, hinreichende Sicherheit darüber zu erlangen, ob die gesetzlichen Vertreter 
+
+ihre Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG zur Führung getrennter Konten in allen wesent-
+
+lichen Belangen eingehalten haben. 
+
+Ferner umfasst unsere Zielsetzung, einen Vermerk in den Bestätigungsvermerk aufzunehmen, der 
+
+unser Prüfungsurteil zur Einhaltung der Rechnungslegungpflichten nach § 6b Abs. 3 EnWG 
+
+beinhaltet. 
+
+Die Prüfung der Einhaltung der Pflichten nach § 6b Abs. 3 Sätze 1 bis 5 EnWG zur Führung 
+
+getrennter Konten umfasst die Beurteilung, ob die Zuordnung der Konten zu den Tätigkeiten nach 
+
+§ 6b Abs. 3 Sätze 1 bis 4 EnWG sachgerecht und nachvollziehbar erfolgt ist und der Grundsatz der 
+
+Stetigkeit beachtet wurde.“ 
+
+Dortmund, den 02. Juni 2025 
+
+ Dr. Bergmann, Kauffmann und Partner 
+                                                                                    GmbH & Co. KG
+ Wirtschaftsprüfungsgesellschaft 
+ Steuerberatungsgesellschaft 
+ 
+ 
+ 
+Unterschrift WP2} h{20mm} w{50mm}. 
+
+                                                         (Börner)                                                     (Black) 
+                                                 Wirtschaftsprüferin        Wirtschaftsprüfer 
+ 
+
+Seite 44 von 44
