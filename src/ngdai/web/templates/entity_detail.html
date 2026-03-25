@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}ngdai - {{ entity.name if entity else 'Nicht gefunden' }}{% endblock %}
+{% block content %}
+{% if entity %}
+<h1>{{ entity.name }}</h1>
+
+<div class="grid">
+    <article>
+        <h3>Stammdaten</h3>
+        <table>
+            <tr><td><strong>MaStR-Nr.</strong></td><td><code>{{ entity.mastr_nr or '—' }}</code></td></tr>
+            <tr><td><strong>Sektor</strong></td><td>{{ ', '.join(entity.sectors or []) }}</td></tr>
+            <tr><td><strong>Bundesland</strong></td><td>{{ entity.state }}</td></tr>
+            <tr><td><strong>Ort</strong></td><td>{{ entity.zip_code }} {{ entity.city }}</td></tr>
+            <tr><td><strong>ACER-Code</strong></td><td>{{ entity.acer_code or '—' }}</td></tr>
+            <tr><td><strong>Status</strong></td><td>{{ entity.status }}</td></tr>
+            <tr><td><strong>Rollen</strong></td><td>{{ ', '.join(entity.roles or []) }}</td></tr>
+        </table>
+    </article>
+</div>
+
+<h2>Abfrage</h2>
+<form action="/query" method="get">
+    <input type="hidden" name="q" value="Effizienzwert {{ entity.name }}">
+    <button type="submit">Effizienzwert abfragen</button>
+</form>
+{% else %}
+<h1>Netzbetreiber nicht gefunden</h1>
+<p><a href="/entities">Zurueck zur Liste</a></p>
+{% endif %}
+{% endblock %}

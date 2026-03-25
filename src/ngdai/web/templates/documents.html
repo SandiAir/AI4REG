@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}ngdai - Dokumente{% endblock %}
+{% block content %}
+<h1>Dokumente</h1>
+
+<div class="grid">
+    <select name="doc_type"
+            hx-get="/api/v1/documents"
+            hx-trigger="change"
+            hx-target="#doc-table">
+        <option value="">Alle Typen</option>
+        <option value="eog">EOG-Beschluesse</option>
+        <option value="geschaeftsbericht">Geschaeftsberichte</option>
+        <option value="festlegung">Festlegungen</option>
+    </select>
+</div>
+
+<div id="doc-table" hx-get="/api/v1/documents" hx-trigger="load" hx-swap="innerHTML">
+    <p>Lade Dokumente...</p>
+</div>
+{% endblock %}

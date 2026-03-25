@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}ngdai - Abfrage{% endblock %}
+{% block content %}
+<h1>Wissensabfrage</h1>
+
+<form hx-get="/api/v1/query" hx-target="#query-result" hx-swap="innerHTML">
+    <div class="grid">
+        <input type="text" name="q" value="{{ q }}"
+               placeholder="z.B. Effizienzwert Stadtwerke Elmshorn" autofocus>
+        <button type="submit">Abfragen</button>
+    </div>
+</form>
+
+<details>
+    <summary>Beispiel-Abfragen</summary>
+    <ul>
+        <li><a href="/query?q=Effizienzwert+Stadtwerke+Elmshorn">Effizienzwert Stadtwerke Elmshorn</a></li>
+        <li><a href="/query?q=Stadtwerke+Elmshorn+vs+Albwerk+EOG+4.RP">Stadtwerke Elmshorn vs Albwerk EOG 4.RP</a></li>
+        <li><a href="/query?q=Median+Effizienzwert+4.RP+Strom">Median Effizienzwert 4.RP Strom</a></li>
+        <li><a href="/query?q=Umsatz+EnBW+2024">Umsatz EnBW 2024</a></li>
+    </ul>
+</details>
+
+<div id="query-result">
+    {% if q %}
+    <p>Lade Ergebnis...</p>
+    <script>
+        // Auto-submit bei URL-Parameter
+        document.querySelector('form').requestSubmit();
+    </script>
+    {% endif %}
+</div>
+{% endblock %}

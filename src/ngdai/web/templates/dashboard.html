@@ -4,23 +4,8 @@
 <h1>ngdai Dashboard</h1>
 <p>Wissensbasierte Analyseplattform fuer die deutsche Netzentgeltregulierung</p>
 
-<div class="grid">
-    <article class="stat-card">
-        <h3 id="entity-count">-</h3>
-        <small>Netzbetreiber</small>
-    </article>
-    <article class="stat-card">
-        <h3 id="document-count">-</h3>
-        <small>Dokumente</small>
-    </article>
-    <article class="stat-card">
-        <h3 id="fact-count">-</h3>
-        <small>Extrahierte Fakten</small>
-    </article>
-    <article class="stat-card">
-        <h3 id="dimension-count">-</h3>
-        <small>Dimensionstypen</small>
-    </article>
+<div class="grid" hx-get="/api/v1/stats" hx-trigger="load" hx-swap="innerHTML">
+    <article class="stat-card"><h3>...</h3><small>Lade...</small></article>
 </div>
 
 <h2>Schnellabfrage</h2>
