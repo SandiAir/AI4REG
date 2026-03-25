@@ -1,5 +1,7 @@
 """FastAPI Application - Haupteinstiegspunkt fuer den Web-Server."""
 
+import logging
+from contextlib import asynccontextmanager
 from pathlib import Path
 
 from fastapi import FastAPI, Request, Query
@@ -7,10 +9,38 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
+logger = logging.getLogger("ngdai")
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Startup: DB-Tabellen und Grunddaten sicherstellen."""
+    try:
+        from ngdai.db.engine import get_engine
+        from ngdai.db.models import Base
+
+        engine = get_engine()
+        Base.metadata.create_all(engine)
+        logger.info("Datenbank-Tabellen sichergestellt.")
+
+        from ngdai.dimensions.registry import load_dimension_types
+        from ngdai.definitions.service import load_fact_definitions, load_directory_definitions
+
+        load_dimension_types()
+        load_fact_definitions()
+        load_directory_definitions()
+        logger.info("Grunddaten geladen.")
+    except Exception as e:
+        logger.warning("Startup-Init fehlgeschlagen (App startet trotzdem): %s", e)
+
+    yield
+
+
 app = FastAPI(
     title="ngdai",
     description="Wissensbasierte Analyseplattform fuer die deutsche Netzentgeltregulierung",
     version="0.1.0",
+    lifespan=lifespan,
 )
 
 # Static files und Templates
@@ -35,7 +65,7 @@ def health():
 @app.get("/")
 def dashboard(request: Request):
     """Dashboard mit Live-Stats via HTMX."""
-    return templates.TemplateResponse("dashboard.html", {"request": request})
+    return templates.TemplateResponse(request, "dashboard.html")
 
 
 @app.get("/api/v1/stats", response_class=HTMLResponse)
@@ -71,7 +101,7 @@ def dashboard_stats():
 
 @app.get("/entities")
 def entities_page(request: Request):
-    return templates.TemplateResponse("entities.html", {"request": request})
+    return templates.TemplateResponse(request, "entities.html")
 
 
 @app.get("/api/v1/entities", response_class=HTMLResponse)
@@ -132,17 +162,14 @@ def entities_list(
 def entity_detail(request: Request, entity_id: str):
     from ngdai.entities.service import get_entity
     entity = get_entity(entity_id)
-    return templates.TemplateResponse("entity_detail.html", {
-        "request": request,
-        "entity": entity,
-    })
+    return templates.TemplateResponse(request, "entity_detail.html", {"entity": entity})
 
 
 # ── Documents ──────────────────────────────────────────────
 
 @app.get("/documents")
 def documents_page(request: Request):
-    return templates.TemplateResponse("documents.html", {"request": request})
+    return templates.TemplateResponse(request, "documents.html")
 
 
 @app.get("/api/v1/documents", response_class=HTMLResponse)
@@ -185,7 +212,7 @@ def documents_list(
 
 @app.get("/query")
 def query_page(request: Request, q: str = Query("", description="Frage")):
-    return templates.TemplateResponse("query.html", {"request": request, "q": q})
+    return templates.TemplateResponse(request, "query.html", {"q": q})
 
 
 @app.get("/api/v1/query", response_class=HTMLResponse)

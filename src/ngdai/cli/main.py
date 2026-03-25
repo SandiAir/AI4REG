@@ -45,12 +45,18 @@ def init():
 @app.command()
 def serve(
     host: str = typer.Option("0.0.0.0", help="Host"),
-    port: int = typer.Option(8000, help="Port"),
+    port: int = typer.Option(None, help="Port (default: PORT env oder 8000)"),
 ):
     """FastAPI-Server starten."""
     import uvicorn
-    console.print(f"[bold blue]ngdai serve[/bold blue] - Server starten auf {host}:{port}...")
-    uvicorn.run("ngdai.api.app:app", host=host, port=port, reload=True)
+    from ngdai.core.config import get_settings
+
+    settings = get_settings()
+    actual_port = port if port is not None else settings.get_port()
+    is_dev = settings.env == "development"
+
+    console.print(f"[bold blue]ngdai serve[/bold blue] - Server starten auf {host}:{actual_port}...")
+    uvicorn.run("ngdai.api.app:app", host=host, port=actual_port, reload=is_dev)
 
 
 # ── Import Commands ─────────────────────────────────────────

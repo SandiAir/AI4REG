@@ -1,5 +1,6 @@
 """Zentrale Konfiguration - liest aus config/settings.yaml + .env."""
 
+import os
 from pathlib import Path
 from functools import lru_cache
 
@@ -55,6 +56,7 @@ class Settings(BaseSettings):
 
     env: str = "development"
     debug: bool = True
+    port: int = 8000
     data_path: Path = DATA_PATH
 
     # Sub-Configs
@@ -70,6 +72,18 @@ class Settings(BaseSettings):
     def get_llm_api_key(self) -> str:
         """Liefert den API Key - aus llm.api_key oder anthropic_api_key."""
         return self.llm.api_key or self.anthropic_api_key
+
+    def get_port(self) -> int:
+        """Port - Railway setzt PORT direkt, sonst NGDAI_PORT oder Default."""
+        return int(os.environ.get("PORT", self.port))
+
+    def get_database_url(self) -> str:
+        """DB URL - Railway setzt DATABASE_URL direkt."""
+        return os.environ.get("DATABASE_URL", self.database.url)
+
+    def get_redis_url(self) -> str:
+        """Redis URL - Railway setzt REDIS_URL direkt."""
+        return os.environ.get("REDIS_URL", self.redis.url)
 
 
 @lru_cache()
