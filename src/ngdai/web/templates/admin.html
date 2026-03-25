@@ -31,14 +31,14 @@
 
     <h3>Dokumente ingesten</h3>
     <div class="grid">
-        <button hx-post="/api/v1/admin/ingest?path=Gesch%C3%A4ftsberichte/2024" hx-target="#ingest-result" hx-swap="innerHTML">
+        <button hx-post="/api/v1/admin/ingest?path=doc/daten/geschaeftsberichte/2024" hx-target="#ingest-result" hx-swap="innerHTML">
             Geschaeftsberichte 2024
         </button>
-        <button hx-post="/api/v1/admin/ingest?path=vierteregulierung/EOG" hx-target="#ingest-result" hx-swap="innerHTML">
-            4. RP EOG-Beschluesse
+        <button hx-post="/api/v1/admin/ingest?path=doc/daten/beschluesse/4rp" hx-target="#ingest-result" hx-swap="innerHTML">
+            4. RP Beschluesse
         </button>
-        <button hx-post="/api/v1/admin/ingest?path=dritteregulierung/EOG" hx-target="#ingest-result" hx-swap="innerHTML">
-            3. RP EOG-Beschluesse
+        <button hx-post="/api/v1/admin/ingest?path=doc/daten/beschluesse/3rp" hx-target="#ingest-result" hx-swap="innerHTML">
+            3. RP Beschluesse
         </button>
     </div>
     <pre id="ingest-result" style="margin-top:0.5rem;"></pre>

@@ -247,8 +247,8 @@ def admin_import_marktakteure(
     from ngdai.entities.service import import_marktakteure_csv, invalidate_name_cache
 
     csv_map = {
-        "strom": PROJECT_ROOT / "marktakteure" / "2026-03-23_OeffentlicheMarktakteure_Strom.csv",
-        "gas": PROJECT_ROOT / "marktakteure" / "2026-03-23_OeffentlicheMarktakteur_Gas.csv",
+        "strom": PROJECT_ROOT / "doc" / "daten" / "marktakteure" / "2026-03-23_OeffentlicheMarktakteure_Strom.csv",
+        "gas": PROJECT_ROOT / "doc" / "daten" / "marktakteure" / "2026-03-23_OeffentlicheMarktakteur_Gas.csv",
     }
 
     csv_path = csv_map.get(sector)
@@ -305,7 +305,7 @@ def admin_seed():
         ("strom", "2026-03-23_OeffentlicheMarktakteure_Strom.csv"),
         ("gas", "2026-03-23_OeffentlicheMarktakteur_Gas.csv"),
     ]:
-        csv_path = PROJECT_ROOT / "marktakteure" / filename
+        csv_path = PROJECT_ROOT / "doc" / "daten" / "marktakteure" / filename
         if csv_path.exists():
             count = import_marktakteure_csv(str(csv_path), sector)
             results[f"marktakteure_{sector}"] = count
@@ -313,21 +313,12 @@ def admin_seed():
     invalidate_name_cache()
 
     # 2. Dokumente ingesten
+    doc_base = PROJECT_ROOT / "doc" / "daten"
     ingest_dirs = {
-        "vierteregulierung/EOG": PROJECT_ROOT / "vierteregulierung" / "EOG",
-        "dritteregulierung/EOG": PROJECT_ROOT / "dritteregulierung" / "EOG",
+        "beschluesse_4rp": doc_base / "beschluesse" / "4rp",
+        "beschluesse_3rp": doc_base / "beschluesse" / "3rp",
+        "geschaeftsberichte_2024": doc_base / "geschaeftsberichte" / "2024",
     }
-
-    # Geschäftsberichte: flexible Pfad-Erkennung
-    gb_path = PROJECT_ROOT / "Geschäftsberichte" / "2024"
-    if not gb_path.exists():
-        for p in PROJECT_ROOT.iterdir():
-            if p.is_dir() and p.name.startswith("Gesch"):
-                gb_sub = p / "2024"
-                if gb_sub.exists():
-                    gb_path = gb_sub
-                    break
-    ingest_dirs["geschaeftsberichte_2024"] = gb_path
 
     for label, dir_path in ingest_dirs.items():
         if dir_path.exists():
@@ -342,42 +333,27 @@ def admin_list_files():
     """Zeigt verfuegbare Daten-Verzeichnisse und Dateien."""
     from ngdai.core.config import PROJECT_ROOT
 
-    dirs_to_check = [
-        "marktakteure",
-        "vierteregulierung/EOG",
-        "dritteregulierung/EOG",
-    ]
+    doc_base = PROJECT_ROOT / "doc" / "daten"
 
-    # Geschäftsberichte: versuche beide Schreibweisen
-    gb_path = PROJECT_ROOT / "Geschäftsberichte" / "2024"
-    if not gb_path.exists():
-        # Fallback: suche Verzeichnis das mit "Gesch" beginnt
-        for p in PROJECT_ROOT.iterdir():
-            if p.is_dir() and p.name.startswith("Gesch"):
-                gb_sub = p / "2024"
-                if gb_sub.exists():
-                    gb_path = gb_sub
-                    break
+    dirs_to_check = {
+        "marktakteure": doc_base / "marktakteure",
+        "geschaeftsberichte_2024": doc_base / "geschaeftsberichte" / "2024",
+        "beschluesse_4rp": doc_base / "beschluesse" / "4rp",
+        "beschluesse_3rp": doc_base / "beschluesse" / "3rp",
+        "gerichtsurteile": doc_base / "gerichtsurteile",
+        "preisblaetter": doc_base / "preisblaetter",
+        "par23b": doc_base / "par23b",
+        "par23c": doc_base / "par23c",
+    }
 
-    result = {"project_root": str(PROJECT_ROOT)}
+    result = {"project_root": str(PROJECT_ROOT), "doc_base": str(doc_base)}
 
-    for d in dirs_to_check:
-        dir_path = PROJECT_ROOT / d
+    for label, dir_path in dirs_to_check.items():
         if dir_path.exists():
-            files = sorted([f.name for f in dir_path.iterdir() if f.is_file()])
-            result[d] = {"count": len(files), "files": files[:10], "path": str(dir_path)}
+            files = sorted([f.name for f in dir_path.iterdir() if f.is_file() and f.name != ".gitkeep"])
+            result[label] = {"count": len(files), "files": files[:10], "path": str(dir_path)}
         else:
-            result[d] = {"count": 0, "exists": False, "checked_path": str(dir_path)}
-
-    if gb_path.exists():
-        files = sorted([f.name for f in gb_path.iterdir() if f.is_file()])
-        result["geschaeftsberichte_2024"] = {"count": len(files), "files": files[:10], "path": str(gb_path)}
-    else:
-        result["geschaeftsberichte_2024"] = {"count": 0, "exists": False, "checked_path": str(gb_path)}
-
-    # Zeige auch Top-Level Verzeichnisse
-    top_dirs = sorted([p.name for p in PROJECT_ROOT.iterdir() if p.is_dir() and not p.name.startswith(".")])
-    result["top_level_dirs"] = top_dirs
+            result[label] = {"count": 0, "exists": False, "checked_path": str(dir_path)}
 
     return result
 
