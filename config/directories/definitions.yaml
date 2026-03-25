@@ -1,0 +1,70 @@
+# Directory Definitions: Welcher Ordner enthält welche Dokumenttypen
+# Wird bei `ngdai init` in die DB geladen
+
+- id: "eog_3rp_strom"
+  path: "dritteregulierung/EOG"
+  document_type: "eog"
+  sector: "strom"
+  regulatory_period: "3.RP"
+  period_start_year: 2019
+  period_end_year: 2023
+  source_authority: "BNetzA"
+  source_reliability: 0.95
+  expected_period_fixed:
+    - effizienzwert
+    - ausgangsniveau
+    - verfahrensart
+    - basisjahr
+    - ek_zinssatz_alt
+    - ek_zinssatz_neu
+    - xgen
+  expected_annually_variable:
+    - eog_jahr
+    - dnb_kosten
+    - beeinflussbare_kosten
+    - erweiterungsfaktor
+    - regulierungskonto_saldo
+    - vpi_anpassung
+
+- id: "eog_4rp_strom"
+  path: "vierteregulierung/EOG"
+  document_type: "eog"
+  sector: "strom"
+  regulatory_period: "4.RP"
+  period_start_year: 2024
+  period_end_year: 2028
+  source_authority: "BNetzA"
+  source_reliability: 0.95
+  expected_period_fixed:
+    - effizienzwert
+    - ausgangsniveau
+    - verfahrensart
+    - basisjahr
+    - ek_zinssatz_alt
+    - ek_zinssatz_neu
+    - xgen
+  expected_annually_variable:
+    - eog_jahr
+    - dnb_kosten
+    - beeinflussbare_kosten
+    - erweiterungsfaktor
+    - regulierungskonto_saldo
+    - vpi_anpassung
+
+- id: "gb_2024"
+  path: "Geschäftsberichte/2024"
+  document_type: "geschaeftsbericht"
+  sector: "strom"
+  regulatory_period: ""
+  period_start_year: 2024
+  period_end_year: 2024
+  source_authority: "Unternehmen"
+  source_reliability: 0.85
+  expected_period_fixed: []
+  expected_annually_variable:
+    - gb_umsatz
+    - gb_ebit
+    - gb_mitarbeiter
+    - gb_investitionen
+    - gb_netzlaenge
+    - gb_anschlusspunkte

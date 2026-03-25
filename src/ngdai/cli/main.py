@@ -31,9 +31,13 @@ def init():
     console.print(f"[green]{count} Dimensionstypen geladen.[/green]")
 
     # Fact Definitions laden
-    from ngdai.definitions.service import load_fact_definitions
+    from ngdai.definitions.service import load_fact_definitions, load_directory_definitions
     count = load_fact_definitions()
     console.print(f"[green]{count} Fakt-Definitionen geladen.[/green]")
+
+    # Directory Definitions laden
+    count = load_directory_definitions()
+    console.print(f"[green]{count} Verzeichnis-Definitionen geladen.[/green]")
 
     console.print("[bold green]Initialisierung abgeschlossen.[/bold green]")
 
