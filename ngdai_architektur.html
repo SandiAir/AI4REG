@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ngdai &mdash; Software-Architektur</title>
+<style>
+  @page { size: A4; margin: 2cm; }
+  @media print {
+    body { font-size: 9.5pt; }
+    .page-break { page-break-before: always; }
+    .no-print { display: none; }
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', Calibri, Arial, sans-serif;
+    color: #222;
+    line-height: 1.7;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 30px;
+    background: #fff;
+  }
+
+  .title-page {
+    text-align: center;
+    padding: 100px 0 60px;
+    border-bottom: 3px solid #004c8c;
+    margin-bottom: 40px;
+  }
+  .title-page h1 { font-size: 52px; color: #003366; margin-bottom: 10px; letter-spacing: 3px; }
+  .title-page .subtitle { font-size: 24px; color: #555; margin-bottom: 5px; }
+  .title-page .desc { font-size: 16px; color: #777; margin-bottom: 30px; line-height: 1.8; }
+  .title-page .meta { font-size: 13px; color: #999; line-height: 2.2; }
+
+  h2 {
+    font-size: 24px; color: #003366; margin: 55px 0 18px;
+    padding-bottom: 8px; border-bottom: 2px solid #004c8c;
+  }
+  h3 { font-size: 18px; color: #004c8c; margin: 35px 0 12px; }
+  h4 { font-size: 15px; color: #333; margin: 22px 0 10px; }
+
+  p { margin: 10px 0; font-size: 14px; }
+  .intro { font-size: 15px; line-height: 1.8; margin-bottom: 16px; }
+  .highlight {
+    background: #f0f5fa; border-left: 4px solid #004c8c;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+  .highlight strong { color: #003366; }
+  .warning {
+    background: #fef3f3; border-left: 4px solid #c62828;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+  .warning strong { color: #c62828; }
+  .note {
+    background: #fff8e1; border-left: 4px solid #f9a825;
+    padding: 12px 16px; margin: 14px 0; font-size: 13px; line-height: 1.7;
+  }
+  .success {
+    background: #e8f5e9; border-left: 4px solid #2e7d32;
+    padding: 14px 18px; margin: 18px 0; font-size: 14px; line-height: 1.7;
+  }
+
+  table { width: 100%; border-collapse: collapse; margin: 14px 0 22px; font-size: 13px; }
+  th {
+    background: #004c8c; color: #fff; padding: 10px 12px;
+    text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px;
+  }
+  td { padding: 9px 12px; border-bottom: 1px solid #ddd; vertical-align: top; line-height: 1.6; }
+  tr:nth-child(even) { background: #f5f8fc; }
+  tr:hover { background: #e8f0f8; }
+
+  ul, ol { margin: 10px 0 10px 26px; font-size: 14px; line-height: 1.8; }
+  li { margin: 5px 0; }
+
+  .flow-step {
+    display: flex; align-items: flex-start; margin: 8px 0;
+    font-size: 14px; line-height: 1.6;
+  }
+  .flow-num {
+    background: #004c8c; color: #fff; border-radius: 50%;
+    min-width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 700; margin-right: 14px; margin-top: 2px; flex-shrink: 0;
+  }
+
+  .toc {
+    background: #f8f9fb; border: 1px solid #e0e4ea; border-radius: 8px;
+    padding: 24px 32px; margin: 35px 0;
+  }
+  .toc h3 { margin-top: 0; font-size: 18px; }
+  .toc ol { font-size: 14px; line-height: 2; }
+  .toc a { color: #004c8c; text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+
+  .risk-high { color: #c62828; font-weight: 600; }
+  .risk-medium { color: #ef6c00; font-weight: 600; }
+  .risk-low { color: #2e7d32; font-weight: 600; }
+
+  .badge {
+    display: inline-block; padding: 2px 8px; border-radius: 4px;
+    font-size: 11px; font-weight: 600; text-transform: uppercase;
+  }
+  .badge-green { background: #e8f5e9; color: #2e7d32; }
+  .badge-yellow { background: #fff8e1; color: #ef6c00; }
+  .badge-red { background: #fef3f3; color: #c62828; }
+  .badge-blue { background: #e3f2fd; color: #1565c0; }
+
+  .arch-box {
+    border: 2px solid #004c8c; border-radius: 8px; padding: 16px 20px;
+    margin: 12px 0; background: #f8fafd;
+  }
+  .arch-box h4 { margin-top: 0; color: #003366; }
+
+  pre {
+    background: #f5f5f5; border: 1px solid #ddd; border-radius: 6px;
+    padding: 16px; font-size: 12px; line-height: 1.6; overflow-x: auto;
+    font-family: 'Cascadia Code', 'Consolas', monospace;
+  }
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- TITLE PAGE -->
+<!-- ============================================================ -->
+<div class="title-page">
+  <h1>ngdai</h1>
+  <div class="subtitle">Software-Architektur</div>
+  <div class="desc">
+    Technisches Systemdesign<br>
+    f&uuml;r die wissensbasierte Analyseplattform<br>
+    der deutschen Netzentgeltregulierung
+  </div>
+  <div class="meta">
+    Version 1.0 &mdash; M&auml;rz 2026<br>
+    Basierend auf dem Produktkonzept (ngdai_produktkonzept.html)<br>
+    Phase 1: Fundament (MVP)
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- TOC -->
+<!-- ============================================================ -->
+<div class="toc">
+  <h3>Inhalt</h3>
+  <ol>
+    <li><a href="#ueberblick">Was dieses Dokument beschreibt</a></li>
+    <li><a href="#leitidee">Die Leitidee: Vom Dokument zum Wissen</a></li>
+    <li><a href="#dimensionen">Das Dimensionsmodell &mdash; das Herzst&uuml;ck</a></li>
+    <li><a href="#pipeline">Wie Daten durch das System flie&szlig;en</a></li>
+    <li><a href="#abfragen">Wie Nutzer Fragen stellen</a></li>
+    <li><a href="#begriffsmapping">Begriffsmapping &mdash; das System versteht verschiedene Formulierungen</a></li>
+    <li><a href="#embeddings">Embeddings &mdash; Bedeutungssuche ohne Informationsverlust</a></li>
+    <li><a href="#qualitaet">Wissensqualit&auml;t &mdash; das System kennt seine Grenzen</a></li>
+    <li><a href="#bausteine">Technische Bausteine</a></li>
+    <li><a href="#entscheidungen">Architektur-Entscheidungen</a></li>
+    <li><a href="#phase1">Phase 1 &mdash; Was zuerst gebaut wird</a></li>
+    <li><a href="#risiken">Risiken und Gegenma&szlig;nahmen</a></li>
+  </ol>
+</div>
+
+<!-- ============================================================ -->
+<!-- 1. UEBERBLICK -->
+<!-- ============================================================ -->
+<h2 id="ueberblick">1. Was dieses Dokument beschreibt</h2>
+
+<p class="intro">
+  Das <strong>Produktkonzept</strong> beschreibt <em>was</em> ngdai tun soll &mdash; welche Fragen es beantworten
+  kann, welche Datenquellen es nutzt und welche Qualit&auml;tsgarantien es gibt. Dieses Dokument beschreibt
+  <em>wie</em> das technisch umgesetzt wird: Welche Bausteine gibt es, wie h&auml;ngen sie zusammen, und
+  in welcher Reihenfolge werden sie gebaut.
+</p>
+
+<div class="highlight">
+  <strong>Zielpublikum:</strong> Dieses Dokument ist sowohl f&uuml;r technische als auch fachliche Leser geschrieben.
+  Technische Details sind in eigenen Abschnitten gekennzeichnet &mdash; fachliche Leser k&ouml;nnen diese
+  &uuml;berspringen und trotzdem das Gesamtbild verstehen.
+</div>
+
+<!-- ============================================================ -->
+<!-- 2. LEITIDEE -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="leitidee">2. Die Leitidee: Vom Dokument zum Wissen</h2>
+
+<p class="intro">
+  ngdai verwandelt unstrukturierte Regulierungsdokumente (PDFs, Excel-Dateien, Textdateien) in
+  <strong>strukturiertes, abfragbares Wissen</strong>. Dabei durchl&auml;uft jedes Dokument drei Stufen:
+</p>
+
+<div class="flow-step"><div class="flow-num">1</div><div><strong>Einlesen (Ingestion)</strong><br>Das Quelldokument wird verlustfrei in ein maschinenlesbares Format &uuml;berf&uuml;hrt. Der Originaltext bleibt immer als &bdquo;Ground Truth&ldquo; erhalten.</div></div>
+<div class="flow-step"><div class="flow-num">2</div><div><strong>Verstehen (Extraktion)</strong><br>Eine KI liest das Dokument und extrahiert konkrete Datenpunkte &mdash; z.B. &bdquo;Effizienzwert: 91,81%&ldquo; oder &bdquo;EOG 2024: 15,2 Mio. EUR&ldquo;. Jeder Datenpunkt wird mit seiner exakten Fundstelle im Originaldokument verkn&uuml;pft.</div></div>
+<div class="flow-step"><div class="flow-num">3</div><div><strong>Vernetzen (Knowledge Graph)</strong><br>Die extrahierten Datenpunkte werden in einem Wissensgraphen miteinander verkn&uuml;pft: Welcher Netzbetreiber? Welche Regulierungsperiode? Welches Thema? Welche Region? So entsteht ein Netz aus Fakten, das sich aus jeder Richtung abfragen l&auml;sst.</div></div>
+
+<div class="success">
+  <strong>Das Ergebnis:</strong> Statt in 95 Dokumenten nach Zahlen zu suchen, stellt der Nutzer eine Frage
+  und erh&auml;lt eine fundierte Antwort &mdash; mit Quellenangabe, Vertrauensbewertung und dem Hinweis,
+  wie vollst&auml;ndig die Datenbasis ist.
+</div>
+
+<!-- ============================================================ -->
+<!-- 3. DIMENSIONSMODELL -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="dimensionen">3. Das Dimensionsmodell &mdash; das Herzst&uuml;ck</h2>
+
+<h3>3.1 Warum ein Dimensionsmodell?</h3>
+
+<p class="intro">
+  In der Regulierung gibt es nicht nur &bdquo;Unternehmen&ldquo; und &bdquo;Themen&ldquo;. Es gibt Verfahren,
+  Beschlusskammern, Regionen, Netzebenen, Kostenarten, Konzerne &mdash; und in Zukunft werden weitere
+  Ordnungskriterien dazukommen. Wenn wir jedes dieser Objekte einzeln ins System einbauen m&uuml;ssten,
+  w&auml;re das System schnell starr und un&auml;nderbar.
+</p>
+
+<p>
+  Stattdessen nutzt ngdai ein <strong>generisches Dimensionsmodell</strong>: Jeder extrahierte Datenpunkt
+  (Fakt) h&auml;ngt nicht an einem festen Unternehmen und einer festen Periode, sondern an
+  <strong>beliebig vielen Dimensionen</strong> gleichzeitig.
+</p>
+
+<div class="highlight">
+  <strong>Analogie:</strong> Stellen Sie sich eine Excel-Tabelle vor, bei der Sie beliebig viele Spalten
+  hinzuf&uuml;gen k&ouml;nnen &mdash; und jede Spalte ist ein neues Ordnungskriterium, nach dem Sie filtern,
+  gruppieren und vergleichen k&ouml;nnen. Das Dimensionsmodell ist diese Tabelle, nur deutlich m&auml;chtiger.
+</div>
+
+<h3>3.2 Welche Dimensionen gibt es?</h3>
+
+<table>
+  <tr><th>Dimension</th><th>Was sie beschreibt</th><th>Beispiele</th><th>Woher kommt sie?</th></tr>
+  <tr>
+    <td><strong>Netzbetreiber</strong><br><small>(legal_entity)</small></td>
+    <td>Das Unternehmen, um das es geht</td>
+    <td>Stadtwerke Elmshorn, Albwerk, EnBW Netz</td>
+    <td>Wird aus dem Dokument erkannt</td>
+  </tr>
+  <tr>
+    <td><strong>Verfahren</strong><br><small>(proceeding)</small></td>
+    <td>Das Regulierungsverfahren (Aktenzeichen)</td>
+    <td>BK8-21-10463, BK9-22-00123</td>
+    <td>Wird aus dem Aktenzeichen geparst</td>
+  </tr>
+  <tr>
+    <td><strong>Regulierungsperiode</strong><br><small>(regulatory_period)</small></td>
+    <td>Der 5-Jahres-Zeitraum</td>
+    <td>3.&nbsp;RP Strom, 4.&nbsp;RP Gas</td>
+    <td>Aus der Verzeichnis-Definition</td>
+  </tr>
+  <tr>
+    <td><strong>Kalenderjahr</strong><br><small>(calendar_year)</small></td>
+    <td>Das konkrete Jahr</td>
+    <td>2019, 2020, ..., 2028</td>
+    <td>Aus Verzeichnis + Extraktion</td>
+  </tr>
+  <tr>
+    <td><strong>Sektor</strong><br><small>(sector)</small></td>
+    <td>Strom oder Gas</td>
+    <td>Strom, Gas</td>
+    <td>Aus der Verzeichnis-Definition</td>
+  </tr>
+  <tr>
+    <td><strong>Dokumenttyp</strong><br><small>(document_type)</small></td>
+    <td>Art des Quelldokuments</td>
+    <td>EOG-Beschluss, Gesch&auml;ftsbericht, KKauf</td>
+    <td>Aus der Verzeichnis-Definition</td>
+  </tr>
+  <tr>
+    <td><strong>Beschlusskammer</strong><br><small>(decision_chamber)</small></td>
+    <td>Welche BNetzA-Kammer entscheidet</td>
+    <td>BK4, BK8 (Strom), BK9 (Gas)</td>
+    <td>Abgeleitet aus dem Aktenzeichen</td>
+  </tr>
+  <tr>
+    <td><strong>Region</strong><br><small>(region)</small></td>
+    <td>Geographische Zuordnung</td>
+    <td>NRW, Bayern, Schleswig-Holstein</td>
+    <td>Abgeleitet aus den Unternehmensdaten</td>
+  </tr>
+  <tr>
+    <td><strong>Netzebene</strong><br><small>(network_level)</small></td>
+    <td>Spannungsebene des Netzes</td>
+    <td>Hochspannung, Mittelspannung, Niederspannung</td>
+    <td>Abgeleitet aus den Unternehmensdaten</td>
+  </tr>
+  <tr>
+    <td><strong>Kostenart</strong><br><small>(cost_category)</small></td>
+    <td>Regulatorische Kostenkategorie</td>
+    <td>dnb-Kosten, beeinflussbare Kosten, KKauf</td>
+    <td>Wird bei der Extraktion erkannt</td>
+  </tr>
+  <tr>
+    <td><strong>Fachthema</strong><br><small>(subject_matter)</small></td>
+    <td>Inhaltliches Thema quer &uuml;ber Unternehmen</td>
+    <td>Pachtk&uuml;rzungen, Effizienzvergleich</td>
+    <td>Extraktion + manuelle Zuordnung</td>
+  </tr>
+  <tr>
+    <td><strong>Konzern</strong><br><small>(konzern)</small></td>
+    <td>&Uuml;bergeordnete Unternehmensgruppe</td>
+    <td>EnBW-Gruppe, E.ON-Gruppe</td>
+    <td>Abgeleitet aus der Konzernzugeh&ouml;rigkeit</td>
+  </tr>
+  <tr>
+    <td colspan="4"><em>Neue Dimensionen k&ouml;nnen jederzeit hinzugef&uuml;gt werden &mdash; ohne Programmier&auml;nderung. Es gen&uuml;gt eine Konfigurations&auml;nderung.</em></td>
+  </tr>
+</table>
+
+<h3>3.3 Wie funktioniert das in der Praxis?</h3>
+
+<p>
+  Ein einzelner Datenpunkt &mdash; z.B. &bdquo;Effizienzwert 91,81%&ldquo; &mdash; wird gleichzeitig
+  in mehrere Dimensionen eingeordnet:
+</p>
+
+<div class="arch-box">
+  <h4>Beispiel: Ein Fakt und seine Dimensionen</h4>
+  <table>
+    <tr><th>Fakt</th><th colspan="2">Effizienzwert: 91,81%</th></tr>
+    <tr><td><strong>Netzbetreiber</strong></td><td colspan="2">Stadtwerke Elmshorn</td></tr>
+    <tr><td><strong>Verfahren</strong></td><td colspan="2">BK8-21-10463</td></tr>
+    <tr><td><strong>Regulierungsperiode</strong></td><td colspan="2">4. RP Strom (2024&ndash;2028)</td></tr>
+    <tr><td><strong>Beschlusskammer</strong></td><td colspan="2">BK8</td></tr>
+    <tr><td><strong>Region</strong></td><td colspan="2">Schleswig-Holstein</td></tr>
+    <tr><td><strong>Netzebene</strong></td><td colspan="2">MS/NS</td></tr>
+    <tr><td><strong>Sektor</strong></td><td colspan="2">Strom</td></tr>
+    <tr><td><strong>Dokumenttyp</strong></td><td colspan="2">EOG-Beschluss</td></tr>
+    <tr><td><strong>Quelle</strong></td><td colspan="2">BK8-21-10463, Seite 4, Absatz 2: &bdquo;Der Effizienzwert betr&auml;gt 91,81 Prozent.&ldquo;</td></tr>
+  </table>
+</div>
+
+<p>
+  Durch diese Mehrdimensionalit&auml;t kann <strong>jede denkbare Frage</strong> beantwortet werden:
+</p>
+
+<table>
+  <tr><th>Frage</th><th>Genutztes Dimensions-Tupel</th></tr>
+  <tr><td>&bdquo;Was wissen wir &uuml;ber Stadtwerke Elmshorn?&ldquo;</td><td>(Netzbetreiber = Elmshorn)</td></tr>
+  <tr><td>&bdquo;Effizienzwerte aller Netzbetreiber in NRW&ldquo;</td><td>(Region = NRW, Fachthema = Effizienz)</td></tr>
+  <tr><td>&bdquo;dnb-Kosten im EnBW-Konzern 2024&ldquo;</td><td>(Konzern = EnBW, Kostenart = dnb, Jahr = 2024)</td></tr>
+  <tr><td>&bdquo;Vergleich 3.&nbsp;RP vs. 4.&nbsp;RP f&uuml;r Strom&ldquo;</td><td>(Sektor = Strom, Periode = 3.RP) vs. (Sektor = Strom, Periode = 4.RP)</td></tr>
+  <tr><td>&bdquo;Alle Entscheidungen der BK8 zu Mittelspannung&ldquo;</td><td>(Beschlusskammer = BK8, Netzebene = MS)</td></tr>
+  <tr><td>&bdquo;Alles zum Verfahren BK8-21-10463&ldquo;</td><td>(Verfahren = BK8-21-10463)</td></tr>
+</table>
+
+<h3>3.4 Zwei Phasen der Dimensionierung</h3>
+
+<p>
+  Die Zuordnung eines Fakts zu seinen Dimensionen geschieht nicht auf einmal, sondern in
+  <strong>zwei Phasen</strong>:
+</p>
+
+<div class="flow-step"><div class="flow-num">1</div><div><strong>Verzeichnis-Ebene (vor der Extraktion)</strong><br>Bevor das System ein Dokument liest, wei&szlig; es bereits aus der Verzeichnis-Definition: Dieses Verzeichnis enth&auml;lt <em>EOG-Beschl&uuml;sse</em>, <em>Strom</em>, <em>4. Regulierungsperiode</em>. Das sind die Basis-Dimensionen &mdash; sicher und eindeutig.</div></div>
+
+<div class="flow-step"><div class="flow-num">2</div><div><strong>Graph-Ebene (nach der Extraktion, &bdquo;live&ldquo;)</strong><br>Erst wenn die Daten extrahiert und im Wissensgraphen sind, k&ouml;nnen weitere Dimensionen zugeordnet werden: Welcher Netzbetreiber? Welches Verfahren? Welche Kostenart? Welche Region? Diese Zuordnung &uuml;bernimmt die <strong>Dimensions-Attributions-Pipeline</strong> automatisch.</div></div>
+
+<div class="note">
+  <strong>Warum zwei Phasen?</strong> Weil bestimmte Informationen erst bekannt sind, wenn das Dokument
+  tats&auml;chlich gelesen wurde. Die Verzeichnis-Struktur ist die Keimzelle &mdash; sie liefert die
+  initialen Dimensionen. Der Knowledge Graph f&uuml;gt weitere hinzu, sobald die Fakten live sind.
+</div>
+
+<h3>3.5 Die Dimensions-Attributions-Pipeline</h3>
+
+<p>
+  Nach jeder Extraktion l&auml;uft automatisch eine Pipeline, die jedem Fakt seine Dimensionen zuweist.
+  Vier Arten von Zuweisern (&bdquo;Attributoren&ldquo;) arbeiten nacheinander:
+</p>
+
+<table>
+  <tr><th>Attributor</th><th>Was er tut</th><th>Dimensionen</th><th>Vertrauen</th></tr>
+  <tr>
+    <td><strong>Verzeichnis-Attributor</strong></td>
+    <td>Liest die Verzeichnis-Definition</td>
+    <td>Sektor, Periode, Dokumenttyp, Kalenderjahr</td>
+    <td><span class="badge badge-green">100%</span> (definitionsbasiert)</td>
+  </tr>
+  <tr>
+    <td><strong>Extraktions-Attributor</strong></td>
+    <td>Wertet das KI-Extraktionsergebnis aus</td>
+    <td>Netzbetreiber, Verfahren, Kostenart, Fachthema</td>
+    <td><span class="badge badge-yellow">70&ndash;95%</span> (je nach Methode)</td>
+  </tr>
+  <tr>
+    <td><strong>Anreicherungs-Attributor</strong></td>
+    <td>Leitet Dimensionen aus bereits bekannten Daten ab</td>
+    <td>Beschlusskammer (aus Aktenzeichen), Region (aus Sitz), Netzebene (aus Stammdaten), Konzern (aus Hierarchie)</td>
+    <td><span class="badge badge-green">100%</span> (Nachschlagewerk)</td>
+  </tr>
+  <tr>
+    <td><strong>Manueller Attributor</strong></td>
+    <td>Experte korrigiert oder erg&auml;nzt Zuordnungen</td>
+    <td>Alle Dimensionen (Korrektur + Erg&auml;nzung)</td>
+    <td><span class="badge badge-green">100%</span> (menschlich)</td>
+  </tr>
+</table>
+
+<div class="success">
+  <strong>Erweiterbarkeit:</strong> Wenn eine neue Dimension ben&ouml;tigt wird (z.B. &bdquo;Regulierungsbeh&ouml;rde&ldquo;
+  oder &bdquo;Netzgebietsgr&ouml;&szlig;e&ldquo;), wird ein neuer Dimensionstyp konfiguriert und ein passender
+  Attributor hinzugef&uuml;gt. Das bestehende System muss nicht umgebaut werden.
+</div>
+
+<!-- ============================================================ -->
+<!-- 4. PIPELINE -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="pipeline">4. Wie Daten durch das System flie&szlig;en</h2>
+
+<p class="intro">
+  Jedes Dokument durchl&auml;uft eine feste Verarbeitungskette. Die meiste Arbeit geschieht im
+  <strong>Hintergrund</strong> (Backoffice) &mdash; wenn neue Dokumente importiert werden. Nutzeranfragen
+  laufen dann schnell auf den <strong>vorberechneten Daten</strong>.
+</p>
+
+<h3>4.1 Hintergrund-Verarbeitung (bei Datenimport)</h3>
+
+<div class="flow-step"><div class="flow-num">1</div><div><strong>Verzeichnis-Definition laden</strong><br>Das System liest die Definition des Verzeichnisses: Welcher Dokumenttyp? Welcher Sektor? Welche Datenpunkte werden erwartet? &rarr; Erste Dimensionen sind bekannt.</div></div>
+
+<div class="flow-step"><div class="flow-num">2</div><div><strong>Dokument einlesen und konvertieren</strong><br>Das Quelldokument wird verlustfrei in ein maschinenlesbares Format &uuml;berf&uuml;hrt. Der Originaltext bleibt immer erhalten. Qualit&auml;tspr&uuml;fung: Zeichenanzahl, Tabellenanzahl, Pr&uuml;fsumme.</div></div>
+
+<div class="flow-step"><div class="flow-num">3</div><div><strong>Netzbetreiber erkennen</strong><br>Das System erkennt automatisch, welcher Netzbetreiber im Dokument behandelt wird &mdash; anhand von Aktenzeichen, Betreibernummer oder Firmenname.</div></div>
+
+<div class="flow-step"><div class="flow-num">4</div><div><strong>Datenpunkte extrahieren (KI)</strong><br>Eine KI liest das Dokument und extrahiert alle erwarteten Datenpunkte. Jede Extraktion wird doppelt durchgef&uuml;hrt (Doppel-Extraktion), die Ergebnisse verglichen und gegen das Original gepr&uuml;ft.</div></div>
+
+<div class="flow-step"><div class="flow-num">5</div><div><strong>Fakten in den Wissensgraphen einf&uuml;gen</strong><br>Validierte Datenpunkte werden als Knoten im Wissensgraphen gespeichert &mdash; mit allen Verkn&uuml;pfungen zu anderen Fakten.</div></div>
+
+<div class="flow-step"><div class="flow-num">6</div><div><strong>Dimensionen zuweisen (Attribution)</strong><br>Die Dimensions-Attributions-Pipeline ordnet jedem Fakt seine Dimensionen zu: erst aus der Verzeichnis-Definition, dann aus der Extraktion, dann aus abgeleiteten Daten. Jetzt ist der Fakt <strong>live</strong> und aus jeder Richtung auffindbar.</div></div>
+
+<div class="flow-step"><div class="flow-num">7</div><div><strong>Qualit&auml;tspr&uuml;fung</strong><br>Das System pr&uuml;ft auf Widerspr&uuml;che (z.B. zwei verschiedene Effizienzwerte f&uuml;r denselben Netzbetreiber) und aktualisiert die Wissensqualit&auml;ts-Metriken f&uuml;r alle betroffenen Informationsr&auml;ume.</div></div>
+
+<h3>4.2 Nutzerabfrage (zur Laufzeit)</h3>
+
+<div class="flow-step"><div class="flow-num">1</div><div><strong>Frage eingeben</strong><br>Der Nutzer stellt eine Frage &uuml;ber die Web-Oberfl&auml;che, z.B. &bdquo;Effizienzwerte aller Netzbetreiber in NRW, 4. RP Strom&ldquo;.</div></div>
+
+<div class="flow-step"><div class="flow-num">2</div><div><strong>Begriffe aufl&ouml;sen</strong><br>Das System &uuml;bersetzt die Nutzersprache in Ontologie-Begriffe: Synonyme werden erkannt, Abk&uuml;rzungen aufgel&ouml;st, Oberbegriffe expandiert (Details in Kapitel 6).</div></div>
+
+<div class="flow-step"><div class="flow-num">3</div><div><strong>Informationsraum konstruieren</strong><br>Aus den aufgel&ouml;sten Begriffen wird ein Dimensions-Tupel gebaut: (Region = NRW, Periode = 4. RP, Sektor = Strom, Fachthema = Effizienz). Dieses Tupel definiert den Informationsraum.</div></div>
+
+<div class="flow-step"><div class="flow-num">4</div><div><strong>Daten abfragen</strong><br>Der Wissensgraph wird nach allen Fakten durchsucht, die in diesen Informationsraum fallen. Bei Bedarf: semantische Suche als Erg&auml;nzung.</div></div>
+
+<div class="flow-step"><div class="flow-num">5</div><div><strong>Antwort mit Qualit&auml;tsbewertung</strong><br>Die Ergebnisse werden mit Quellenangaben und einer Bewertung der Wissensqualit&auml;t ausgeliefert: Wie vollst&auml;ndig ist die Datenbasis? Gibt es Widerspr&uuml;che? Wie verl&auml;sslich sind die Quellen?</div></div>
+
+<!-- ============================================================ -->
+<!-- 5. ABFRAGEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="abfragen">5. Wie Nutzer Fragen stellen</h2>
+
+<p class="intro">
+  ngdai unterst&uuml;tzt acht Arten von Abfragen. Durch das Dimensionsmodell sind
+  alle Abfragetypen beliebig mit allen Dimensionen kombinierbar.
+</p>
+
+<table>
+  <tr><th>Abfragetyp</th><th>Typische Frage</th><th>Beispiel</th></tr>
+  <tr><td><strong>Einzelabfrage</strong></td><td>&bdquo;Zeige mir Daten zu X&ldquo;</td><td>&bdquo;Effizienzwert der Stadtwerke Elmshorn&ldquo;</td></tr>
+  <tr><td><strong>Themenabfrage</strong></td><td>&bdquo;Alles zu einem Thema&ldquo;</td><td>&bdquo;Alle H&auml;rtefallantr&auml;ge &uuml;ber alle Netzbetreiber&ldquo;</td></tr>
+  <tr><td><strong>Kreuzabfrage</strong></td><td>&bdquo;Thema bei Unternehmen&ldquo;</td><td>&bdquo;Pachtk&uuml;rzungen bei Stadtwerken in NRW&ldquo;</td></tr>
+  <tr><td><strong>Aggregation</strong></td><td>&bdquo;Berechne Kennzahlen&ldquo;</td><td>&bdquo;Median-Effizienzwert 4. RP Strom&ldquo;</td></tr>
+  <tr><td><strong>Vergleich</strong></td><td>&bdquo;A vs. B&ldquo;</td><td>&bdquo;EOG Elmshorn vs. Karlsruhe 2024&ndash;2028&ldquo;</td></tr>
+  <tr><td><strong>Trend</strong></td><td>&bdquo;Entwicklung &uuml;ber die Zeit&ldquo;</td><td>&bdquo;Entwicklung des dnb-Anteils von 3. RP zu 4. RP&ldquo;</td></tr>
+  <tr><td><strong>&Auml;hnlichkeit</strong></td><td>&bdquo;Wer ist vergleichbar?&ldquo;</td><td>&bdquo;Die 10 Netzbetreiber mit &auml;hnlichster Kostenstruktur&ldquo;</td></tr>
+  <tr><td><strong>Muster</strong></td><td>&bdquo;Wer zeigt dasselbe Verhalten?&ldquo;</td><td>&bdquo;Netzbetreiber mit &auml;hnlicher Effizienzwert-Entwicklung&ldquo;</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 6. BEGRIFFSMAPPING -->
+<!-- ============================================================ -->
+<h2 id="begriffsmapping">6. Begriffsmapping &mdash; das System versteht verschiedene Formulierungen</h2>
+
+<p class="intro">
+  Nutzer verwenden oft andere Begriffe als die Ontologie. Jemand fragt nach
+  &bdquo;Mietk&uuml;rzungen&ldquo;, aber im System hei&szlig;t es &bdquo;Pachtk&uuml;rzungen&ldquo;.
+  Oder jemand schreibt &bdquo;EK-Zins&ldquo; statt &bdquo;Eigenkapitalzinssatz Neuanlagen&ldquo;.
+  Damit Abfragen trotzdem funktionieren, gibt es eine dreistufige &Uuml;bersetzungsschicht.
+</p>
+
+<table>
+  <tr><th>Stufe</th><th>Methode</th><th>Was sie tut</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>A</strong></td>
+    <td>Regulatorischer Thesaurus</td>
+    <td>Gepflegtes W&ouml;rterbuch mit Synonymen, Oberbegriffen und Abk&uuml;rzungen der Regulierungssprache</td>
+    <td>&bdquo;Mietk&uuml;rzung&ldquo; &rarr; Pachtk&uuml;rzung<br>&bdquo;EK-Zins&ldquo; &rarr; EK-Zinssatz Alt/Neu</td>
+  </tr>
+  <tr>
+    <td><strong>B</strong></td>
+    <td>Bedeutungssuche (Embeddings)</td>
+    <td>F&uuml;r F&auml;lle, die der Thesaurus nicht abdeckt: semantische &Auml;hnlichkeitssuche</td>
+    <td>&bdquo;Netzausbaukosten&ldquo; &rarr; findet Erweiterungsfaktor, Investitionsma&szlig;nahmen</td>
+  </tr>
+  <tr>
+    <td><strong>C</strong></td>
+    <td>Absichts-Erkennung (Intent)</td>
+    <td>Erkennt, <em>was</em> der Nutzer will, und w&auml;hlt den optimalen Abfragemechanismus</td>
+    <td>&bdquo;Vergleiche X mit Y&ldquo; &rarr; Vergleichsmodus<br>&bdquo;&Auml;hnliche Netzbetreiber&ldquo; &rarr; &Auml;hnlichkeitssuche</td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 7. EMBEDDINGS -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="embeddings">7. Embeddings &mdash; Bedeutungssuche ohne Informationsverlust</h2>
+
+<p class="intro">
+  Viele KI-Systeme zerschneiden Dokumente in kleine St&uuml;cke (&bdquo;Chunks&ldquo;), um sie durchsuchbar
+  zu machen. Dabei geht Kontext verloren und die Zuordnung zur Quelle wird unsch&auml;rfer.
+  ngdai geht einen anderen Weg.
+</p>
+
+<div class="warning">
+  <strong>ngdai verwendet kein Dokument-Chunking.</strong> An keiner Stelle im System werden Dokumente
+  in zuf&auml;llige Textbl&ouml;cke zerschnitten.
+</div>
+
+<p>
+  Stattdessen werden <strong>drei gezielte Ebenen</strong> f&uuml;r die Bedeutungssuche genutzt &mdash;
+  alle als Nebenprodukt der ohnehin laufenden Extraktion:
+</p>
+
+<table>
+  <tr><th>Ebene</th><th>Was durchsuchbar gemacht wird</th><th>Wozu</th></tr>
+  <tr>
+    <td><strong>Fakt-Ebene</strong></td>
+    <td>Der extrahierte Datenpunkt mit seinem Kontext</td>
+    <td>&bdquo;Finde &auml;hnliche Sachverhalte&ldquo; &mdash; z.B. andere K&uuml;rzungen in &auml;hnlicher H&ouml;he</td>
+  </tr>
+  <tr>
+    <td><strong>Quelltext-Ebene</strong></td>
+    <td>Der exakte Textausschnitt aus dem Originaldokument</td>
+    <td>&bdquo;Finde &auml;hnlich formulierte Textstellen&ldquo; &mdash; z.B. gleiche Begr&uuml;ndungsmuster</td>
+  </tr>
+  <tr>
+    <td><strong>Themen-Ebene</strong></td>
+    <td>Name und Beschreibung jedes Fachthemas</td>
+    <td>&bdquo;Ordne eine unbekannte Nutzerfrage einem Thema zu&ldquo;</td>
+  </tr>
+</table>
+
+<div class="success">
+  <strong>Vorteil:</strong> Jedes Suchergebnis der Bedeutungssuche ist <strong>r&uuml;ckverfolgbar</strong>
+  bis zum exakten Fakt im Knowledge Graph und von dort zum Originaldokument. Es gibt keine
+  &bdquo;schwimmenden&ldquo; Textfragmente ohne Herkunft.
+</div>
+
+<h3>Gro&szlig;e Dokumente: Sliding Window statt Chunking</h3>
+
+<p>
+  Wenn ein Dokument zu gro&szlig; f&uuml;r das KI-Kontextfenster ist (z.B. 50+ Seiten), wird es
+  <strong>nicht in Chunks zerschnitten</strong>, sondern in &uuml;berlappenden Fenstern gelesen:
+</p>
+
+<ul>
+  <li>Fenster 1: Seite 1&ndash;20 (mit 2 Seiten &Uuml;berlappung zum n&auml;chsten Fenster)</li>
+  <li>Fenster 2: Seite 19&ndash;38 (&Uuml;berlappung vorne und hinten)</li>
+  <li>Fenster 3: Seite 37&ndash;50 (&Uuml;berlappung vorne)</li>
+</ul>
+
+<p>
+  Fakten, die an Fenstergrenzen liegen, werden in <strong>beiden</strong> Fenstern gefunden.
+  Duplikate werden automatisch erkannt und zusammengef&uuml;hrt. Nach der Extraktion wird
+  gegen den <strong>vollst&auml;ndigen Originaltext</strong> gepr&uuml;ft, ob alle erwarteten
+  Datenpunkte gefunden wurden.
+</p>
+
+<!-- ============================================================ -->
+<!-- 8. QUALITAET -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="qualitaet">8. Wissensqualit&auml;t &mdash; das System kennt seine Grenzen</h2>
+
+<p class="intro">
+  Jeder Informationsraum (= jedes Dimensions-Tupel) wird nach f&uuml;nf Kriterien bewertet.
+  Diese Bewertung wird <strong>bei jeder Antwort automatisch mitgeliefert</strong>, damit der
+  Nutzer einsch&auml;tzen kann, wie belastbar das Ergebnis ist.
+</p>
+
+<table>
+  <tr><th>Kriterium</th><th>Was es misst</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>Vollst&auml;ndigkeit</strong></td>
+    <td>Wie viel Prozent der relevanten Dokumente sind erfasst?</td>
+    <td>&bdquo;28 von ~80 Netzbetreibern in NRW = 35%&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Konsistenz</strong></td>
+    <td>Widersprechen sich Datenpunkte?</td>
+    <td>&bdquo;97% konsistent (1 Widerspruch erkannt)&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Verl&auml;sslichkeit</strong></td>
+    <td>Wie vertrauensw&uuml;rdig sind die Quellen?</td>
+    <td>&bdquo;92% der Daten aus BNetzA-Beschl&uuml;ssen (hoch)&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Aktualit&auml;t</strong></td>
+    <td>Wie aktuell sind die Daten?</td>
+    <td>&bdquo;Neuester Beschluss: Juni 2024&ldquo;</td>
+  </tr>
+  <tr>
+    <td><strong>Abgeschlossenheit</strong></td>
+    <td>Wie viel vom theoretischen Gesamtraum ist abgedeckt?</td>
+    <td>&bdquo;62% der NRW-Netzbetreiber, 8% bundesweit&ldquo;</td>
+  </tr>
+</table>
+
+<div class="highlight">
+  <strong>Beispiel einer Systemantwort:</strong><br>
+  <em>&bdquo;Informationsraum: (Region = NRW, Periode = 4. RP, Sektor = Strom).
+  Basierend auf 42 Dokumenten von 28 Netzbetreibern.
+  Vollst&auml;ndigkeit: 35%. Konsistenz: 97%.
+  Quellenverl&auml;sslichkeit: 92%. Konfidenz: 74%.&ldquo;</em>
+</div>
+
+<!-- ============================================================ -->
+<!-- 9. BAUSTEINE -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="bausteine">9. Technische Bausteine</h2>
+
+<p class="intro">
+  ngdai ist als <strong>modularer Monolith</strong> aufgebaut: Ein System mit klar getrennten
+  internen Bausteinen, die unabh&auml;ngig voneinander weiterentwickelt werden k&ouml;nnen.
+</p>
+
+<h3>9.1 Systemarchitektur</h3>
+
+<pre>
+                     +-----------------------+
+                     |   Web-Oberfl&auml;che      |
+                     |   (Browser)           |
+                     +-----------+-----------+
+                                 |
+                     +-----------v-----------+
+                     |   Anwendungsserver    |
+                     |   (FastAPI + HTMX)    |
+                     +---+-----+-------+----+
+                         |     |       |
+            +------------+     |       +-----------+
+            |                  |                    |
+   +--------v-------+  +------v------+  +----------v-------+
+   | Abfrage-Engine |  | Verwaltung  |  | Import-Pipeline  |
+   | (Query)        |  | (Entities,  |  | (Ingestion)      |
+   |                |  |  Themen,    |  |                  |
+   | Begriffsmapping|  |  Definitio- |  | Konvertierung    |
+   | Dimensionsraum |  |  nen)       |  | Qualit&auml;tspr&uuml;fung |
+   +--------+-------+  +------+------+  +----------+-------+
+            |                  |                    |
+   +--------v------------------v--------------------v-------+
+   |                   Kern-Services                         |
+   |                                                         |
+   |  Wissensgraph     Extraktion    Dimensions-Attribution  |
+   |  (Knowledge       (KI-basiert)  (Pipeline)              |
+   |   Graph)                                                |
+   |                   Inkonsistenz-  Wissensqualit&auml;t         |
+   |                   Erkennung      (Epistemik)             |
+   +--------------------------+------------------------------+
+                              |
+   +--------------------------v------------------------------+
+   |                   Datenschicht                           |
+   |                                                          |
+   |  PostgreSQL       Vektorspeicher   Dateispeicher  Redis  |
+   |  + Apache AGE     (pgvector)       (Originale)    (Jobs) |
+   |  (Graph + SQL)                                           |
+   +----------------------------------------------------------+
+</pre>
+
+<h3>9.2 Die Module im &Uuml;berblick</h3>
+
+<table>
+  <tr><th>Modul</th><th>Aufgabe</th><th>Bezug zum Konzept</th></tr>
+  <tr><td><strong>Dimensionen</strong></td><td>Verwaltung aller Dimensionstypen und -instanzen. Das generische R&uuml;ckgrat des Systems.</td><td>Kapitel 3 dieses Dokuments</td></tr>
+  <tr><td><strong>Attribution</strong></td><td>Pipeline die Fakten ihre Dimensionen zuweist. Vier Attributor-Typen (Verzeichnis, Extraktion, Anreicherung, Manuell).</td><td>Kapitel 3.5</td></tr>
+  <tr><td><strong>Informationsr&auml;ume</strong></td><td>Konstruktion und Bewertung von Dimensions-Tupeln. Berechnung der epistemischen Qualit&auml;t.</td><td>Kapitel 3.3 + 8</td></tr>
+  <tr><td><strong>Definitionen (F10)</strong></td><td>Verwaltung der Verzeichnis-Definitionen. Liefert erwartete Datenpunkte und Basis-Dimensionen.</td><td>Produktkonzept F10</td></tr>
+  <tr><td><strong>Entities (F1)</strong></td><td>Verwaltung der Netzbetreiber. Import, Erkennung, Deduplizierung, Zusammenf&uuml;hrung.</td><td>Produktkonzept F1</td></tr>
+  <tr><td><strong>Import (F3)</strong></td><td>Verlustfreie Konvertierung von Quelldokumenten. Qualit&auml;tspr&uuml;fung.</td><td>Produktkonzept F3</td></tr>
+  <tr><td><strong>Extraktion (F4)</strong></td><td>KI-basierte Datenextraktion. Doppel-Extraktion, Validierung, Quellenverweis.</td><td>Produktkonzept F4</td></tr>
+  <tr><td><strong>Wissensgraph (F5)</strong></td><td>Speicherung und Vernetzung aller Fakten. Graph-Abfragen via Cypher.</td><td>Produktkonzept F5</td></tr>
+  <tr><td><strong>Abfrage-Engine (F6)</strong></td><td>Nutzeranfragen verarbeiten. Begriffsmapping, Routing, Ergebniszusammenstellung.</td><td>Produktkonzept F6</td></tr>
+  <tr><td><strong>LLM-Client</strong></td><td>Einheitliche Schnittstelle zu KI-Modellen (Claude). Audit-Logging aller KI-Aufrufe.</td><td>Produktkonzept Kap. 4</td></tr>
+  <tr><td><strong>Embeddings</strong></td><td>Berechnung der Bedeutungsvektoren auf Fakt-, Quelltext- und Themen-Ebene.</td><td>Kapitel 7</td></tr>
+  <tr><td><strong>Thesaurus</strong></td><td>Verwaltung des regulatorischen W&ouml;rterbuchs. Synonyme, Oberbegriffe, Abk&uuml;rzungen.</td><td>Kapitel 6</td></tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 10. ENTSCHEIDUNGEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="entscheidungen">10. Architektur-Entscheidungen</h2>
+
+<p class="intro">
+  Zu Beginn des Projekts standen neun offene Designfragen. Hier sind die getroffenen Entscheidungen
+  und ihre Begr&uuml;ndungen &mdash; sowohl f&uuml;r das technische Team als auch zur Nachvollziehbarkeit
+  f&uuml;r Projektbeteiligte.
+</p>
+
+<table>
+  <tr><th>#</th><th>Frage</th><th>Entscheidung</th><th>Begr&uuml;ndung (in einfachen Worten)</th></tr>
+  <tr>
+    <td>1</td>
+    <td>Welche Datenbank f&uuml;r den Wissensgraphen?</td>
+    <td><strong>Apache AGE (PostgreSQL)</strong></td>
+    <td>Eine einzige Datenbank f&uuml;r alles: strukturierte Daten, Wissensgraph und Bedeutungssuche. Weniger Betriebsaufwand, weniger Fehlerquellen.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Welche KI-Modelle nutzen?</td>
+    <td><strong>Claude Sonnet 4 + Opus 4</strong></td>
+    <td>Sonnet (schnell, g&uuml;nstig) f&uuml;r die Massenextraktion. Opus (gr&uuml;ndlicher) f&uuml;r komplexe Analysen und Hypothesen.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wie wird die Ontologie definiert?</td>
+    <td><strong>JSON-Schema</strong></td>
+    <td>Einfach lesbar, einfach &auml;nderbar, passt zu den bestehenden Verzeichnis-Definitionen. Kein Overhead durch akademische Formalismen (OWL/RDF).</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wie bedienen Nutzer das System?</td>
+    <td><strong>Web-Oberfl&auml;che + Kommandozeile</strong></td>
+    <td>Web-Oberfl&auml;che f&uuml;r Abfragen und Daten-Browsing. Kommandozeile f&uuml;r Administration und Batch-Operationen.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Mehrere Mandanten?</td>
+    <td><strong>Nein (Single-Tenant)</strong></td>
+    <td>Das System dient einem Unternehmen. Mehrmandantenf&auml;higkeit w&uuml;rde unn&ouml;tige Komplexit&auml;t hinzuf&uuml;gen.</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Welches Modell f&uuml;r die Bedeutungssuche?</td>
+    <td><strong>BGE-M3</strong></td>
+    <td>Versteht Deutsch, l&auml;uft lokal (keine Abh&auml;ngigkeit von externen Diensten), unterst&uuml;tzt mehrere Suchmethoden in einem Modell.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wie wird der Thesaurus gepflegt?</td>
+    <td><strong>Halb-automatisch</strong></td>
+    <td>Die KI schl&auml;gt neue Synonyme vor. Ein Fachexperte pr&uuml;ft und best&auml;tigt. So bleibt die Qualit&auml;t hoch, aber der Aufwand niedrig.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wie wird &Auml;hnlichkeit gemessen?</td>
+    <td><strong>Gewichtete Distanz</strong></td>
+    <td>Nicht alle Merkmale sind gleich wichtig. Der Effizienzwert soll st&auml;rker z&auml;hlen als der Sektor. Die Gewichte sind konfigurierbar.</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wie werden verschiedene Suchmechanismen kombiniert?</td>
+    <td><strong>Absichtsgesteuert mit Fallback</strong></td>
+    <td>Das System erkennt, was der Nutzer will, und w&auml;hlt den passenden Mechanismus. Wenn der erste Versuch leer ist, wird automatisch auf breitere Suche umgestellt.</td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 11. PHASE 1 -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="phase1">11. Phase 1 &mdash; Was zuerst gebaut wird</h2>
+
+<p class="intro">
+  Phase 1 liefert ein funktionsf&auml;higes Grundsystem: Dokumente importieren, Datenpunkte extrahieren,
+  Wissen abfragen &mdash; mit Web-Oberfl&auml;che und vollst&auml;ndiger Quellenr&uuml;ckverfolgung.
+</p>
+
+<h3>11.1 Was in Phase 1 enthalten ist</h3>
+
+<table>
+  <tr><th>Schritt</th><th>Was gebaut wird</th><th>Ergebnis</th></tr>
+  <tr>
+    <td>1</td>
+    <td><strong>Technisches Fundament</strong><br>Datenbank, Dimensionsmodell, Grundstruktur</td>
+    <td>System l&auml;uft lokal, Datenbank ist bereit</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><strong>Verzeichnis-Definitionen (F10)</strong><br>Schema f&uuml;r jedes Datenverzeichnis</td>
+    <td>System wei&szlig; welche Dokumente es wo erwartet</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><strong>Netzbetreiber-Verwaltung (F1)</strong><br>Import aller 1.630 Marktakteure</td>
+    <td>872 Strom- + 758 Gas-Netzbetreiber im System</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><strong>Import-Pipeline (F3)</strong><br>Alle ~95 vorhandenen Textdateien importieren</td>
+    <td>51 EOG-Beschl&uuml;sse + 27 Gesch&auml;ftsberichte + weitere Dokumente erfasst</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><strong>KI-Extraktion (F4)</strong><br>Datenpunkte aus EOG-Beschl&uuml;ssen und Gesch&auml;ftsberichten extrahieren</td>
+    <td>Effizienzwerte, Erl&ouml;sobergrenzen, Umsatzzahlen etc. im Wissensgraphen</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>Wissensgraph (F5) + Dimensions-Attribution</strong><br>Fakten vernetzen, Dimensionen zuweisen</td>
+    <td>Alle Fakten sind mehrdimensional verkn&uuml;pft und abfragbar</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><strong>Abfrage-Engine (F6)</strong><br>Strukturierte Abfragen, Vergleiche, Aggregationen</td>
+    <td>Nutzer k&ouml;nnen Fragen stellen und erhalten Antworten mit Quellenangabe</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><strong>Web-Oberfl&auml;che</strong><br>Dashboard, Netzbetreiber-&Uuml;bersicht, Abfrage-Interface</td>
+    <td>System ist &uuml;ber den Browser bedienbar</td>
+  </tr>
+</table>
+
+<h3>11.2 Was Phase 1 noch NICHT enth&auml;lt</h3>
+
+<table>
+  <tr><th>Funktion</th><th>Kommt in Phase</th></tr>
+  <tr><td>PDF- und Excel-Konvertierung (aktuell nur Textdateien)</td><td>Phase 2</td></tr>
+  <tr><td>Offene Extraktion (unbekannte Datenpunkte entdecken)</td><td>Phase 2</td></tr>
+  <tr><td>Thesaurus und Bedeutungssuche (Embeddings)</td><td>Phase 2</td></tr>
+  <tr><td>Absichts-Erkennung (Intent-Klassifikation)</td><td>Phase 2</td></tr>
+  <tr><td>Persistente Abfrage-Templates mit Delta-Berechnung</td><td>Phase 3</td></tr>
+  <tr><td>Automatische Widerspruches-Erkennung</td><td>Phase 3</td></tr>
+  <tr><td>&Auml;hnlichkeitssuche zwischen Netzbetreibern</td><td>Phase 3</td></tr>
+  <tr><td>Wissensqualit&auml;tsbewertung (Epistemik)</td><td>Phase 3</td></tr>
+  <tr><td>Hypothesen-Generierung und Prognosen</td><td>Phase 4</td></tr>
+  <tr><td>Automatischer Crawler f&uuml;r BNetzA-Datenbank</td><td>Phase 4</td></tr>
+</table>
+
+<h3>11.3 Erfolgskriterien</h3>
+
+<p>Phase 1 ist erfolgreich, wenn:</p>
+
+<ol>
+  <li>Alle 1.630 Marktakteure als Netzbetreiber im System sind</li>
+  <li>Alle ~95 vorhandenen Dokumente importiert und extrahiert sind</li>
+  <li>Strukturierte Fakten im Wissensgraphen vorliegen (Effizienzwerte, Erl&ouml;sobergrenzen, Gesch&auml;ftszahlen)</li>
+  <li>Die Web-Oberfl&auml;che funktioniert: Dashboard, Netzbetreiber-Liste, Abfrage-Interface</li>
+  <li>Eine Abfrage wie &bdquo;Effizienzwert Stadtwerke Elmshorn&ldquo; den korrekten Wert mit Quellenangabe liefert</li>
+  <li>Ein Vergleich &bdquo;Elmshorn vs. Albwerk, EOG 4. RP&ldquo; eine Vergleichstabelle liefert</li>
+  <li>Eine Aggregation &bdquo;Median-Effizienzwert 4. RP Strom&ldquo; das korrekte Ergebnis liefert</li>
+  <li>Kein Informationsverlust: Vollst&auml;ndigkeits-Check meldet fehlende erwartete Datenpunkte</li>
+</ol>
+
+<!-- ============================================================ -->
+<!-- 12. RISIKEN -->
+<!-- ============================================================ -->
+<div class="page-break"></div>
+<h2 id="risiken">12. Risiken und Gegenma&szlig;nahmen</h2>
+
+<table>
+  <tr><th>Risiko</th><th>Wahrscheinlichkeit</th><th>Auswirkung</th><th>Gegenma&szlig;nahme</th></tr>
+  <tr>
+    <td>Die Graph-Datenbank (Apache AGE) ist weniger ausgereift als Alternativen</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Die ben&ouml;tigten Abfragen sind einfach genug. Bei Problemen kann auf Neo4j umgestellt werden &mdash; die Abfragesprache (Cypher) ist identisch.</td>
+  </tr>
+  <tr>
+    <td>OCR-Artefakte in den vorhandenen Textdateien verf&auml;lschen die Extraktion</td>
+    <td class="risk-high">Hoch</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Die KI kommt mit verrauschtem Text gut zurecht. In Phase 2: Originale PDFs neu verarbeiten mit besserer Texterkennung.</td>
+  </tr>
+  <tr>
+    <td>Gro&szlig;e Dokumente (50+ Seiten) &uuml;bersteigen das KI-Kontextfenster</td>
+    <td class="risk-high">Hoch</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Das Sliding-Window-Verfahren (Kapitel 7) ist von Anfang an eingebaut. Die meisten Dokumente passen mit 200.000 Token in einem St&uuml;ck.</td>
+  </tr>
+  <tr>
+    <td>Die KI halluziniert Zahlen oder erfindet Datenpunkte</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-high">Hoch</td>
+    <td>Umfassende Gegenma&szlig;nahmen: Doppel-Extraktion, Quellenabgleich, Wertbereichs-Pr&uuml;fung, strukturierte Ausgaben. Siehe Produktkonzept Kapitel 4.</td>
+  </tr>
+  <tr>
+    <td>KI-Kosten f&uuml;r die Doppel-Extraktion aller Dokumente</td>
+    <td class="risk-low">Niedrig</td>
+    <td class="risk-low">Niedrig</td>
+    <td>Gesch&auml;tzt ca. 135 USD f&uuml;r Phase 1 (~95 Dokumente). Akzeptabel. Sp&auml;ter: nur ge&auml;nderte Abschnitte neu extrahieren.</td>
+  </tr>
+  <tr>
+    <td>Das Dimensionsmodell ist zu abstrakt und erschwert die Entwicklung</td>
+    <td class="risk-medium">Mittel</td>
+    <td class="risk-medium">Mittel</td>
+    <td>Phase 1 startet mit den bekannten Dimensionen (Entity, Period, Sector, Year). Das generische Modell wird schrittweise genutzt, nicht alles auf einmal.</td>
+  </tr>
+</table>
+
+<!-- ============================================================ -->
+<!-- 13. TECHNOLOGIE -->
+<!-- ============================================================ -->
+<h2>13. Technologie-Stack (Referenz)</h2>
+
+<table>
+  <tr><th>Komponente</th><th>Technologie</th><th>Zweck</th></tr>
+  <tr><td>Programmiersprache</td><td>Python 3.11+</td><td>Bestes &Ouml;kosystem f&uuml;r KI-Integration</td></tr>
+  <tr><td>Web-Framework</td><td>FastAPI</td><td>Schnell, modern, async-f&auml;hig</td></tr>
+  <tr><td>Web-Oberfl&auml;che</td><td>HTMX + Jinja2 + Pico CSS</td><td>Interaktive Web-UI ohne JavaScript-Build-Prozess</td></tr>
+  <tr><td>Kommandozeile</td><td>Typer</td><td>Benutzerfreundliche CLI f&uuml;r Admin-Operationen</td></tr>
+  <tr><td>Datenbank</td><td>PostgreSQL 16 + Apache AGE + pgvector</td><td>Relationale Daten + Wissensgraph + Bedeutungssuche in einer DB</td></tr>
+  <tr><td>ORM</td><td>SQLAlchemy 2.0</td><td>Python-Zugriff auf die Datenbank</td></tr>
+  <tr><td>Migrationen</td><td>Alembic</td><td>Datenbank-Schema-&Auml;nderungen versioniert verwalten</td></tr>
+  <tr><td>KI-Extraktion</td><td>Claude Sonnet 4 / Opus 4 (Anthropic API)</td><td>Datenextraktion und Analyse</td></tr>
+  <tr><td>Bedeutungssuche</td><td>BGE-M3 (lokal, sentence-transformers)</td><td>Embeddings f&uuml;r semantische Suche</td></tr>
+  <tr><td>Fuzzy-Matching</td><td>rapidfuzz</td><td>Unscharfe Namenszuordnung bei Netzbetreibern</td></tr>
+  <tr><td>Hintergrund-Jobs</td><td>Redis</td><td>Aufgabenverwaltung f&uuml;r langlebige Extraktionen</td></tr>
+  <tr><td>Container</td><td>Docker Compose</td><td>Lokale Entwicklungsumgebung (PostgreSQL + Redis)</td></tr>
+  <tr><td>Tests</td><td>pytest</td><td>Automatisierte Qualit&auml;tssicherung</td></tr>
+</table>
+
+<div style="margin-top: 60px; padding-top: 20px; border-top: 2px solid #004c8c; text-align: center; color: #999; font-size: 13px;">
+  ngdai Software-Architektur &mdash; Version 1.0 &mdash; M&auml;rz 2026
+</div>
+
+</body>
+</html>

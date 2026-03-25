@@ -553,6 +553,175 @@ von wenigen Dutzend Dokumenten auf Tausende zu skalieren, und unterst&uuml;tzt a
   </tr>
 </table>
 
+<h3>3.4 Begriffsmapping &mdash; Br&uuml;cke zwischen Nutzersprache und Ontologie</h3>
+
+<p>
+  In der Regulierungspraxis verwenden Nutzer h&auml;ufig andere Begriffe als die Ontologie.
+  Ein Nutzer fragt nach &bdquo;Mietk&uuml;rzungen&ldquo;, die Ontologie kennt &bdquo;Pachtk&uuml;rzungen&ldquo;.
+  Oder jemand sucht nach &bdquo;Netzausbau&ldquo; und meint damit ein Cluster aus Erweiterungsfaktor,
+  Investitionsma&szlig;nahmen und Kapitalkosten. Ohne Begriffsmapping w&uuml;rde die strukturierte
+  Graph-Abfrage leer zur&uuml;ckkommen &mdash; obwohl die Daten vorhanden sind.
+</p>
+
+<p>
+  ngdai l&ouml;st dieses Problem durch eine dreistufige Begriffsmapping-Schicht, die <strong>vor</strong>
+  der eigentlichen Abfrage greift:
+</p>
+
+<h4>Stufe A: Regulatorischer Thesaurus (exakt, kuratiert)</h4>
+<p>
+  Ein gepflegtes W&ouml;rterbuch der Regulierungssprache mit Synonymen, Ober-/Unterbegriffen
+  und g&auml;ngigen Abk&uuml;rzungen. Da die Fachsprache der Netzentgeltregulierung <strong>endlich und
+  pr&auml;zise</strong> ist, deckt ein kuratierter Thesaurus den Gro&szlig;teil der Begriffsvarianz ab &mdash;
+  zuverl&auml;ssiger als generische Embeddings.
+</p>
+<table>
+  <tr><th>Thesaurus-Typ</th><th>Beschreibung</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>Synonyme</strong></td>
+    <td>Identische Bedeutung, alternative Bezeichnung</td>
+    <td>Pachtk&uuml;rzung = Mietk&uuml;rzung = Pachtwertminderung</td>
+  </tr>
+  <tr>
+    <td><strong>Oberbegriffe</strong></td>
+    <td>Nutzer fragt allgemein, System expandiert auf Unterbegriffe</td>
+    <td>&bdquo;Kapitalkosten&ldquo; &rarr; EK-Verzinsung, kalk. Abschreibungen, kalk. Restwert, kalk. Steuern</td>
+  </tr>
+  <tr>
+    <td><strong>Abk&uuml;rzungen</strong></td>
+    <td>G&auml;ngige Kurzformen in der Regulierung</td>
+    <td>EOG = Erl&ouml;sobergrenze, dnb = dauerhaft nicht beeinflussbare Kosten, VPI = Verbraucherpreisindex</td>
+  </tr>
+  <tr>
+    <td><strong>Rechtsreferenzen</strong></td>
+    <td>Paragraphen zu fachlichen Konzepten</td>
+    <td>&sect;6 ARegV &rarr; Bestimmung der Erl&ouml;sobergrenze (Formel)</td>
+  </tr>
+</table>
+<p>
+  Der Thesaurus wird initial aus den <code>_definition.json</code>-Dateien und den Subject-Matter-Keywords
+  aufgebaut und dann im Betrieb manuell erg&auml;nzt, wenn das System wiederholt Begriffe nicht aufl&ouml;sen kann.
+</p>
+
+<h4>Stufe B: Fact-Level Embeddings (semantisch, automatisch)</h4>
+<p>
+  F&uuml;r F&auml;lle, die der Thesaurus nicht abdeckt &mdash; z.B. explorative Suchen oder ungew&ouml;hnliche
+  Formulierungen &mdash; erg&auml;nzen Embeddings die exakte Suche um eine semantische Dimension.
+</p>
+
+<div class="warning">
+  <strong>Was wird embedded?</strong> ngdai verwendet <strong>kein Dokument-Chunking</strong> f&uuml;r Embeddings.
+  Stattdessen werden drei Ebenen gezielt embedded:
+</div>
+
+<table>
+  <tr><th>Embedding-Ebene</th><th>Was wird embedded</th><th>Wozu</th><th>Beispiel</th></tr>
+  <tr>
+    <td><strong>Fact-Embedding</strong></td>
+    <td>Der extrahierte Fakt inkl. Kontext (Fakt-Text + Subject Matter + Entity)</td>
+    <td>Semantische Suche nach &auml;hnlichen Sachverhalten</td>
+    <td>&bdquo;Pachtk&uuml;rzung SW Elmshorn 234.000 EUR 4.RP&ldquo; &rarr; Vektor</td>
+  </tr>
+  <tr>
+    <td><strong>Source-Passage-Embedding</strong></td>
+    <td>Der Quelltext-Ausschnitt (source_ref.text) aus dem Originaldokument</td>
+    <td>Finden von &auml;hnlich formulierten Textstellen &uuml;ber Dokumente hinweg</td>
+    <td>&bdquo;Die Beschlusskammer hat die angesetzten Pachtkosten um 234 TEUR gek&uuml;rzt...&ldquo; &rarr; Vektor</td>
+  </tr>
+  <tr>
+    <td><strong>Subject-Matter-Embedding</strong></td>
+    <td>Name + Beschreibung + Keywords des Subject Matters</td>
+    <td>Zuordnung von Nutzeranfragen zu Themen, auch bei abweichender Formulierung</td>
+    <td>&bdquo;Pachtk&uuml;rzungen: K&uuml;rzungen der BNetzA bei angesetzten Pachtkosten...&ldquo; &rarr; Vektor</td>
+  </tr>
+</table>
+
+<p>
+  Dieses Vorgehen vermeidet das Chunking-Problem: Anstatt Dokumente blind zu zerschneiden, werden
+  nur <strong>bereits verstandene, kontextualisierte Informationseinheiten</strong> embedded. Jedes
+  Embedding ist r&uuml;ckverfolgbar zu einem konkreten Fakt im Knowledge Graph.
+</p>
+
+<h4>Stufe C: Query-Routing &mdash; Intent-Erkennung und Mechanismus-Wahl</h4>
+<p>
+  Bevor eine Nutzerfrage verarbeitet wird, analysiert das System den <strong>Intent</strong> und
+  w&auml;hlt den optimalen Abfragemechanismus:
+</p>
+<table>
+  <tr><th>Intent-Typ</th><th>Erkennungsmerkmal</th><th>Routing-Ziel</th></tr>
+  <tr>
+    <td><strong>Strukturiert</strong></td>
+    <td>Enth&auml;lt Entity-Name, Datenpunkt oder Zeitraum</td>
+    <td>Thesaurus-Expansion &rarr; Graph-Query (Stufe 1)</td>
+  </tr>
+  <tr>
+    <td><strong>Explorativ</strong></td>
+    <td>Vage Formulierung, keine konkreten Entit&auml;ten</td>
+    <td>Embedding-Suche &rarr; Graph-Anreicherung &rarr; ggf. LLM-Synthese</td>
+  </tr>
+  <tr>
+    <td><strong>Vergleichend</strong></td>
+    <td>&bdquo;vs.&ldquo;, &bdquo;im Vergleich&ldquo;, &bdquo;Unterschied&ldquo;</td>
+    <td>Entity-Resolution &rarr; Graph-Query (parallele Pfade) &rarr; Delta-Berechnung</td>
+  </tr>
+  <tr>
+    <td><strong>&Auml;hnlichkeitssuche</strong></td>
+    <td>&bdquo;&auml;hnlich wie&ldquo;, &bdquo;vergleichbare Unternehmen&ldquo;, &bdquo;Muster&ldquo;</td>
+    <td>Feature-Vektor-Berechnung &rarr; Nearest-Neighbour-Suche (siehe 3.5)</td>
+  </tr>
+  <tr>
+    <td><strong>Analytisch</strong></td>
+    <td>&bdquo;Warum&ldquo;, &bdquo;Erkl&auml;re&ldquo;, &bdquo;Was bedeutet&ldquo;</td>
+    <td>Graph-Query + LLM-Reasoning (Stufe 3)</td>
+  </tr>
+</table>
+
+<p>
+  Das Routing kann regelbasiert (Pattern-Matching auf Schl&uuml;sselw&ouml;rter + Ontologie-Lookup)
+  oder &uuml;ber einen leichtgewichtigen Classifier erfolgen. Bei Unsicherheit wird die Nutzerfrage
+  parallel &uuml;ber Graph-Query <strong>und</strong> Embedding-Suche verarbeitet und die Ergebnisse
+  zusammengef&uuml;hrt (Hybrid Retrieval).
+</p>
+
+<h3>3.5 Entit&auml;ts-&Auml;hnlichkeit &mdash; &bdquo;Welche Netzbetreiber sind vergleichbar?&ldquo;</h3>
+
+<p>
+  Neben dem direkten Vergleich zweier benannter Unternehmen (F6: Vergleich) brauchen Regulierungsexperten
+  h&auml;ufig die Antwort auf: <em>&bdquo;Welche Netzbetreiber sind &auml;hnlich strukturiert wie X?&ldquo;</em>
+  oder <em>&bdquo;Wer zeigt das gleiche Muster?&ldquo;</em>
+</p>
+
+<p>
+  ngdai berechnet daf&uuml;r <strong>Entity-Feature-Vektoren</strong> aus den extrahierten numerischen
+  Fakten im Knowledge Graph:
+</p>
+
+<table>
+  <tr><th>Feature-Dimension</th><th>Quelle</th><th>Beispiel</th></tr>
+  <tr><td>Effizienzwert</td><td>NumericFact (periodenfix)</td><td>91.81%</td></tr>
+  <tr><td>EOG-Niveau</td><td>NumericFact (j&auml;hrlich)</td><td>&euro;15.2M</td></tr>
+  <tr><td>dnb-Anteil</td><td>Berechnet aus Fakten</td><td>62%</td></tr>
+  <tr><td>Pachtk&uuml;rzungs-Quote</td><td>NumericFact / Aggregation</td><td>12% der Gesamtkosten</td></tr>
+  <tr><td>Verfahrensart</td><td>CategoricalFact</td><td>Regelverfahren = 1, vereinfacht = 0</td></tr>
+  <tr><td>Sektor</td><td>LegalEntity-Attribut</td><td>Strom = 1, Gas = 0</td></tr>
+</table>
+
+<p>
+  Diese Feature-Vektoren erm&ouml;glichen:
+</p>
+<ul>
+  <li><strong>Nearest-Neighbour-Suche:</strong> &bdquo;Die 10 Netzbetreiber, die Stadtwerke Elmshorn am &auml;hnlichsten sind&ldquo;</li>
+  <li><strong>Clustering:</strong> Automatische Gruppierung von Netzbetreibern nach struktureller &Auml;hnlichkeit</li>
+  <li><strong>Ausrei&szlig;er-Erkennung:</strong> Netzbetreiber, die stark von der Peer Group abweichen</li>
+  <li><strong>Muster-Matching:</strong> &bdquo;Welche Netzbetreiber zeigen ein &auml;hnliches Muster bei der EOG-Entwicklung &uuml;ber die Jahre?&ldquo;</li>
+</ul>
+
+<p>
+  Die Feature-Vektoren werden im <strong>Backoffice</strong> vorberechnet und bei jedem neuen Datenimport
+  aktualisiert. Sie sind keine Embeddings im NLP-Sinne, sondern <strong>strukturierte numerische Profile</strong>
+  aus dem Knowledge Graph &mdash; dadurch vollst&auml;ndig nachvollziehbar und erkl&auml;rbar.
+</p>
+
 <!-- ============================================================ -->
 <!-- 4. ANTI-HALLUZINATION -->
 <!-- ============================================================ -->
@@ -817,6 +986,9 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   <li>Faktentypen: NumericFact, CategoricalFact, TextFact, TemporalFact</li>
   <li>Zeittaxonomie und Definitions-Taxonomie integriert</li>
   <li>Vektor-Index als erg&auml;nzender Fallback f&uuml;r semantische Suche</li>
+  <li>Regulatorischer Thesaurus: kuratiertes Synonymw&ouml;rterbuch f&uuml;r Begriffsexpansion (Kapitel 3.4 Stufe A)</li>
+  <li>Fact-Level + Source-Passage + Subject-Matter Embeddings statt Dokument-Chunking (Kapitel 3.4 Stufe B)</li>
+  <li>Entity-Feature-Vektoren f&uuml;r &Auml;hnlichkeitssuche zwischen Netzbetreibern (Kapitel 3.5)</li>
 </ul>
 
 <!-- F6 -->
@@ -833,7 +1005,15 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   <tr><td><strong>Aggregation</strong></td><td>&bdquo;Berechne statistische Kennzahlen&ldquo;</td><td>&bdquo;Median-Effizienzwert 4.RP Strom&ldquo;</td></tr>
   <tr><td><strong>Vergleich</strong></td><td>&bdquo;Vergleiche zwei Unternehmen&ldquo;</td><td>&bdquo;EOG Elmshorn vs. Karlsruhe 2024&ndash;2028&ldquo;</td></tr>
   <tr><td><strong>Trend</strong></td><td>&bdquo;Wie hat sich etwas &uuml;ber die Zeit entwickelt?&ldquo;</td><td>&bdquo;Entwicklung des dnb-Anteils von 3.RP zu 4.RP&ldquo;</td></tr>
+  <tr><td><strong>&Auml;hnlichkeit</strong></td><td>&bdquo;Welche Unternehmen sind vergleichbar?&ldquo;</td><td>&bdquo;Die 10 Netzbetreiber mit &auml;hnlichster Kostenstruktur wie Elmshorn&ldquo;</td></tr>
+  <tr><td><strong>Muster</strong></td><td>&bdquo;Wer zeigt dasselbe Verhalten?&ldquo;</td><td>&bdquo;Netzbetreiber mit &auml;hnlicher Effizienzwert-Entwicklung 3.RP&rarr;4.RP&ldquo;</td></tr>
 </table>
+
+<p>
+  Vor der eigentlichen Abfrageverarbeitung durchl&auml;uft jede Nutzerfrage die
+  <strong>Begriffsmapping-Schicht</strong> (Kapitel 3.4): Thesaurus-Expansion, ggf. Embedding-Suche
+  und Intent-basiertes Routing zum optimalen Abfragemechanismus.
+</p>
 
 <!-- F7 -->
 <h3>F7: Persistente Query-Templates</h3>
@@ -1010,19 +1190,80 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   </tr>
 </table>
 
-<h4>Informationsraum-Hierarchie</h4>
+<h4>Informationsraum als Dimensions-Tupel</h4>
+
+<p>
+  Ein Informationsraum ist kein fester Typ (Entity-IR, Subject-IR etc.), sondern ein
+  <strong>beliebiges Tupel aus Dimensions-Filtern</strong>. Jede Dimension ist ein Objekttyp
+  im System &mdash; und das System ist so gebaut, dass neue Dimensionstypen jederzeit
+  hinzugef&uuml;gt werden k&ouml;nnen, ohne bestehenden Code zu &auml;ndern.
+</p>
+
 <table>
-  <tr><th>Ebene</th><th>Was sie umfasst</th><th>Beispiel</th></tr>
-  <tr><td><strong>Gesamt-IR</strong></td><td>Alle Dokumente und Fakten im System</td><td>Alle 95+ Dokumente zu Strom und Gas</td></tr>
-  <tr><td><strong>Entity-IR</strong></td><td>Alles was wir &uuml;ber ein Unternehmen wissen</td><td>Alle Beschl&uuml;sse + Gesch&auml;ftsbericht der SW Elmshorn</td></tr>
-  <tr><td><strong>Subject-IR</strong></td><td>Alles was wir &uuml;ber ein Thema wissen</td><td>Alle Pachtk&uuml;rzungen &uuml;ber alle Netzbetreiber</td></tr>
-  <tr><td><strong>Mix-IR</strong></td><td>Schnittmenge: ein Thema bei einem Unternehmen</td><td>Pachtk&uuml;rzungen bei Stadtwerke Elmshorn</td></tr>
+  <tr><th>Dimensionstyp</th><th>Herkunft</th><th>Beispiel-Instanzen</th><th>Hierarchisch?</th></tr>
+  <tr><td><strong>legal_entity</strong></td><td>Extraktion</td><td>SW Elmshorn, Albwerk, EnBW Netz</td><td>Ja (Konzern &rarr; Tochter)</td></tr>
+  <tr><td><strong>proceeding</strong></td><td>Extraktion</td><td>BK8-21-10463, BK9-22-00123</td><td>Nein</td></tr>
+  <tr><td><strong>regulatory_period</strong></td><td>Verzeichnis</td><td>3.RP Strom, 4.RP Gas</td><td>Nein</td></tr>
+  <tr><td><strong>calendar_year</strong></td><td>Verzeichnis + Extraktion</td><td>2019, 2020, ..., 2028</td><td>Nein (ordinal)</td></tr>
+  <tr><td><strong>sector</strong></td><td>Verzeichnis</td><td>Strom, Gas</td><td>Nein</td></tr>
+  <tr><td><strong>document_type</strong></td><td>Verzeichnis</td><td>EOG, KKauf, Gesch&auml;ftsbericht</td><td>Nein</td></tr>
+  <tr><td><strong>decision_chamber</strong></td><td>Anreicherung</td><td>BK4, BK8, BK9</td><td>Nein</td></tr>
+  <tr><td><strong>region</strong></td><td>Anreicherung</td><td>NRW, Bayern, Schleswig-Holstein</td><td>Ja (Bund &rarr; Land &rarr; Gebiet)</td></tr>
+  <tr><td><strong>network_level</strong></td><td>Anreicherung</td><td>HS, HS/MS, MS, MS/NS, NS</td><td>Ja</td></tr>
+  <tr><td><strong>cost_category</strong></td><td>Extraktion</td><td>dnb, beeinflussbar, KKauf</td><td>Ja (Ober &rarr; Unter)</td></tr>
+  <tr><td><strong>subject_matter</strong></td><td>Extraktion + Manuell</td><td>Pachtk&uuml;rzungen, Effizienzvergleich</td><td>Nein</td></tr>
+  <tr><td><strong>konzern</strong></td><td>Anreicherung</td><td>EnBW-Gruppe, E.ON-Gruppe</td><td>Ja (Holding &rarr; Tochter)</td></tr>
+  <tr><td colspan="4"><em>... erweiterbar per YAML-Definition, ohne Code-&Auml;nderung</em></td></tr>
 </table>
 
+<p>
+  Ein Informationsraum entsteht durch Kombination beliebiger Dimensionen als Filter:
+</p>
+
+<table>
+  <tr><th>Dimensions-Tupel</th><th>Bedeutung</th><th>Alter Name</th></tr>
+  <tr><td><code>()</code></td><td>Alle Fakten im System</td><td>Gesamt-IR</td></tr>
+  <tr><td><code>(legal_entity=&ldquo;SW Elmshorn&rdquo;)</code></td><td>Alles zu Elmshorn</td><td>Entity-IR</td></tr>
+  <tr><td><code>(subject_matter=&ldquo;Pacht&rdquo;)</code></td><td>Alle Pachtk&uuml;rzungen</td><td>Subject-IR</td></tr>
+  <tr><td><code>(legal_entity=&ldquo;Elmshorn&rdquo;, subject=&ldquo;Pacht&rdquo;)</code></td><td>Pacht bei Elmshorn</td><td>Mix-IR</td></tr>
+  <tr><td><code>(region=&ldquo;NRW&rdquo;, period=&ldquo;4.RP&rdquo;, sector=&ldquo;Strom&rdquo;)</code></td><td>Alle Strom-Fakten NRW 4.RP</td><td><em>neu</em></td></tr>
+  <tr><td><code>(konzern=&ldquo;EnBW&rdquo;, cost_category=&ldquo;dnb&rdquo;)</code></td><td>dnb-Kosten im EnBW-Konzern</td><td><em>neu</em></td></tr>
+  <tr><td><code>(proceeding=&ldquo;BK8-21-10463&rdquo;)</code></td><td>Alles zu diesem Verfahren</td><td><em>neu</em></td></tr>
+</table>
+
+<h4>Zwei Phasen der Dimensionierung</h4>
+<p>
+  Die Dimensionierung eines Fakts geschieht in zwei Phasen:
+</p>
+
+<table>
+  <tr><th>Phase</th><th>Wann</th><th>Welche Dimensionen</th><th>Methode</th></tr>
+  <tr>
+    <td><strong>1. Verzeichnis-Ebene</strong></td>
+    <td>Vor der Extraktion (aus <code>_definition.json</code>)</td>
+    <td>sector, regulatory_period, document_type, calendar_year</td>
+    <td>Deterministisch, Confidence&nbsp;1.0</td>
+  </tr>
+  <tr>
+    <td><strong>2. Graph-Ebene (live)</strong></td>
+    <td>Nach der Extraktion, wenn der Fakt im Graph ist</td>
+    <td>legal_entity, proceeding, cost_category, subject_matter, decision_chamber, region, network_level, konzern, ...</td>
+    <td>Extraktion (LLM), Anreicherung (Lookup), Manuell (Experte)</td>
+  </tr>
+</table>
+
+<p>
+  Erst wenn Daten <strong>live</strong> im Knowledge Graph sind, kann das System die volle
+  Dimensionierung vornehmen. Die Verzeichnis-Struktur liefert die initialen Dimensionen;
+  die <strong>Dimension-Attribution-Pipeline</strong> f&uuml;gt nach der Extraktion automatisch
+  weitere Dimensionen hinzu.
+</p>
+
 <div class="success">
-  Jede Systemantwort enth&auml;lt automatisch die epistemische Bewertung: <br>
-  <em>&bdquo;Basierend auf 19 Dokumenten von 12 Netzbetreibern. Vollst&auml;ndigkeit: 10,5%.
-  Konsistenz: 97% (1 Widerspruch erkannt). Quellen&shy;zuverl&auml;ssigkeit: 92% (prim&auml;r BNetzA-Beschl&uuml;sse).
+  Jede Systemantwort enth&auml;lt automatisch die epistemische Bewertung des abgefragten Informationsraums: <br>
+  <em>&bdquo;Informationsraum: (region=NRW, period=4.RP, sector=Strom). Basierend auf 42 Dokumenten
+  von 28 Netzbetreibern. Vollst&auml;ndigkeit: 35% (28 von ~80 NB in NRW).
+  Konsistenz: 97% (1 Widerspruch erkannt). Quellen&shy;zuverl&auml;ssigkeit: 92%.
   Konfidenz der Aussage: 74%.&ldquo;</em>
 </div>
 
@@ -1338,13 +1579,15 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
 <div class="flow-arrow">&darr;</div>
 <div class="flow-step"><div class="flow-num">7</div><div><strong>Query-Template-Update (F7)</strong><br>Alle Query-Instanzen, die von den neuen Daten betroffen sind, werden im Backoffice neu ausgewertet. Neuer Snapshot wird erstellt, Delta zum vorherigen Snapshot berechnet. Bei signifikanten Deltas: Nutzer wird benachrichtigt.</div></div>
 <div class="flow-arrow">&darr;</div>
-<div class="flow-step"><div class="flow-num">8</div><div><strong>Epistemische Neubewertung (F11)</strong><br>Die Wissensraum-Metriken (Vollst&auml;ndigkeit, Konsistenz, Verl&auml;sslichkeit) werden f&uuml;r alle betroffenen Informationsr&auml;ume (Entity-IR, Subject-IR, Mix-IR) aktualisiert.</div></div>
+<div class="flow-step"><div class="flow-num">7b</div><div><strong>Dimension-Attribution-Pipeline</strong><br>Jedem extrahierten Fakt werden automatisch Dimensionen zugewiesen: (1) Directory-Attributor: sector, period, doc_type aus _definition.json. (2) Extraction-Attributor: legal_entity, proceeding, cost_category aus LLM-Ergebnis. (3) Enrichment-Attributor: decision_chamber, region, network_level aus abgeleiteten Daten. Erst nach dieser Attribution ist der Fakt vollst&auml;ndig dimensioniert und im multilateralen Wissensraum auffindbar.</div></div>
+
+<div class="flow-step"><div class="flow-num">8</div><div><strong>Epistemische Neubewertung (F11)</strong><br>Die Wissensraum-Metriken (Vollst&auml;ndigkeit, Konsistenz, Verl&auml;sslichkeit) werden f&uuml;r alle betroffenen Informationsr&auml;ume aktualisiert &mdash; berechnet als epistemische Bewertung des jeweiligen Dimensions-Tupels.</div></div>
 
 <hr style="margin:30px 0;border:none;border-top:1px dashed #ccc;">
 <p style="text-align:center;color:#666;font-style:italic;">Die Schritte 1&ndash;8 laufen im <strong>Backoffice</strong> (beim Daten-Import). Ab hier beginnt die <strong>Runtime</strong>:</p>
 <hr style="margin:30px 0;border:none;border-top:1px dashed #ccc;">
 
-<div class="flow-step"><div class="flow-num">9</div><div><strong>User-Abfrage (F6)</strong><br>Der Nutzer stellt eine Frage. Die Query Engine interpretiert die Frage, f&uuml;hrt eine strukturierte Graph-Abfrage aus (auf den vorberechneten Daten) und liefert das Ergebnis. Bei Bedarf: Semantic Search als Fallback, LLM-Reasoning f&uuml;r Synthese.</div></div>
+<div class="flow-step"><div class="flow-num">9</div><div><strong>User-Abfrage (F6)</strong><br>Der Nutzer stellt eine Frage. Die Begriffsmapping-Schicht (Kapitel 3.4) &uuml;bersetzt die Nutzersprache: Thesaurus-Expansion (Synonyme, Oberbegriffe, Abk&uuml;rzungen), Intent-Erkennung (strukturiert/explorativ/vergleichend/analytisch) und Query-Routing. Dann: strukturierte Graph-Abfrage auf vorberechneten Daten. Bei Bedarf: Embedding-Suche als Fallback, LLM-Reasoning f&uuml;r Synthese. Bei &Auml;hnlichkeitsfragen: Feature-Vektor-Suche (Kapitel 3.5).</div></div>
 <div class="flow-arrow">&darr;</div>
 <div class="flow-step"><div class="flow-num">10</div><div><strong>Antwort mit epistemischer Bewertung</strong><br>Jede Antwort enth&auml;lt die Konfidenz, Datengrundlage und ggf. Warnungen (z.B. &bdquo;Aussage basiert auf nur 10% der Netzbetreiber&ldquo; oder &bdquo;2 Inkonsistenzen in den zugrunde liegenden Daten erkannt&ldquo;).</div></div>
 
@@ -1375,9 +1618,11 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   <tr><td>F4+</td><td>Extraktionsschemas f&uuml;r Gesch&auml;ftsberichte, &sect;23b, &sect;23c + offene Extraktion</td></tr>
   <tr><td>F2</td><td>Subject Matter Management</td></tr>
   <tr><td>F5+</td><td>Ontologie-Erweiterung: Subject Matter als Dimension</td></tr>
-  <tr><td>F6+</td><td>Semantische Suche als Fallback</td></tr>
+  <tr><td>F6+</td><td>Semantische Suche als Fallback (Fact-Level + Source-Passage Embeddings)</td></tr>
+  <tr><td>F5+</td><td>Regulatorischer Thesaurus: Aufbau aus _definition.json + Subject-Matter-Keywords</td></tr>
+  <tr><td>F6+</td><td>Query-Routing: Intent-Erkennung und Begriffsmapping-Schicht (Kapitel 3.4)</td></tr>
 </table>
-<div class="success"><strong>Ergebnis Phase 2:</strong> Alle Dokumenttypen werden verarbeitet. Thematische Abfragen &uuml;ber alle Unternehmen m&ouml;glich. Die offene Extraktion liefert Vorschl&auml;ge f&uuml;r neue Ontologie-Eintr&auml;ge.</div>
+<div class="success"><strong>Ergebnis Phase 2:</strong> Alle Dokumenttypen werden verarbeitet. Thematische Abfragen &uuml;ber alle Unternehmen m&ouml;glich. Nutzer k&ouml;nnen in ihrer eigenen Sprache fragen &mdash; der Thesaurus und Embeddings &uuml;bersetzen in die Ontologie. Die offene Extraktion liefert Vorschl&auml;ge f&uuml;r neue Ontologie-Eintr&auml;ge.</div>
 
 <h3>Phase 3: Tiefe</h3>
 <p>Ziel: Das System erkennt Widerspr&uuml;che, bewertet Wissensqualit&auml;t und trackt Ver&auml;nderungen &uuml;ber die Zeit.</p>
@@ -1386,6 +1631,7 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   <tr><td>F7</td><td>Persistente Query-Templates mit Snapshots und Delta-Berechnung</td></tr>
   <tr><td>F9</td><td>Vollst&auml;ndige Inkonsistenz-Detektion mit Regelmatrix</td></tr>
   <tr><td>F11</td><td>Epistemische Bewertung auf allen Informationsraum-Ebenen</td></tr>
+  <tr><td>F6+</td><td>Entity-&Auml;hnlichkeitssuche: Feature-Vektoren, Nearest-Neighbour, Clustering, Ausrei&szlig;er-Erkennung (Kapitel 3.5)</td></tr>
 </table>
 <div class="success"><strong>Ergebnis Phase 3:</strong> Das System ist nicht nur eine Datenbank, sondern ein aktiver Qualit&auml;tssicherer: Es findet Widerspr&uuml;che, bewertet die Belastbarkeit seiner Aussagen und zeigt Ver&auml;nderungen automatisch an.</div>
 
@@ -1409,7 +1655,10 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
 <table>
   <tr><th>Komponente</th><th>Empfehlung</th><th>Begr&uuml;ndung</th></tr>
   <tr><td>Knowledge Graph</td><td>Neo4j Community oder Apache AGE (PostgreSQL-Extension)</td><td>Graph-native Abfragen mit Cypher. AGE hat den Vorteil, dass alles in einer PostgreSQL-Datenbank bleibt.</td></tr>
-  <tr><td>Vektor-Datenbank</td><td>pgvector (bei AGE) oder Qdrant (dediziert)</td><td>F&uuml;r den Semantic Search Fallback. pgvector passt gut wenn AGE schon auf PostgreSQL l&auml;uft.</td></tr>
+  <tr><td>Vektor-Datenbank</td><td>pgvector (bei AGE) oder Qdrant (dediziert)</td><td>F&uuml;r Fact-Level, Source-Passage und Subject-Matter Embeddings. pgvector passt gut wenn AGE schon auf PostgreSQL l&auml;uft.</td></tr>
+  <tr><td>Thesaurus / Begriffsexpansion</td><td>JSON/YAML-Dateien + Lookup-Service</td><td>Kuratiertes Synonymw&ouml;rterbuch f&uuml;r regulatorische Fachsprache. Aufbau aus _definition.json + Subject-Matter-Keywords, manuelle Pflege im Betrieb.</td></tr>
+  <tr><td>Embedding-Modell</td><td>multilingual-e5-large oder BGE-M3 (Multilingual)</td><td>Deutschsprachige Regulierungstexte. Ggf. sp&auml;ter Domain-Finetuning auf extrahierten Fakten.</td></tr>
+  <tr><td>Query-Routing</td><td>Regelbasiert + leichtgewichtiger Classifier</td><td>Intent-Erkennung f&uuml;r optimale Abfragemechanismus-Wahl. Pattern-Matching als Basis, ggf. trainierter Classifier bei wachsender Nutzung.</td></tr>
   <tr><td>LLM f&uuml;r Extraktion</td><td>Claude oder GPT-4 via API</td><td>Gro&szlig;es Context-Window f&uuml;r Document-Level-Extraktion. Structured Output f&uuml;r JSON-Antworten.</td></tr>
   <tr><td>LLM f&uuml;r Reasoning</td><td>Claude oder GPT-4 via API</td><td>F&uuml;r Synthese, Hypothesen-Generierung und Query Understanding.</td></tr>
   <tr><td>Backend</td><td>Python (FastAPI)</td><td>Bestes &Ouml;kosystem f&uuml;r ML/LLM-Integration, async-f&auml;hig, gro&szlig;e Community.</td></tr>
@@ -1430,7 +1679,10 @@ abgreifen k&ouml;nnen, insbesondere die <strong>Beschlussdatenbank der BNetzA</s
   <tr><td>3</td><td>Ontologie-Format?</td><td>JSON-Schema (einfach) vs. OWL/RDF (m&auml;chtig) vs. PropertyGraph-Schema (graph-nativ)</td></tr>
   <tr><td>4</td><td>UI/UX?</td><td>Web-App vs. CLI-first vs. Jupyter-Notebook-first &mdash; abh&auml;ngig von der Zielgruppe</td></tr>
   <tr><td>5</td><td>Multi-Tenancy?</td><td>Single-Tenant (ein Unternehmen) vs. Multi-Tenant (SaaS f&uuml;r mehrere Kunden)</td></tr>
-  <tr><td>6</td><td>Embedding-Modell?</td><td>Standard (multilingual-e5) vs. Domain-specific Finetuning f&uuml;r deutschen Regulierungskontext</td></tr>
+  <tr><td>6</td><td>Embedding-Modell?</td><td>multilingual-e5-large (bew&auml;hrt) vs. BGE-M3 (neueres Multilingual) vs. sp&auml;teres Domain-Finetuning auf extrahierten Regulierungstexten</td></tr>
+  <tr><td>7</td><td>Thesaurus-Pflege?</td><td>Rein manuell (kuratiert, h&ouml;chste Qualit&auml;t) vs. semi-automatisch (LLM schl&auml;gt Synonyme vor, Experte best&auml;tigt) vs. automatisch mit Review-Queue</td></tr>
+  <tr><td>8</td><td>&Auml;hnlichkeitsmetrik f&uuml;r Entity-Feature-Vektoren?</td><td>Cosine Similarity (standardm&auml;&szlig;ig) vs. gewichtete euklidische Distanz (dom&auml;nenspezifisch, z.B. Effizienzwert wichtiger als Sektor)</td></tr>
+  <tr><td>9</td><td>Hybrid Retrieval Strategie?</td><td>Sequential (Graph zuerst, Embedding nur bei Leerergebnis) vs. Parallel (immer beide, Ergebnisse fusionieren) vs. Intent-gesteuert (Routing entscheidet)</td></tr>
 </table>
 
 <!-- ============================================================ -->
