@@ -284,11 +284,60 @@ def admin_extract(
     from ngdai.extraction.service import extract_document, extract_all_pending
 
     if document_id:
-        result = extract_document(document_id)
-        return {"status": "ok", "mode": "single", **result}
+        try:
+            result = extract_document(document_id)
+            return {"status": "ok", "mode": "single", **result}
+        except Exception as e:
+            return {"status": "error", "error": str(e)}
     else:
         result = extract_all_pending()
         return {"status": "ok", "mode": "all_pending", **result}
+
+
+@app.post("/api/v1/admin/extract-test")
+def admin_extract_test():
+    """Testet die Extraktion mit einem einzelnen Dokument und gibt Details zurueck."""
+    from ngdai.db.engine import get_session
+    from ngdai.db.models import DocumentModel
+    from ngdai.core.config import get_settings
+    from sqlalchemy import select
+
+    session = get_session()
+    try:
+        doc = session.execute(
+            select(DocumentModel).where(
+                DocumentModel.ingestion_status == "ingested",
+                DocumentModel.document_type.in_(["eog", "geschaeftsbericht"]),
+            ).limit(1)
+        ).scalar_one_or_none()
+
+        if not doc:
+            return {"error": "Keine pending Dokumente gefunden"}
+
+        settings = get_settings()
+        api_key = settings.get_llm_api_key()
+
+        info = {
+            "doc_id": doc.id,
+            "doc_type": doc.document_type,
+            "filename": doc.original_filename,
+            "char_count": doc.char_count,
+            "api_key_set": bool(api_key),
+            "api_key_prefix": api_key[:20] + "..." if api_key else "MISSING",
+            "model": settings.llm.extraction_model,
+        }
+
+        # Versuche Extraktion
+        try:
+            from ngdai.extraction.service import extract_document
+            result = extract_document(doc.id)
+            info["extraction"] = {"status": "ok", **result}
+        except Exception as e:
+            info["extraction"] = {"status": "error", "error": str(e)}
+
+        return info
+    finally:
+        session.close()
 
 
 @app.post("/api/v1/admin/seed")

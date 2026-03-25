@@ -86,8 +86,8 @@ class Settings(BaseSettings):
     anthropic_api_key: str = ""
 
     def get_llm_api_key(self) -> str:
-        """Liefert den API Key - aus llm.api_key oder anthropic_api_key."""
-        return self.llm.api_key or self.anthropic_api_key
+        """Liefert den API Key - aus llm.api_key, anthropic_api_key, oder ANTHROPIC_API_KEY env."""
+        return self.llm.api_key or self.anthropic_api_key or os.environ.get("ANTHROPIC_API_KEY", "")
 
     def get_port(self) -> int:
         """Port - Railway setzt PORT direkt, sonst NGDAI_PORT oder Default."""
