@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}ngdai - Dashboard{% endblock %}
+{% block content %}
+<h1>ngdai Dashboard</h1>
+<p>Wissensbasierte Analyseplattform fuer die deutsche Netzentgeltregulierung</p>
+
+<div class="grid">
+    <article class="stat-card">
+        <h3 id="entity-count">-</h3>
+        <small>Netzbetreiber</small>
+    </article>
+    <article class="stat-card">
+        <h3 id="document-count">-</h3>
+        <small>Dokumente</small>
+    </article>
+    <article class="stat-card">
+        <h3 id="fact-count">-</h3>
+        <small>Extrahierte Fakten</small>
+    </article>
+    <article class="stat-card">
+        <h3 id="dimension-count">-</h3>
+        <small>Dimensionstypen</small>
+    </article>
+</div>
+
+<h2>Schnellabfrage</h2>
+<form action="/query" method="get">
+    <div class="grid">
+        <input type="text" name="q" placeholder="z.B. Effizienzwert Stadtwerke Elmshorn" autofocus>
+        <button type="submit">Abfragen</button>
+    </div>
+</form>
+
+<h2>System-Status</h2>
+<p><mark>Phase 1 - MVP</mark> &mdash; Strukturierte Abfragen auf EOG-Beschluessen und Geschaeftsberichten.</p>
+{% endblock %}

@@ -1,0 +1,174 @@
+# Fakt-Definitionen fuer ngdai
+# Beschreibt alle bekannten Datenpunkt-Typen im System.
+
+# ── Periodenfix (einmal pro 5-Jahres-Periode) ──────────────
+
+- id: effizienzwert
+  name: Effizienzwert
+  description: Ergebnis des Effizienzvergleichs (Benchmarking)
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "%"
+  legal_basis: "§12 ARegV"
+  validation_rules:
+    min: 60.0
+    max: 100.0
+
+- id: basisjahr
+  name: Basisjahr
+  description: Kostenbasis-Jahr fuer die Regulierungsperiode
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "Jahr"
+
+- id: ek_zinssatz_alt
+  name: EK-Zinssatz Altanlagen
+  description: Eigenkapitalverzinsung fuer vor 2006 aktivierte Anlagen
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "%"
+  legal_basis: "BK4"
+  validation_rules:
+    min: 0.0
+    max: 15.0
+
+- id: ek_zinssatz_neu
+  name: EK-Zinssatz Neuanlagen
+  description: Eigenkapitalverzinsung fuer nach 2006 aktivierte Anlagen
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "%"
+  legal_basis: "BK4"
+  validation_rules:
+    min: 0.0
+    max: 15.0
+
+- id: xgen
+  name: Xgen (Produktivitaetsfaktor)
+  description: Genereller sektoraler Produktivitaetsfaktor
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "%/Jahr"
+  legal_basis: "§9 ARegV"
+
+- id: ausgangsniveau
+  name: Ausgangsniveau
+  description: Gesamtkosten im Basisjahr nach Kostenpruefung
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: verfahrensart
+  name: Verfahrensart
+  description: Regel- oder vereinfachtes Verfahren
+  temporal_behavior: period_fixed
+  applicable_sectors: [strom, gas]
+  value_type: categorical
+  validation_rules:
+    allowed: [Regelverfahren, "Vereinfachtes Verfahren"]
+
+# ── Jaehrlich variabel ──────────────────────────────────────
+
+- id: eog_jahr
+  name: Erloesobergrenze (EOG)
+  description: Jaehrliche Erloesobergrenze
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: dnb_kosten
+  name: Dauerhaft nicht beeinflussbare Kosten (dnb)
+  description: Jaehrlich variable, nicht beeinflussbare Kostenanteile
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: beeinflussbare_kosten
+  name: Beeinflussbare Kostenanteile
+  description: Anteil der beeinflussbaren Kosten
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: erweiterungsfaktor
+  name: Erweiterungsfaktor
+  description: Faktor fuer Netzerweiterungen
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: ""
+
+- id: regulierungskonto_saldo
+  name: Regulierungskonto-Saldo
+  description: Saldo des Regulierungskontos
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: vpi_anpassung
+  name: VPI-Anpassung
+  description: Verbraucherpreisindex-Anpassung
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "%"
+
+# ── Geschaeftsbericht-Datenpunkte ───────────────────────────
+
+- id: gb_umsatz
+  name: Umsatzerloese
+  description: Gesamtumsatz laut Geschaeftsbericht
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: gb_ebit
+  name: EBIT
+  description: Ergebnis vor Zinsen und Steuern
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: gb_mitarbeiter
+  name: Mitarbeiteranzahl
+  description: Anzahl Mitarbeiter / Vollzeitaequivalente
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: ""
+
+- id: gb_investitionen
+  name: Investitionen
+  description: Investitionsvolumen laut Geschaeftsbericht
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "EUR"
+
+- id: gb_netzlaenge
+  name: Netzlaenge
+  description: Gesamtlaenge des Versorgungsnetzes
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: "km"
+
+- id: gb_anschlusspunkte
+  name: Anschlusspunkte
+  description: Anzahl Netzanschlusspunkte
+  temporal_behavior: annually_variable
+  applicable_sectors: [strom, gas]
+  value_type: numeric
+  unit: ""

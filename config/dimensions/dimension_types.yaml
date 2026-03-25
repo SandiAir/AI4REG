@@ -1,0 +1,91 @@
+# Dimensionstypen fuer ngdai
+# Neue Dimensionen hier hinzufuegen - kein Code-Change noetig.
+
+- id: legal_entity
+  name: Netzbetreiber
+  description: Unternehmen / Marktakteur in der Netzentgeltregulierung
+  attribution_sources: [extraction, manual]
+  hierarchical: true  # Konzern -> Tochter
+  attributes_schema:
+    mastr_nr: {type: string}
+    bnr: {type: string}
+    sector: {type: string}
+    state: {type: string}
+
+- id: proceeding
+  name: Verfahren
+  description: Regulierungsverfahren (Aktenzeichen)
+  attribution_sources: [extraction]
+  hierarchical: false
+  attributes_schema:
+    aktenzeichen: {type: string}
+    decision_date: {type: string}
+
+- id: regulatory_period
+  name: Regulierungsperiode
+  description: 5-Jahres-Regulierungszeitraum
+  attribution_sources: [directory]
+  hierarchical: false
+  attributes_schema:
+    sector: {type: string}
+    start_year: {type: integer}
+    end_year: {type: integer}
+
+- id: calendar_year
+  name: Kalenderjahr
+  description: Einzelnes Kalenderjahr
+  attribution_sources: [directory, extraction]
+  ordinal: true
+  attributes_schema:
+    year: {type: integer}
+
+- id: sector
+  name: Sektor
+  description: Energiesektor (Strom oder Gas)
+  attribution_sources: [directory]
+  hierarchical: false
+
+- id: document_type
+  name: Dokumenttyp
+  description: Art des Quelldokuments
+  attribution_sources: [directory]
+  hierarchical: false
+
+- id: decision_chamber
+  name: Beschlusskammer
+  description: BNetzA-Beschlusskammer
+  attribution_sources: [enrichment]
+  hierarchical: false
+  attributes_schema:
+    chamber_number: {type: string}
+    responsibility: {type: string}
+
+- id: region
+  name: Region
+  description: Geographische Zuordnung (Bundesland)
+  attribution_sources: [enrichment]
+  hierarchical: true  # Bund -> Land -> Gebiet
+
+- id: network_level
+  name: Netzebene
+  description: Spannungs-/Druckebene des Netzes
+  attribution_sources: [enrichment]
+  hierarchical: true
+
+- id: cost_category
+  name: Kostenart
+  description: Regulatorische Kostenkategorie
+  attribution_sources: [extraction]
+  hierarchical: true  # Oberkategorie -> Unterkategorie
+
+- id: subject_matter
+  name: Fachthema
+  description: Inhaltliches Thema quer ueber Unternehmen
+  attribution_sources: [extraction, manual]
+  hierarchical: false
+
+- id: konzern
+  name: Konzern
+  description: Uebergeordnete Unternehmensgruppe
+  attribution_sources: [enrichment]
+  hierarchical: true  # Holding -> Tochter

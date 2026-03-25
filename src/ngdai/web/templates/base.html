@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}ngdai{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    <style>
+        :root { --pico-font-size: 15px; }
+        nav { background: #003366; padding: 0.5rem 1rem; }
+        nav a { color: #fff !important; text-decoration: none; margin-right: 1.5rem; font-weight: 600; }
+        nav a:hover { color: #90caf9 !important; }
+        .brand { font-size: 1.3rem; letter-spacing: 2px; }
+        main { padding: 1rem 2rem; }
+        .stat-card { text-align: center; padding: 1rem; }
+        .stat-card h3 { margin: 0; font-size: 2rem; color: #003366; }
+        .stat-card small { color: #666; }
+    </style>
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <nav>
+        <a href="/" class="brand">ngdai</a>
+        <a href="/entities">Netzbetreiber</a>
+        <a href="/documents">Dokumente</a>
+        <a href="/query">Abfrage</a>
+    </nav>
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

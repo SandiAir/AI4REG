@@ -1,0 +1,30 @@
+services:
+  postgres:
+    image: apache/age:latest
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: ngdai
+      POSTGRES_USER: ngdai
+      POSTGRES_PASSWORD: ngdai
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/init_extensions.sql:/docker-entrypoint-initdb.d/01-extensions.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ngdai"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata:
