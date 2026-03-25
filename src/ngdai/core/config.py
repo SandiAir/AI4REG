@@ -8,7 +8,23 @@ from pydantic import Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent.parent
+def _detect_project_root() -> Path:
+    """Erkennt das Projekt-Root: NGDAI_ROOT env, /app (Railway), oder relativ zu config.py."""
+    # Explizit gesetzt
+    env_root = os.environ.get("NGDAI_ROOT")
+    if env_root:
+        return Path(env_root)
+
+    # Railway: Dateien liegen unter /app
+    railway_root = Path("/app")
+    if railway_root.exists() and (railway_root / "pyproject.toml").exists():
+        return railway_root
+
+    # Lokal: relativ zu dieser Datei (src/ngdai/core/config.py -> 4 Ebenen hoch)
+    return Path(__file__).resolve().parent.parent.parent.parent
+
+
+PROJECT_ROOT = _detect_project_root()
 DATA_PATH = PROJECT_ROOT / "data"
 CONFIG_PATH = PROJECT_ROOT / "config"
 

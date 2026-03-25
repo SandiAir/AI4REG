@@ -313,11 +313,26 @@ def admin_seed():
     invalidate_name_cache()
 
     # 2. Dokumente ingesten
-    for dir_name in ["Geschäftsberichte/2024", "vierteregulierung/EOG", "dritteregulierung/EOG"]:
-        dir_path = PROJECT_ROOT / dir_name
+    ingest_dirs = {
+        "vierteregulierung/EOG": PROJECT_ROOT / "vierteregulierung" / "EOG",
+        "dritteregulierung/EOG": PROJECT_ROOT / "dritteregulierung" / "EOG",
+    }
+
+    # Geschäftsberichte: flexible Pfad-Erkennung
+    gb_path = PROJECT_ROOT / "Geschäftsberichte" / "2024"
+    if not gb_path.exists():
+        for p in PROJECT_ROOT.iterdir():
+            if p.is_dir() and p.name.startswith("Gesch"):
+                gb_sub = p / "2024"
+                if gb_sub.exists():
+                    gb_path = gb_sub
+                    break
+    ingest_dirs["geschaeftsberichte_2024"] = gb_path
+
+    for label, dir_path in ingest_dirs.items():
         if dir_path.exists():
             result = ingest_path(str(dir_path))
-            results[f"ingest_{dir_name}"] = result
+            results[f"ingest_{label}"] = result
 
     return {"status": "ok", "results": results}
 
@@ -329,19 +344,40 @@ def admin_list_files():
 
     dirs_to_check = [
         "marktakteure",
-        "Geschäftsberichte/2024",
         "vierteregulierung/EOG",
         "dritteregulierung/EOG",
     ]
 
-    result = {}
+    # Geschäftsberichte: versuche beide Schreibweisen
+    gb_path = PROJECT_ROOT / "Geschäftsberichte" / "2024"
+    if not gb_path.exists():
+        # Fallback: suche Verzeichnis das mit "Gesch" beginnt
+        for p in PROJECT_ROOT.iterdir():
+            if p.is_dir() and p.name.startswith("Gesch"):
+                gb_sub = p / "2024"
+                if gb_sub.exists():
+                    gb_path = gb_sub
+                    break
+
+    result = {"project_root": str(PROJECT_ROOT)}
+
     for d in dirs_to_check:
         dir_path = PROJECT_ROOT / d
         if dir_path.exists():
-            files = [f.name for f in dir_path.iterdir() if f.is_file()]
+            files = sorted([f.name for f in dir_path.iterdir() if f.is_file()])
             result[d] = {"count": len(files), "files": files[:10], "path": str(dir_path)}
         else:
-            result[d] = {"count": 0, "exists": False}
+            result[d] = {"count": 0, "exists": False, "checked_path": str(dir_path)}
+
+    if gb_path.exists():
+        files = sorted([f.name for f in gb_path.iterdir() if f.is_file()])
+        result["geschaeftsberichte_2024"] = {"count": len(files), "files": files[:10], "path": str(gb_path)}
+    else:
+        result["geschaeftsberichte_2024"] = {"count": 0, "exists": False, "checked_path": str(gb_path)}
+
+    # Zeige auch Top-Level Verzeichnisse
+    top_dirs = sorted([p.name for p in PROJECT_ROOT.iterdir() if p.is_dir() and not p.name.startswith(".")])
+    result["top_level_dirs"] = top_dirs
 
     return result
 
