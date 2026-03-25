@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}ngdai - Admin{% endblock %}
+{% block content %}
+<h1>Admin Panel</h1>
+
+<section>
+    <h2>Komplett-Import (Seed)</h2>
+    <p>Importiert alle Marktakteure (Strom + Gas) und alle Dokumente (Geschaeftsberichte, 3. + 4. Regulierungsperiode).</p>
+    <button hx-post="/api/v1/admin/seed" hx-target="#seed-result" hx-indicator="#seed-spinner" hx-swap="innerHTML">
+        Alles importieren
+    </button>
+    <span id="seed-spinner" class="htmx-indicator">Importiere... (kann einige Minuten dauern)</span>
+    <pre id="seed-result" style="margin-top:1rem; max-height:400px; overflow:auto;"></pre>
+</section>
+
+<hr>
+
+<section>
+    <h2>Einzelne Aktionen</h2>
+
+    <h3>Marktakteure importieren</h3>
+    <div class="grid">
+        <button hx-post="/api/v1/admin/import-marktakteure?sector=strom" hx-target="#import-result" hx-swap="innerHTML">
+            Strom importieren
+        </button>
+        <button hx-post="/api/v1/admin/import-marktakteure?sector=gas" hx-target="#import-result" hx-swap="innerHTML">
+            Gas importieren
+        </button>
+    </div>
+    <pre id="import-result" style="margin-top:0.5rem;"></pre>
+
+    <h3>Dokumente ingesten</h3>
+    <div class="grid">
+        <button hx-post="/api/v1/admin/ingest?path=Gesch%C3%A4ftsberichte/2024" hx-target="#ingest-result" hx-swap="innerHTML">
+            Geschaeftsberichte 2024
+        </button>
+        <button hx-post="/api/v1/admin/ingest?path=vierteregulierung/EOG" hx-target="#ingest-result" hx-swap="innerHTML">
+            4. RP EOG-Beschluesse
+        </button>
+        <button hx-post="/api/v1/admin/ingest?path=dritteregulierung/EOG" hx-target="#ingest-result" hx-swap="innerHTML">
+            3. RP EOG-Beschluesse
+        </button>
+    </div>
+    <pre id="ingest-result" style="margin-top:0.5rem;"></pre>
+
+    <h3>Fakten extrahieren (LLM)</h3>
+    <button hx-post="/api/v1/admin/extract" hx-target="#extract-result" hx-swap="innerHTML" hx-indicator="#extract-spinner">
+        Alle pending extrahieren
+    </button>
+    <span id="extract-spinner" class="htmx-indicator">Extrahiere... (dauert je nach Dokumentenmenge)</span>
+    <pre id="extract-result" style="margin-top:0.5rem;"></pre>
+</section>
+
+<hr>
+
+<section>
+    <h2>Verfuegbare Dateien</h2>
+    <pre hx-get="/api/v1/admin/files" hx-trigger="load" hx-swap="innerHTML">Lade...</pre>
+</section>
+{% endblock %}

@@ -231,6 +231,121 @@ def query_execute(q: str = Query(..., description="Frage")):
         return f'<article><p style="color:red">Fehler: {e}</p></article>'
 
 
+# ── Admin API ─────────────────────────────────────────────
+
+@app.get("/admin")
+def admin_page(request: Request):
+    return templates.TemplateResponse(request, "admin.html")
+
+
+@app.post("/api/v1/admin/import-marktakteure")
+def admin_import_marktakteure(
+    sector: str = Query(..., description="strom oder gas"),
+):
+    """Marktakteure aus den mitgelieferten CSV-Dateien importieren."""
+    from ngdai.core.config import PROJECT_ROOT
+    from ngdai.entities.service import import_marktakteure_csv, invalidate_name_cache
+
+    csv_map = {
+        "strom": PROJECT_ROOT / "marktakteure" / "2026-03-23_OeffentlicheMarktakteure_Strom.csv",
+        "gas": PROJECT_ROOT / "marktakteure" / "2026-03-23_OeffentlicheMarktakteur_Gas.csv",
+    }
+
+    csv_path = csv_map.get(sector)
+    if not csv_path or not csv_path.exists():
+        return {"error": f"CSV fuer Sektor '{sector}' nicht gefunden: {csv_path}"}
+
+    count = import_marktakteure_csv(str(csv_path), sector)
+    invalidate_name_cache()
+    return {"status": "ok", "sector": sector, "imported": count}
+
+
+@app.post("/api/v1/admin/ingest")
+def admin_ingest(
+    path: str = Query(..., description="Pfad relativ zum Projekt-Root"),
+):
+    """Dokumente aus einem Verzeichnis importieren."""
+    from ngdai.core.config import PROJECT_ROOT
+    from ngdai.ingestion.service import ingest_path
+
+    full_path = PROJECT_ROOT / path
+    if not full_path.exists():
+        return {"error": f"Pfad nicht gefunden: {full_path}"}
+
+    result = ingest_path(str(full_path))
+    return {"status": "ok", "path": path, **result}
+
+
+@app.post("/api/v1/admin/extract")
+def admin_extract(
+    document_id: str = Query("", description="Dokument-ID (leer = alle pending)"),
+):
+    """Fakten aus Dokumenten extrahieren."""
+    from ngdai.extraction.service import extract_document, extract_all_pending
+
+    if document_id:
+        result = extract_document(document_id)
+        return {"status": "ok", "mode": "single", **result}
+    else:
+        result = extract_all_pending()
+        return {"status": "ok", "mode": "all_pending", **result}
+
+
+@app.post("/api/v1/admin/seed")
+def admin_seed():
+    """Komplett-Import: Marktakteure + alle Dokumente ingesten."""
+    from ngdai.core.config import PROJECT_ROOT
+    from ngdai.entities.service import import_marktakteure_csv, invalidate_name_cache
+    from ngdai.ingestion.service import ingest_path
+
+    results = {}
+
+    # 1. Marktakteure importieren
+    for sector, filename in [
+        ("strom", "2026-03-23_OeffentlicheMarktakteure_Strom.csv"),
+        ("gas", "2026-03-23_OeffentlicheMarktakteur_Gas.csv"),
+    ]:
+        csv_path = PROJECT_ROOT / "marktakteure" / filename
+        if csv_path.exists():
+            count = import_marktakteure_csv(str(csv_path), sector)
+            results[f"marktakteure_{sector}"] = count
+
+    invalidate_name_cache()
+
+    # 2. Dokumente ingesten
+    for dir_name in ["Geschäftsberichte/2024", "vierteregulierung/EOG", "dritteregulierung/EOG"]:
+        dir_path = PROJECT_ROOT / dir_name
+        if dir_path.exists():
+            result = ingest_path(str(dir_path))
+            results[f"ingest_{dir_name}"] = result
+
+    return {"status": "ok", "results": results}
+
+
+@app.get("/api/v1/admin/files")
+def admin_list_files():
+    """Zeigt verfuegbare Daten-Verzeichnisse und Dateien."""
+    from ngdai.core.config import PROJECT_ROOT
+
+    dirs_to_check = [
+        "marktakteure",
+        "Geschäftsberichte/2024",
+        "vierteregulierung/EOG",
+        "dritteregulierung/EOG",
+    ]
+
+    result = {}
+    for d in dirs_to_check:
+        dir_path = PROJECT_ROOT / d
+        if dir_path.exists():
+            files = [f.name for f in dir_path.iterdir() if f.is_file()]
+            result[d] = {"count": len(files), "files": files[:10], "path": str(dir_path)}
+        else:
+            result[d] = {"count": 0, "exists": False}
+
+    return result
+
+
 def _markdown_to_html(text: str) -> str:
     """Minimale Markdown→HTML-Konvertierung fuer Query-Ergebnisse."""
     import re
