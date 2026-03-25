@@ -57,8 +57,9 @@ def import_marktakteure(
     sector: str = typer.Option(..., help="Sektor: strom oder gas"),
 ):
     """Marktakteure aus MaStR-CSV importieren."""
-    from ngdai.entities.service import import_marktakteure_csv
+    from ngdai.entities.service import import_marktakteure_csv, invalidate_name_cache
     count = import_marktakteure_csv(csv_path, sector)
+    invalidate_name_cache()
     console.print(f"[green]{count} Marktakteure ({sector}) importiert.[/green]")
 
 
